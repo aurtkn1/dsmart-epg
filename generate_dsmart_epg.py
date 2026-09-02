@@ -98,12 +98,6 @@ def parse_duration(value):
             "Boş duration"
         )
 
-    # D-Smart örnekleri:
-    #
-    # 2:00:00
-    # 1:45:00
-    # 17 days, 2:00:00
-    #
     if "," in text:
         text = text.split(
             ",",
@@ -133,43 +127,6 @@ def build_dsmart_start(
     start_date,
     day_start,
 ):
-    """
-    D-Smart config.js mantığının karşılığı.
-
-    JavaScript:
-
-      const baseDate = dayjs.utc(p.day)
-      const startDate = dayjs.utc(p.start_date)
-
-      if (!dayStart) {
-        dayStart = startDate
-        ofs = dayjs.duration(
-          dayjs.utc(
-            `${p.day.substr(0, 11)}${p.start_date.substr(11)}`
-          ).diff(baseDate)
-        ).asSeconds()
-      }
-
-      const delta = dayjs.duration(
-        startDate.diff(dayStart)
-      ).asSeconds()
-
-      const start = baseDate.add(
-        ofs + delta,
-        's'
-      )
-
-    Python karşılığı:
-    """
-
-    # JavaScript'in:
-    #
-    # p.day.substr(0, 11)
-    # +
-    # p.start_date.substr(11)
-    #
-    # davranışını aynen uyguluyoruz.
-
     day_text = clean_text(
         base_date.isoformat()
     )
@@ -177,18 +134,6 @@ def build_dsmart_start(
     start_text = clean_text(
         start_date.isoformat()
     )
-
-    # ISO'da örneğin:
-    #
-    # 2025-01-13T21:00:00+00:00
-    #
-    # ilk 11 karakter:
-    #
-    # 2025-01-13T
-    #
-    # start_date'in 11. karakterinden sonrası:
-    #
-    # 21:30:00+00:00
 
     combined_text = (
         day_text[:11]
@@ -199,13 +144,11 @@ def build_dsmart_start(
         combined_text
     )
 
-    # ofs = combined - baseDate
     ofs = (
         combined
         - base_date
     )
 
-    # delta = startDate - dayStart
     delta = (
         start_date
         - day_start
@@ -283,12 +226,10 @@ def parse_channel_schedule(channel):
                 p_duration
             )
 
-            # D-Smart config.js:
-            #
-            # İlk schedule kaydı referans alınır.
             if day_start is None:
                 day_start = start_date
 
+            # D-Smart'ın kendi config.js mantığı.
             start = build_dsmart_start(
                 base_date=base_date,
                 start_date=start_date,
@@ -298,6 +239,23 @@ def parse_channel_schedule(channel):
             stop = (
                 start
                 + duration
+            )
+
+            # ==================================================
+            # TARİH DÜZELTMESİ
+            #
+            # Saat DEĞİŞMİYOR.
+            # Timezone DEĞİŞMİYOR.
+            #
+            # Sadece takvim tarihi 1 gün ileri alınıyor.
+            # ==================================================
+
+            start = start + timedelta(
+                days=1
+            )
+
+            stop = stop + timedelta(
+                days=1
             )
 
         except Exception as error:
@@ -425,9 +383,9 @@ def build_xml(
         '<tv generator-info-name="D-Smart EPG">',
     ]
 
-    # --------------------------------------------------
+    # ==================================================
     # KANALLAR
-    # --------------------------------------------------
+    # ==================================================
 
     used_channels = set()
 
@@ -459,9 +417,9 @@ def build_xml(
             "  </channel>"
         )
 
-    # --------------------------------------------------
+    # ==================================================
     # PROGRAMLAR
-    # --------------------------------------------------
+    # ==================================================
 
     for program in sorted(
         daily_programs,
@@ -474,6 +432,8 @@ def build_xml(
             program["channel"]
         )
 
+        # SADECE TARİHİ değiştirdik.
+        # UTC formatı aynen +0000 kalıyor.
         start = (
             program["start"]
             .astimezone(timezone.utc)
@@ -527,9 +487,7 @@ def build_xml(
         )
 
         if genre:
-            categories = genre.split("/")
-
-            for category in categories:
+            for category in genre.split("/"):
                 category = clean_text(
                     category
                 )
@@ -556,7 +514,6 @@ def build_xml(
 
 
 def main():
-    # D-Smart'ın EPG API'sine UTC tarihleri gönderiyoruz.
     now = datetime.now(
         timezone.utc
     )
@@ -576,9 +533,9 @@ def main():
     all_programs = []
     channel_names = {}
 
-    # --------------------------------------------------
+    # ==================================================
     # BUGÜN + YARIN
-    # --------------------------------------------------
+    # ==================================================
 
     for day in days:
 
@@ -587,6 +544,7 @@ def main():
         )
 
         for channel in channels:
+
             if not isinstance(
                 channel,
                 dict
