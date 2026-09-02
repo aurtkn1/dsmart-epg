@@ -5,11 +5,12 @@ from datetime import datetime, timedelta, timezone
 from xml.sax.saxutils import escape
 
 
-BASE_URL = "https://www.dsmart.com.tr/api/v1/public/epg/schedules"
-PAGE_LIMIT = 10
+BASE_URL = (
+    "https://www.dsmart.com.tr/"
+    "api/v1/public/epg/schedules"
+)
 
-# D-Smart'ın config.js parser mantığında p.day temel tarih,
-# p.start_date ise başlangıç/delta hesabı için kullanılıyor.
+PAGE_LIMIT = 10
 
 
 def fetch_json(day, page):
@@ -24,8 +25,14 @@ def fetch_json(day, page):
         url,
         headers={
             "User-Agent": "Mozilla/5.0",
-            "Accept": "application/json, text/plain, */*",
-            "Referer": "https://www.dsmart.com.tr/",
+            "Accept": (
+                "application/json, "
+                "text/javascript, */*; q=0.01"
+            ),
+            "Referer": (
+                "https://www.dsmart.com.tr/"
+            ),
+            "X-Requested-With": "XMLHttpRequest",
         },
     )
 
@@ -41,7 +48,9 @@ def fetch_json(day, page):
     data = json.loads(raw)
 
     if not isinstance(data, dict):
-        raise ValueError("D-Smart geçerli JSON döndürmedi.")
+        raise ValueError(
+            "D-Smart geçerli JSON döndürmedi."
+        )
 
     return data
 
@@ -58,16 +67,48 @@ def clean_text(value):
     )
 
 
+def parse_iso_utc(value):
+    text = clean_text(value)
+
+    if not text:
+        raise ValueError(
+            "Boş tarih"
+        )
+
+    if text.endswith("Z"):
+        text = text[:-1] + "+00:00"
+
+    dt = datetime.fromisoformat(text)
+
+    if dt.tzinfo is None:
+        dt = dt.replace(
+            tzinfo=timezone.utc
+        )
+
+    return dt.astimezone(
+        timezone.utc
+    )
+
+
 def parse_duration(value):
     text = clean_text(value)
 
-    # Örnek:
+    if not text:
+        raise ValueError(
+            "Boş duration"
+        )
+
+    # D-Smart örnekleri:
+    #
     # 2:00:00
     # 1:45:00
     # 17 days, 2:00:00
-
+    #
     if "," in text:
-        text = text.split(",", 1)[1].strip()
+        text = text.split(
+            ",",
+            1
+        )[1].strip()
 
     parts = text.split(":")
 
@@ -87,283 +128,298 @@ def parse_duration(value):
     )
 
 
-def parse_utc(value):
-    value = clean_text(value)
-
-    if value.endswith("Z"):
-        value = value[:-1] + "+00:00"
-
-    return datetime.fromisoformat(value)
-
-
-def xmltv_time(dt):
-    return dt.astimezone(
-        timezone.utc
-    ).strftime(
-        "%Y%m%d%H%M%S +0000"
-    )
-
-
-def load_channel_map():
+def build_dsmart_start(
+    base_date,
+    start_date,
+    day_start,
+):
     """
-    Kanallar için API'deki _id -> channel_name eşleşmesi.
+    D-Smart config.js mantığının karşılığı.
+
+    JavaScript:
+
+      const baseDate = dayjs.utc(p.day)
+      const startDate = dayjs.utc(p.start_date)
+
+      if (!dayStart) {
+        dayStart = startDate
+        ofs = dayjs.duration(
+          dayjs.utc(
+            `${p.day.substr(0, 11)}${p.start_date.substr(11)}`
+          ).diff(baseDate)
+        ).asSeconds()
+      }
+
+      const delta = dayjs.duration(
+        startDate.diff(dayStart)
+      ).asSeconds()
+
+      const start = baseDate.add(
+        ofs + delta,
+        's'
+      )
+
+    Python karşılığı:
     """
 
-    first = fetch_json(
-        datetime.now(timezone.utc).strftime("%Y-%m-%d"),
-        1,
+    # JavaScript'in:
+    #
+    # p.day.substr(0, 11)
+    # +
+    # p.start_date.substr(11)
+    #
+    # davranışını aynen uyguluyoruz.
+
+    day_text = clean_text(
+        base_date.isoformat()
     )
 
-    total = first.get("data", {}).get(
-        "total", 0
+    start_text = clean_text(
+        start_date.isoformat()
     )
 
-    pages = (
-        (total + PAGE_LIMIT - 1)
-        // PAGE_LIMIT
-        if total
-        else 1
+    # ISO'da örneğin:
+    #
+    # 2025-01-13T21:00:00+00:00
+    #
+    # ilk 11 karakter:
+    #
+    # 2025-01-13T
+    #
+    # start_date'in 11. karakterinden sonrası:
+    #
+    # 21:30:00+00:00
+
+    combined_text = (
+        day_text[:11]
+        + start_text[11:]
     )
 
-    channels = {}
+    combined = parse_iso_utc(
+        combined_text
+    )
 
-    for page in range(1, pages + 1):
-        if page == 1:
-            data = first
-        else:
-            data = fetch_json(
-                datetime.now(timezone.utc).strftime(
-                    "%Y-%m-%d"
-                ),
-                page,
-            )
+    # ofs = combined - baseDate
+    ofs = (
+        combined
+        - base_date
+    )
 
-        items = data.get("data", {}).get(
-            "channels", []
+    # delta = startDate - dayStart
+    delta = (
+        start_date
+        - day_start
+    )
+
+    return (
+        base_date
+        + ofs
+        + delta
+    )
+
+
+def parse_channel_schedule(channel):
+    channel_id = clean_text(
+        channel.get("_id")
+    )
+
+    schedule = channel.get(
+        "schedule",
+        []
+    )
+
+    if not channel_id:
+        return []
+
+    if not isinstance(schedule, list):
+        return []
+
+    results = []
+
+    day_start = None
+
+    for item in schedule:
+        if not isinstance(item, dict):
+            continue
+
+        program_name = clean_text(
+            item.get("program_name")
         )
 
-        for channel in items:
-            channel_id = clean_text(
-                channel.get("_id")
+        p_day = clean_text(
+            item.get("day")
+        )
+
+        p_start = clean_text(
+            item.get("start_date")
+        )
+
+        p_duration = clean_text(
+            item.get("duration")
+        )
+
+        if not program_name:
+            continue
+
+        if not p_day:
+            continue
+
+        if not p_start:
+            continue
+
+        if not p_duration:
+            continue
+
+        try:
+            base_date = parse_iso_utc(
+                p_day
             )
 
-            channel_name = clean_text(
-                channel.get("channel_name")
+            start_date = parse_iso_utc(
+                p_start
             )
 
-            if channel_id and channel_name:
-                channels[channel_id] = channel_name
+            duration = parse_duration(
+                p_duration
+            )
 
-    return channels
+            # D-Smart config.js:
+            #
+            # İlk schedule kaydı referans alınır.
+            if day_start is None:
+                day_start = start_date
+
+            start = build_dsmart_start(
+                base_date=base_date,
+                start_date=start_date,
+                day_start=day_start,
+            )
+
+            stop = (
+                start
+                + duration
+            )
+
+        except Exception as error:
+            print(
+                "Program hesaplanamadı:",
+                program_name,
+                error,
+            )
+            continue
+
+        results.append(
+            {
+                "channel": channel_id,
+                "title": program_name,
+                "description": clean_text(
+                    item.get("description")
+                ),
+                "genre": clean_text(
+                    item.get("genre")
+                ),
+                "start": start,
+                "stop": stop,
+            }
+        )
+
+    return results
 
 
-def collect_day(day):
+def fetch_all_pages(day):
     print(
-        f"D-Smart {day} indiriliyor..."
+        f"D-Smart günü alınıyor: {day}"
     )
 
     first = fetch_json(
         day,
-        1,
+        1
     )
 
-    total = first.get("data", {}).get(
-        "total", 0
+    data = first.get(
+        "data",
+        {}
     )
+
+    total = data.get(
+        "total",
+        0
+    )
+
+    if not total:
+        print(
+            "Bu gün için kanal yok."
+        )
+        return []
 
     pages = (
-        (total + PAGE_LIMIT - 1)
-        // PAGE_LIMIT
-        if total
-        else 1
+        total
+        + PAGE_LIMIT
+        - 1
+    ) // PAGE_LIMIT
+
+    print(
+        f"Toplam kanal: {total}"
     )
 
     print(
-        f"  Toplam kanal: {total}"
-    )
-
-    print(
-        f"  Toplam sayfa: {pages}"
+        f"Toplam sayfa: {pages}"
     )
 
     all_channels = []
 
-    for page in range(1, pages + 1):
+    first_channels = data.get(
+        "channels",
+        []
+    )
 
-        if page == 1:
-            data = first
-        else:
-            data = fetch_json(
-                day,
-                page,
+    if isinstance(
+        first_channels,
+        list
+    ):
+        all_channels.extend(
+            first_channels
+        )
+
+    for page in range(
+        2,
+        pages + 1
+    ):
+        print(
+            f"Sayfa {page}/{pages}"
+        )
+
+        page_data = fetch_json(
+            day,
+            page
+        )
+
+        page_channels = (
+            page_data
+            .get("data", {})
+            .get("channels", [])
+        )
+
+        if isinstance(
+            page_channels,
+            list
+        ):
+            all_channels.extend(
+                page_channels
             )
 
-        channels = data.get(
-            "data", {}
-        ).get(
-            "channels", []
-        )
-
-        if isinstance(channels, list):
-            all_channels.extend(channels)
-
-        print(
-            f"  Sayfa {page}/{pages}: "
-            f"{len(channels)} kanal"
-        )
+    print(
+        f"Alınan kanal kaydı: "
+        f"{len(all_channels)}"
+    )
 
     return all_channels
 
 
-def parse_programs(channels):
-    programs = []
-
-    for channel in channels:
-
-        channel_id = clean_text(
-            channel.get("_id")
-        )
-
-        schedule = channel.get(
-            "schedule",
-            [],
-        )
-
-        if not channel_id:
-            continue
-
-        if not isinstance(schedule, list):
-            continue
-
-        for item in schedule:
-
-            if not isinstance(item, dict):
-                continue
-
-            program_name = clean_text(
-                item.get("program_name")
-            )
-
-            p_day = clean_text(
-                item.get("day")
-            )
-
-            p_start = clean_text(
-                item.get("start_date")
-            )
-
-            p_duration = clean_text(
-                item.get("duration")
-            )
-
-            if not program_name:
-                continue
-
-            if not p_day:
-                continue
-
-            if not p_start:
-                continue
-
-            if not p_duration:
-                continue
-
-            try:
-                base_date = parse_utc(
-                    p_day
-                )
-
-                start_date = parse_utc(
-                    p_start
-                )
-
-                duration = parse_duration(
-                    p_duration
-                )
-
-                # D-Smart config.js:
-                #
-                # const baseDate = dayjs.utc(p.day)
-                # const startDate = dayjs.utc(p.start_date)
-                #
-                # İlk kayıt başlangıç referansı:
-                # dayStart = startDate
-                #
-                # ofs:
-                # base gün + start_date saat farkı
-                #
-                # Sonraki kayıtlar:
-                # delta = startDate - dayStart
-                #
-                # start = baseDate + ofs + delta
-                #
-                # Bunu datetime ile birebir uyguluyoruz.
-
-                # Aynı kanal içindeki ilk programı
-                # referans kabul etmek yerine item içindeki
-                # gerçek p.day ve start_date ilişkisini kullanıyoruz.
-                #
-                # D-Smart kaynak kodunda ofs:
-                #
-                # `${p.day.substr(0, 11)}${p.start_date.substr(11)}`
-                #
-                # şeklinde oluşturuluyor.
-                #
-                # Bunun Python karşılığı:
-                combined = (
-                    p_day[:11]
-                    + p_start[11:]
-                )
-
-                combined_date = parse_utc(
-                    combined
-                )
-
-                offset = (
-                    combined_date
-                    - base_date
-                )
-
-                # start_date'in p.day içindeki
-                # saat farkı ile gerçek gün içi
-                # delta'sını hesaplıyoruz.
-                start = (
-                    base_date
-                    + offset
-                )
-
-                stop = (
-                    start
-                    + duration
-                )
-
-            except Exception as error:
-                print(
-                    "Program hesaplama hatası:",
-                    program_name,
-                    error,
-                )
-                continue
-
-            programs.append(
-                {
-                    "channel": channel_id,
-                    "title": program_name,
-                    "description": clean_text(
-                        item.get("description")
-                    ),
-                    "genre": clean_text(
-                        item.get("genre")
-                    ),
-                    "start": start,
-                    "stop": stop,
-                }
-            )
-
-    return programs
-
-
-def build_xml(all_programs, channel_map):
+def build_xml(
+    daily_programs,
+    channel_names,
+):
     xml = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<tv generator-info-name="D-Smart EPG">',
@@ -375,7 +431,7 @@ def build_xml(all_programs, channel_map):
 
     used_channels = set()
 
-    for program in all_programs:
+    for program in daily_programs:
         used_channels.add(
             program["channel"]
         )
@@ -383,13 +439,14 @@ def build_xml(all_programs, channel_map):
     for channel_id in sorted(
         used_channels
     ):
-        channel_name = channel_map.get(
+        channel_name = channel_names.get(
             channel_id,
-            channel_id,
+            channel_id
         )
 
         xml.append(
-            f'  <channel id="{escape(channel_id)}">'
+            f'  <channel '
+            f'id="{escape(channel_id)}">'
         )
 
         xml.append(
@@ -407,23 +464,34 @@ def build_xml(all_programs, channel_map):
     # --------------------------------------------------
 
     for program in sorted(
-        all_programs,
-        key=lambda x: x["start"],
+        daily_programs,
+        key=lambda x: (
+            x["channel"],
+            x["start"]
+        )
     ):
-        title = escape(
-            program["title"]
-        )
-
-        start = xmltv_time(
-            program["start"]
-        )
-
-        stop = xmltv_time(
-            program["stop"]
-        )
-
         channel_id = escape(
             program["channel"]
+        )
+
+        start = (
+            program["start"]
+            .astimezone(timezone.utc)
+            .strftime(
+                "%Y%m%d%H%M%S +0000"
+            )
+        )
+
+        stop = (
+            program["stop"]
+            .astimezone(timezone.utc)
+            .strftime(
+                "%Y%m%d%H%M%S +0000"
+            )
+        )
+
+        title = escape(
+            program["title"]
         )
 
         xml.append(
@@ -440,7 +508,9 @@ def build_xml(all_programs, channel_map):
         )
 
         description = clean_text(
-            program.get("description")
+            program.get(
+                "description"
+            )
         )
 
         if description:
@@ -451,11 +521,15 @@ def build_xml(all_programs, channel_map):
             )
 
         genre = clean_text(
-            program.get("genre")
+            program.get(
+                "genre"
+            )
         )
 
         if genre:
-            for category in genre.split("/"):
+            categories = genre.split("/")
+
+            for category in categories:
                 category = clean_text(
                     category
                 )
@@ -475,41 +549,76 @@ def build_xml(all_programs, channel_map):
         "</tv>"
     )
 
-    return "\n".join(xml) + "\n"
+    return (
+        "\n".join(xml)
+        + "\n"
+    )
 
 
 def main():
-
+    # D-Smart'ın EPG API'sine UTC tarihleri gönderiyoruz.
     now = datetime.now(
         timezone.utc
     )
 
-    dates = [
-        now.date(),
-        (now + timedelta(days=1)).date(),
+    today = now.date()
+
+    tomorrow = (
+        today
+        + timedelta(days=1)
+    )
+
+    days = [
+        today,
+        tomorrow,
     ]
 
-    channel_map = load_channel_map()
-
     all_programs = []
+    channel_names = {}
 
-    for day in dates:
+    # --------------------------------------------------
+    # BUGÜN + YARIN
+    # --------------------------------------------------
 
-        channels = collect_day(
+    for day in days:
+
+        channels = fetch_all_pages(
             day.isoformat()
         )
 
-        programs = parse_programs(
-            channels
-        )
+        for channel in channels:
+            if not isinstance(
+                channel,
+                dict
+            ):
+                continue
+
+            channel_id = clean_text(
+                channel.get("_id")
+            )
+
+            channel_name = clean_text(
+                channel.get(
+                    "channel_name"
+                )
+            )
+
+            if channel_id and channel_name:
+                channel_names[
+                    channel_id
+                ] = channel_name
+
+            programs = parse_channel_schedule(
+                channel
+            )
+
+            all_programs.extend(
+                programs
+            )
 
         print(
             f"{day}: "
-            f"{len(programs)} program"
-        )
-
-        all_programs.extend(
-            programs
+            f"{len(all_programs)} toplam program"
         )
 
     if not all_programs:
@@ -519,7 +628,7 @@ def main():
 
     xml = build_xml(
         all_programs,
-        channel_map,
+        channel_names,
     )
 
     with open(
@@ -531,16 +640,16 @@ def main():
         file.write(xml)
 
     print(
-        "----------------------------------------"
+        "========================================"
     )
 
     print(
-        "D-Smart EPG oluşturuldu."
+        "D-SMART EPG BAŞARIYLA OLUŞTURULDU"
     )
 
     print(
         "Kanal:",
-        len(channel_map)
+        len(channel_names)
     )
 
     print(
@@ -549,7 +658,7 @@ def main():
     )
 
     print(
-        "----------------------------------------"
+        "========================================"
     )
 
 
