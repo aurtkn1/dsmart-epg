@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: Repository indir
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Python kurulumu
         uses: actions/setup-python@v5
@@ -29,11 +31,10 @@ jobs:
       - name: EPG dosyasını kontrol et
         run: |
           test -f dsmart.xml
-          echo "dsmart.xml başarıyla oluşturuldu."
+          echo "dsmart.xml oluşturuldu."
           wc -c dsmart.xml
-          head -20 dsmart.xml
 
-      - name: EPG'yi kaydet
+      - name: Değişiklikleri kaydet
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -42,7 +43,11 @@ jobs:
 
           if git diff --cached --quiet; then
             echo "D-Smart EPG değişmemiş."
-          else
-            git commit -m "Update D-Smart EPG"
-            git push
+            exit 0
           fi
+
+          git commit -m "Update D-Smart EPG"
+
+          git pull --rebase origin main
+
+          git push origin HEAD:main
