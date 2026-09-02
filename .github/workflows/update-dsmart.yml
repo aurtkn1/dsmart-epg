@@ -31,7 +31,7 @@ jobs:
       - name: EPG dosyasını kontrol et
         run: |
           test -f dsmart.xml
-          echo "dsmart.xml oluşturuldu."
+          echo "dsmart.xml başarıyla oluşturuldu."
           wc -c dsmart.xml
 
       - name: Değişiklikleri kaydet
