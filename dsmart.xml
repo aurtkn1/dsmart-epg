@@ -153,6 +153,9 @@
   <channel id="59dca4d8cfef0b4d80a47b7a">
     <display-name lang="tr">TAY TV</display-name>
   </channel>
+  <channel id="59dca577cfef0b4d80a47b7c">
+    <display-name lang="tr">TV4</display-name>
+  </channel>
   <channel id="59dcbe14cfef0b4d80a49646">
     <display-name lang="tr">a2</display-name>
   </channel>
@@ -645,6 +648,10 @@
     <category lang="tr">bos-vakit</category>
     <category lang="tr">genel</category>
   </programme>
+  <programme start="20260901210000 +0000" stop="20260901214500 +0000" channel="59dca577cfef0b4d80a47b7c">
+    <title lang="tr">Gezmek Olsun</title>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260901210000 +0000" stop="20260901220000 +0000" channel="63ecd91acfef0b02d2687aed">
     <title lang="tr">Gecenin Sözü</title>
     <desc lang="tr">Gecenin öne çıkan gelişmeleri, günün gündemden düşmeyen başlıkları ve dikkat çeken konuları Pınar Erbaş&apos;ın sunumuyla ele alınıyor.</desc>
@@ -985,6 +992,10 @@
     <desc lang="tr">Vahşi yaşamın esaretten kurtulmasına yardımcı olmayı amaçlayan bir Av Koruma Alanı&apos;nda büyüyen Peter Meyer&apos;in nasıl başladığını ve vahşi doğada bazı inanılmaz anları nasıl atlattığını paylaşıyor.</desc>
     <category lang="tr">belgesel</category>
     <category lang="tr">genel</category>
+  </programme>
+  <programme start="20260901214500 +0000" stop="20260901234500 +0000" channel="59dca577cfef0b4d80a47b7c">
+    <title lang="tr">Türk Sineması&apos;&apos;Dilek Taşı&apos;&apos;</title>
+    <category lang="tr">0</category>
   </programme>
   <programme start="20260901214500 +0000" stop="20260901220000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Adventure Time</title>
@@ -1983,6 +1994,10 @@
     <category lang="tr">sinema</category>
     <category lang="tr">genel</category>
   </programme>
+  <programme start="20260901234500 +0000" stop="20260902011500 +0000" channel="59dca577cfef0b4d80a47b7c">
+    <title lang="tr">Benim Yemeğim</title>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260901234500 +0000" stop="20260902000000 +0000" channel="5ac73ebbcfef0b34db533a95">
     <title lang="tr">Mecelle Medeniyeti</title>
     <category lang="tr">0</category>
@@ -2736,6 +2751,10 @@
     <category lang="tr">belgesel</category>
     <category lang="tr">doga-belgeseli</category>
   </programme>
+  <programme start="20260902011500 +0000" stop="20260902014500 +0000" channel="59dca577cfef0b4d80a47b7c">
+    <title lang="tr">Taşların Dili</title>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260902011500 +0000" stop="20260902013000 +0000" channel="58d29bb0eefad3db9c6062b9">
     <title lang="tr">Kral Şakir</title>
     <category lang="tr">genel</category>
@@ -3005,6 +3024,10 @@
   </programme>
   <programme start="20260902014500 +0000" stop="20260902020000 +0000" channel="58d29bb0eefad3db9c6062c6">
     <title lang="tr">BBC Sport</title>
+    <category lang="tr">0</category>
+  </programme>
+  <programme start="20260902014500 +0000" stop="20260902031500 +0000" channel="59dca577cfef0b4d80a47b7c">
+    <title lang="tr">Cevap Soruda</title>
     <category lang="tr">0</category>
   </programme>
   <programme start="20260902014500 +0000" stop="20260902015500 +0000" channel="58d29bb0eefad3db9c6062c8">
@@ -3871,6 +3894,10 @@ Gezegendeki her avcı, güçlükleri yenmeyi sağlayan hilelerle donatılmışt�
     <category lang="tr">genel</category>
     <category lang="tr">genel</category>
   </programme>
+  <programme start="20260902031500 +0000" stop="20260902033000 +0000" channel="59dca577cfef0b4d80a47b7c">
+    <title lang="tr">Kolay Mı Sandın</title>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260902031500 +0000" stop="20260902032000 +0000" channel="58d29bb0eefad3db9c6062b6">
     <title lang="tr">Hayvansız Testler</title>
     <desc lang="tr">Lüksemburg Üniversitesi araştırmacıları, hayvanlar üzerinde test yapmadan Parkinson hastalığı için yeni tedaviler üzerinde çalışıyorlar.</desc>
@@ -4018,6 +4045,11 @@ Gezegendeki her avcı, güçlükleri yenmeyi sağlayan hilelerle donatılmışt�
     <category lang="tr">bos-vakit</category>
     <category lang="tr">genel</category>
   </programme>
+  <programme start="20260902033000 +0000" stop="20260902034500 +0000" channel="59dca577cfef0b4d80a47b7c">
+    <title lang="tr">Ne Yapmalı (Tekrar)</title>
+    <desc lang="tr">Psikolog Doç. Dr. Mehmet Şakiroğlu “Ne Yapmalı?’’ diyerek, yaşamamızda daha mutlu olmamızı sağlayacak ipuçlarından, sağlıklı ailenin anahtarına kadar merak edilen birçok konuyu sizler için anlatıyor.</desc>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260902033000 +0000" stop="20260902034500 +0000" channel="5ac73ebbcfef0b34db533a95">
     <title lang="tr">Tesbihat</title>
     <category lang="tr">0</category>
@@ -4118,6 +4150,10 @@ Gezegendeki her avcı, güçlükleri yenmeyi sağlayan hilelerle donatılmışt�
     <desc lang="tr">Avrupa&apos;nın Yeni Vahşi Yaşamı, bir kıtanın vahşi yaşamının yeniden doğuşunun ilham verici hikayesini anlatıyor. Altı bölüm boyunca, Avrupa&apos;nın en çeşitli ve nefes kesen manzaralarında doğanın muhteşem yeniden canlanmasını izliyor olacağız. Kuzey Kutup dairesinden zengin nehirler ile sulak alanlara, derin ormanlardan engebeli dağ zirvelerine kadar, Avrupa&apos;nın en ikonik vahşi yaşamının en beklenmedik yerlerde gelişmesine tanık olun.</desc>
     <category lang="tr">belgesel</category>
     <category lang="tr">genel</category>
+  </programme>
+  <programme start="20260902034500 +0000" stop="20260902040000 +0000" channel="59dca577cfef0b4d80a47b7c">
+    <title lang="tr">Mutlu Kahvaltılar (Tekrar)</title>
+    <category lang="tr">0</category>
   </programme>
   <programme start="20260902034500 +0000" stop="20260902040000 +0000" channel="5ac73ebbcfef0b34db533a95">
     <title lang="tr">Esma-i Hüsna</title>
@@ -4370,6 +4406,10 @@ Gezegendeki her avcı, güçlükleri yenmeyi sağlayan hilelerle donatılmışt�
     <category lang="tr">spor</category>
     <category lang="tr">genel</category>
   </programme>
+  <programme start="20260902040000 +0000" stop="20260902041500 +0000" channel="59dca577cfef0b4d80a47b7c">
+    <title lang="tr">Ataman ile Devr-i Alem</title>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260902040000 +0000" stop="20260902050000 +0000" channel="63ecd91acfef0b02d2687aed">
     <title lang="tr">Uyanma Vakti</title>
     <desc lang="tr">Sabahın ilk saatlerinde dünün ve bugünün gündemine dair haberler ekrana geliyor. Gazete manşetleri, donanımlı konuklar ve canlı bağlantılar ile gündemin nabzı tutuluyor.</desc>
@@ -4492,6 +4532,10 @@ Gezegendeki her avcı, güçlükleri yenmeyi sağlayan hilelerle donatılmışt�
     <title lang="tr">Tunç Çağı Kıyameti</title>
     <category lang="tr">belgesel</category>
     <category lang="tr">genel</category>
+  </programme>
+  <programme start="20260902041500 +0000" stop="20260902060000 +0000" channel="59dca577cfef0b4d80a47b7c">
+    <title lang="tr">Cevap Soruda</title>
+    <category lang="tr">0</category>
   </programme>
   <programme start="20260902041500 +0000" stop="20260902042500 +0000" channel="58d29bb0eefad3db9c6062b9">
     <title lang="tr">Grizzy ve Lemmingler</title>
@@ -5464,6 +5508,11 @@ Gezegendeki her avcı, güçlükleri yenmeyi sağlayan hilelerle donatılmışt�
     <category lang="tr">bos-vakit</category>
     <category lang="tr">genel</category>
   </programme>
+  <programme start="20260902060000 +0000" stop="20260902064500 +0000" channel="59dca577cfef0b4d80a47b7c">
+    <title lang="tr">Tarihi Rotalar</title>
+    <desc lang="tr">İstanbul’un tarihi semtlerinde oluşturulan rotaları gezerken ilginç hikayelerin içinde kaybolmaya hazır mısınız?</desc>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260902060000 +0000" stop="20260902063000 +0000" channel="5ac73ebbcfef0b34db533a95">
     <title lang="tr">Dinle Konuyu Bil Soruyu</title>
     <category lang="tr">0</category>
@@ -5837,6 +5886,10 @@ Gezegendeki her avcı, güçlükleri yenmeyi sağlayan hilelerle donatılmışt�
     <desc lang="tr">National Geographic’in en sevilen serilerinden Uçak Kazası Raporu yeni sezonu ile ekranlara dönüyor. Uçak kazalarının sır perdesini aralayan, arkalarında yatan nedenleri ve hiç görülmemiş kayıtları ortaya çıkartan Uçak Kazası Raporu, 18. sezonuyla havacılık tarihinin efsanevi felaketlerini araştırarak neyin neden yanlış gittiğini araştırmaya devam ediyor.</desc>
     <category lang="tr">belgesel</category>
     <category lang="tr">genel</category>
+  </programme>
+  <programme start="20260902064500 +0000" stop="20260902074500 +0000" channel="59dca577cfef0b4d80a47b7c">
+    <title lang="tr">Tuğçe&apos;nin Mutfağı</title>
+    <category lang="tr">0</category>
   </programme>
   <programme start="20260902064500 +0000" stop="20260902070000 +0000" channel="5ac73ebbcfef0b34db533a95">
     <title lang="tr">Şeker Hoca</title>
@@ -6415,6 +6468,10 @@ Gezegendeki her avcı, güçlükleri yenmeyi sağlayan hilelerle donatılmışt�
     <category lang="tr">haber</category>
     <category lang="tr">genel</category>
   </programme>
+  <programme start="20260902074500 +0000" stop="20260902083000 +0000" channel="59dca577cfef0b4d80a47b7c">
+    <title lang="tr">Metrekare</title>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260902074500 +0000" stop="20260902080000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Kucho Süper Sıradan Köpek</title>
     <desc lang="tr">Portallar açıp, zamanlar ve mekanlar arasında seyahat edebilmektedir. Kucho ve arkadaşları mucize pati sayesinde maceradan maceraya koşar.</desc>
@@ -6877,6 +6934,10 @@ Her şey. Bu bölüm, arabuluculuk yapan ve kırılma noktasına ulaşan iş han
     <category lang="tr">spor</category>
     <category lang="tr">genel</category>
   </programme>
+  <programme start="20260902083000 +0000" stop="20260902084500 +0000" channel="59dca577cfef0b4d80a47b7c">
+    <title lang="tr">Mutlu Kahvaltılar</title>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260902083000 +0000" stop="20260902090000 +0000" channel="5ac73ebbcfef0b34db533a95">
     <title lang="tr">Nöbetçi Tanıklar</title>
     <category lang="tr">0</category>
@@ -7019,6 +7080,10 @@ Her şey. Bu bölüm, arabuluculuk yapan ve kırılma noktasına ulaşan iş han
     <desc lang="tr">Bana nerede yaşadığını göster, şu soruya yanıt vermeyi amaçlayan bir belgesel dizisidir: İnsanlar, içinde güvenle yaşayabilecekleri, bir toplum olarak işlev görebilecekleri ve hepsinden önemlisi çevreleriyle uyum içinde olabilecekleri bir mekânı nasıl sahiplenebilirler?</desc>
     <category lang="tr">belgesel</category>
     <category lang="tr">genel</category>
+  </programme>
+  <programme start="20260902084500 +0000" stop="20260902090000 +0000" channel="59dca577cfef0b4d80a47b7c">
+    <title lang="tr">Kolay Mı Sandın</title>
+    <category lang="tr">0</category>
   </programme>
   <programme start="20260902084500 +0000" stop="20260902090000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Mr. Bean</title>
@@ -7211,6 +7276,10 @@ Her şey. Bu bölüm, arabuluculuk yapan ve kırılma noktasına ulaşan iş han
   </programme>
   <programme start="20260902090000 +0000" stop="20260902110000 +0000" channel="58d29bb0eefad3db9c60628a">
     <title lang="tr">Paranaense-Fluminense &quot;Tekrar&quot;</title>
+    <category lang="tr">0</category>
+  </programme>
+  <programme start="20260902090000 +0000" stop="20260902110000 +0000" channel="59dca577cfef0b4d80a47b7c">
+    <title lang="tr">Türk Sineması&apos;&apos;Ezo Gelin&apos;&apos;</title>
     <category lang="tr">0</category>
   </programme>
   <programme start="20260902090000 +0000" stop="20260902093000 +0000" channel="5ac73ebbcfef0b34db533a95">
@@ -8400,6 +8469,10 @@ Her şey. Bu bölüm, arabuluculuk yapan ve kırılma noktasına ulaşan iş han
     <title lang="tr">Haber 14</title>
     <category lang="tr">0</category>
   </programme>
+  <programme start="20260902110000 +0000" stop="20260902120000 +0000" channel="59dca577cfef0b4d80a47b7c">
+    <title lang="tr">Super Kumbara</title>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260902110000 +0000" stop="20260902114500 +0000" channel="5ac73ebbcfef0b34db533a95">
     <title lang="tr">Burhan İşliyen&apos;le Hacı Bayram Kürsüsünden</title>
     <category lang="tr">0</category>
@@ -8891,6 +8964,11 @@ Her şey. Bu bölüm, arabuluculuk yapan ve kırılma noktasına ulaşan iş han
     <desc lang="tr">Canlı</desc>
     <category lang="tr">0</category>
   </programme>
+  <programme start="20260902120000 +0000" stop="20260902121500 +0000" channel="59dca577cfef0b4d80a47b7c">
+    <title lang="tr">Tatlı Tuzlu</title>
+    <desc lang="tr">Herkesin evinde rahatlıkla yapabileceği, birbirinden leziz &quot;Tatlı Tuzlu&quot; tarifleri tv4&apos;te.</desc>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260902120000 +0000" stop="20260902140000 +0000" channel="63ecd91acfef0b02d2687aed">
     <title lang="tr">Haber Saati</title>
     <desc lang="tr">Gündeme dair başlıklar ve son dakika gelişmeleri Serap Belovacıklı ile ekrana getiriliyor.</desc>
@@ -9033,6 +9111,10 @@ Her şey. Bu bölüm, arabuluculuk yapan ve kırılma noktasına ulaşan iş han
   </programme>
   <programme start="20260902121500 +0000" stop="20260902141500 +0000" channel="5fcb6bd2cfef0b15931fcdf8">
     <title lang="tr">BocaJr.-Lanus &quot;Tekrar&quot;</title>
+    <category lang="tr">0</category>
+  </programme>
+  <programme start="20260902121500 +0000" stop="20260902130000 +0000" channel="59dca577cfef0b4d80a47b7c">
+    <title lang="tr">Gezmek Olsun</title>
     <category lang="tr">0</category>
   </programme>
   <programme start="20260902121500 +0000" stop="20260902123000 +0000" channel="58d29bb0eefad3db9c6062c8">
@@ -9454,6 +9536,10 @@ Mavi daha önceki işinden Pelin yüzünden kovulmasına rağmen işi kabul eder
     <category lang="tr">bos-vakit</category>
     <category lang="tr">genel</category>
   </programme>
+  <programme start="20260902130000 +0000" stop="20260902131500 +0000" channel="59dca577cfef0b4d80a47b7c">
+    <title lang="tr">Kolay Mı Sandın</title>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260902130000 +0000" stop="20260902133000 +0000" channel="5ac73ebbcfef0b34db533a95">
     <title lang="tr">Suyla Yükselen Medeniyet</title>
     <category lang="tr">0</category>
@@ -9624,6 +9710,10 @@ Mavi daha önceki işinden Pelin yüzünden kovulmasına rağmen işi kabul eder
   </programme>
   <programme start="20260902131500 +0000" stop="20260902140000 +0000" channel="58d29bb0eefad3db9c60628a">
     <title lang="tr">Yabancı At Yarışları</title>
+    <category lang="tr">0</category>
+  </programme>
+  <programme start="20260902131500 +0000" stop="20260902150000 +0000" channel="59dca577cfef0b4d80a47b7c">
+    <title lang="tr">Türk Sineması&apos;&apos;Ben Topraktan Bir Canım&apos;&apos;</title>
     <category lang="tr">0</category>
   </programme>
   <programme start="20260902131500 +0000" stop="20260902132500 +0000" channel="5fedddcecfef0b159330996e">
@@ -10620,6 +10710,10 @@ Macera 876 yılında başlıyor.</desc>
   <programme start="20260902150000 +0000" stop="20260902170000 +0000" channel="66d839a0cfef0b37445c6db1">
     <title lang="tr">Ana Haber Bülteni</title>
     <desc lang="tr">Canlı</desc>
+    <category lang="tr">0</category>
+  </programme>
+  <programme start="20260902150000 +0000" stop="20260902170000 +0000" channel="59dca577cfef0b4d80a47b7c">
+    <title lang="tr">Türk Sineması&apos;&apos;Bütün Anneler Melektir&apos;&apos;</title>
     <category lang="tr">0</category>
   </programme>
   <programme start="20260902150000 +0000" stop="20260902170000 +0000" channel="63ecd91acfef0b02d2687aed">
@@ -11784,6 +11878,10 @@ Macera 876 yılında başlıyor.</desc>
     <title lang="tr">Nokta Transfer</title>
     <category lang="tr">0</category>
   </programme>
+  <programme start="20260902170000 +0000" stop="20260902190000 +0000" channel="59dca577cfef0b4d80a47b7c">
+    <title lang="tr">Türk Sineması&apos;&apos;Ben Topraktan Bir Canım&apos;&apos;</title>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260902170000 +0000" stop="20260902180000 +0000" channel="63ecd91acfef0b02d2687aed">
     <title lang="tr">Gazeteci Masası</title>
     <category lang="tr">0</category>
@@ -12809,6 +12907,10 @@ Macera 876 yılında başlıyor.</desc>
     <title lang="tr">Gece Yarısı</title>
     <category lang="tr">0</category>
   </programme>
+  <programme start="20260902190000 +0000" stop="20260902204500 +0000" channel="59dca577cfef0b4d80a47b7c">
+    <title lang="tr">Türk Sineması&apos;&apos;Bütün Anneler Melektir&apos;&apos;</title>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260902190000 +0000" stop="20260902200000 +0000" channel="679b51bdcfef0b3744a77893">
     <title lang="tr">Klip</title>
     <category lang="tr">muzik</category>
@@ -13684,6 +13786,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
     <desc lang="tr">Yetenekli Dr. Pol&apos;un bu sezonunda doktorlar, kritik klinik ziyaretlerine ve acil çiftlik aramalarına yetişebilmek için sürekli yarış halindeler. Pol ve ekibi, orta Michigan bölgesinde haftada yedi gün çalışırken sizler de bu vahşi yolculuğa ortak olun!</desc>
     <category lang="tr">belgesel</category>
     <category lang="tr">genel</category>
+  </programme>
+  <programme start="20260902204500 +0000" stop="20260902234500 +0000" channel="59dca577cfef0b4d80a47b7c">
+    <title lang="tr">Ataman İle Devr-i Alem</title>
+    <category lang="tr">0</category>
   </programme>
   <programme start="20260902204500 +0000" stop="20260902205500 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Teen Titans Go!</title>
