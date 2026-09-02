@@ -1,0 +1,48 @@
+name: Update D-Smart EPG
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-dsmart-epg:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repository indir
+        uses: actions/checkout@v4
+
+      - name: Python kurulumu
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: D-Smart EPG oluştur
+        run: |
+          python generate_dsmart_epg.py
+
+      - name: EPG dosyasını kontrol et
+        run: |
+          test -f dsmart.xml
+          echo "dsmart.xml başarıyla oluşturuldu."
+          wc -c dsmart.xml
+          head -20 dsmart.xml
+
+      - name: EPG'yi kaydet
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add dsmart.xml
+
+          if git diff --cached --quiet; then
+            echo "D-Smart EPG değişmemiş."
+          else
+            git commit -m "Update D-Smart EPG"
+            git push
+          fi
