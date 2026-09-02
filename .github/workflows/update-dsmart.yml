@@ -19,19 +19,19 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Python kurulumu
-        uses: actions/setup-python@v5
+      - name: Node.js kurulumu
+        uses: actions/setup-node@v4
         with:
-          python-version: "3.12"
+          node-version: "20"
 
       - name: D-Smart EPG oluştur
         run: |
-          python generate_dsmart_epg.py
+          node generate_dsmart_epg.js
 
-      - name: EPG dosyasını kontrol et
+      - name: EPG kontrolü
         run: |
           test -f dsmart.xml
-          echo "dsmart.xml başarıyla oluşturuldu."
+          echo "dsmart.xml oluşturuldu."
           wc -c dsmart.xml
 
       - name: Değişiklikleri kaydet
@@ -42,7 +42,7 @@ jobs:
           git add dsmart.xml
 
           if git diff --cached --quiet; then
-            echo "D-Smart EPG değişmemiş."
+            echo "EPG değişmemiş."
             exit 0
           fi
 
