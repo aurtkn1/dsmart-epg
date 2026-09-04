@@ -78,6 +78,42 @@ function parseUtc(value) {
 }
 
 
+function cleanText(value) {
+  return String(value || "")
+    .replace(/\s+/g, " ")
+    .trim()
+}
+
+
+function getChannelName(channel) {
+  /*
+   D-Smart API kanal adını farklı alanlarda
+   döndürebilir. Önce channel_name kullanılıyor,
+   yoksa alternatif alanlar kontrol ediliyor.
+  */
+
+  const candidates = [
+    channel.channel_name,
+    channel.name,
+    channel.channelName,
+    channel.title,
+    channel.display_name,
+    channel.displayName,
+    channel.label
+  ]
+
+  for (const value of candidates) {
+    const name = cleanText(value)
+
+    if (name) {
+      return name
+    }
+  }
+
+  return ""
+}
+
+
 function parseSchedule(channel) {
   const channelId =
     String(channel._id || "").trim()
@@ -97,9 +133,9 @@ function parseSchedule(channel) {
 
   for (const p of channel.schedule) {
     const title =
-      String(
-        p.program_name || ""
-      ).trim()
+      cleanText(
+        p.program_name
+      )
 
     if (!title) {
       continue
@@ -120,18 +156,6 @@ function parseSchedule(channel) {
       const startDate =
         parseUtc(p.start_date)
 
-      /*
-       D-Smart config.js mantığı:
-
-       İlk program:
-       dayStart = startDate
-
-       ofs =
-       p.day tarihinin
-       p.start_date saat bilgisiyle
-       oluşturulan zaman - baseDate
-      */
-
       if (dayStart === null) {
         dayStart = startDate
 
@@ -147,23 +171,9 @@ function parseSchedule(channel) {
           baseDate.getTime()
       }
 
-      /*
-       Sonraki programlar:
-
-       delta =
-       startDate - dayStart
-      */
-
       const delta =
         startDate.getTime() -
         dayStart.getTime()
-
-      /*
-       D-Smart:
-
-       start =
-       baseDate + ofs + delta
-      */
 
       const start =
         new Date(
@@ -172,13 +182,10 @@ function parseSchedule(channel) {
           delta
         )
 
-      /*
-       stop =
-       start + duration
-      */
-
       const duration =
-        parseDuration(p.duration)
+        parseDuration(
+          p.duration
+        )
 
       const stop =
         new Date(
@@ -189,14 +196,6 @@ function parseSchedule(channel) {
       programs.push({
         channel: channelId,
         title,
-        description:
-          String(
-            p.description || ""
-          ).trim(),
-        genre:
-          String(
-            p.genre || ""
-          ).trim(),
         start,
         stop
       })
@@ -380,8 +379,9 @@ function buildXml(
     const channelId of channelIds
   ) {
     const name =
-      channelNames[channelId] ||
-      channelId
+      cleanText(
+        channelNames[channelId]
+      ) || channelId
 
     xml.push(
       `  <channel id="${xmlEscape(channelId)}">`
@@ -399,9 +399,19 @@ function buildXml(
   }
 
   programs.sort(
-    (a, b) =>
-      a.start.getTime() -
-      b.start.getTime()
+    (a, b) => {
+      const timeDifference =
+        a.start.getTime() -
+        b.start.getTime()
+
+      if (timeDifference !== 0) {
+        return timeDifference
+      }
+
+      return a.channel.localeCompare(
+        b.channel
+      )
+    }
   )
 
   for (
@@ -420,40 +430,6 @@ function buildXml(
       `</title>`
     )
 
-    if (
-      program.description
-    ) {
-      xml.push(
-        `    <desc lang="tr">` +
-        `${xmlEscape(
-          program.description
-        )}` +
-        `</desc>`
-      )
-    }
-
-    if (
-      program.genre
-    ) {
-      for (
-        const category
-        of program.genre.split("/")
-      ) {
-        const value =
-          category.trim()
-
-        if (!value) {
-          continue
-        }
-
-        xml.push(
-          `    <category lang="tr">` +
-          `${xmlEscape(value)}` +
-          `</category>`
-        )
-      }
-    }
-
     xml.push(
       "  </programme>"
     )
@@ -470,24 +446,7 @@ function buildXml(
 }
 
 
-async function main() {
-  console.log(
-    "========================================"
-  )
-
-  console.log(
-    "D-SMART EPG BAŞLIYOR"
-  )
-
-  console.log(
-    "========================================"
-  )
-
-  /*
-   BUGÜN + SONRAKİ 6 GÜN
-   TOPLAM 7 GÜN
-  */
-
+function getDays() {
   const now =
     new Date()
 
@@ -508,11 +467,6 @@ async function main() {
         1000
       )
 
-    /*
-     D-Smart API'ye YYYY-MM-DD
-     gönderiyoruz.
-    */
-
     const year =
       date.getUTCFullYear()
 
@@ -530,6 +484,66 @@ async function main() {
       `${year}-${month}-${day}`
     )
   }
+
+  return days
+}
+
+
+function addChannelName(
+  channelNames,
+  channelId,
+  channel
+) {
+  const name =
+    getChannelName(channel)
+
+  if (
+    !channelId ||
+    !name
+  ) {
+    return
+  }
+
+  const oldName =
+    cleanText(
+      channelNames[channelId]
+    )
+
+  /*
+   Eğer daha önce boş veya sadece ID varsa
+   gerçek kanal adıyla değiştir.
+  */
+
+  if (
+    !oldName ||
+    oldName === channelId
+  ) {
+    channelNames[channelId] = name
+    return
+  }
+
+  /*
+   Önceki isim zaten gerçek bir isimse
+   koru.
+  */
+}
+
+
+async function main() {
+  console.log(
+    "========================================"
+  )
+
+  console.log(
+    "D-SMART EPG BAŞLIYOR"
+  )
+
+  console.log(
+    "========================================"
+  )
+
+  const days =
+    getDays()
 
   const allPrograms = []
   const channelNames = {}
@@ -552,18 +566,15 @@ async function main() {
           channel._id || ""
         ).trim()
 
-      const channelName =
-        String(
-          channel.channel_name || ""
-        ).trim()
-
-      if (
-        channelId &&
-        channelName
-      ) {
-        channelNames[channelId] =
-          channelName
+      if (!channelId) {
+        continue
       }
+
+      addChannelName(
+        channelNames,
+        channelId,
+        channel
+      )
 
       const programs =
         parseSchedule(channel)
@@ -586,8 +597,7 @@ async function main() {
   }
 
   /*
-   Aynı programların iki kez gelmesini
-   engelle.
+   Aynı programların tekrarını temizle.
   */
 
   const unique =
@@ -604,16 +614,41 @@ async function main() {
         program.title
       ].join("|")
 
-    unique.set(
-      key,
-      program
-    )
+    if (!unique.has(key)) {
+      unique.set(
+        key,
+        program
+      )
+    }
   }
 
   const programs =
     Array.from(
       unique.values()
     )
+
+  /*
+   Sadece programı bulunan kanallar
+   XML'e yazılır.
+  */
+
+  const activeChannelIds =
+    new Set(
+      programs.map(
+        p => p.channel
+      )
+    )
+
+  for (
+    const channelId of activeChannelIds
+  ) {
+    if (
+      !channelNames[channelId]
+    ) {
+      channelNames[channelId] =
+        channelId
+    }
+  }
 
   const xml =
     buildXml(
@@ -640,7 +675,7 @@ async function main() {
   )
 
   console.log(
-    `Kanal: ${Object.keys(channelNames).length}`
+    `Kanal: ${activeChannelIds.size}`
   )
 
   console.log(
