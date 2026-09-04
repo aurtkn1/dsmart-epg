@@ -48016,6 +48016,10 @@ Empati</title>
     <category lang="tr">bos-vakit</category>
     <category lang="tr">genel</category>
   </programme>
+  <programme start="20260906210000 +0000" stop="20260906214500 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Medeniyet Şehirleri</title>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260906210000 +0000" stop="20260906220000 +0000" channel="679b51bdcfef0b3744a77893">
     <title lang="tr">Klip</title>
     <category lang="tr">muzik</category>
@@ -48371,6 +48375,10 @@ Empati</title>
     <title lang="tr">Sinema (Tekrar)</title>
     <category lang="tr">0</category>
   </programme>
+  <programme start="20260906214500 +0000" stop="20260906220000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Kardeş Vatanlar</title>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260906214500 +0000" stop="20260906215500 +0000" channel="58d29bb0eefad3db9c6062b9">
     <title lang="tr">Kral Şakir</title>
     <category lang="tr">genel</category>
@@ -48469,11 +48477,6 @@ Empati</title>
     <desc lang="tr">Ada, ilk aşkları ile evlenen kadınların mutluluğu yakalayabileceğine inanan kadınlar arasında büyüyen genç bir kadındır. Tam da inandıkları doğrultusunda hareket eden Ada, her şeyin yolunda olduğunu düşündüğü zamanda ilk aşkı olduğuna inandığı Rüzgar tarafından terk edilir. Hayatta mutlu olabilmek için Rüzgar&apos;ı geri kazanmaya çalışan Ada&apos;nın yolu bu sırada Bora ile kesişir.</desc>
     <category lang="tr">0</category>
   </programme>
-  <programme start="20260906220000 +0000" stop="20260906234500 +0000" channel="58d29bb0eefad3db9c6062a0">
-    <title lang="tr">Bekçiler Kralı</title>
-    <desc lang="tr">Bunun üzerine esnaf, Şaban’ı komisere şikâyet eder. Komiser ise bir yanlış anlaşılma sonucu onu içişleri bakanının yeğeni sanır. Bu yüzden Şaban’ın yaptıklarını sineye çeker.</desc>
-    <category lang="tr">0</category>
-  </programme>
   <programme start="20260906220000 +0000" stop="20260906223500 +0000" channel="58d29bb0eefad3db9c60623a">
     <title lang="tr">Haber Bülteni</title>
     <category lang="tr">0</category>
@@ -48514,6 +48517,10 @@ Empati</title>
   <programme start="20260906220000 +0000" stop="20260906230000 +0000" channel="63ecd91acfef0b02d2687aed">
     <title lang="tr">S Raporu</title>
     <desc lang="tr">Gün boyunca yaşanan gelişmelerin S Raporu alınıyor.</desc>
+    <category lang="tr">0</category>
+  </programme>
+  <programme start="20260906220000 +0000" stop="20260906224500 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Burhan İşliyen ile Hacı Bayram Kürsüsünden</title>
     <category lang="tr">0</category>
   </programme>
   <programme start="20260906220000 +0000" stop="20260907030000 +0000" channel="58d29bb0eefad3db9c60628d">
@@ -48676,6 +48683,11 @@ Empati</title>
   </programme>
   <programme start="20260906221500 +0000" stop="20260906233000 +0000" channel="58d29bb0eefad3db9c6062a1">
     <title lang="tr">Çok Gezenti (T)</title>
+    <category lang="tr">0</category>
+  </programme>
+  <programme start="20260906221500 +0000" stop="20260907000000 +0000" channel="58d29bb0eefad3db9c6062a0">
+    <title lang="tr">Bekçiler Kralı</title>
+    <desc lang="tr">Bunun üzerine esnaf, Şaban’ı komisere şikâyet eder. Komiser ise bir yanlış anlaşılma sonucu onu içişleri bakanının yeğeni sanır. Bu yüzden Şaban’ın yaptıklarını sineye çeker.</desc>
     <category lang="tr">0</category>
   </programme>
   <programme start="20260906221500 +0000" stop="20260907000000 +0000" channel="58d29bb0eefad3db9c606298">
@@ -48952,6 +48964,10 @@ Empati</title>
     <category lang="tr">belgesel</category>
     <category lang="tr">genel</category>
   </programme>
+  <programme start="20260906224500 +0000" stop="20260906230000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Yeryüzü Camileri</title>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260906224500 +0000" stop="20260906230000 +0000" channel="58d29bb0eefad3db9c60624f">
     <title lang="tr">Zero Waste Life</title>
     <category lang="tr">haber</category>
@@ -49119,6 +49135,10 @@ Macera 876 yılında başlıyor.</desc>
   <programme start="20260906230000 +0000" stop="20260907020000 +0000" channel="63ecd91acfef0b02d2687aed">
     <title lang="tr">Masada Ne Var</title>
     <desc lang="tr">Dünya gündeminde öne çıkan başlıklar Burak Tatari ile ekrana getiriliyor.</desc>
+    <category lang="tr">0</category>
+  </programme>
+  <programme start="20260906230000 +0000" stop="20260906234500 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Dini Gündem</title>
     <category lang="tr">0</category>
   </programme>
   <programme start="20260906230000 +0000" stop="20260907000000 +0000" channel="679b51bdcfef0b3744a77893">
@@ -49515,15 +49535,15 @@ Macera 876 yılında başlıyor.</desc>
     <desc lang="tr">Yönetmen: Çağan Irmak Oyuncular: Demet Akbağ, Yetkin Dikinciler, Sevil Akı</desc>
     <category lang="tr">0</category>
   </programme>
-  <programme start="20260906234500 +0000" stop="20260907011500 +0000" channel="58d29bb0eefad3db9c6062a0">
-    <title lang="tr">İnadına Aşk - Tekrar</title>
-    <category lang="tr">0</category>
-  </programme>
   <programme start="20260906234500 +0000" stop="20260907003000 +0000" channel="67e5c246cfef0b3744c53a83">
     <title lang="tr">Tam Paçayı Kurtarıyordum Ki...</title>
     <desc lang="tr">Cinayete teşebbüsten yargılanan Kylen jüri tarafından suçsuz bulununca yeni bir kimliğe bürünüp eski suçlu alışkanlıklarına geri dönüyor. Acaba ikinci kez paçayı kurtarabilecek mi?</desc>
     <category lang="tr">genel</category>
     <category lang="tr">genel</category>
+  </programme>
+  <programme start="20260906234500 +0000" stop="20260907000000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Mecelle Medeniyeti</title>
+    <category lang="tr">0</category>
   </programme>
   <programme start="20260906234500 +0000" stop="20260907000200 +0000" channel="58d29bb0eefad3db9c6062bf">
     <title lang="tr">Kaptan Pin&apos;le Uzay Yolculuğu</title>
@@ -49616,6 +49636,10 @@ Macera 876 yılında başlıyor.</desc>
     <category lang="tr">sinema</category>
     <category lang="tr">genel</category>
   </programme>
+  <programme start="20260907000000 +0000" stop="20260907011500 +0000" channel="58d29bb0eefad3db9c6062a0">
+    <title lang="tr">İnadına Aşk - Tekrar</title>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260907000000 +0000" stop="20260907001500 +0000" channel="58d29bb0eefad3db9c60623a">
     <title lang="tr">Haber Bülteni</title>
     <category lang="tr">0</category>
@@ -49661,6 +49685,10 @@ Macera 876 yılında başlıyor.</desc>
     <desc lang="tr">FashionTV brings you the latest coverage during the world&apos;s biggest fashion weeks, highlighting the best shows, backstage moments, front row appearances of the biggest brands and designers worldwide. Fashion news and reviews. i see it first.Everyone needs a great swimsuit in their wardrobe, better to have more than one. Enjoy trendsetting collections to find a reliable, well-fitted, and stylish option for your poolside excellence</desc>
     <category lang="tr">bos-vakit</category>
     <category lang="tr">genel</category>
+  </programme>
+  <programme start="20260907000000 +0000" stop="20260907003000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Diyanet Ana Haber ( Tekrar )</title>
+    <category lang="tr">0</category>
   </programme>
   <programme start="20260907000000 +0000" stop="20260907010000 +0000" channel="679b51bdcfef0b3744a77893">
     <title lang="tr">Klip</title>
@@ -49932,6 +49960,10 @@ Macera 876 yılında başlıyor.</desc>
     <desc lang="tr">FashionTV brings you the latest coverage during the world&apos;s biggest fashion weeks, highlighting the best shows, backstage moments, front row appearances of the biggest brands and designers worldwide. Fashion news and reviews. i see it first.Everyone needs a great swimsuit in their wardrobe, better to have more than one. Enjoy trendsetting collections to find a reliable, well-fitted, and stylish option for your poolside excellence</desc>
     <category lang="tr">bos-vakit</category>
     <category lang="tr">genel</category>
+  </programme>
+  <programme start="20260907003000 +0000" stop="20260907010000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">5 Vakit Yolda</title>
+    <category lang="tr">0</category>
   </programme>
   <programme start="20260907003000 +0000" stop="20260907004000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Kral Şakir</title>
@@ -50211,6 +50243,10 @@ Bu çift anlatım, zengin bir perspektif sunacak.</desc>
     <desc lang="tr">Tekrar</desc>
     <category lang="tr">0</category>
   </programme>
+  <programme start="20260907010000 +0000" stop="20260907013000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Dilbeste</title>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260907010000 +0000" stop="20260907020000 +0000" channel="679b51bdcfef0b3744a77893">
     <title lang="tr">Klip</title>
     <category lang="tr">muzik</category>
@@ -50480,6 +50516,10 @@ Bu çift anlatım, zengin bir perspektif sunacak.</desc>
     <desc lang="tr">FashionTV brings you the latest coverage during the world&apos;s biggest fashion weeks, highlighting the best shows, backstage moments, front row appearances of the biggest brands and designers worldwide. Fashion news and reviews. i see it first.Meet this season’s modeling stars and those who are on their way to international fashion stardom. Most in-demand girls from around the globe and their fascinating stories!</desc>
     <category lang="tr">bos-vakit</category>
     <category lang="tr">genel</category>
+  </programme>
+  <programme start="20260907013000 +0000" stop="20260907020000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Kalemin İzinde</title>
+    <category lang="tr">0</category>
   </programme>
   <programme start="20260907013000 +0000" stop="20260907014500 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Kral Şakir</title>
@@ -50839,6 +50879,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
     <desc lang="tr">Gündemin öne çıkan haberleri ve olayları Sözcü Televizyonu&apos;nda ekrana getiriliyor. Haberlerde öne çıkan başlıklar, gözden kaçan detaylar analiz ediliyor.</desc>
     <category lang="tr">0</category>
   </programme>
+  <programme start="20260907020000 +0000" stop="20260907023000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Arasta</title>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260907020000 +0000" stop="20260907060000 +0000" channel="679b51bdcfef0b3744a77893">
     <title lang="tr">Klip</title>
     <category lang="tr">muzik</category>
@@ -51086,6 +51130,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
     <desc lang="tr">FashionTV brings you the latest coverage during the world&apos;s biggest fashion weeks, highlighting the best shows, backstage moments, front row appearances of the biggest brands and designers worldwide. Fashion news and reviews. i see it first.Don’t miss the latest trends in the most sensual pieces of fashion, we’re talking about the latest lingerie collections presented on the world podiums! Sizzling hot looks from top lingerie designers</desc>
     <category lang="tr">bos-vakit</category>
     <category lang="tr">genel</category>
+  </programme>
+  <programme start="20260907023000 +0000" stop="20260907030000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">İslami Desenler</title>
+    <category lang="tr">0</category>
   </programme>
   <programme start="20260907023000 +0000" stop="20260907024000 +0000" channel="58d29bb0eefad3db9c6062b9">
     <title lang="tr">Grizzy ve Lemmingler</title>
@@ -51367,6 +51415,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
   <programme start="20260907030000 +0000" stop="20260907035000 +0000" channel="66d839a0cfef0b37445c6db1">
     <title lang="tr">Maç</title>
     <desc lang="tr">Tekrar</desc>
+    <category lang="tr">0</category>
+  </programme>
+  <programme start="20260907030000 +0000" stop="20260907033000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Şehir Ve ...</title>
     <category lang="tr">0</category>
   </programme>
   <programme start="20260907030000 +0000" stop="20260907040000 +0000" channel="58d29bb0eefad3db9c60628d">
@@ -51666,6 +51718,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
     <category lang="tr">bos-vakit</category>
     <category lang="tr">genel</category>
   </programme>
+  <programme start="20260907033000 +0000" stop="20260907034500 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Tesbihat</title>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260907033000 +0000" stop="20260907034500 +0000" channel="58d29bb0eefad3db9c6062b9">
     <title lang="tr">Mr. Bean</title>
     <desc lang="tr">En yakın arkadaşı Teddy ve çilekeş ev sahibi bayan Wicket&apos;i yakından tanıyacağız.</desc>
@@ -51791,6 +51847,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
     <desc lang="tr">Svalbard’ın buz çölünden Akdeniz’e uzanan bu 6 bölümlük seri, Avrupa’nın en önemli habitatlarını ve balinalardan kartallara, nadir leoparlara kadar eşsiz canlılarını keşfe çıkıyor.</desc>
     <category lang="tr">belgesel</category>
     <category lang="tr">genel</category>
+  </programme>
+  <programme start="20260907034500 +0000" stop="20260907040000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Esma-i Hüsna</title>
+    <category lang="tr">0</category>
   </programme>
   <programme start="20260907034500 +0000" stop="20260907035500 +0000" channel="58d29bb0eefad3db9c6062b9">
     <title lang="tr">Mr. Bean</title>
@@ -52003,6 +52063,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
   <programme start="20260907040000 +0000" stop="20260907050000 +0000" channel="63ecd91acfef0b02d2687aed">
     <title lang="tr">Uyanma Vakti</title>
     <desc lang="tr">Sabahın ilk saatlerinde dünün ve bugünün gündemine dair haberler ekrana geliyor. Gazete manşetleri, donanımlı konuklar ve canlı bağlantılar ile gündemin nabzı tutuluyor.</desc>
+    <category lang="tr">0</category>
+  </programme>
+  <programme start="20260907040000 +0000" stop="20260907050000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Mukabele</title>
     <category lang="tr">0</category>
   </programme>
   <programme start="20260907040000 +0000" stop="20260907070000 +0000" channel="58d29bb0eefad3db9c60628d">
@@ -52598,6 +52662,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
     <title lang="tr">Günaydın Türkiyem</title>
     <category lang="tr">0</category>
   </programme>
+  <programme start="20260907050000 +0000" stop="20260907060000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Diyanete Soralım</title>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260907050000 +0000" stop="20260907050500 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Grizzy ve Lemmingler</title>
     <category lang="tr">genel</category>
@@ -53177,6 +53245,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
     <category lang="tr">spor</category>
     <category lang="tr">genel</category>
   </programme>
+  <programme start="20260907060000 +0000" stop="20260907063000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Dinle Konuyu Bil Soruyu</title>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260907060000 +0000" stop="20260907070000 +0000" channel="679b51bdcfef0b3744a77893">
     <title lang="tr">Klip</title>
     <category lang="tr">muzik</category>
@@ -53462,6 +53534,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
     <category lang="tr">spor</category>
     <category lang="tr">genel</category>
   </programme>
+  <programme start="20260907063000 +0000" stop="20260907064500 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Harfler Köyü</title>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260907063000 +0000" stop="20260907063500 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Maşa ile Koca Ayı</title>
     <category lang="tr">genel</category>
@@ -53570,6 +53646,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
     <desc lang="tr">IBA Hawaii Tour Westside Bodyboarding Challenge&apos;ın öne çıkan anları, Pipe &amp; Backdoor&apos;da bodyboard serbest sörfü, Turtle Bay Cadılar Bayramı Sörf Yarışması, ION The Barrel belgeseli fragmanı ve kuzey kıyısındaki farklı dalgalardan oluşan serbest sörf aksiyonu yer alıyor.</desc>
     <category lang="tr">spor</category>
     <category lang="tr">genel</category>
+  </programme>
+  <programme start="20260907064500 +0000" stop="20260907070000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Şeker Hoca</title>
+    <category lang="tr">0</category>
   </programme>
   <programme start="20260907064500 +0000" stop="20260907070000 +0000" channel="58d29bb0eefad3db9c60626d">
     <title lang="tr">Molang</title>
@@ -53742,6 +53822,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
     <title lang="tr">Motokros</title>
     <category lang="tr">spor</category>
     <category lang="tr">genel</category>
+  </programme>
+  <programme start="20260907070000 +0000" stop="20260907073000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Çocuğuz Kur&apos;an Okuyoruz</title>
+    <category lang="tr">0</category>
   </programme>
   <programme start="20260907070000 +0000" stop="20260907090000 +0000" channel="58d29bb0eefad3db9c60628d">
     <title lang="tr">Dream Türk En İyiler</title>
@@ -54023,6 +54107,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
     <category lang="tr">spor</category>
     <category lang="tr">genel</category>
   </programme>
+  <programme start="20260907073000 +0000" stop="20260907075000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">İbrahimce</title>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260907073000 +0000" stop="20260907074000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Kucho Süper Sıradan Köpek</title>
     <desc lang="tr">Portallar açıp, zamanlar ve mekanlar arasında seyahat edebilmektedir. Kucho ve arkadaşları mucize pati sayesinde maceradan maceraya koşar.</desc>
@@ -54160,6 +54248,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
     <category lang="tr">genel</category>
     <category lang="tr">genel</category>
   </programme>
+  <programme start="20260907075000 +0000" stop="20260907080000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Bilgi Hazinem</title>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260907075000 +0000" stop="20260907075500 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Salyangoz İzi</title>
     <desc lang="tr">Bay Salyangoz vahşi doğayı incelemek için dışarıya çıkıp, maceralara atılan bir kaşif. Seyahatlerinde Bay Salyangoz farklı hayvanlarla tanışıyor ve onlara bazı komik sorular sorarak, hayat tarzları ve alışkanlıkları ile ilgili önemli keşifler yapıyor.</desc>
@@ -54286,6 +54378,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
   <programme start="20260907080000 +0000" stop="20260907100000 +0000" channel="63ecd91acfef0b02d2687aed">
     <title lang="tr">Gündem Masası</title>
     <desc lang="tr">Gündeme dair başlıklar uzman konuk bağlantıları ile ekrana getiriliyor.</desc>
+    <category lang="tr">0</category>
+  </programme>
+  <programme start="20260907080000 +0000" stop="20260907084500 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Günün Bereketi</title>
     <category lang="tr">0</category>
   </programme>
   <programme start="20260907080000 +0000" stop="20260907081500 +0000" channel="58d29bb0eefad3db9c6062c8">
@@ -54694,6 +54790,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
   </programme>
   <programme start="20260907084500 +0000" stop="20260907090000 +0000" channel="6071fb3bcfef0b159373a531">
     <title lang="tr">Hikayelerle 40 Hadis</title>
+    <category lang="tr">0</category>
+  </programme>
+  <programme start="20260907084500 +0000" stop="20260907100000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Tek Kare</title>
     <category lang="tr">0</category>
   </programme>
   <programme start="20260907084700 +0000" stop="20260907090300 +0000" channel="58d29bb0eefad3db9c6062b6">
@@ -55430,6 +55530,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
     <desc lang="tr">Gündemin öne çıkan haberleri ve olayları Senem Toluay Ilgaz&apos;ın sunumu ile Sözcü Televizyonu&apos;nda ekrana getiriliyor.</desc>
     <category lang="tr">0</category>
   </programme>
+  <programme start="20260907100000 +0000" stop="20260907103000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Kuran Öğreniyorum</title>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260907100000 +0000" stop="20260907120000 +0000" channel="58d29bb0eefad3db9c60628d">
     <title lang="tr">Dream Türk En İyiler</title>
     <category lang="tr">muzik</category>
@@ -55717,6 +55821,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
     <desc lang="tr">FashionTV brings you the latest coverage during the world&apos;s biggest fashion weeks, highlighting the best shows, backstage moments, front row appearances of the biggest brands and designers worldwide. Fashion news and reviews. i see it first.Follow kids fashion trends that will be huge in the recent and coming seasons, stay tuned for the best dressed celebs’ kids and runway highlights!</desc>
     <category lang="tr">bos-vakit</category>
     <category lang="tr">genel</category>
+  </programme>
+  <programme start="20260907103000 +0000" stop="20260907110000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Vahyin Muhatapları</title>
+    <category lang="tr">0</category>
   </programme>
   <programme start="20260907103000 +0000" stop="20260907104500 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">LEGO City: Sınırsız Şehir MAX</title>
@@ -56030,6 +56138,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
     <category lang="tr">spor</category>
     <category lang="tr">genel</category>
   </programme>
+  <programme start="20260907110000 +0000" stop="20260907113000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Namaz ve Hayat</title>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260907110000 +0000" stop="20260907120000 +0000" channel="679b51bdcfef0b3744a77893">
     <title lang="tr">Klip</title>
     <category lang="tr">muzik</category>
@@ -56244,6 +56356,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
     <category lang="tr">spor</category>
     <category lang="tr">genel</category>
   </programme>
+  <programme start="20260907113000 +0000" stop="20260907114500 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Ailemin Sohbet Günlüğü</title>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260907113000 +0000" stop="20260907114500 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Kral Şakir</title>
     <category lang="tr">genel</category>
@@ -56348,6 +56464,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
   </programme>
   <programme start="20260907114500 +0000" stop="20260907121500 +0000" channel="58d29bb0eefad3db9c60623e">
     <title lang="tr">İş Dünyası</title>
+    <category lang="tr">0</category>
+  </programme>
+  <programme start="20260907114500 +0000" stop="20260907120000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Serlevha Ayetler</title>
     <category lang="tr">0</category>
   </programme>
   <programme start="20260907114500 +0000" stop="20260907120000 +0000" channel="58d29bb0eefad3db9c6062c8">
@@ -56500,6 +56620,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
   <programme start="20260907120000 +0000" stop="20260907140000 +0000" channel="63ecd91acfef0b02d2687aed">
     <title lang="tr">Haber Saati</title>
     <desc lang="tr">Gündeme dair başlıklar ve son dakika gelişmeleri Serap Belovacıklı ile ekrana getiriliyor.</desc>
+    <category lang="tr">0</category>
+  </programme>
+  <programme start="20260907120000 +0000" stop="20260907130000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Mukabele</title>
     <category lang="tr">0</category>
   </programme>
   <programme start="20260907120000 +0000" stop="20260907140000 +0000" channel="58d29bb0eefad3db9c60628d">
@@ -57047,6 +57171,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
     <category lang="tr">bos-vakit</category>
     <category lang="tr">genel</category>
   </programme>
+  <programme start="20260907130000 +0000" stop="20260907133000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Tarih ve Ötesi</title>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260907130000 +0000" stop="20260907131500 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Mr. Bean</title>
     <desc lang="tr">En yakın arkadaşı Teddy ve çilekeş ev sahibi bayan Wicket&apos;i yakından tanıyacağız.</desc>
@@ -57332,6 +57460,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
     <category lang="tr">bos-vakit</category>
     <category lang="tr">genel</category>
   </programme>
+  <programme start="20260907133000 +0000" stop="20260907134500 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Yolcu</title>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260907133000 +0000" stop="20260907140000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">WinX Club: Sihir Geri Dönüyor</title>
     <desc lang="tr">Burada Flora, Stella, Aisha, Musa ve Tecna ile arkadaş olur; ancak Icy, Stormy ve Darcy adlı cadı kardeşlerle de karşı karşıya gelir. Bloom, hem güçlerini kontrol etmeyi öğrenmek hem de Trix kardeşler ve diğer kötü güçlerle mücadele etmek zorundadır.</desc>
@@ -57452,6 +57584,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
     <desc lang="tr">2014 yılında ilk kez yenilmez bir tarzla görücüye çıkan bu eşsiz uçan katamaranlar, 2015 yılında ilk Avrupa Turu&apos;na kelimenin tam anlamıyla &quot;havalandılar&quot;. America&apos;s Cup&apos;ın foil teknolojisine sahip katamaranlarındaki başarısından ilham alan GC32, foil heyecanını olağanüstü bir performans seviyesine taşıyor. İtalya, İspanya ve Fransa&apos;daki beş ikonik mekânda düzenlenen beş aşamalı bu zorlu yarış serisi, nefes kesen bir mücadele sunuyor.</desc>
     <category lang="tr">spor</category>
     <category lang="tr">genel</category>
+  </programme>
+  <programme start="20260907134500 +0000" stop="20260907140000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Tek Kare</title>
+    <category lang="tr">0</category>
   </programme>
   <programme start="20260907134500 +0000" stop="20260907140000 +0000" channel="58d29bb0eefad3db9c60626d">
     <title lang="tr">Cry Babies</title>
@@ -57576,6 +57712,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
   </programme>
   <programme start="20260907140000 +0000" stop="20260907150000 +0000" channel="63ecd91acfef0b02d2687aed">
     <title lang="tr">Bir Saat</title>
+    <category lang="tr">0</category>
+  </programme>
+  <programme start="20260907140000 +0000" stop="20260907143000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Riyazüs-Salihin Okumaları</title>
     <category lang="tr">0</category>
   </programme>
   <programme start="20260907140000 +0000" stop="20260907150000 +0000" channel="58d29bb0eefad3db9c60628d">
@@ -57851,6 +57991,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
     <category lang="tr">bos-vakit</category>
     <category lang="tr">genel</category>
   </programme>
+  <programme start="20260907143000 +0000" stop="20260907144500 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Yaz Defteri</title>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260907143000 +0000" stop="20260907144500 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Kucho Süper Sıradan Köpek</title>
     <desc lang="tr">Portallar açıp, zamanlar ve mekanlar arasında seyahat edebilmektedir. Kucho ve arkadaşları mucize pati sayesinde maceradan maceraya koşar.</desc>
@@ -57977,6 +58121,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
   </programme>
   <programme start="20260907144500 +0000" stop="20260907152000 +0000" channel="58d29bb0eefad3db9c60623e">
     <title lang="tr">Seans Notları</title>
+    <category lang="tr">0</category>
+  </programme>
+  <programme start="20260907144500 +0000" stop="20260907150000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Eşsiz Sanat</title>
     <category lang="tr">0</category>
   </programme>
   <programme start="20260907144500 +0000" stop="20260907150000 +0000" channel="58d29bb0eefad3db9c6062c8">
@@ -58150,6 +58298,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
   <programme start="20260907150000 +0000" stop="20260907170000 +0000" channel="63ecd91acfef0b02d2687aed">
     <title lang="tr">Özlem Gürses ile Ana Haber</title>
     <desc lang="tr">Gündemin öne çıkan haberleri ve olayları Sözcü Televizyonu&apos;nda ekrana getiriliyor. Özlem Gürses haberlerde öne çıkan başlıkları, gözden kaçan detayları analiz ediliyor.</desc>
+    <category lang="tr">0</category>
+  </programme>
+  <programme start="20260907150000 +0000" stop="20260907153000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Bil Bakalım Avrupa</title>
     <category lang="tr">0</category>
   </programme>
   <programme start="20260907150000 +0000" stop="20260907160000 +0000" channel="58d29bb0eefad3db9c60628d">
@@ -58399,6 +58551,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
     <desc lang="tr">FashionTV brings you the latest coverage during the world&apos;s biggest fashion weeks, highlighting the best shows, backstage moments, front row appearances of the biggest brands and designers worldwide. Fashion news and reviews. i see it first.Explore the latest fashion trends for teens, the cutest outfits of the A-list celebrities, mix &amp; match insights, and style tips for all occasions.</desc>
     <category lang="tr">bos-vakit</category>
     <category lang="tr">genel</category>
+  </programme>
+  <programme start="20260907153000 +0000" stop="20260907160000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Diyanet Ana Haber ( CANLI )</title>
+    <category lang="tr">0</category>
   </programme>
   <programme start="20260907153000 +0000" stop="20260907154000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Kral Şakir</title>
@@ -58685,6 +58841,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
     <category lang="tr">bos-vakit</category>
     <category lang="tr">genel</category>
   </programme>
+  <programme start="20260907160000 +0000" stop="20260907163000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Çocuk Edebiyatı</title>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260907160000 +0000" stop="20260907170000 +0000" channel="58d29bb0eefad3db9c60628d">
     <title lang="tr">Dream 10</title>
     <category lang="tr">0</category>
@@ -58915,6 +59075,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
     <desc lang="tr">FashionTV brings you the latest coverage during the world&apos;s biggest fashion weeks, highlighting the best shows, backstage moments, front row appearances of the biggest brands and designers worldwide. Fashion news and reviews. i see it first.Explore stories of the top fashion designers of all time! Meet the legends, like Coco Chanel or Karl Lagerfeld and don’t miss the amazingly talented young designers who shape the future of fashion now</desc>
     <category lang="tr">bos-vakit</category>
     <category lang="tr">genel</category>
+  </programme>
+  <programme start="20260907163000 +0000" stop="20260907170000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Hatırda Kalanlar</title>
+    <category lang="tr">0</category>
   </programme>
   <programme start="20260907163000 +0000" stop="20260907164500 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Sürekli Dizi: Kayıp Kasetler</title>
@@ -59245,6 +59409,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
   <programme start="20260907170000 +0000" stop="20260907180000 +0000" channel="63ecd91acfef0b02d2687aed">
     <title lang="tr">Hafta Başı</title>
     <desc lang="tr">Siyasetten ekonomiye, öne çıkan başlıklar ve dikkat çeken açıklamalar  Ekrem Açıkel ve Damla Doğan Tuncel’in sunumuyla değerlendiriliyor.</desc>
+    <category lang="tr">0</category>
+  </programme>
+  <programme start="20260907170000 +0000" stop="20260907180000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Yunus Emre Aşkın Yolculuğu</title>
     <category lang="tr">0</category>
   </programme>
   <programme start="20260907170000 +0000" stop="20260907180000 +0000" channel="58d29bb0eefad3db9c60628d">
@@ -59768,6 +59936,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
     <desc lang="tr">Siyasetten ekonomiye, öne çıkan başlıklar ve dikkat çeken açıklamalar  Ekrem Açıkel ve Damla Doğan Tuncel’in sunumuyla değerlendiriliyor.</desc>
     <category lang="tr">0</category>
   </programme>
+  <programme start="20260907180000 +0000" stop="20260907183000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Bir Kasaba Hikayesi</title>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260907180000 +0000" stop="20260907200000 +0000" channel="58d29bb0eefad3db9c60628d">
     <title lang="tr">Dream Türk En İyiler</title>
     <category lang="tr">muzik</category>
@@ -60026,6 +60198,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
     <category lang="tr">bos-vakit</category>
     <category lang="tr">genel</category>
   </programme>
+  <programme start="20260907183000 +0000" stop="20260907190000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Savaş Barkçin ile Medeniyet Aklı</title>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260907183000 +0000" stop="20260907184500 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Sürekli Dizi: Kayıp Kasetler</title>
     <category lang="tr">genel</category>
@@ -60282,6 +60458,10 @@ Amerika’nın yeni düşmanları olan Nazi Almanyası, faşist İtalya ve Japon
     <desc lang="tr">Siyasetten ekonomiye, öne çıkan başlıklar ve dikkat çeken açıklamalar  Ekrem Açıkel ve Damla Doğan Tuncel’in sunumuyla değerlendiriliyor.</desc>
     <category lang="tr">0</category>
   </programme>
+  <programme start="20260907190000 +0000" stop="20260907193000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Helal Kazancın Peşinde</title>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260907190000 +0000" stop="20260907200000 +0000" channel="679b51bdcfef0b3744a77893">
     <title lang="tr">Klip</title>
     <category lang="tr">muzik</category>
@@ -60502,6 +60682,10 @@ Masalsı bir krallıkta, küçük bir kulübede, mucit kedisi ve neşeli dostlar
     <desc lang="tr">FashionTV brings you the latest coverage during the world&apos;s biggest fashion weeks, highlighting the best shows, backstage moments, front row appearances of the biggest brands and designers worldwide. Fashion news and reviews. i see it first.Check out the inside scoop on fashion news, all the daily news you need to know, including standout fashion moments, major events, current collections and  trends on and off the runway.</desc>
     <category lang="tr">bos-vakit</category>
     <category lang="tr">genel</category>
+  </programme>
+  <programme start="20260907193000 +0000" stop="20260907200000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Zamansız Mekanlar</title>
+    <category lang="tr">0</category>
   </programme>
   <programme start="20260907193000 +0000" stop="20260907194000 +0000" channel="58d29bb0eefad3db9c6062b9">
     <title lang="tr">Mr. Bean</title>
@@ -60815,6 +60999,10 @@ Masalsı bir krallıkta, küçük bir kulübede, mucit kedisi ve neşeli dostlar
     <desc lang="tr">Gecenin öne çıkan gelişmeleri, günün gündemden düşmeyen başlıkları ve dikkat çeken konuları Pınar Erbaş&apos;ın sunumuyla ele alınıyor.</desc>
     <category lang="tr">0</category>
   </programme>
+  <programme start="20260907200000 +0000" stop="20260907203000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Bir Ömürlük Seyahat Evliya Çelebi</title>
+    <category lang="tr">0</category>
+  </programme>
   <programme start="20260907200000 +0000" stop="20260907220000 +0000" channel="58d29bb0eefad3db9c60628d">
     <title lang="tr">Dream Türk En İyiler</title>
     <category lang="tr">muzik</category>
@@ -61078,8 +61266,8 @@ Masalsı bir krallıkta, küçük bir kulübede, mucit kedisi ve neşeli dostlar
     <category lang="tr">genel</category>
     <category lang="tr">genel</category>
   </programme>
-  <programme start="20260907203000 +0000" stop="20260907220000 +0000" channel="58d29bb0eefad3db9c6062a0">
-    <title lang="tr">Spor Programı</title>
+  <programme start="20260907203000 +0000" stop="20260907221500 +0000" channel="58d29bb0eefad3db9c6062a0">
+    <title lang="tr">Gündem Futbol</title>
     <category lang="tr">0</category>
   </programme>
   <programme start="20260907203000 +0000" stop="20260907223000 +0000" channel="67e5c246cfef0b3744c53a83">
@@ -61107,6 +61295,10 @@ Masalsı bir krallıkta, küçük bir kulübede, mucit kedisi ve neşeli dostlar
     <desc lang="tr">FashionTV brings you the latest coverage during the world&apos;s biggest fashion weeks, highlighting the best shows, backstage moments, front row appearances of the biggest brands and designers worldwide. Fashion news and reviews. i see it first.FashionTV gives you an exclusive look at the photoshoots of magazine editorials from all over the world.</desc>
     <category lang="tr">bos-vakit</category>
     <category lang="tr">genel</category>
+  </programme>
+  <programme start="20260907203000 +0000" stop="20260907233000 +0000" channel="5ac73ebbcfef0b34db533a95">
+    <title lang="tr">Arasta</title>
+    <category lang="tr">0</category>
   </programme>
   <programme start="20260907203000 +0000" stop="20260907204500 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Gumball&apos;ın Muhteşem Tuhaf...</title>
