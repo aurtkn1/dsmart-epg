@@ -4,6 +4,13 @@ const BASE_URL =
   "https://www.dsmart.com.tr/api/v1/public/epg/schedules"
 
 const PAGE_LIMIT = 10
+const DAYS = 7
+
+const REQUEST_DELAY = 100
+
+async function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms))
+}
 
 
 async function fetchJson(day, page) {
@@ -14,11 +21,20 @@ async function fetchJson(day, page) {
 
   const response = await fetch(url, {
     headers: {
-      "User-Agent": "Mozilla/5.0",
+      "User-Agent":
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/151.0.0.0 Safari/537.36",
+
       "Accept":
         "application/json, text/javascript, */*; q=0.01",
-      "Referer": "https://www.dsmart.com.tr/",
-      "X-Requested-With": "XMLHttpRequest"
+
+      "Accept-Language":
+        "tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7",
+
+      "Referer":
+        "https://www.dsmart.com.tr/",
+
+      "X-Requested-With":
+        "XMLHttpRequest"
     }
   })
 
@@ -32,17 +48,125 @@ async function fetchJson(day, page) {
 }
 
 
-function parseDuration(value) {
-  let text = String(value || "").trim()
+/*
+==================================================
+GENEL YARDIMCI FONKSİYONLAR
+==================================================
+*/
 
-  if (text.includes(",")) {
-    text = text.split(",", 2)[1].trim()
+function cleanText(value) {
+  if (
+    value === null ||
+    value === undefined
+  ) {
+    return ""
+  }
+
+  return String(value)
+    .replace(/\s+/g, " ")
+    .trim()
+}
+
+
+function firstValue(object, fields) {
+  if (
+    !object ||
+    typeof object !== "object"
+  ) {
+    return ""
+  }
+
+  for (
+    const field of fields
+  ) {
+    if (
+      object[field] !== undefined &&
+      object[field] !== null
+    ) {
+      const value =
+        cleanText(object[field])
+
+      if (value) {
+        return value
+      }
+    }
+  }
+
+  return ""
+}
+
+
+function getChannelName(channel) {
+  return firstValue(
+    channel,
+    [
+      "channel_name",
+      "name",
+      "channelName",
+      "title",
+      "display_name",
+      "displayName",
+      "label"
+    ]
+  )
+}
+
+
+function getChannelId(channel) {
+  return cleanText(
+    channel?._id ||
+    channel?.id ||
+    channel?.channel_id ||
+    channel?.channelId
+  )
+}
+
+
+/*
+==================================================
+DURATION
+==================================================
+*/
+
+function parseDuration(value) {
+  const text =
+    cleanText(value)
+
+  if (!text) {
+    throw new Error(
+      "Boş duration"
+    )
+  }
+
+  /*
+   Örnek:
+   00:45:00
+   01:20:30
+   */
+
+  let durationText = text
+
+  if (
+    durationText.includes(",")
+  ) {
+    const pieces =
+      durationText.split(",")
+
+    durationText =
+      pieces[pieces.length - 1].trim()
   }
 
   const parts =
-    text.split(":").map(Number)
+    durationText
+      .split(":")
+      .map(Number)
 
-  if (parts.length !== 3) {
+  if (
+    parts.length !== 3 ||
+    parts.some(
+      value => Number.isNaN(value)
+    )
+  ) {
     throw new Error(
       `Geçersiz duration: ${value}`
     )
@@ -64,9 +188,15 @@ function parseDuration(value) {
 }
 
 
+/*
+==================================================
+TARİH
+==================================================
+*/
+
 function parseUtc(value) {
   const text =
-    String(value || "").trim()
+    cleanText(value)
 
   if (!text) {
     throw new Error(
@@ -74,135 +204,378 @@ function parseUtc(value) {
     )
   }
 
-  return new Date(text)
+  const date =
+    new Date(text)
+
+  if (
+    Number.isNaN(
+      date.getTime()
+    )
+  ) {
+    throw new Error(
+      `Geçersiz tarih: ${value}`
+    )
+  }
+
+  return date
 }
 
 
-function cleanText(value) {
-  return String(value || "")
-    .replace(/\s+/g, " ")
-    .trim()
-}
+/*
+==================================================
+SCHEDULE BULUCU
 
+D-Smart API yapısı değişirse sadece
+channel.schedule'a bağlı kalmaz.
+==================================================
+*/
 
-function getChannelName(channel) {
-  /*
-   D-Smart API kanal adını farklı alanlarda
-   döndürebilir. Önce channel_name kullanılıyor,
-   yoksa alternatif alanlar kontrol ediliyor.
-  */
+function findSchedule(channel) {
+  if (!channel) {
+    return []
+  }
 
-  const candidates = [
-    channel.channel_name,
-    channel.name,
-    channel.channelName,
-    channel.title,
-    channel.display_name,
-    channel.displayName,
-    channel.label
+  const possibleFields = [
+    "schedule",
+    "schedules",
+    "programs",
+    "program",
+    "broadcasts",
+    "broadcast",
+    "epg",
+    "events",
+    "items"
   ]
 
-  for (const value of candidates) {
-    const name = cleanText(value)
+  for (
+    const field of possibleFields
+  ) {
+    const value =
+      channel[field]
 
-    if (name) {
-      return name
+    if (
+      Array.isArray(value) &&
+      value.length > 0
+    ) {
+      return value
+    }
+
+    if (
+      value &&
+      typeof value === "object"
+    ) {
+      const nestedFields = [
+        "schedule",
+        "schedules",
+        "programs",
+        "broadcasts",
+        "events",
+        "items",
+        "data"
+      ]
+
+      for (
+        const nestedField
+        of nestedFields
+      ) {
+        if (
+          Array.isArray(
+            value[nestedField]
+          )
+        ) {
+          return value[nestedField]
+        }
+      }
     }
   }
 
-  return ""
+  return []
 }
 
 
+/*
+==================================================
+PROGRAM ALANLARI
+==================================================
+*/
+
+function getProgramTitle(program) {
+  return firstValue(
+    program,
+    [
+      "program_name",
+      "programName",
+      "title",
+      "name",
+      "broadcast_name",
+      "broadcastName",
+      "event_name",
+      "eventName",
+      "programme",
+      "program"
+    ]
+  )
+}
+
+
+function getProgramStart(program) {
+  return firstValue(
+    program,
+    [
+      "start_date",
+      "startDate",
+      "start_time",
+      "startTime",
+      "start",
+      "begin",
+      "from"
+    ]
+  )
+}
+
+
+function getProgramDay(program) {
+  return firstValue(
+    program,
+    [
+      "day",
+      "date",
+      "broadcast_day",
+      "broadcastDay"
+    ]
+  )
+}
+
+
+function getProgramDuration(program) {
+  return firstValue(
+    program,
+    [
+      "duration",
+      "length",
+      "runtime"
+    ]
+  )
+}
+
+
+/*
+==================================================
+SCHEDULE PARSE
+
+Hem eski D-Smart formatını hem de
+alternatif formatları destekler.
+==================================================
+*/
+
 function parseSchedule(channel) {
   const channelId =
-    String(channel._id || "").trim()
+    getChannelId(channel)
 
   if (!channelId) {
     return []
   }
 
-  if (!Array.isArray(channel.schedule)) {
+  const schedule =
+    findSchedule(channel)
+
+  if (!schedule.length) {
     return []
   }
 
   const programs = []
 
-  let dayStart = null
-  let ofs = 0
+  let firstStart = null
+  let offset = null
 
-  for (const p of channel.schedule) {
-    const title =
-      cleanText(
-        p.program_name
-      )
-
-    if (!title) {
-      continue
-    }
-
-    if (!p.day || !p.start_date) {
-      continue
-    }
-
-    if (!p.duration) {
-      continue
-    }
-
+  for (
+    const program
+    of schedule
+  ) {
     try {
-      const baseDate =
-        parseUtc(p.day)
+      const title =
+        getProgramTitle(program)
 
-      const startDate =
-        parseUtc(p.start_date)
-
-      if (dayStart === null) {
-        dayStart = startDate
-
-        const combined =
-          String(p.day).slice(0, 11) +
-          String(p.start_date).slice(11)
-
-        const combinedDate =
-          parseUtc(combined)
-
-        ofs =
-          combinedDate.getTime() -
-          baseDate.getTime()
+      if (!title) {
+        continue
       }
 
-      const delta =
-        startDate.getTime() -
-        dayStart.getTime()
+      const startValue =
+        getProgramStart(program)
 
-      const start =
-        new Date(
-          baseDate.getTime() +
-          ofs +
-          delta
+      const dayValue =
+        getProgramDay(program)
+
+      const durationValue =
+        getProgramDuration(program)
+
+      /*
+       Eski format:
+       day
+       start_date
+       duration
+       */
+
+      if (
+        dayValue &&
+        startValue &&
+        durationValue
+      ) {
+        const baseDate =
+          parseUtc(dayValue)
+
+        const startDate =
+          parseUtc(startValue)
+
+        if (firstStart === null) {
+          firstStart =
+            startDate
+
+          /*
+           D-Smart'ın day + start_date
+           kombinasyonundaki saat farkını
+           koruyoruz.
+           */
+
+          const dayText =
+            String(dayValue)
+
+          const startText =
+            String(startValue)
+
+          let combined
+
+          if (
+            dayText.length >= 11 &&
+            startText.length >= 11
+          ) {
+            combined =
+              dayText.slice(0, 11) +
+              startText.slice(11)
+          }
+
+          if (combined) {
+            const combinedDate =
+              parseUtc(combined)
+
+            offset =
+              combinedDate.getTime() -
+              baseDate.getTime()
+          } else {
+            offset = 0
+          }
+        }
+
+        const delta =
+          startDate.getTime() -
+          firstStart.getTime()
+
+        const start =
+          new Date(
+            baseDate.getTime() +
+            (offset || 0) +
+            delta
+          )
+
+        const duration =
+          parseDuration(
+            durationValue
+          )
+
+        const stop =
+          new Date(
+            start.getTime() +
+            duration
+          )
+
+        programs.push({
+          channel: channelId,
+          title,
+          start,
+          stop
+        })
+
+        continue
+      }
+
+      /*
+       Alternatif format:
+       start + duration
+       */
+
+      if (
+        startValue &&
+        durationValue
+      ) {
+        const start =
+          parseUtc(startValue)
+
+        const duration =
+          parseDuration(
+            durationValue
+          )
+
+        const stop =
+          new Date(
+            start.getTime() +
+            duration
+          )
+
+        programs.push({
+          channel: channelId,
+          title,
+          start,
+          stop
+        })
+
+        continue
+      }
+
+      /*
+       Alternatif:
+       start + end
+       */
+
+      const endValue =
+        firstValue(
+          program,
+          [
+            "end_date",
+            "endDate",
+            "end_time",
+            "endTime",
+            "end",
+            "stop",
+            "to"
+          ]
         )
 
-      const duration =
-        parseDuration(
-          p.duration
-        )
+      if (
+        startValue &&
+        endValue
+      ) {
+        const start =
+          parseUtc(startValue)
 
-      const stop =
-        new Date(
-          start.getTime() +
-          duration
-        )
+        const stop =
+          parseUtc(endValue)
 
-      programs.push({
-        channel: channelId,
-        title,
-        start,
-        stop
-      })
+        if (
+          stop.getTime() >
+          start.getTime()
+        ) {
+          programs.push({
+            channel: channelId,
+            title,
+            start,
+            stop
+          })
+        }
+      }
 
     } catch (error) {
       console.log(
-        `Program atlandı: ${title}`
+        `Program atlandı: ${getProgramTitle(program) || "Bilinmeyen"}`
       )
 
       console.log(
@@ -215,13 +588,22 @@ function parseSchedule(channel) {
 }
 
 
+/*
+==================================================
+TÜM SAYFALAR
+==================================================
+*/
+
 async function fetchAllPages(day) {
   console.log(
     `D-Smart ${day} indiriliyor...`
   )
 
   const first =
-    await fetchJson(day, 1)
+    await fetchJson(
+      day,
+      1
+    )
 
   const total =
     Number(
@@ -238,7 +620,8 @@ async function fetchAllPages(day) {
 
   const pages =
     Math.ceil(
-      total / PAGE_LIMIT
+      total /
+      PAGE_LIMIT
     )
 
   console.log(
@@ -281,6 +664,10 @@ async function fetchAllPages(day) {
         ...result.data.channels
       )
     }
+
+    await sleep(
+      REQUEST_DELAY
+    )
   }
 
   console.log(
@@ -291,8 +678,16 @@ async function fetchAllPages(day) {
 }
 
 
+/*
+==================================================
+XML ESCAPE
+==================================================
+*/
+
 function xmlEscape(value) {
-  return String(value || "")
+  return String(
+    value || ""
+  )
     .replace(
       /&/g,
       "&amp;"
@@ -316,6 +711,12 @@ function xmlEscape(value) {
 }
 
 
+/*
+==================================================
+XMLTV TARİH
+==================================================
+*/
+
 function xmltvTime(date) {
   const year =
     date.getUTCFullYear()
@@ -323,27 +724,42 @@ function xmltvTime(date) {
   const month =
     String(
       date.getUTCMonth() + 1
-    ).padStart(2, "0")
+    ).padStart(
+      2,
+      "0"
+    )
 
   const day =
     String(
       date.getUTCDate()
-    ).padStart(2, "0")
+    ).padStart(
+      2,
+      "0"
+    )
 
   const hour =
     String(
       date.getUTCHours()
-    ).padStart(2, "0")
+    ).padStart(
+      2,
+      "0"
+    )
 
   const minute =
     String(
       date.getUTCMinutes()
-    ).padStart(2, "0")
+    ).padStart(
+      2,
+      "0"
+    )
 
   const second =
     String(
       date.getUTCSeconds()
-    ).padStart(2, "0")
+    ).padStart(
+      2,
+      "0"
+    )
 
   return (
     `${year}${month}${day}` +
@@ -351,6 +767,12 @@ function xmltvTime(date) {
   )
 }
 
+
+/*
+==================================================
+XML OLUŞTUR
+==================================================
+*/
 
 function buildXml(
   programs,
@@ -376,21 +798,21 @@ function buildXml(
     ].sort()
 
   for (
-    const channelId of channelIds
+    const channelId
+    of channelIds
   ) {
     const name =
       cleanText(
         channelNames[channelId]
-      ) || channelId
+      ) ||
+      channelId
 
     xml.push(
       `  <channel id="${xmlEscape(channelId)}">`
     )
 
     xml.push(
-      `    <display-name lang="tr">` +
-      `${xmlEscape(name)}` +
-      `</display-name>`
+      `    <display-name lang="tr">${xmlEscape(name)}</display-name>`
     )
 
     xml.push(
@@ -400,12 +822,14 @@ function buildXml(
 
   programs.sort(
     (a, b) => {
-      const timeDifference =
+      const difference =
         a.start.getTime() -
         b.start.getTime()
 
-      if (timeDifference !== 0) {
-        return timeDifference
+      if (
+        difference !== 0
+      ) {
+        return difference
       }
 
       return a.channel.localeCompare(
@@ -415,7 +839,8 @@ function buildXml(
   )
 
   for (
-    const program of programs
+    const program
+    of programs
   ) {
     xml.push(
       `  <programme ` +
@@ -425,9 +850,7 @@ function buildXml(
     )
 
     xml.push(
-      `    <title lang="tr">` +
-      `${xmlEscape(program.title)}` +
-      `</title>`
+      `    <title lang="tr">${xmlEscape(program.title)}</title>`
     )
 
     xml.push(
@@ -446,39 +869,53 @@ function buildXml(
 }
 
 
+/*
+==================================================
+GÜNLER
+==================================================
+*/
+
 function getDays() {
+  const days = []
+
+  /*
+   Tarihi UTC yerine lokal takvim üzerinden
+   oluşturuyoruz.
+   */
+
   const now =
     new Date()
 
-  const days = []
-
   for (
     let i = 0;
-    i < 7;
+    i < DAYS;
     i++
   ) {
     const date =
       new Date(
-        now.getTime() +
-        i *
-        24 *
-        60 *
-        60 *
-        1000
+        now.getFullYear(),
+        now.getMonth(),
+        now.getDate() + i
       )
 
     const year =
-      date.getUTCFullYear()
+      date.getFullYear()
 
     const month =
       String(
-        date.getUTCMonth() + 1
-      ).padStart(2, "0")
+        date.getMonth() + 1
+      ).padStart(
+        2,
+        "0"
+      )
 
     const day =
       String(
-        date.getUTCDate()
-      ).padStart(2, "0")
+        date.getDate()
+      ).padStart(
+        2,
+        "0"
+      )
 
     days.push(
       `${year}-${month}-${day}`
@@ -488,6 +925,12 @@ function getDays() {
   return days
 }
 
+
+/*
+==================================================
+KANAL ADI
+==================================================
+*/
 
 function addChannelName(
   channelNames,
@@ -509,25 +952,21 @@ function addChannelName(
       channelNames[channelId]
     )
 
-  /*
-   Eğer daha önce boş veya sadece ID varsa
-   gerçek kanal adıyla değiştir.
-  */
-
   if (
     !oldName ||
     oldName === channelId
   ) {
-    channelNames[channelId] = name
-    return
+    channelNames[channelId] =
+      name
   }
-
-  /*
-   Önceki isim zaten gerçek bir isimse
-   koru.
-  */
 }
 
+
+/*
+==================================================
+ANA FONKSİYON
+==================================================
+*/
 
 async function main() {
   console.log(
@@ -546,25 +985,32 @@ async function main() {
     getDays()
 
   const allPrograms = []
+
   const channelNames = {}
 
   for (
-    const day of days
+    const day
+    of days
   ) {
     console.log(
       `Gün: ${day}`
     )
 
     const channels =
-      await fetchAllPages(day)
+      await fetchAllPages(
+        day
+      )
+
+    let dayPrograms = 0
+
+    let channelsWithSchedule = 0
 
     for (
-      const channel of channels
+      const channel
+      of channels
     ) {
       const channelId =
-        String(
-          channel._id || ""
-        ).trim()
+        getChannelId(channel)
 
       if (!channelId) {
         continue
@@ -576,8 +1022,24 @@ async function main() {
         channel
       )
 
+      const schedule =
+        findSchedule(
+          channel
+        )
+
+      if (
+        schedule.length > 0
+      ) {
+        channelsWithSchedule++
+      }
+
       const programs =
-        parseSchedule(channel)
+        parseSchedule(
+          channel
+        )
+
+      dayPrograms +=
+        programs.length
 
       allPrograms.push(
         ...programs
@@ -585,26 +1047,70 @@ async function main() {
     }
 
     console.log(
-      `${day}: ` +
-      `${allPrograms.length} toplam program`
+      `${day}: ${dayPrograms} program`
     )
+
+    console.log(
+      `${day}: ${channelsWithSchedule} kanalda program verisi bulundu`
+    )
+
+    /*
+     Eğer yine 0 ise API yapısını
+     terminalde açıkça göster.
+     */
+
+    if (
+      dayPrograms === 0 &&
+      channels.length > 0
+    ) {
+      console.log("")
+      console.log(
+        "UYARI: Kanal geldi fakat program alanı bulunamadı."
+      )
+
+      const sample =
+        channels[0]
+
+      console.log(
+        "İlk kanalın alanları:"
+      )
+
+      console.log(
+        Object.keys(
+          sample
+        )
+      )
+
+      console.log(
+        "İlk kanal örneği:"
+      )
+
+      console.log(
+        JSON.stringify(
+          sample,
+          null,
+          2
+        ).slice(
+          0,
+          8000
+        )
+      )
+
+      console.log("")
+    }
   }
 
-  if (!allPrograms.length) {
-    throw new Error(
-      "Hiç D-Smart programı alınamadı."
-    )
-  }
 
   /*
-   Aynı programların tekrarını temizle.
-  */
+   DUPLICATE TEMİZLE
+   */
 
   const unique =
     new Map()
 
   for (
-    const program of allPrograms
+    const program
+    of allPrograms
   ) {
     const key =
       [
@@ -614,7 +1120,9 @@ async function main() {
         program.title
       ].join("|")
 
-    if (!unique.has(key)) {
+    if (
+      !unique.has(key)
+    ) {
       unique.set(
         key,
         program
@@ -627,10 +1135,44 @@ async function main() {
       unique.values()
     )
 
+
   /*
-   Sadece programı bulunan kanallar
-   XML'e yazılır.
-  */
+   PROGRAM YOKSA HATA
+   */
+
+  if (
+    !programs.length
+  ) {
+    console.log("")
+    console.log(
+      "========================================"
+    )
+
+    console.log(
+      "D-SMART EPG HATASI"
+    )
+
+    console.log(
+      "========================================"
+    )
+
+    console.log(
+      "181 kanal alınmış olmasına rağmen program bulunamadı."
+    )
+
+    console.log(
+      "Terminalde yukarıdaki 'İlk kanal örneği' bölümünü kontrol et."
+    )
+
+    throw new Error(
+      "Hiç D-Smart programı alınamadı."
+    )
+  }
+
+
+  /*
+   AKTİF KANALLAR
+   */
 
   const activeChannelIds =
     new Set(
@@ -640,7 +1182,8 @@ async function main() {
     )
 
   for (
-    const channelId of activeChannelIds
+    const channelId
+    of activeChannelIds
   ) {
     if (
       !channelNames[channelId]
@@ -649,6 +1192,11 @@ async function main() {
         channelId
     }
   }
+
+
+  /*
+   XML
+   */
 
   const xml =
     buildXml(
@@ -661,6 +1209,11 @@ async function main() {
     xml,
     "utf8"
   )
+
+
+  /*
+   SONUÇ
+   */
 
   console.log(
     "========================================"
@@ -679,7 +1232,11 @@ async function main() {
   )
 
   console.log(
-    "Gün sayısı: 7"
+    `Gün sayısı: ${DAYS}`
+  )
+
+  console.log(
+    "Dosya: dsmart.xml"
   )
 
   console.log(
@@ -688,14 +1245,25 @@ async function main() {
 }
 
 
-main().catch(error => {
-  console.error(
-    "D-SMART EPG HATASI:"
-  )
+/*
+==================================================
+HATA YAKALAMA
+==================================================
+*/
 
-  console.error(
-    error
-  )
+main().catch(
+  error => {
+    console.error("")
+    console.error(
+      "D-SMART EPG HATASI:"
+    )
+    console.error("")
+    console.error(
+      error.message ||
+      error
+    )
+    console.error("")
 
-  process.exit(1)
-})
+    process.exit(1)
+  }
+)
