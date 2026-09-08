@@ -198,6 +198,9 @@
   <channel id="59dca881cfef0b4d80a47c30">
     <display-name lang="tr">KRT</display-name>
   </channel>
+  <channel id="59dcbe14cfef0b4d80a49646">
+    <display-name lang="tr">a2</display-name>
+  </channel>
   <channel id="59dcbee1cfef0b4d80a49650">
     <display-name lang="tr">TRT 4K</display-name>
   </channel>
@@ -287,6 +290,9 @@
   </channel>
   <channel id="66e7e54ccfef0b374461c370">
     <display-name lang="tr">Haber Çoklu Ekran</display-name>
+  </channel>
+  <channel id="66e7e5cdcfef0b374461c45b">
+    <display-name lang="tr">Spor Çoklu Ekran</display-name>
   </channel>
   <channel id="674b8600cfef0b37448977de">
     <display-name lang="tr">Gzt</display-name>
@@ -11547,6 +11553,9 @@
   <programme start="20260908210000 +0000" stop="20260908212400 +0000" channel="6540d968cfef0b02d2dbb177">
     <title lang="tr">Cico ile Moco - Bölüm 25</title>
   </programme>
+  <programme start="20260908210000 +0000" stop="20260908210500 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">İnovasyon Çağı</title>
+  </programme>
   <programme start="20260908210000 +0000" stop="20260908213000 +0000" channel="68e77d8fcfef0b374432906d">
     <title lang="tr">Şirinler - Smurf</title>
   </programme>
@@ -11555,6 +11564,9 @@
   </programme>
   <programme start="20260908210500 +0000" stop="20260908212000 +0000" channel="58d29bb0eefad3db9c6062b9">
     <title lang="tr">Kral Şakir</title>
+  </programme>
+  <programme start="20260908210500 +0000" stop="20260908213500 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Faraway Village</title>
   </programme>
   <programme start="20260908210700 +0000" stop="20260908211500 +0000" channel="58d29bb0eefad3db9c6062bf">
     <title lang="tr">Ormanın Ritmi</title>
@@ -11702,6 +11714,9 @@
   </programme>
   <programme start="20260908213500 +0000" stop="20260908215500 +0000" channel="5fedddcecfef0b159330996e">
     <title lang="tr">Süper Kediler: Sü-perrr Güçlü</title>
+  </programme>
+  <programme start="20260908213500 +0000" stop="20260908221300 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Faraway Village</title>
   </programme>
   <programme start="20260908213700 +0000" stop="20260908214100 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Gözlerini Kapat</title>
@@ -11916,6 +11931,9 @@
   <programme start="20260908221200 +0000" stop="20260908222000 +0000" channel="58d29bb0eefad3db9c6062bf">
     <title lang="tr">Tamircikler</title>
   </programme>
+  <programme start="20260908221300 +0000" stop="20260908224600 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Zpor</title>
+  </programme>
   <programme start="20260908221400 +0000" stop="20260908221800 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Gözlerini Kapat</title>
   </programme>
@@ -12086,6 +12104,9 @@
   </programme>
   <programme start="20260908224600 +0000" stop="20260908224900 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Gözlerini Kapat</title>
+  </programme>
+  <programme start="20260908224600 +0000" stop="20260908234200 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Outdoor Builder</title>
   </programme>
   <programme start="20260908224700 +0000" stop="20260908232300 +0000" channel="6540d968cfef0b02d2dbb177">
     <title lang="tr">Cico ile Moco - Bölüm 23</title>
@@ -12384,6 +12405,9 @@
   <programme start="20260908234000 +0000" stop="20260909000500 +0000" channel="67a3521bcfef0b3744abd66d">
     <title lang="tr">Afrika&apos;da Yolculuklar</title>
   </programme>
+  <programme start="20260908234200 +0000" stop="20260909000400 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Short Akışı</title>
+  </programme>
   <programme start="20260908234300 +0000" stop="20260908234700 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Gözlerini Kapat</title>
   </programme>
@@ -12528,6 +12552,9 @@
   <programme start="20260909000400 +0000" stop="20260909002800 +0000" channel="58d29bb0eefad3db9c6062b6">
     <title lang="tr">Altın Kız (Kelly Holmes) ve Astronot (Tim Peake)</title>
   </programme>
+  <programme start="20260909000400 +0000" stop="20260909002600 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Farm Tales</title>
+  </programme>
   <programme start="20260909000500 +0000" stop="20260909001500 +0000" channel="58d29bb0eefad3db9c6062b9">
     <title lang="tr">Kral Şakir</title>
   </programme>
@@ -12608,6 +12635,9 @@
   </programme>
   <programme start="20260909002600 +0000" stop="20260909004000 +0000" channel="58d29bb0eefad3db9c6062bf">
     <title lang="tr">Bitz ve Bob</title>
+  </programme>
+  <programme start="20260909002600 +0000" stop="20260909005600 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Farm Tales</title>
   </programme>
   <programme start="20260909002800 +0000" stop="20260909003300 +0000" channel="58d29bb0eefad3db9c6062b6">
     <title lang="tr">Sıfır Artıktan Yeşil Lezzete</title>
@@ -12786,6 +12816,9 @@
   <programme start="20260909005500 +0000" stop="20260909014000 +0000" channel="67e5c246cfef0b3744c53a83">
     <title lang="tr">Emlakçı Kardeşler: Yuvamız</title>
   </programme>
+  <programme start="20260909005600 +0000" stop="20260909011300 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Kanan Badalov</title>
+  </programme>
   <programme start="20260909005700 +0000" stop="20260909010000 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Gözlerini Kapat</title>
   </programme>
@@ -12884,6 +12917,9 @@
   </programme>
   <programme start="20260909011300 +0000" stop="20260909011900 +0000" channel="58d29bb0eefad3db9c6062bf">
     <title lang="tr">Bitz ve Bob - Sen De Yapabilirsin</title>
+  </programme>
+  <programme start="20260909011300 +0000" stop="20260909013100 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Kanan Badalov</title>
   </programme>
   <programme start="20260909011400 +0000" stop="20260909012800 +0000" channel="58d29bb0eefad3db9c6062b6">
     <title lang="tr">Laura Biondo: Serbest Stil Futbol Şampiyonu</title>
@@ -12999,6 +13035,9 @@
   <programme start="20260909013000 +0000" stop="20260909023000 +0000" channel="69b279d6cfef0b02ec9a77d4">
     <title lang="tr">Dünyamız II</title>
   </programme>
+  <programme start="20260909013100 +0000" stop="20260909014600 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Kanan Badalov</title>
+  </programme>
   <programme start="20260909013300 +0000" stop="20260909013600 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Gözlerini Kapat</title>
   </programme>
@@ -13088,6 +13127,9 @@
   </programme>
   <programme start="20260909014500 +0000" stop="20260909023000 +0000" channel="69cac455cfef0b02ecab7d00">
     <title lang="tr">Sorgu Yargıcı</title>
+  </programme>
+  <programme start="20260909014600 +0000" stop="20260909020900 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Wood Wolf</title>
   </programme>
   <programme start="20260909014700 +0000" stop="20260909020000 +0000" channel="58d29bb0eefad3db9c6062b6">
     <title lang="tr">Gelecekteki Yollar Daha mı Yeşil?</title>
@@ -13238,6 +13280,9 @@
   </programme>
   <programme start="20260909020900 +0000" stop="20260909021500 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Billy BamBam</title>
+  </programme>
+  <programme start="20260909020900 +0000" stop="20260909023700 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Wood Wolf</title>
   </programme>
   <programme start="20260909021000 +0000" stop="20260909031500 +0000" channel="58d29bb0eefad3db9c606278">
     <title lang="tr">Mutfağım</title>
@@ -13401,6 +13446,9 @@
   <programme start="20260909023500 +0000" stop="20260909030000 +0000" channel="67e5c4c6cfef0b3744c556fa">
     <title lang="tr">Nasıl Yapılmış?</title>
   </programme>
+  <programme start="20260909023700 +0000" stop="20260909025900 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Short Akışı</title>
+  </programme>
   <programme start="20260909023800 +0000" stop="20260909024300 +0000" channel="58d29bb0eefad3db9c6062bf">
     <title lang="tr">Boom ve Kızıllar</title>
   </programme>
@@ -13475,6 +13523,9 @@
   </programme>
   <programme start="20260909025500 +0000" stop="20260909030000 +0000" channel="58d29bb0eefad3db9c6062bf">
     <title lang="tr">100 Ways to Draw</title>
+  </programme>
+  <programme start="20260909025900 +0000" stop="20260909034400 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">The Ulengovs</title>
   </programme>
   <programme start="20260909030000 +0000" stop="20260909035000 +0000" channel="58d29bb0eefad3db9c60623a">
     <title lang="tr">Haber Bülteni</title>
@@ -13791,6 +13842,9 @@
   <programme start="20260909034000 +0000" stop="20260909034500 +0000" channel="5da87214cfef0b4df9157780">
     <title lang="tr">Kadraj</title>
   </programme>
+  <programme start="20260909034400 +0000" stop="20260909040000 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Kanan Badalov</title>
+  </programme>
   <programme start="20260909034500 +0000" stop="20260909041300 +0000" channel="58d29bb0eefad3db9c606231">
     <title lang="tr">Trendyol 1. Lig Özetler Bölüm 6</title>
   </programme>
@@ -13997,6 +14051,9 @@
   </programme>
   <programme start="20260909040000 +0000" stop="20260909043000 +0000" channel="66630f98cfef0b02d797d815">
     <title lang="tr">Sabah Notları</title>
+  </programme>
+  <programme start="20260909040000 +0000" stop="20260909044200 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">The Ulengovs</title>
   </programme>
   <programme start="20260909040000 +0000" stop="20260909043000 +0000" channel="67e5c246cfef0b3744c53a83">
     <title lang="tr">Emlak Avcıları Amerika</title>
@@ -14222,6 +14279,9 @@
   </programme>
   <programme start="20260909044100 +0000" stop="20260909060000 +0000" channel="59dcbfdccfef0b4d80a4974a">
     <title lang="tr">İkizler Memo-Can 4.Bölüm</title>
+  </programme>
+  <programme start="20260909044200 +0000" stop="20260909052000 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Muratca</title>
   </programme>
   <programme start="20260909044400 +0000" stop="20260909045000 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Mona &amp; Sketch</title>
@@ -14459,6 +14519,9 @@
   </programme>
   <programme start="20260909052000 +0000" stop="20260909061500 +0000" channel="5dfc9faacfef0b201d2246b5">
     <title lang="tr">Haşin Gökyüzü</title>
+  </programme>
+  <programme start="20260909052000 +0000" stop="20260909061500 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Asbjorn Olsen Berg Bushcraft</title>
   </programme>
   <programme start="20260909052400 +0000" stop="20260909052900 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Stitches</title>
@@ -14787,6 +14850,9 @@
   <programme start="20260909061500 +0000" stop="20260909083000 +0000" channel="5fe07f72cfef0b159327585a">
     <title lang="tr">İnternette Av</title>
   </programme>
+  <programme start="20260909061500 +0000" stop="20260909064900 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Visual Walk Uk</title>
+  </programme>
   <programme start="20260909061500 +0000" stop="20260909063000 +0000" channel="69b279d6cfef0b02ec9a77d4">
     <title lang="tr">Andy&apos;nin Yaban Maceraları</title>
   </programme>
@@ -14960,6 +15026,9 @@
   </programme>
   <programme start="20260909064900 +0000" stop="20260909071500 +0000" channel="5fe07e42cfef0b15932757a3">
     <title lang="tr">Orman Dostları 4</title>
+  </programme>
+  <programme start="20260909064900 +0000" stop="20260909073100 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Crazy Bushcraft</title>
   </programme>
   <programme start="20260909065000 +0000" stop="20260909070000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Maşa ile Koca Ayı</title>
@@ -15249,6 +15318,9 @@
   <programme start="20260909073100 +0000" stop="20260909073600 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Küçük Lola Çiftlikte</title>
   </programme>
+  <programme start="20260909073100 +0000" stop="20260909075600 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Lesnoy Craft</title>
+  </programme>
   <programme start="20260909073500 +0000" stop="20260909075500 +0000" channel="58d29bb0eefad3db9c6062b9">
     <title lang="tr">Mr. Bean</title>
   </programme>
@@ -15338,6 +15410,9 @@
   </programme>
   <programme start="20260909075500 +0000" stop="20260909085500 +0000" channel="69963435cfef0b02ec88cbb0">
     <title lang="tr">Milletin Efendisi</title>
+  </programme>
+  <programme start="20260909075600 +0000" stop="20260909083600 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Polissya Bushcraft</title>
   </programme>
   <programme start="20260909075700 +0000" stop="20260909080300 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Lale Ki Lolu</title>
@@ -15600,6 +15675,9 @@
   <programme start="20260909083500 +0000" stop="20260909092500 +0000" channel="67a3521bcfef0b3744abd66d">
     <title lang="tr">Seyreltilmiş Uranyum, Çok Sunulabilir Bir Katil</title>
   </programme>
+  <programme start="20260909083600 +0000" stop="20260909090500 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Serkan Bilgin</title>
+  </programme>
   <programme start="20260909083700 +0000" stop="20260909084600 +0000" channel="58d29bb0eefad3db9c6062b6">
     <title lang="tr">Bal kadar tatlı</title>
   </programme>
@@ -15810,6 +15888,9 @@
   <programme start="20260909090500 +0000" stop="20260909095000 +0000" channel="58d29bb0eefad3db9c6062bd">
     <title lang="tr">Dünyayı Değiştiren Kraliçeler</title>
   </programme>
+  <programme start="20260909090500 +0000" stop="20260909094500 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Serkan Bilgin</title>
+  </programme>
   <programme start="20260909090700 +0000" stop="20260909091600 +0000" channel="58d29bb0eefad3db9c6062bf">
     <title lang="tr">Superhero Sprinter Galore</title>
   </programme>
@@ -16017,6 +16098,9 @@
   <programme start="20260909094500 +0000" stop="20260909095500 +0000" channel="5fedddcecfef0b159330996e">
     <title lang="tr">Bluey</title>
   </programme>
+  <programme start="20260909094500 +0000" stop="20260909101200 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Short Akışı</title>
+  </programme>
   <programme start="20260909094500 +0000" stop="20260909103000 +0000" channel="69cac455cfef0b02ecab7d00">
     <title lang="tr">Shakespeare &amp; Hathaway: Özel Dedektifler</title>
   </programme>
@@ -16197,6 +16281,9 @@
   <programme start="20260909101000 +0000" stop="20260909101500 +0000" channel="5fedddcecfef0b159330996e">
     <title lang="tr">Bluey</title>
   </programme>
+  <programme start="20260909101200 +0000" stop="20260909103300 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Survival Liar</title>
+  </programme>
   <programme start="20260909101500 +0000" stop="20260909113000 +0000" channel="58d29bb0eefad3db9c606231">
     <title lang="tr">Spor Stüdyosu</title>
   </programme>
@@ -16320,6 +16407,9 @@
   <programme start="20260909103300 +0000" stop="20260909104800 +0000" channel="58d29bb0eefad3db9c6062b6">
     <title lang="tr">Kaybolan Buhar</title>
   </programme>
+  <programme start="20260909103300 +0000" stop="20260909105400 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Survival Liar</title>
+  </programme>
   <programme start="20260909103500 +0000" stop="20260909104100 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Walter &amp; Dude</title>
   </programme>
@@ -16412,6 +16502,9 @@
   </programme>
   <programme start="20260909105200 +0000" stop="20260909105800 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Choopies</title>
+  </programme>
+  <programme start="20260909105400 +0000" stop="20260909113400 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Kend Hayatı</title>
   </programme>
   <programme start="20260909105500 +0000" stop="20260909110000 +0000" channel="58d29bb0eefad3db9c60623a">
     <title lang="tr">Hava Durumu</title>
@@ -16661,6 +16754,9 @@
   </programme>
   <programme start="20260909113400 +0000" stop="20260909114000 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Lale Ki Lolu</title>
+  </programme>
+  <programme start="20260909113400 +0000" stop="20260909122300 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Faraway Village</title>
   </programme>
   <programme start="20260909113500 +0000" stop="20260909122000 +0000" channel="58d29bb0eefad3db9c606248">
     <title lang="tr">Mühendislik Harikaları</title>
@@ -16917,6 +17013,9 @@
   <programme start="20260909122300 +0000" stop="20260909122900 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Mini Matinee</title>
   </programme>
+  <programme start="20260909122300 +0000" stop="20260909124400 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Rextorer</title>
+  </programme>
   <programme start="20260909122500 +0000" stop="20260909123500 +0000" channel="58d29bb0eefad3db9c6062b9">
     <title lang="tr">Batwheels</title>
   </programme>
@@ -17010,6 +17109,9 @@
   <programme start="20260909124300 +0000" stop="20260909125200 +0000" channel="58d29bb0eefad3db9c6062b6">
     <title lang="tr">Sırt çantası</title>
   </programme>
+  <programme start="20260909124400 +0000" stop="20260909125400 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Adhoc Cars</title>
+  </programme>
   <programme start="20260909124500 +0000" stop="20260909143000 +0000" channel="58d29bb0eefad3db9c606236">
     <title lang="tr">Türk Sineması&apos;&apos;Çile&apos;&apos;</title>
   </programme>
@@ -17054,6 +17156,9 @@
   </programme>
   <programme start="20260909125200 +0000" stop="20260909125800 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Mona &amp; Sketch</title>
+  </programme>
+  <programme start="20260909125400 +0000" stop="20260909131900 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Mei Time</title>
   </programme>
   <programme start="20260909125500 +0000" stop="20260909130000 +0000" channel="58d29bb0eefad3db9c60623a">
     <title lang="tr">Hava Durumu</title>
@@ -17232,6 +17337,9 @@
   <programme start="20260909131900 +0000" stop="20260909133000 +0000" channel="58d29bb0eefad3db9c6062b9">
     <title lang="tr">Batwheels</title>
   </programme>
+  <programme start="20260909131900 +0000" stop="20260909134100 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Short Akışı</title>
+  </programme>
   <programme start="20260909132000 +0000" stop="20260909132600 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Olly</title>
   </programme>
@@ -17357,6 +17465,9 @@
   </programme>
   <programme start="20260909134000 +0000" stop="20260909140500 +0000" channel="5fedddcecfef0b159330996e">
     <title lang="tr">Mickey&apos;nin Kulüp Evi+</title>
+  </programme>
+  <programme start="20260909134100 +0000" stop="20260909142400 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Sweet Village</title>
   </programme>
   <programme start="20260909134500 +0000" stop="20260909135500 +0000" channel="58d29bb0eefad3db9c60623a">
     <title lang="tr">Spor</title>
@@ -17576,6 +17687,9 @@
   </programme>
   <programme start="20260909142300 +0000" stop="20260909143100 +0000" channel="58d29bb0eefad3db9c6062bf">
     <title lang="tr">Bitz ve Bob - Sen De Yapabilirsin</title>
+  </programme>
+  <programme start="20260909142400 +0000" stop="20260909151200 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Sweet Village</title>
   </programme>
   <programme start="20260909142500 +0000" stop="20260909143000 +0000" channel="58d29bb0eefad3db9c60626d">
     <title lang="tr">Baby Born</title>
@@ -17880,6 +17994,9 @@
   <programme start="20260909151100 +0000" stop="20260909151400 +0000" channel="58d29bb0eefad3db9c6062bf">
     <title lang="tr">Evcil Dinazorum</title>
   </programme>
+  <programme start="20260909151200 +0000" stop="20260909155600 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Kend Hayatı</title>
+  </programme>
   <programme start="20260909151400 +0000" stop="20260909152700 +0000" channel="58d29bb0eefad3db9c6062b6">
     <title lang="tr">Kırmızı Başlıklı Bev</title>
   </programme>
@@ -18092,6 +18209,9 @@
   </programme>
   <programme start="20260909155600 +0000" stop="20260909160100 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Pix ve Leo</title>
+  </programme>
+  <programme start="20260909155600 +0000" stop="20260909165300 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Kend Hayatı</title>
   </programme>
   <programme start="20260909155800 +0000" stop="20260909170000 +0000" channel="59dcbfdccfef0b4d80a4974a">
     <title lang="tr">Kanal D Ana Haber Bülteni</title>
@@ -18420,6 +18540,9 @@
   <programme start="20260909165100 +0000" stop="20260909165700 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Billy BamBam</title>
   </programme>
+  <programme start="20260909165300 +0000" stop="20260909172100 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Hasan Ada</title>
+  </programme>
   <programme start="20260909165500 +0000" stop="20260909170000 +0000" channel="58d29bb0eefad3db9c60623a">
     <title lang="tr">Hava Durumu</title>
   </programme>
@@ -18657,6 +18780,9 @@
   <programme start="20260909172100 +0000" stop="20260909172600 +0000" channel="58d29bb0eefad3db9c6062bf">
     <title lang="tr">Evcil Dinazorum</title>
   </programme>
+  <programme start="20260909172100 +0000" stop="20260909175600 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Hasan Ada</title>
+  </programme>
   <programme start="20260909172500 +0000" stop="20260909175000 +0000" channel="5fedddcecfef0b159330996e">
     <title lang="tr">Marvel Spidey ve İnanılmaz Arkadaşları</title>
   </programme>
@@ -18791,6 +18917,9 @@
   </programme>
   <programme start="20260909175500 +0000" stop="20260909185500 +0000" channel="69963435cfef0b02ec88cbb0">
     <title lang="tr">Adını Koyalım</title>
+  </programme>
+  <programme start="20260909175600 +0000" stop="20260909181800 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Wilderness Grill</title>
   </programme>
   <programme start="20260909175800 +0000" stop="20260909180100 +0000" channel="58d29bb0eefad3db9c6062bf">
     <title lang="tr">Evcil Dinazorum</title>
@@ -18948,6 +19077,9 @@
   <programme start="20260909181800 +0000" stop="20260909182400 +0000" channel="58d29bb0eefad3db9c6062bf">
     <title lang="tr">Superhero Sprinter Galore</title>
   </programme>
+  <programme start="20260909181800 +0000" stop="20260909184300 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Wilderness Grill</title>
+  </programme>
   <programme start="20260909182000 +0000" stop="20260909183000 +0000" channel="58d29bb0eefad3db9c6062b9">
     <title lang="tr">Mr. Bean</title>
   </programme>
@@ -19064,6 +19196,9 @@
   </programme>
   <programme start="20260909184300 +0000" stop="20260909184600 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Gözlerini Kapat</title>
+  </programme>
+  <programme start="20260909184300 +0000" stop="20260909190600 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Wilderness Grill</title>
   </programme>
   <programme start="20260909184500 +0000" stop="20260909203000 +0000" channel="58d29bb0eefad3db9c606298">
     <title lang="tr">Şampiyonun Dirilişi</title>
@@ -19221,6 +19356,9 @@
   <programme start="20260909190500 +0000" stop="20260909193000 +0000" channel="5fedddcecfef0b159330996e">
     <title lang="tr">Patinşaat</title>
   </programme>
+  <programme start="20260909190600 +0000" stop="20260909194000 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Faraway Village</title>
+  </programme>
   <programme start="20260909190700 +0000" stop="20260909191300 +0000" channel="58d29bb0eefad3db9c6062bf">
     <title lang="tr">Tamircikler</title>
   </programme>
@@ -19358,6 +19496,9 @@
   </programme>
   <programme start="20260909194000 +0000" stop="20260909194500 +0000" channel="5fedddcecfef0b159330996e">
     <title lang="tr">Bluey</title>
+  </programme>
+  <programme start="20260909194000 +0000" stop="20260909201800 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Faraway Village</title>
   </programme>
   <programme start="20260909194300 +0000" stop="20260909194600 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Gözlerini Kapat</title>
@@ -19617,6 +19758,9 @@
   <programme start="20260909201700 +0000" stop="20260909202100 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Gözlerini Kapat</title>
   </programme>
+  <programme start="20260909201800 +0000" stop="20260909204000 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Short Akışı</title>
+  </programme>
   <programme start="20260909201900 +0000" stop="20260909202700 +0000" channel="58d29bb0eefad3db9c6062bf">
     <title lang="tr">Ormanın Ritmi</title>
   </programme>
@@ -19724,6 +19868,9 @@
   </programme>
   <programme start="20260909204000 +0000" stop="20260909204300 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Gözlerini Kapat</title>
+  </programme>
+  <programme start="20260909204000 +0000" stop="20260909234000 +0000" channel="674b8600cfef0b37448977de">
+    <title lang="tr">Survival Liar</title>
   </programme>
   <programme start="20260909204000 +0000" stop="20260909210500 +0000" channel="69cac455cfef0b02ecab7d00">
     <title lang="tr">Değişim</title>
@@ -19871,6 +20018,12 @@
   </programme>
   <programme start="20260909210000 +0000" stop="20260909230000 +0000" channel="66e7e50dcfef0b374461c36e">
     <title lang="tr">Eğlence Çoklu Ekran</title>
+  </programme>
+  <programme start="20260909210000 +0000" stop="20260909230000 +0000" channel="66e7e54ccfef0b374461c370">
+    <title lang="tr">Haber Çoklu Ekran</title>
+  </programme>
+  <programme start="20260909210000 +0000" stop="20260909230000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
   </programme>
   <programme start="20260909210000 +0000" stop="20260909212200 +0000" channel="674b8600cfef0b37448977de">
     <title lang="tr">Survival Liar</title>
@@ -20475,6 +20628,12 @@
   <programme start="20260909230000 +0000" stop="20260910000000 +0000" channel="66e7e50dcfef0b374461c36e">
     <title lang="tr">Eğlence Çoklu Ekran</title>
   </programme>
+  <programme start="20260909230000 +0000" stop="20260910000000 +0000" channel="66e7e54ccfef0b374461c370">
+    <title lang="tr">Haber Çoklu Ekran</title>
+  </programme>
+  <programme start="20260909230000 +0000" stop="20260910000000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
+  </programme>
   <programme start="20260909230000 +0000" stop="20260909233000 +0000" channel="67a3521bcfef0b3744abd66d">
     <title lang="tr">Dünya Üzerinde Uçmak</title>
   </programme>
@@ -20774,6 +20933,12 @@
   </programme>
   <programme start="20260910000000 +0000" stop="20260910030000 +0000" channel="66e7e50dcfef0b374461c36e">
     <title lang="tr">Eğlence Çoklu Ekran</title>
+  </programme>
+  <programme start="20260910000000 +0000" stop="20260910030000 +0000" channel="66e7e54ccfef0b374461c370">
+    <title lang="tr">Haber Çoklu Ekran</title>
+  </programme>
+  <programme start="20260910000000 +0000" stop="20260910030000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
   </programme>
   <programme start="20260910000000 +0000" stop="20260910003000 +0000" channel="68e77d8fcfef0b374432906d">
     <title lang="tr">Zatonya</title>
@@ -21773,6 +21938,12 @@
   </programme>
   <programme start="20260910030000 +0000" stop="20260910060000 +0000" channel="66e7e50dcfef0b374461c36e">
     <title lang="tr">Eğlence Çoklu Ekran</title>
+  </programme>
+  <programme start="20260910030000 +0000" stop="20260910060000 +0000" channel="66e7e54ccfef0b374461c370">
+    <title lang="tr">Haber Çoklu Ekran</title>
+  </programme>
+  <programme start="20260910030000 +0000" stop="20260910060000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
   </programme>
   <programme start="20260910030000 +0000" stop="20260910033000 +0000" channel="67e5c246cfef0b3744c53a83">
     <title lang="tr">Emlak Avcıları Amerika</title>
@@ -22827,6 +22998,12 @@
   <programme start="20260910060000 +0000" stop="20260910080000 +0000" channel="66e7e50dcfef0b374461c36e">
     <title lang="tr">Eğlence Çoklu Ekran</title>
   </programme>
+  <programme start="20260910060000 +0000" stop="20260910080000 +0000" channel="66e7e54ccfef0b374461c370">
+    <title lang="tr">Haber Çoklu Ekran</title>
+  </programme>
+  <programme start="20260910060000 +0000" stop="20260910080000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
+  </programme>
   <programme start="20260910060000 +0000" stop="20260910063000 +0000" channel="67a3521bcfef0b3744abd66d">
     <title lang="tr">Müzik Gezgini</title>
   </programme>
@@ -23486,6 +23663,12 @@
   </programme>
   <programme start="20260910080000 +0000" stop="20260910100000 +0000" channel="66e7e50dcfef0b374461c36e">
     <title lang="tr">Eğlence Çoklu Ekran</title>
+  </programme>
+  <programme start="20260910080000 +0000" stop="20260910100000 +0000" channel="66e7e54ccfef0b374461c370">
+    <title lang="tr">Haber Çoklu Ekran</title>
+  </programme>
+  <programme start="20260910080000 +0000" stop="20260910100000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
   </programme>
   <programme start="20260910080000 +0000" stop="20260910083000 +0000" channel="68e77d8fcfef0b374432906d">
     <title lang="tr">Bluey</title>
@@ -24155,6 +24338,12 @@
   </programme>
   <programme start="20260910100000 +0000" stop="20260910130000 +0000" channel="66e7e50dcfef0b374461c36e">
     <title lang="tr">Eğlence Çoklu Ekran</title>
+  </programme>
+  <programme start="20260910100000 +0000" stop="20260910130000 +0000" channel="66e7e54ccfef0b374461c370">
+    <title lang="tr">Haber Çoklu Ekran</title>
+  </programme>
+  <programme start="20260910100000 +0000" stop="20260910130000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
   </programme>
   <programme start="20260910100000 +0000" stop="20260910103000 +0000" channel="68e77d8fcfef0b374432906d">
     <title lang="tr">44 Kedi</title>
@@ -25068,6 +25257,12 @@
   <programme start="20260910130000 +0000" stop="20260910150000 +0000" channel="66e7e50dcfef0b374461c36e">
     <title lang="tr">Eğlence Çoklu Ekran</title>
   </programme>
+  <programme start="20260910130000 +0000" stop="20260910150000 +0000" channel="66e7e54ccfef0b374461c370">
+    <title lang="tr">Haber Çoklu Ekran</title>
+  </programme>
+  <programme start="20260910130000 +0000" stop="20260910150000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
+  </programme>
   <programme start="20260910130000 +0000" stop="20260910133000 +0000" channel="68e77d8fcfef0b374432906d">
     <title lang="tr">Oddbods</title>
   </programme>
@@ -25706,6 +25901,12 @@
   </programme>
   <programme start="20260910150000 +0000" stop="20260910170000 +0000" channel="66e7e50dcfef0b374461c36e">
     <title lang="tr">Eğlence Çoklu Ekran</title>
+  </programme>
+  <programme start="20260910150000 +0000" stop="20260910170000 +0000" channel="66e7e54ccfef0b374461c370">
+    <title lang="tr">Haber Çoklu Ekran</title>
+  </programme>
+  <programme start="20260910150000 +0000" stop="20260910180000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
   </programme>
   <programme start="20260910150000 +0000" stop="20260910153000 +0000" channel="68e77d8fcfef0b374432906d">
     <title lang="tr">Tara Duncan</title>
@@ -26375,6 +26576,9 @@
   </programme>
   <programme start="20260910170000 +0000" stop="20260910190000 +0000" channel="66e7e50dcfef0b374461c36e">
     <title lang="tr">Eğlence Çoklu Ekran</title>
+  </programme>
+  <programme start="20260910170000 +0000" stop="20260910200000 +0000" channel="66e7e54ccfef0b374461c370">
+    <title lang="tr">Haber Çoklu Ekran</title>
   </programme>
   <programme start="20260910170000 +0000" stop="20260910173000 +0000" channel="68e77d8fcfef0b374432906d">
     <title lang="tr">Şirinler - Smurf</title>
@@ -27591,6 +27795,12 @@
   <programme start="20260910210000 +0000" stop="20260910230000 +0000" channel="66e7e50dcfef0b374461c36e">
     <title lang="tr">Eğlence Çoklu Ekran</title>
   </programme>
+  <programme start="20260910210000 +0000" stop="20260910230000 +0000" channel="66e7e54ccfef0b374461c370">
+    <title lang="tr">Haber Çoklu Ekran</title>
+  </programme>
+  <programme start="20260910210000 +0000" stop="20260910230000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
+  </programme>
   <programme start="20260910210000 +0000" stop="20260910213000 +0000" channel="68e77d8fcfef0b374432906d">
     <title lang="tr">Şirinler - Smurf</title>
   </programme>
@@ -27848,6 +28058,9 @@
   </programme>
   <programme start="20260910220000 +0000" stop="20260910223000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Designers</title>
+  </programme>
+  <programme start="20260910220000 +0000" stop="20260911000000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Benim Annem Bir Melek</title>
   </programme>
   <programme start="20260910220000 +0000" stop="20260910232900 +0000" channel="59dcbfdccfef0b4d80a4974a">
     <title lang="tr">Beyaz&apos;la Joker</title>
@@ -28158,6 +28371,12 @@
   <programme start="20260910230000 +0000" stop="20260911000000 +0000" channel="66e7e50dcfef0b374461c36e">
     <title lang="tr">Eğlence Çoklu Ekran</title>
   </programme>
+  <programme start="20260910230000 +0000" stop="20260911000000 +0000" channel="66e7e54ccfef0b374461c370">
+    <title lang="tr">Haber Çoklu Ekran</title>
+  </programme>
+  <programme start="20260910230000 +0000" stop="20260911000000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
+  </programme>
   <programme start="20260910230000 +0000" stop="20260910233000 +0000" channel="68e77d8fcfef0b374432906d">
     <title lang="tr">Zatonya</title>
   </programme>
@@ -28431,6 +28650,9 @@
   <programme start="20260911000000 +0000" stop="20260911003000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Swimwear</title>
   </programme>
+  <programme start="20260911000000 +0000" stop="20260911020000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Sıla</title>
+  </programme>
   <programme start="20260911000000 +0000" stop="20260911003000 +0000" channel="5c6e8e0ecfef0b613d9ff782">
     <title lang="tr">Küresel Bakış</title>
   </programme>
@@ -28451,6 +28673,12 @@
   </programme>
   <programme start="20260911000000 +0000" stop="20260911030000 +0000" channel="66e7e50dcfef0b374461c36e">
     <title lang="tr">Eğlence Çoklu Ekran</title>
+  </programme>
+  <programme start="20260911000000 +0000" stop="20260911030000 +0000" channel="66e7e54ccfef0b374461c370">
+    <title lang="tr">Haber Çoklu Ekran</title>
+  </programme>
+  <programme start="20260911000000 +0000" stop="20260911030000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
   </programme>
   <programme start="20260911000000 +0000" stop="20260911003000 +0000" channel="67a3521bcfef0b3744abd66d">
     <title lang="tr">Nerede Yaşadığını Göster</title>
@@ -29058,6 +29286,9 @@
   <programme start="20260911020000 +0000" stop="20260911040000 +0000" channel="59dca881cfef0b4d80a47c30">
     <title lang="tr">KRT Masası (Tekrar)</title>
   </programme>
+  <programme start="20260911020000 +0000" stop="20260911040000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Elveda Rumeli</title>
+  </programme>
   <programme start="20260911020000 +0000" stop="20260911023000 +0000" channel="5c6e8e0ecfef0b613d9ff782">
     <title lang="tr">Spor 360</title>
   </programme>
@@ -29391,6 +29622,12 @@
   <programme start="20260911030000 +0000" stop="20260911060000 +0000" channel="66e7e50dcfef0b374461c36e">
     <title lang="tr">Eğlence Çoklu Ekran</title>
   </programme>
+  <programme start="20260911030000 +0000" stop="20260911060000 +0000" channel="66e7e54ccfef0b374461c370">
+    <title lang="tr">Haber Çoklu Ekran</title>
+  </programme>
+  <programme start="20260911030000 +0000" stop="20260911060000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
+  </programme>
   <programme start="20260911030000 +0000" stop="20260911033000 +0000" channel="67e5c246cfef0b3744c53a83">
     <title lang="tr">Emlak Avcıları Amerika</title>
   </programme>
@@ -29690,6 +29927,9 @@
   </programme>
   <programme start="20260911040000 +0000" stop="20260911065000 +0000" channel="59dca881cfef0b4d80a47c30">
     <title lang="tr">Başka Bir Gün</title>
+  </programme>
+  <programme start="20260911040000 +0000" stop="20260911060000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Kertenkele</title>
   </programme>
   <programme start="20260911040000 +0000" stop="20260911050000 +0000" channel="5c6e8e0ecfef0b613d9ff782">
     <title lang="tr">Sabah Ekranı</title>
@@ -30333,6 +30573,9 @@
   <programme start="20260911060000 +0000" stop="20260911063000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Beauty</title>
   </programme>
+  <programme start="20260911060000 +0000" stop="20260911081500 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Çocuklar Duymasın</title>
+  </programme>
   <programme start="20260911060000 +0000" stop="20260911070000 +0000" channel="5bac7dedcfef0b02fac035fd">
     <title lang="tr">Yeni Gün</title>
   </programme>
@@ -30344,6 +30587,12 @@
   </programme>
   <programme start="20260911060000 +0000" stop="20260911080000 +0000" channel="66e7e50dcfef0b374461c36e">
     <title lang="tr">Eğlence Çoklu Ekran</title>
+  </programme>
+  <programme start="20260911060000 +0000" stop="20260911080000 +0000" channel="66e7e54ccfef0b374461c370">
+    <title lang="tr">Haber Çoklu Ekran</title>
+  </programme>
+  <programme start="20260911060000 +0000" stop="20260911080000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
   </programme>
   <programme start="20260911060000 +0000" stop="20260911063000 +0000" channel="67e5c246cfef0b3744c53a83">
     <title lang="tr">Rüya Gibi Evler</title>
@@ -30930,6 +31179,12 @@
   <programme start="20260911080000 +0000" stop="20260911100000 +0000" channel="66e7e50dcfef0b374461c36e">
     <title lang="tr">Eğlence Çoklu Ekran</title>
   </programme>
+  <programme start="20260911080000 +0000" stop="20260911100000 +0000" channel="66e7e54ccfef0b374461c370">
+    <title lang="tr">Haber Çoklu Ekran</title>
+  </programme>
+  <programme start="20260911080000 +0000" stop="20260911100000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
+  </programme>
   <programme start="20260911080000 +0000" stop="20260911083000 +0000" channel="67a3521bcfef0b3744abd66d">
     <title lang="tr">Dubai&apos;m</title>
   </programme>
@@ -30995,6 +31250,9 @@
   </programme>
   <programme start="20260911081500 +0000" stop="20260911083000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Kucho Süper Sıradan Köpek</title>
+  </programme>
+  <programme start="20260911081500 +0000" stop="20260911100000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Bez Bebek</title>
   </programme>
   <programme start="20260911081500 +0000" stop="20260911104500 +0000" channel="5fe07f29cfef0b1593275800">
     <title lang="tr">Yeniden Yirmi</title>
@@ -31536,6 +31794,9 @@
   <programme start="20260911100000 +0000" stop="20260911130000 +0000" channel="59dca881cfef0b4d80a47c30">
     <title lang="tr">Gün Ortası</title>
   </programme>
+  <programme start="20260911100000 +0000" stop="20260911120000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Hepsi Bir</title>
+  </programme>
   <programme start="20260911100000 +0000" stop="20260911110500 +0000" channel="59dcbfdccfef0b4d80a4974a">
     <title lang="tr">Daha 17 10.Bölüm</title>
   </programme>
@@ -31571,6 +31832,12 @@
   </programme>
   <programme start="20260911100000 +0000" stop="20260911130000 +0000" channel="66e7e50dcfef0b374461c36e">
     <title lang="tr">Eğlence Çoklu Ekran</title>
+  </programme>
+  <programme start="20260911100000 +0000" stop="20260911130000 +0000" channel="66e7e54ccfef0b374461c370">
+    <title lang="tr">Haber Çoklu Ekran</title>
+  </programme>
+  <programme start="20260911100000 +0000" stop="20260911130000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
   </programme>
   <programme start="20260911100000 +0000" stop="20260911103000 +0000" channel="67e5c246cfef0b3744c53a83">
     <title lang="tr">Karayip Evleri</title>
@@ -32115,6 +32382,9 @@
   <programme start="20260911120000 +0000" stop="20260911123000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Fashion Films</title>
   </programme>
+  <programme start="20260911120000 +0000" stop="20260911143000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Selena</title>
+  </programme>
   <programme start="20260911120000 +0000" stop="20260911130000 +0000" channel="5bac7dedcfef0b02fac035fd">
     <title lang="tr">Bugün</title>
   </programme>
@@ -32414,6 +32684,12 @@
   </programme>
   <programme start="20260911130000 +0000" stop="20260911150000 +0000" channel="66e7e50dcfef0b374461c36e">
     <title lang="tr">Eğlence Çoklu Ekran</title>
+  </programme>
+  <programme start="20260911130000 +0000" stop="20260911150000 +0000" channel="66e7e54ccfef0b374461c370">
+    <title lang="tr">Haber Çoklu Ekran</title>
+  </programme>
+  <programme start="20260911130000 +0000" stop="20260911150000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
   </programme>
   <programme start="20260911130000 +0000" stop="20260911132500 +0000" channel="67a3521bcfef0b3744abd66d">
     <title lang="tr">Müzik Gezgini</title>
@@ -32841,6 +33117,9 @@
   <programme start="20260911143000 +0000" stop="20260911150000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Top Photoshoots</title>
   </programme>
+  <programme start="20260911143000 +0000" stop="20260911170000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Kardeşlerim</title>
+  </programme>
   <programme start="20260911143000 +0000" stop="20260911153000 +0000" channel="5c6e8e0ecfef0b613d9ff782">
     <title lang="tr">Son Seans</title>
   </programme>
@@ -33008,6 +33287,12 @@
   </programme>
   <programme start="20260911150000 +0000" stop="20260911170000 +0000" channel="66e7e50dcfef0b374461c36e">
     <title lang="tr">Eğlence Çoklu Ekran</title>
+  </programme>
+  <programme start="20260911150000 +0000" stop="20260911170000 +0000" channel="66e7e54ccfef0b374461c370">
+    <title lang="tr">Haber Çoklu Ekran</title>
+  </programme>
+  <programme start="20260911150000 +0000" stop="20260911180000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
   </programme>
   <programme start="20260911150000 +0000" stop="20260911153000 +0000" channel="68e77d8fcfef0b374432906d">
     <title lang="tr">Slugterra</title>
@@ -33585,6 +33870,9 @@
   <programme start="20260911170000 +0000" stop="20260911200000 +0000" channel="59dca881cfef0b4d80a47c30">
     <title lang="tr">Eksen</title>
   </programme>
+  <programme start="20260911170000 +0000" stop="20260911193000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Bir Zamanlar Çukurova</title>
+  </programme>
   <programme start="20260911170000 +0000" stop="20260911171500 +0000" channel="59dcbfdccfef0b4d80a4974a">
     <title lang="tr">Az Sonra &quot;Kuralsız Sokaklar&quot;</title>
   </programme>
@@ -33611,6 +33899,9 @@
   </programme>
   <programme start="20260911170000 +0000" stop="20260911190000 +0000" channel="66e7e50dcfef0b374461c36e">
     <title lang="tr">Eğlence Çoklu Ekran</title>
+  </programme>
+  <programme start="20260911170000 +0000" stop="20260911200000 +0000" channel="66e7e54ccfef0b374461c370">
+    <title lang="tr">Haber Çoklu Ekran</title>
   </programme>
   <programme start="20260911170000 +0000" stop="20260911173000 +0000" channel="68e77d8fcfef0b374432906d">
     <title lang="tr">Şirinler - Smurf</title>
@@ -34275,6 +34566,9 @@
   <programme start="20260911193000 +0000" stop="20260911200000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Fashion News</title>
   </programme>
+  <programme start="20260911193000 +0000" stop="20260911223000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Eşkıya Dünyaya Hükümdar Olmaz</title>
+  </programme>
   <programme start="20260911193000 +0000" stop="20260911194500 +0000" channel="5c6e8e0ecfef0b613d9ff782">
     <title lang="tr">Borsa Teknik</title>
   </programme>
@@ -34749,6 +35043,9 @@
   <programme start="20260911210000 +0000" stop="20260911230000 +0000" channel="66e7e54ccfef0b374461c370">
     <title lang="tr">Haber Çoklu Ekran</title>
   </programme>
+  <programme start="20260911210000 +0000" stop="20260911230000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
+  </programme>
   <programme start="20260911210000 +0000" stop="20260911213000 +0000" channel="68e77d8fcfef0b374432906d">
     <title lang="tr">Kamen Rider ZEZTZ</title>
   </programme>
@@ -35003,6 +35300,9 @@
   </programme>
   <programme start="20260911220000 +0000" stop="20260911223000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Top Models</title>
+  </programme>
+  <programme start="20260911220000 +0000" stop="20260912000000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Benim Annem Bir Melek</title>
   </programme>
   <programme start="20260911220000 +0000" stop="20260911234500 +0000" channel="5fe07d7acfef0b1593275751">
     <title lang="tr">Konuş Benimle</title>
@@ -35304,6 +35604,9 @@
   <programme start="20260911230000 +0000" stop="20260912000000 +0000" channel="66e7e54ccfef0b374461c370">
     <title lang="tr">Haber Çoklu Ekran</title>
   </programme>
+  <programme start="20260911230000 +0000" stop="20260912000000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
+  </programme>
   <programme start="20260911230000 +0000" stop="20260911233000 +0000" channel="67a3521bcfef0b3744abd66d">
     <title lang="tr">Müzik Gezgini</title>
   </programme>
@@ -35592,6 +35895,9 @@
   <programme start="20260912000000 +0000" stop="20260912003000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Swimwear</title>
   </programme>
+  <programme start="20260912000000 +0000" stop="20260912020000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Sıla</title>
+  </programme>
   <programme start="20260912000000 +0000" stop="20260912020000 +0000" channel="66d839a0cfef0b37445c6db1">
     <title lang="tr">Dakika 90</title>
   </programme>
@@ -35600,6 +35906,9 @@
   </programme>
   <programme start="20260912000000 +0000" stop="20260912030000 +0000" channel="66e7e54ccfef0b374461c370">
     <title lang="tr">Haber Çoklu Ekran</title>
+  </programme>
+  <programme start="20260912000000 +0000" stop="20260912030000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
   </programme>
   <programme start="20260912000000 +0000" stop="20260912003000 +0000" channel="68e77d8fcfef0b374432906d">
     <title lang="tr">Zatonya</title>
@@ -36165,6 +36474,9 @@
   <programme start="20260912020000 +0000" stop="20260912050000 +0000" channel="59dca881cfef0b4d80a47c30">
     <title lang="tr">Eksen (Tekrar)</title>
   </programme>
+  <programme start="20260912020000 +0000" stop="20260912040000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Elveda Rumeli</title>
+  </programme>
   <programme start="20260912020000 +0000" stop="20260912030000 +0000" channel="5bac7dedcfef0b02fac035fd">
     <title lang="tr">Haber Bülteni</title>
   </programme>
@@ -36494,6 +36806,9 @@
   </programme>
   <programme start="20260912030000 +0000" stop="20260912060000 +0000" channel="66e7e54ccfef0b374461c370">
     <title lang="tr">Haber Çoklu Ekran</title>
+  </programme>
+  <programme start="20260912030000 +0000" stop="20260912060000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
   </programme>
   <programme start="20260912030000 +0000" stop="20260912033000 +0000" channel="67e5c246cfef0b3744c53a83">
     <title lang="tr">Ada Avcıları</title>
@@ -36827,6 +37142,9 @@
   </programme>
   <programme start="20260912040000 +0000" stop="20260912043000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Top Photoshoots</title>
+  </programme>
+  <programme start="20260912040000 +0000" stop="20260912060000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Kertenkele</title>
   </programme>
   <programme start="20260912040000 +0000" stop="20260912060000 +0000" channel="5ccfd6adcfef0b6021816941">
     <title lang="tr">Hafta Sonu Gün Uyanıyor</title>
@@ -37434,6 +37752,9 @@
   <programme start="20260912060000 +0000" stop="20260912063000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Beauty</title>
   </programme>
+  <programme start="20260912060000 +0000" stop="20260912081500 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Çocuklar Duymasın</title>
+  </programme>
   <programme start="20260912060000 +0000" stop="20260912070000 +0000" channel="5bac7dedcfef0b02fac035fd">
     <title lang="tr">Kahvaltı Haberleri</title>
   </programme>
@@ -37466,6 +37787,9 @@
   </programme>
   <programme start="20260912060000 +0000" stop="20260912080000 +0000" channel="66e7e54ccfef0b374461c370">
     <title lang="tr">Haber Çoklu Ekran</title>
+  </programme>
+  <programme start="20260912060000 +0000" stop="20260912080000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
   </programme>
   <programme start="20260912060000 +0000" stop="20260912070000 +0000" channel="67e5c246cfef0b3744c53a83">
     <title lang="tr">Tiklerimden Fazlasıyım</title>
@@ -38025,6 +38349,9 @@
   <programme start="20260912080000 +0000" stop="20260912100000 +0000" channel="66e7e54ccfef0b374461c370">
     <title lang="tr">Haber Çoklu Ekran</title>
   </programme>
+  <programme start="20260912080000 +0000" stop="20260912100000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
+  </programme>
   <programme start="20260912080000 +0000" stop="20260912090000 +0000" channel="67e5c246cfef0b3744c53a83">
     <title lang="tr">Rüya Gibi Evler Sahilde</title>
   </programme>
@@ -38090,6 +38417,9 @@
   </programme>
   <programme start="20260912081500 +0000" stop="20260912083000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Kral Şakir</title>
+  </programme>
+  <programme start="20260912081500 +0000" stop="20260912100000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Bez Bebek</title>
   </programme>
   <programme start="20260912081700 +0000" stop="20260912082200 +0000" channel="58d29bb0eefad3db9c6062bf">
     <title lang="tr">Bitz ve Bob - Sen De Yapabilirsin</title>
@@ -38589,6 +38919,9 @@
   <programme start="20260912100000 +0000" stop="20260912103000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Fashion Junior</title>
   </programme>
+  <programme start="20260912100000 +0000" stop="20260912120000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Selena</title>
+  </programme>
   <programme start="20260912100000 +0000" stop="20260912110000 +0000" channel="5bac7dedcfef0b02fac035fd">
     <title lang="tr">Haber Bülteni</title>
   </programme>
@@ -38609,6 +38942,9 @@
   </programme>
   <programme start="20260912100000 +0000" stop="20260912130000 +0000" channel="66e7e54ccfef0b374461c370">
     <title lang="tr">Haber Çoklu Ekran</title>
+  </programme>
+  <programme start="20260912100000 +0000" stop="20260912130000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
   </programme>
   <programme start="20260912100000 +0000" stop="20260912102500 +0000" channel="67a3521bcfef0b3744abd66d">
     <title lang="tr">Uzayın İçinde</title>
@@ -39147,6 +39483,9 @@
   <programme start="20260912120000 +0000" stop="20260912123000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Top Photoshoots</title>
   </programme>
+  <programme start="20260912120000 +0000" stop="20260912143000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Yahşi Cazibe</title>
+  </programme>
   <programme start="20260912120000 +0000" stop="20260912130000 +0000" channel="5bac7dedcfef0b02fac035fd">
     <title lang="tr">Haber Bülteni</title>
   </programme>
@@ -39449,6 +39788,9 @@
   </programme>
   <programme start="20260912130000 +0000" stop="20260912150000 +0000" channel="66e7e54ccfef0b374461c370">
     <title lang="tr">Haber Çoklu Ekran</title>
+  </programme>
+  <programme start="20260912130000 +0000" stop="20260912150000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
   </programme>
   <programme start="20260912130000 +0000" stop="20260912140000 +0000" channel="67e5c246cfef0b3744c53a83">
     <title lang="tr">Hayatına Yer Aç</title>
@@ -39858,6 +40200,9 @@
   <programme start="20260912143000 +0000" stop="20260912150000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Designers</title>
   </programme>
+  <programme start="20260912143000 +0000" stop="20260912170000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Alemin Kıralı</title>
+  </programme>
   <programme start="20260912143000 +0000" stop="20260912145500 +0000" channel="5fedddcecfef0b159330996e">
     <title lang="tr">Prenses Sofia: Kraliyet Sihri</title>
   </programme>
@@ -40028,6 +40373,9 @@
   </programme>
   <programme start="20260912150000 +0000" stop="20260912170000 +0000" channel="66e7e54ccfef0b374461c370">
     <title lang="tr">Haber Çoklu Ekran</title>
+  </programme>
+  <programme start="20260912150000 +0000" stop="20260912180000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
   </programme>
   <programme start="20260912150000 +0000" stop="20260912160000 +0000" channel="67e5c246cfef0b3744c53a83">
     <title lang="tr">Bu Nasıl Restoran: Son Şans</title>
@@ -40565,6 +40913,9 @@
   </programme>
   <programme start="20260912170000 +0000" stop="20260912200000 +0000" channel="59dca881cfef0b4d80a47c30">
     <title lang="tr">Dipnot</title>
+  </programme>
+  <programme start="20260912170000 +0000" stop="20260912193000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Bir Zamanlar Çukurova</title>
   </programme>
   <programme start="20260912170000 +0000" stop="20260912171500 +0000" channel="59dcbfdccfef0b4d80a4974a">
     <title lang="tr">Az Sonra &quot;Güller ve Günahlar&quot;</title>
@@ -41250,6 +41601,9 @@
   <programme start="20260912193000 +0000" stop="20260912200000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Fashion News</title>
   </programme>
+  <programme start="20260912193000 +0000" stop="20260912223000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Eşkıya Dünyaya Hükümdar Olmaz</title>
+  </programme>
   <programme start="20260912193000 +0000" stop="20260912194000 +0000" channel="5fedddcecfef0b159330996e">
     <title lang="tr">Bluey</title>
   </programme>
@@ -41718,6 +42072,9 @@
   <programme start="20260912210000 +0000" stop="20260912230000 +0000" channel="66e7e54ccfef0b374461c370">
     <title lang="tr">Haber Çoklu Ekran</title>
   </programme>
+  <programme start="20260912210000 +0000" stop="20260912230000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
+  </programme>
   <programme start="20260912210000 +0000" stop="20260912220000 +0000" channel="67e5c246cfef0b3744c53a83">
     <title lang="tr">Paula Zahn İle Cinayet Dosyası</title>
   </programme>
@@ -41957,6 +42314,9 @@
   </programme>
   <programme start="20260912220000 +0000" stop="20260912223000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Fashion Films</title>
+  </programme>
+  <programme start="20260912220000 +0000" stop="20260913000000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Benim Annem Bir Melek</title>
   </programme>
   <programme start="20260912220000 +0000" stop="20260913001500 +0000" channel="5fe07f45cfef0b159327581f">
     <title lang="tr">Mean Girls</title>
@@ -42261,6 +42621,9 @@
   <programme start="20260912230000 +0000" stop="20260913000000 +0000" channel="66e7e54ccfef0b374461c370">
     <title lang="tr">Haber Çoklu Ekran</title>
   </programme>
+  <programme start="20260912230000 +0000" stop="20260913000000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
+  </programme>
   <programme start="20260912230000 +0000" stop="20260912233000 +0000" channel="68e77d8fcfef0b374432906d">
     <title lang="tr">Zatonya</title>
   </programme>
@@ -42540,6 +42903,9 @@
   <programme start="20260913000000 +0000" stop="20260913003000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Swimwear</title>
   </programme>
+  <programme start="20260913000000 +0000" stop="20260913020000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Sıla</title>
+  </programme>
   <programme start="20260913000000 +0000" stop="20260913021500 +0000" channel="5fe07d9fcfef0b1593275754">
     <title lang="tr">Testere 10</title>
   </programme>
@@ -42551,6 +42917,9 @@
   </programme>
   <programme start="20260913000000 +0000" stop="20260913030000 +0000" channel="66e7e54ccfef0b374461c370">
     <title lang="tr">Haber Çoklu Ekran</title>
+  </programme>
+  <programme start="20260913000000 +0000" stop="20260913030000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
   </programme>
   <programme start="20260913000000 +0000" stop="20260913004500 +0000" channel="67e5c4c6cfef0b3744c556fa">
     <title lang="tr">Son Ormancı</title>
@@ -43131,6 +43500,9 @@
   <programme start="20260913020000 +0000" stop="20260913050000 +0000" channel="59dca881cfef0b4d80a47c30">
     <title lang="tr">Eksen (Tekrar)</title>
   </programme>
+  <programme start="20260913020000 +0000" stop="20260913040000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Elveda Rumeli</title>
+  </programme>
   <programme start="20260913020000 +0000" stop="20260913035500 +0000" channel="59dcbfdccfef0b4d80a4974a">
     <title lang="tr">Siyah Beyaz Aşk 3.Bölüm</title>
   </programme>
@@ -43476,6 +43848,9 @@
   <programme start="20260913030000 +0000" stop="20260913060000 +0000" channel="66e7e54ccfef0b374461c370">
     <title lang="tr">Haber Çoklu Ekran</title>
   </programme>
+  <programme start="20260913030000 +0000" stop="20260913060000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
+  </programme>
   <programme start="20260913030000 +0000" stop="20260913033000 +0000" channel="67e5c246cfef0b3744c53a83">
     <title lang="tr">Ada Avcıları</title>
   </programme>
@@ -43784,6 +44159,9 @@
   </programme>
   <programme start="20260913040000 +0000" stop="20260913043000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Top Photoshoots</title>
+  </programme>
+  <programme start="20260913040000 +0000" stop="20260913060000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Kertenkele</title>
   </programme>
   <programme start="20260913040000 +0000" stop="20260913060000 +0000" channel="5ccfd6adcfef0b6021816941">
     <title lang="tr">Hafta Sonu Gün Uyanıyor</title>
@@ -44388,6 +44766,9 @@
   <programme start="20260913060000 +0000" stop="20260913063000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Beauty</title>
   </programme>
+  <programme start="20260913060000 +0000" stop="20260913081500 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Çocuklar Duymasın</title>
+  </programme>
   <programme start="20260913060000 +0000" stop="20260913070000 +0000" channel="5bac7dedcfef0b02fac035fd">
     <title lang="tr">Kahvaltı Haberleri</title>
   </programme>
@@ -44405,6 +44786,9 @@
   </programme>
   <programme start="20260913060000 +0000" stop="20260913080000 +0000" channel="66e7e54ccfef0b374461c370">
     <title lang="tr">Haber Çoklu Ekran</title>
+  </programme>
+  <programme start="20260913060000 +0000" stop="20260913080000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
   </programme>
   <programme start="20260913060000 +0000" stop="20260913062500 +0000" channel="67a3521bcfef0b3744abd66d">
     <title lang="tr">Sıradışı Bilim</title>
@@ -44973,6 +45357,9 @@
   <programme start="20260913080000 +0000" stop="20260913100000 +0000" channel="66e7e54ccfef0b374461c370">
     <title lang="tr">Haber Çoklu Ekran</title>
   </programme>
+  <programme start="20260913080000 +0000" stop="20260913100000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
+  </programme>
   <programme start="20260913080000 +0000" stop="20260913090000 +0000" channel="67e5c246cfef0b3744c53a83">
     <title lang="tr">Şeflerin Sahil Savaşı</title>
   </programme>
@@ -45041,6 +45428,9 @@
   </programme>
   <programme start="20260913081500 +0000" stop="20260913083000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Kral Şakir</title>
+  </programme>
+  <programme start="20260913081500 +0000" stop="20260913100000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Bez Bebek</title>
   </programme>
   <programme start="20260913081500 +0000" stop="20260913103000 +0000" channel="5fe07d7acfef0b1593275751">
     <title lang="tr">Şampiyonların Kalbi</title>
@@ -45528,6 +45918,9 @@
   <programme start="20260913100000 +0000" stop="20260913103000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Fashion Junior</title>
   </programme>
+  <programme start="20260913100000 +0000" stop="20260913120000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Selena</title>
+  </programme>
   <programme start="20260913100000 +0000" stop="20260913110000 +0000" channel="5bac7dedcfef0b02fac035fd">
     <title lang="tr">Haber Bülteni</title>
   </programme>
@@ -45557,6 +45950,9 @@
   </programme>
   <programme start="20260913100000 +0000" stop="20260913130000 +0000" channel="66e7e54ccfef0b374461c370">
     <title lang="tr">Haber Çoklu Ekran</title>
+  </programme>
+  <programme start="20260913100000 +0000" stop="20260913130000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
   </programme>
   <programme start="20260913100000 +0000" stop="20260913110000 +0000" channel="67e5c246cfef0b3744c53a83">
     <title lang="tr">Gordon Ramsay&apos;nin Mutfak Kâbusları</title>
@@ -46098,6 +46494,9 @@
   <programme start="20260913120000 +0000" stop="20260913123000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Top Models</title>
   </programme>
+  <programme start="20260913120000 +0000" stop="20260913143000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Yahşi Cazibe</title>
+  </programme>
   <programme start="20260913120000 +0000" stop="20260913130000 +0000" channel="5bac7dedcfef0b02fac035fd">
     <title lang="tr">Haber Bülteni</title>
   </programme>
@@ -46403,6 +46802,9 @@
   </programme>
   <programme start="20260913130000 +0000" stop="20260913150000 +0000" channel="66e7e54ccfef0b374461c370">
     <title lang="tr">Haber Çoklu Ekran</title>
+  </programme>
+  <programme start="20260913130000 +0000" stop="20260913150000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
   </programme>
   <programme start="20260913130000 +0000" stop="20260913140000 +0000" channel="67e5c246cfef0b3744c53a83">
     <title lang="tr">Evliliğe 90 Gün: İngiltere</title>
@@ -46842,6 +47244,9 @@
   <programme start="20260913143000 +0000" stop="20260913150000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Fashion Films</title>
   </programme>
+  <programme start="20260913143000 +0000" stop="20260913170000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Alemin Kıralı</title>
+  </programme>
   <programme start="20260913143000 +0000" stop="20260913163000 +0000" channel="5fe07d9fcfef0b1593275754">
     <title lang="tr">Onur Konuğu</title>
   </programme>
@@ -47009,6 +47414,9 @@
   </programme>
   <programme start="20260913150000 +0000" stop="20260913170000 +0000" channel="66e7e54ccfef0b374461c370">
     <title lang="tr">Haber Çoklu Ekran</title>
+  </programme>
+  <programme start="20260913150000 +0000" stop="20260913180000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
   </programme>
   <programme start="20260913150000 +0000" stop="20260913155500 +0000" channel="67a3521bcfef0b3744abd66d">
     <title lang="tr">Şehirlerin Çatılarında</title>
@@ -47567,6 +47975,9 @@
   </programme>
   <programme start="20260913170000 +0000" stop="20260913200000 +0000" channel="59dca881cfef0b4d80a47c30">
     <title lang="tr">Dipnot</title>
+  </programme>
+  <programme start="20260913170000 +0000" stop="20260913193000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Bir Zamanlar Çukurova</title>
   </programme>
   <programme start="20260913170000 +0000" stop="20260913172500 +0000" channel="59dcbfdccfef0b4d80a4974a">
     <title lang="tr">Az Sonra &quot;Daha 17&quot;</title>
@@ -48252,6 +48663,9 @@
   <programme start="20260913193000 +0000" stop="20260913200000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Fashion News</title>
   </programme>
+  <programme start="20260913193000 +0000" stop="20260913223000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Eşkıya Dünyaya Hükümdar Olmaz</title>
+  </programme>
   <programme start="20260913193000 +0000" stop="20260913194000 +0000" channel="5fedddcecfef0b159330996e">
     <title lang="tr">Bluey</title>
   </programme>
@@ -48720,6 +49134,9 @@
   <programme start="20260913210000 +0000" stop="20260913230000 +0000" channel="66e7e54ccfef0b374461c370">
     <title lang="tr">Haber Çoklu Ekran</title>
   </programme>
+  <programme start="20260913210000 +0000" stop="20260913230000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
+  </programme>
   <programme start="20260913210000 +0000" stop="20260913220000 +0000" channel="67e5c246cfef0b3744c53a83">
     <title lang="tr">Paula Zahn İle Cinayet Dosyası</title>
   </programme>
@@ -48950,6 +49367,9 @@
   </programme>
   <programme start="20260913220000 +0000" stop="20260913223000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Designers</title>
+  </programme>
+  <programme start="20260913220000 +0000" stop="20260914000000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Benim Annem Bir Melek</title>
   </programme>
   <programme start="20260913220000 +0000" stop="20260913230000 +0000" channel="5b9fb1eecfef0b35341b7eb7">
     <title lang="tr">Sır Küpü</title>
@@ -49263,6 +49683,9 @@
   <programme start="20260913230000 +0000" stop="20260914000000 +0000" channel="66e7e54ccfef0b374461c370">
     <title lang="tr">Haber Çoklu Ekran</title>
   </programme>
+  <programme start="20260913230000 +0000" stop="20260914000000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
+  </programme>
   <programme start="20260913230000 +0000" stop="20260913233000 +0000" channel="68e77d8fcfef0b374432906d">
     <title lang="tr">Zatonya</title>
   </programme>
@@ -49518,6 +49941,9 @@
   <programme start="20260914000000 +0000" stop="20260914003000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Swimwear</title>
   </programme>
+  <programme start="20260914000000 +0000" stop="20260914020000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Sıla</title>
+  </programme>
   <programme start="20260914000000 +0000" stop="20260914010000 +0000" channel="5bac7dedcfef0b02fac035fd">
     <title lang="tr">Haber Bülteni</title>
   </programme>
@@ -49535,6 +49961,9 @@
   </programme>
   <programme start="20260914000000 +0000" stop="20260914030000 +0000" channel="66e7e54ccfef0b374461c370">
     <title lang="tr">Haber Çoklu Ekran</title>
+  </programme>
+  <programme start="20260914000000 +0000" stop="20260914030000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
   </programme>
   <programme start="20260914000000 +0000" stop="20260914003000 +0000" channel="67a3521bcfef0b3744abd66d">
     <title lang="tr">Nerede Yaşadığını Göster</title>
@@ -50112,6 +50541,9 @@
   <programme start="20260914020000 +0000" stop="20260914023000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Lingerie</title>
   </programme>
+  <programme start="20260914020000 +0000" stop="20260914040000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Elveda Rumeli</title>
+  </programme>
   <programme start="20260914020000 +0000" stop="20260914030000 +0000" channel="5bac7dedcfef0b02fac035fd">
     <title lang="tr">Haber Bülteni</title>
   </programme>
@@ -50421,6 +50853,9 @@
   <programme start="20260914030000 +0000" stop="20260914060000 +0000" channel="66e7e54ccfef0b374461c370">
     <title lang="tr">Haber Çoklu Ekran</title>
   </programme>
+  <programme start="20260914030000 +0000" stop="20260914060000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
+  </programme>
   <programme start="20260914030000 +0000" stop="20260914033000 +0000" channel="67e5c246cfef0b3744c53a83">
     <title lang="tr">Emlak Avcıları Amerika</title>
   </programme>
@@ -50693,6 +51128,9 @@
   </programme>
   <programme start="20260914040000 +0000" stop="20260914043000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Top Photoshoots</title>
+  </programme>
+  <programme start="20260914040000 +0000" stop="20260914060000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Kertenkele</title>
   </programme>
   <programme start="20260914040000 +0000" stop="20260914050000 +0000" channel="5b9fb1eecfef0b35341b7eb7">
     <title lang="tr">Seans Öncesi</title>
@@ -51270,6 +51708,9 @@
   <programme start="20260914060000 +0000" stop="20260914063000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Beauty</title>
   </programme>
+  <programme start="20260914060000 +0000" stop="20260914081500 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Çocuklar Duymasın</title>
+  </programme>
   <programme start="20260914060000 +0000" stop="20260914071500 +0000" channel="5b9fb1eecfef0b35341b7eb7">
     <title lang="tr">Paranın Rotası</title>
   </programme>
@@ -51287,6 +51728,9 @@
   </programme>
   <programme start="20260914060000 +0000" stop="20260914080000 +0000" channel="66e7e54ccfef0b374461c370">
     <title lang="tr">Haber Çoklu Ekran</title>
+  </programme>
+  <programme start="20260914060000 +0000" stop="20260914080000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
   </programme>
   <programme start="20260914060000 +0000" stop="20260914063000 +0000" channel="67e5c246cfef0b3744c53a83">
     <title lang="tr">Rüya Gibi Evler</title>
@@ -51816,6 +52260,9 @@
   <programme start="20260914080000 +0000" stop="20260914100000 +0000" channel="66e7e54ccfef0b374461c370">
     <title lang="tr">Haber Çoklu Ekran</title>
   </programme>
+  <programme start="20260914080000 +0000" stop="20260914100000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
+  </programme>
   <programme start="20260914080000 +0000" stop="20260914083000 +0000" channel="68e77d8fcfef0b374432906d">
     <title lang="tr">Bluey</title>
   </programme>
@@ -51878,6 +52325,9 @@
   </programme>
   <programme start="20260914081500 +0000" stop="20260914083000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Kucho Süper Sıradan Köpek</title>
+  </programme>
+  <programme start="20260914081500 +0000" stop="20260914100000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Bez Bebek</title>
   </programme>
   <programme start="20260914081900 +0000" stop="20260914082500 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Mike&apos;ın Bisikleti</title>
@@ -52353,6 +52803,9 @@
   <programme start="20260914100000 +0000" stop="20260914103000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Fashion Junior</title>
   </programme>
+  <programme start="20260914100000 +0000" stop="20260914120000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Hepsi Bir</title>
+  </programme>
   <programme start="20260914100000 +0000" stop="20260914105500 +0000" channel="5b9fb1eecfef0b35341b7eb7">
     <title lang="tr">Yatırım Günlüğü</title>
   </programme>
@@ -52370,6 +52823,9 @@
   </programme>
   <programme start="20260914100000 +0000" stop="20260914130000 +0000" channel="66e7e54ccfef0b374461c370">
     <title lang="tr">Haber Çoklu Ekran</title>
+  </programme>
+  <programme start="20260914100000 +0000" stop="20260914130000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
   </programme>
   <programme start="20260914100000 +0000" stop="20260914103000 +0000" channel="68e77d8fcfef0b374432906d">
     <title lang="tr">44 Kedi</title>
@@ -52857,6 +53313,9 @@
   <programme start="20260914120000 +0000" stop="20260914123000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Fashion Films</title>
   </programme>
+  <programme start="20260914120000 +0000" stop="20260914143000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Selena</title>
+  </programme>
   <programme start="20260914120000 +0000" stop="20260914130000 +0000" channel="5b9fb1eecfef0b35341b7eb7">
     <title lang="tr">Paranın Yönü</title>
   </programme>
@@ -53108,6 +53567,9 @@
   </programme>
   <programme start="20260914130000 +0000" stop="20260914150000 +0000" channel="66e7e54ccfef0b374461c370">
     <title lang="tr">Haber Çoklu Ekran</title>
+  </programme>
+  <programme start="20260914130000 +0000" stop="20260914150000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
   </programme>
   <programme start="20260914130000 +0000" stop="20260914140000 +0000" channel="67a3521bcfef0b3744abd66d">
     <title lang="tr">Endülüs: Mağribi Mimari</title>
@@ -53481,6 +53943,9 @@
   <programme start="20260914143000 +0000" stop="20260914150000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Top Photoshoots</title>
   </programme>
+  <programme start="20260914143000 +0000" stop="20260914170000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Kardeşlerim</title>
+  </programme>
   <programme start="20260914143000 +0000" stop="20260914163000 +0000" channel="5fe07f45cfef0b159327581f">
     <title lang="tr">Hayatım Yalan</title>
   </programme>
@@ -53642,6 +54107,9 @@
   </programme>
   <programme start="20260914150000 +0000" stop="20260914170000 +0000" channel="66e7e54ccfef0b374461c370">
     <title lang="tr">Haber Çoklu Ekran</title>
+  </programme>
+  <programme start="20260914150000 +0000" stop="20260914180000 +0000" channel="66e7e5cdcfef0b374461c45b">
+    <title lang="tr">Spor Çoklu Ekran</title>
   </programme>
   <programme start="20260914150000 +0000" stop="20260914153000 +0000" channel="68e77d8fcfef0b374432906d">
     <title lang="tr">Tara Duncan</title>
@@ -54122,6 +54590,9 @@
   </programme>
   <programme start="20260914170000 +0000" stop="20260914173000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Fashion From Brazil</title>
+  </programme>
+  <programme start="20260914170000 +0000" stop="20260914193000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Bir Zamanlar Çukurova</title>
   </programme>
   <programme start="20260914170000 +0000" stop="20260914180000 +0000" channel="5b9fb1eecfef0b35341b7eb7">
     <title lang="tr">Sır Küpü</title>
@@ -54761,6 +55232,9 @@
   </programme>
   <programme start="20260914193000 +0000" stop="20260914200000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Fashion News</title>
+  </programme>
+  <programme start="20260914193000 +0000" stop="20260914223000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Eşkıya Dünyaya Hükümdar Olmaz</title>
   </programme>
   <programme start="20260914193000 +0000" stop="20260914194000 +0000" channel="5fedddcecfef0b159330996e">
     <title lang="tr">Bluey</title>
