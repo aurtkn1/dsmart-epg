@@ -6,12 +6,49 @@ const BASE_URL =
 const PAGE_LIMIT = 10
 const DAYS = 7
 
-const REQUEST_DELAY = 100
+// Sayfalar arasında kısa bekleme
+const REQUEST_DELAY = 150
+
+// Her HTTP isteğinin maksimum bekleme süresi
+const REQUEST_TIMEOUT = 20000
+
+// Başarısız istek için maksimum tekrar sayısı
+const MAX_RETRIES = 4
+
+// Retry bekleme süreleri
+const RETRY_DELAYS = [
+  1000,
+  2500,
+  5000,
+  10000
+]
+
+
+/*
+==================================================
+GENEL
+==================================================
+*/
 
 async function sleep(ms) {
-  return new Promise(resolve => setTimeout(resolve, ms))
+  return new Promise(resolve =>
+    setTimeout(resolve, ms)
+  )
 }
 
+
+/*
+==================================================
+FETCH JSON
+==================================================
+
+- Timeout var
+- HTTP 500 retry var
+- 502/503/504 retry var
+- Network hataları retry var
+- Son denemede hata varsa throw eder
+==================================================
+*/
 
 async function fetchJson(day, page) {
   const url =
@@ -19,32 +56,214 @@ async function fetchJson(day, page) {
     `&limit=${PAGE_LIMIT}` +
     `&day=${day}`
 
-  const response = await fetch(url, {
-    headers: {
-      "User-Agent":
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/151.0.0.0 Safari/537.36",
+  let lastError = null
 
-      "Accept":
-        "application/json, text/javascript, */*; q=0.01",
+  for (
+    let attempt = 1;
+    attempt <= MAX_RETRIES;
+    attempt++
+  ) {
 
-      "Accept-Language":
-        "tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7",
+    const controller =
+      new AbortController()
 
-      "Referer":
-        "https://www.dsmart.com.tr/",
+    const timeout =
+      setTimeout(() => {
+        controller.abort()
+      }, REQUEST_TIMEOUT)
 
-      "X-Requested-With":
-        "XMLHttpRequest"
+    try {
+
+      console.log(
+        `  Sayfa ${page}/${page} | deneme ${attempt}/${MAX_RETRIES}`
+      )
+
+      const response =
+        await fetch(
+          url,
+          {
+            method: "GET",
+
+            headers: {
+              "User-Agent":
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/151.0.0.0 Safari/537.36",
+
+              "Accept":
+                "application/json, text/javascript, */*; q=0.01",
+
+              "Accept-Language":
+                "tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7",
+
+              "Referer":
+                "https://www.dsmart.com.tr/",
+
+              "X-Requested-With":
+                "XMLHttpRequest",
+
+              "Cache-Control":
+                "no-cache",
+
+              "Pragma":
+                "no-cache"
+            },
+
+            signal:
+              controller.signal
+          }
+        )
+
+      clearTimeout(timeout)
+
+      /*
+      ------------------------------------------
+      HTTP BAŞARISIZ
+      ------------------------------------------
+      */
+
+      if (!response.ok) {
+
+        const status =
+          response.status
+
+        const error =
+          new Error(
+            `HTTP ${status}: ${url}`
+          )
+
+        lastError = error
+
+        /*
+        Retry yapılabilecek HTTP kodları
+        */
+
+        const retryable =
+          status === 408 ||
+          status === 425 ||
+          status === 429 ||
+          status === 500 ||
+          status === 502 ||
+          status === 503 ||
+          status === 504
+
+        if (
+          retryable &&
+          attempt < MAX_RETRIES
+        ) {
+
+          const wait =
+            RETRY_DELAYS[
+              attempt - 1
+            ] || 10000
+
+          console.log(
+            `  HTTP ${status} -> ${wait / 1000} saniye sonra tekrar denenecek`
+          )
+
+          await sleep(wait)
+
+          continue
+        }
+
+        throw error
+      }
+
+
+      /*
+      ------------------------------------------
+      JSON
+      ------------------------------------------
+      */
+
+      const text =
+        await response.text()
+
+      if (!text) {
+        throw new Error(
+          `Boş HTTP cevabı: ${url}`
+        )
+      }
+
+      let json
+
+      try {
+        json =
+          JSON.parse(text)
+      } catch (jsonError) {
+
+        throw new Error(
+          `JSON parse hatası: ${url}`
+        )
+      }
+
+      console.log(
+        `  Sayfa ${page} başarılı`
+      )
+
+      return json
+
+    } catch (error) {
+
+      clearTimeout(timeout)
+
+      lastError = error
+
+      let message =
+        error?.message ||
+        String(error)
+
+      /*
+      AbortController timeout
+      */
+
+      if (
+        error?.name === "AbortError"
+      ) {
+        message =
+          `TIMEOUT (${REQUEST_TIMEOUT / 1000}s)`
+      }
+
+      console.log(
+        `  Sayfa ${page} hata: ${message}`
+      )
+
+      /*
+      ------------------------------------------
+      RETRY
+      ------------------------------------------
+      */
+
+      if (
+        attempt < MAX_RETRIES
+      ) {
+
+        const wait =
+          RETRY_DELAYS[
+            attempt - 1
+          ] || 10000
+
+        console.log(
+          `  ${wait / 1000} saniye sonra tekrar denenecek`
+        )
+
+        await sleep(wait)
+
+        continue
+      }
     }
-  })
-
-  if (!response.ok) {
-    throw new Error(
-      `HTTP ${response.status}: ${url}`
-    )
   }
 
-  return await response.json()
+  /*
+  ------------------------------------------
+  TÜM DENEMELER BİTTİ
+  ------------------------------------------
+  */
+
+  throw (
+    lastError ||
+    new Error(
+      `İstek başarısız: ${url}`
+    )
+  )
 }
 
 
@@ -55,6 +274,7 @@ GENEL YARDIMCI FONKSİYONLAR
 */
 
 function cleanText(value) {
+
   if (
     value === null ||
     value === undefined
@@ -69,6 +289,7 @@ function cleanText(value) {
 
 
 function firstValue(object, fields) {
+
   if (
     !object ||
     typeof object !== "object"
@@ -79,12 +300,16 @@ function firstValue(object, fields) {
   for (
     const field of fields
   ) {
+
     if (
       object[field] !== undefined &&
       object[field] !== null
     ) {
+
       const value =
-        cleanText(object[field])
+        cleanText(
+          object[field]
+        )
 
       if (value) {
         return value
@@ -97,6 +322,7 @@ function firstValue(object, fields) {
 
 
 function getChannelName(channel) {
+
   return firstValue(
     channel,
     [
@@ -113,6 +339,7 @@ function getChannelName(channel) {
 
 
 function getChannelId(channel) {
+
   return cleanText(
     channel?._id ||
     channel?.id ||
@@ -129,6 +356,7 @@ DURATION
 */
 
 function parseDuration(value) {
+
   const text =
     cleanText(value)
 
@@ -138,22 +366,20 @@ function parseDuration(value) {
     )
   }
 
-  /*
-   Örnek:
-   00:45:00
-   01:20:30
-   */
-
-  let durationText = text
+  let durationText =
+    text
 
   if (
     durationText.includes(",")
   ) {
+
     const pieces =
       durationText.split(",")
 
     durationText =
-      pieces[pieces.length - 1].trim()
+      pieces[
+        pieces.length - 1
+      ].trim()
   }
 
   const parts =
@@ -164,9 +390,11 @@ function parseDuration(value) {
   if (
     parts.length !== 3 ||
     parts.some(
-      value => Number.isNaN(value)
+      value =>
+        Number.isNaN(value)
     )
   ) {
+
     throw new Error(
       `Geçersiz duration: ${value}`
     )
@@ -195,6 +423,7 @@ TARİH
 */
 
 function parseUtc(value) {
+
   const text =
     cleanText(value)
 
@@ -212,6 +441,7 @@ function parseUtc(value) {
       date.getTime()
     )
   ) {
+
     throw new Error(
       `Geçersiz tarih: ${value}`
     )
@@ -224,13 +454,11 @@ function parseUtc(value) {
 /*
 ==================================================
 SCHEDULE BULUCU
-
-D-Smart API yapısı değişirse sadece
-channel.schedule'a bağlı kalmaz.
 ==================================================
 */
 
 function findSchedule(channel) {
+
   if (!channel) {
     return []
   }
@@ -250,6 +478,7 @@ function findSchedule(channel) {
   for (
     const field of possibleFields
   ) {
+
     const value =
       channel[field]
 
@@ -264,6 +493,7 @@ function findSchedule(channel) {
       value &&
       typeof value === "object"
     ) {
+
       const nestedFields = [
         "schedule",
         "schedules",
@@ -278,12 +508,16 @@ function findSchedule(channel) {
         const nestedField
         of nestedFields
       ) {
+
         if (
           Array.isArray(
             value[nestedField]
           )
         ) {
-          return value[nestedField]
+
+          return value[
+            nestedField
+          ]
         }
       }
     }
@@ -300,6 +534,7 @@ PROGRAM ALANLARI
 */
 
 function getProgramTitle(program) {
+
   return firstValue(
     program,
     [
@@ -319,6 +554,7 @@ function getProgramTitle(program) {
 
 
 function getProgramStart(program) {
+
   return firstValue(
     program,
     [
@@ -335,6 +571,7 @@ function getProgramStart(program) {
 
 
 function getProgramDay(program) {
+
   return firstValue(
     program,
     [
@@ -348,6 +585,7 @@ function getProgramDay(program) {
 
 
 function getProgramDuration(program) {
+
   return firstValue(
     program,
     [
@@ -362,13 +600,11 @@ function getProgramDuration(program) {
 /*
 ==================================================
 SCHEDULE PARSE
-
-Hem eski D-Smart formatını hem de
-alternatif formatları destekler.
 ==================================================
 */
 
 function parseSchedule(channel) {
+
   const channelId =
     getChannelId(channel)
 
@@ -392,7 +628,9 @@ function parseSchedule(channel) {
     const program
     of schedule
   ) {
+
     try {
+
       const title =
         getProgramTitle(program)
 
@@ -409,33 +647,31 @@ function parseSchedule(channel) {
       const durationValue =
         getProgramDuration(program)
 
+
       /*
-       Eski format:
-       day
-       start_date
-       duration
-       */
+      ------------------------------------------
+      ESKİ FORMAT
+      ------------------------------------------
+      */
 
       if (
         dayValue &&
         startValue &&
         durationValue
       ) {
+
         const baseDate =
           parseUtc(dayValue)
 
         const startDate =
           parseUtc(startValue)
 
-        if (firstStart === null) {
+        if (
+          firstStart === null
+        ) {
+
           firstStart =
             startDate
-
-          /*
-           D-Smart'ın day + start_date
-           kombinasyonundaki saat farkını
-           koruyoruz.
-           */
 
           const dayText =
             String(dayValue)
@@ -449,19 +685,23 @@ function parseSchedule(channel) {
             dayText.length >= 11 &&
             startText.length >= 11
           ) {
+
             combined =
               dayText.slice(0, 11) +
               startText.slice(11)
           }
 
           if (combined) {
+
             const combinedDate =
               parseUtc(combined)
 
             offset =
               combinedDate.getTime() -
               baseDate.getTime()
+
           } else {
+
             offset = 0
           }
         }
@@ -498,15 +738,19 @@ function parseSchedule(channel) {
         continue
       }
 
+
       /*
-       Alternatif format:
-       start + duration
-       */
+      ------------------------------------------
+      ALTERNATİF FORMAT
+      START + DURATION
+      ------------------------------------------
+      */
 
       if (
         startValue &&
         durationValue
       ) {
+
         const start =
           parseUtc(startValue)
 
@@ -531,10 +775,12 @@ function parseSchedule(channel) {
         continue
       }
 
+
       /*
-       Alternatif:
-       start + end
-       */
+      ------------------------------------------
+      START + END
+      ------------------------------------------
+      */
 
       const endValue =
         firstValue(
@@ -554,6 +800,7 @@ function parseSchedule(channel) {
         startValue &&
         endValue
       ) {
+
         const start =
           parseUtc(startValue)
 
@@ -564,6 +811,7 @@ function parseSchedule(channel) {
           stop.getTime() >
           start.getTime()
         ) {
+
           programs.push({
             channel: channelId,
             title,
@@ -574,6 +822,7 @@ function parseSchedule(channel) {
       }
 
     } catch (error) {
+
       console.log(
         `Program atlandı: ${getProgramTitle(program) || "Bilinmeyen"}`
       )
@@ -595,15 +844,45 @@ TÜM SAYFALAR
 */
 
 async function fetchAllPages(day) {
+
   console.log(
     `D-Smart ${day} indiriliyor...`
   )
 
-  const first =
-    await fetchJson(
-      day,
-      1
+  /*
+  ------------------------------------------
+  İLK SAYFA
+  ------------------------------------------
+  */
+
+  let first
+
+  try {
+
+    first =
+      await fetchJson(
+        day,
+        1
+      )
+
+  } catch (error) {
+
+    console.log("")
+    console.log(
+      `!!! ${day} ilk sayfa alınamadı !!!`
     )
+
+    console.log(
+      error.message
+    )
+
+    console.log(
+      `${day} günü atlanıyor.`
+    )
+
+    return []
+  }
+
 
   const total =
     Number(
@@ -611,12 +890,14 @@ async function fetchAllPages(day) {
     )
 
   if (!total) {
+
     console.log(
       `D-Smart ${day}: veri yok`
     )
 
     return []
   }
+
 
   const pages =
     Math.ceil(
@@ -632,49 +913,146 @@ async function fetchAllPages(day) {
     `Toplam sayfa: ${pages}`
   )
 
+
   const channels = []
+
+
+  /*
+  ------------------------------------------
+  İLK SAYFA KANALLARI
+  ------------------------------------------
+  */
 
   if (
     Array.isArray(
       first?.data?.channels
     )
   ) {
+
     channels.push(
       ...first.data.channels
     )
   }
+
+
+  /*
+  ------------------------------------------
+  DİĞER SAYFALAR
+  ------------------------------------------
+  */
 
   for (
     let page = 2;
     page <= pages;
     page++
   ) {
-    const result =
-      await fetchJson(
-        day,
-        page
+
+    try {
+
+      const result =
+        await fetchJson(
+          day,
+          page
+        )
+
+      if (
+        Array.isArray(
+          result?.data?.channels
+        )
+      ) {
+
+        channels.push(
+          ...result.data.channels
+        )
+      }
+
+    } catch (error) {
+
+      /*
+      ----------------------------------------
+      ÖNEMLİ:
+      TEK SAYFA HATA VERİRSE TÜM GÜNÜ
+      ÖLDÜRMÜYORUZ.
+      ----------------------------------------
+      */
+
+      console.log("")
+      console.log(
+        `!!! ${day} page=${page} ATLANDI !!!`
       )
 
-    if (
-      Array.isArray(
-        result?.data?.channels
+      console.log(
+        error.message
       )
-    ) {
-      channels.push(
-        ...result.data.channels
+
+      console.log(
+        "Diğer sayfalarla devam ediliyor."
       )
+
+      console.log("")
     }
+
 
     await sleep(
       REQUEST_DELAY
     )
   }
 
+
+  /*
+  ------------------------------------------
+  DUPLICATE KANAL TEMİZLE
+  ------------------------------------------
+  */
+
+  const uniqueChannels =
+    new Map()
+
+  for (
+    const channel
+    of channels
+  ) {
+
+    const id =
+      getChannelId(channel)
+
+    if (!id) {
+      continue
+    }
+
+    if (
+      !uniqueChannels.has(id)
+    ) {
+
+      uniqueChannels.set(
+        id,
+        channel
+      )
+    }
+  }
+
+
+  const result =
+    Array.from(
+      uniqueChannels.values()
+    )
+
+
   console.log(
-    `${day}: ${channels.length} kanal alındı`
+    `${day}: ${result.length} kanal alındı`
   )
 
-  return channels
+  if (
+    result.length !== total
+  ) {
+
+    console.log(
+      `${day}: ${total - result.length} kanal eksik`
+    )
+  }
+
+
+  return result
 }
 
 
@@ -685,6 +1063,7 @@ XML ESCAPE
 */
 
 function xmlEscape(value) {
+
   return String(
     value || ""
   )
@@ -718,6 +1097,7 @@ XMLTV TARİH
 */
 
 function xmltvTime(date) {
+
   const year =
     date.getUTCFullYear()
 
@@ -778,6 +1158,7 @@ function buildXml(
   programs,
   channelNames
 ) {
+
   const xml = []
 
   xml.push(
@@ -788,6 +1169,7 @@ function buildXml(
     '<tv generator-info-name="D-Smart EPG">'
   )
 
+
   const channelIds =
     [
       ...new Set(
@@ -797,10 +1179,12 @@ function buildXml(
       )
     ].sort()
 
+
   for (
     const channelId
     of channelIds
   ) {
+
     const name =
       cleanText(
         channelNames[channelId]
@@ -820,8 +1204,10 @@ function buildXml(
     )
   }
 
+
   programs.sort(
     (a, b) => {
+
       const difference =
         a.start.getTime() -
         b.start.getTime()
@@ -838,10 +1224,12 @@ function buildXml(
     }
   )
 
+
   for (
     const program
     of programs
   ) {
+
     xml.push(
       `  <programme ` +
       `start="${xmltvTime(program.start)}" ` +
@@ -857,6 +1245,7 @@ function buildXml(
       "  </programme>"
     )
   }
+
 
   xml.push(
     "</tv>"
@@ -876,12 +1265,8 @@ GÜNLER
 */
 
 function getDays() {
-  const days = []
 
-  /*
-   Tarihi UTC yerine lokal takvim üzerinden
-   oluşturuyoruz.
-   */
+  const days = []
 
   const now =
     new Date()
@@ -891,6 +1276,7 @@ function getDays() {
     i < DAYS;
     i++
   ) {
+
     const date =
       new Date(
         now.getFullYear(),
@@ -937,6 +1323,7 @@ function addChannelName(
   channelId,
   channel
 ) {
+
   const name =
     getChannelName(channel)
 
@@ -956,6 +1343,7 @@ function addChannelName(
     !oldName ||
     oldName === channelId
   ) {
+
     channelNames[channelId] =
       name
   }
@@ -969,6 +1357,7 @@ ANA FONKSİYON
 */
 
 async function main() {
+
   console.log(
     "========================================"
   )
@@ -981,6 +1370,23 @@ async function main() {
     "========================================"
   )
 
+  console.log(
+    `Timeout: ${REQUEST_TIMEOUT / 1000} saniye`
+  )
+
+  console.log(
+    `Max retry: ${MAX_RETRIES}`
+  )
+
+  console.log(
+    `Gün sayısı: ${DAYS}`
+  )
+
+  console.log(
+    "========================================"
+  )
+
+
   const days =
     getDays()
 
@@ -988,27 +1394,37 @@ async function main() {
 
   const channelNames = {}
 
+
   for (
     const day
     of days
   ) {
+
+    console.log("")
     console.log(
       `Gün: ${day}`
     )
+    console.log(
+      "----------------------------------------"
+    )
+
 
     const channels =
       await fetchAllPages(
         day
       )
 
+
     let dayPrograms = 0
 
     let channelsWithSchedule = 0
+
 
     for (
       const channel
       of channels
     ) {
+
       const channelId =
         getChannelId(channel)
 
@@ -1016,11 +1432,13 @@ async function main() {
         continue
       }
 
+
       addChannelName(
         channelNames,
         channelId,
         channel
       )
+
 
       const schedule =
         findSchedule(
@@ -1030,8 +1448,10 @@ async function main() {
       if (
         schedule.length > 0
       ) {
+
         channelsWithSchedule++
       }
+
 
       const programs =
         parseSchedule(
@@ -1046,6 +1466,7 @@ async function main() {
       )
     }
 
+
     console.log(
       `${day}: ${dayPrograms} program`
     )
@@ -1054,16 +1475,20 @@ async function main() {
       `${day}: ${channelsWithSchedule} kanalda program verisi bulundu`
     )
 
+
     /*
-     Eğer yine 0 ise API yapısını
-     terminalde açıkça göster.
-     */
+    ------------------------------------------
+    API YAPISI DEĞİŞMİŞSE ÖRNEK GÖSTER
+    ------------------------------------------
+    */
 
     if (
       dayPrograms === 0 &&
       channels.length > 0
     ) {
+
       console.log("")
+
       console.log(
         "UYARI: Kanal geldi fakat program alanı bulunamadı."
       )
@@ -1076,9 +1501,7 @@ async function main() {
       )
 
       console.log(
-        Object.keys(
-          sample
-        )
+        Object.keys(sample)
       )
 
       console.log(
@@ -1102,16 +1525,20 @@ async function main() {
 
 
   /*
-   DUPLICATE TEMİZLE
-   */
+  ==================================================
+  DUPLICATE TEMİZLE
+  ==================================================
+  */
 
   const unique =
     new Map()
+
 
   for (
     const program
     of allPrograms
   ) {
+
     const key =
       [
         program.channel,
@@ -1120,15 +1547,18 @@ async function main() {
         program.title
       ].join("|")
 
+
     if (
       !unique.has(key)
     ) {
+
       unique.set(
         key,
         program
       )
     }
   }
+
 
   const programs =
     Array.from(
@@ -1137,13 +1567,17 @@ async function main() {
 
 
   /*
-   PROGRAM YOKSA HATA
-   */
+  ==================================================
+  PROGRAM YOKSA ESKİ XML'İ EZME
+  ==================================================
+  */
 
   if (
     !programs.length
   ) {
+
     console.log("")
+
     console.log(
       "========================================"
     )
@@ -1157,11 +1591,11 @@ async function main() {
     )
 
     console.log(
-      "181 kanal alınmış olmasına rağmen program bulunamadı."
+      "Hiç program alınamadı."
     )
 
     console.log(
-      "Terminalde yukarıdaki 'İlk kanal örneği' bölümünü kontrol et."
+      "Mevcut dsmart.xml korunuyor."
     )
 
     throw new Error(
@@ -1171,8 +1605,10 @@ async function main() {
 
 
   /*
-   AKTİF KANALLAR
-   */
+  ==================================================
+  AKTİF KANALLAR
+  ==================================================
+  */
 
   const activeChannelIds =
     new Set(
@@ -1181,13 +1617,16 @@ async function main() {
       )
     )
 
+
   for (
     const channelId
     of activeChannelIds
   ) {
+
     if (
       !channelNames[channelId]
     ) {
+
       channelNames[channelId] =
         channelId
     }
@@ -1195,8 +1634,10 @@ async function main() {
 
 
   /*
-   XML
-   */
+  ==================================================
+  XML
+  ==================================================
+  */
 
   const xml =
     buildXml(
@@ -1204,16 +1645,63 @@ async function main() {
       channelNames
     )
 
+
+  /*
+  Geçici dosyaya yaz.
+  Böylece XML oluşturulurken işlem
+  yarıda kalırsa mevcut dosya bozulmaz.
+  */
+
+  const tempFile =
+    "dsmart.xml.tmp"
+
   fs.writeFileSync(
-    "dsmart.xml",
+    tempFile,
     xml,
     "utf8"
   )
 
 
   /*
-   SONUÇ
-   */
+  Dosyanın gerçekten dolu olduğunu kontrol et
+  */
+
+  const fileSize =
+    fs.statSync(
+      tempFile
+    ).size
+
+  if (
+    fileSize < 100
+  ) {
+
+    fs.unlinkSync(
+      tempFile
+    )
+
+    throw new Error(
+      "Oluşturulan dsmart.xml geçersiz veya boş."
+    )
+  }
+
+
+  /*
+  Eski dosyanın yerine geç
+  */
+
+  fs.renameSync(
+    tempFile,
+    "dsmart.xml"
+  )
+
+
+  /*
+  ==================================================
+  SONUÇ
+  ==================================================
+  */
+
+  console.log("")
 
   console.log(
     "========================================"
@@ -1221,6 +1709,10 @@ async function main() {
 
   console.log(
     "D-SMART EPG BAŞARIYLA OLUŞTURULDU"
+  )
+
+  console.log(
+    "========================================"
   )
 
   console.log(
@@ -1233,6 +1725,10 @@ async function main() {
 
   console.log(
     `Gün sayısı: ${DAYS}`
+  )
+
+  console.log(
+    `Dosya boyutu: ${fileSize} byte`
   )
 
   console.log(
@@ -1253,15 +1749,20 @@ HATA YAKALAMA
 
 main().catch(
   error => {
+
     console.error("")
+
     console.error(
       "D-SMART EPG HATASI:"
     )
+
     console.error("")
+
     console.error(
       error.message ||
       error
     )
+
     console.error("")
 
     process.exit(1)
