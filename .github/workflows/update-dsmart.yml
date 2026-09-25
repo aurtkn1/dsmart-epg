@@ -23,7 +23,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: "20"
-          cache: "npm"
 
       - name: Node.js sürümünü kontrol et
         run: |
@@ -47,6 +46,7 @@ jobs:
           fi
 
           echo "dsmart.xml başarıyla oluşturuldu."
+
           echo "Dosya boyutu:"
           wc -c dsmart.xml
 
