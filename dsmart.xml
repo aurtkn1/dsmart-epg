@@ -624,6 +624,9 @@
   <programme start="20260928210000 +0000" stop="20260928211000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Gumball</title>
   </programme>
+  <programme start="20260928210000 +0000" stop="20260928213000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">News - London</title>
+  </programme>
   <programme start="20260928210000 +0000" stop="20260928220000 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Newsdesk</title>
   </programme>
@@ -801,6 +804,9 @@
   <programme start="20260928212700 +0000" stop="20260928213100 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Gözlerini Kapat</title>
   </programme>
+  <programme start="20260928213000 +0000" stop="20260928220000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Avaz Gündem</title>
+  </programme>
   <programme start="20260928213000 +0000" stop="20260928214500 +0000" channel="58d29bb0eefad3db9c60624f">
     <title lang="tr">Bosai: Science That Can Save Your Life</title>
   </programme>
@@ -833,6 +839,9 @@
   </programme>
   <programme start="20260928213000 +0000" stop="20260928214000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Adventure Time</title>
+  </programme>
+  <programme start="20260928213000 +0000" stop="20260928220000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">Roundtable Bölüm 720</title>
   </programme>
   <programme start="20260928213000 +0000" stop="20260928220000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Fashion Magazines</title>
@@ -993,6 +1002,9 @@
   <programme start="20260928220000 +0000" stop="20260929013000 +0000" channel="58d29bb0eefad3db9c60623d">
     <title lang="tr">Gürkan Hacır ile Taksim Meydanı Tkr</title>
   </programme>
+  <programme start="20260928220000 +0000" stop="20260928230000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Göktürklerin Dirilişi</title>
+  </programme>
   <programme start="20260928220000 +0000" stop="20260928223000 +0000" channel="58d29bb0eefad3db9c60624f">
     <title lang="tr">NHK Newsline</title>
   </programme>
@@ -1053,11 +1065,17 @@
   <programme start="20260928220000 +0000" stop="20260928221000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Kafadar Ayılar</title>
   </programme>
+  <programme start="20260928220000 +0000" stop="20260928223000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">News</title>
+  </programme>
   <programme start="20260928220000 +0000" stop="20260928230000 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Newsdesk</title>
   </programme>
   <programme start="20260928220000 +0000" stop="20260928223000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Top Models</title>
+  </programme>
+  <programme start="20260928220000 +0000" stop="20260929000000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Yahşi Cazibe</title>
   </programme>
   <programme start="20260928220000 +0000" stop="20260928223000 +0000" channel="5ac73ebbcfef0b34db533a95">
     <title lang="tr">5 Vakit Yolda</title>
@@ -1133,6 +1151,9 @@
   </programme>
   <programme start="20260928220900 +0000" stop="20260928221300 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Gözlerini Kapat</title>
+  </programme>
+  <programme start="20260928221000 +0000" stop="20260928231000 +0000" channel="58d29bb0eefad3db9c60624a">
+    <title lang="tr">Gezgin Bölüm 24</title>
   </programme>
   <programme start="20260928221000 +0000" stop="20260928225500 +0000" channel="58d29bb0eefad3db9c606269">
     <title lang="tr">Castle</title>
@@ -1269,6 +1290,9 @@
   <programme start="20260928223000 +0000" stop="20260928224000 +0000" channel="58d29bb0eefad3db9c6062b9">
     <title lang="tr">Kral Şakir</title>
   </programme>
+  <programme start="20260928223000 +0000" stop="20260928230000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">The Newsmakers Bölüm 718</title>
+  </programme>
   <programme start="20260928223000 +0000" stop="20260928230000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Top Models</title>
   </programme>
@@ -1386,6 +1410,9 @@
   <programme start="20260928225000 +0000" stop="20260928230000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Uncle Grandpa</title>
   </programme>
+  <programme start="20260928225000 +0000" stop="20260928230000 +0000" channel="59dcbee1cfef0b4d80a49650">
+    <title lang="tr">Taksim&apos;den Tünel&apos;e 3/13</title>
+  </programme>
   <programme start="20260928225000 +0000" stop="20260928231500 +0000" channel="5fedddcecfef0b159330996e">
     <title lang="tr">Marvel Spidey ve İnanılmaz Arkadaşları</title>
   </programme>
@@ -1443,6 +1470,9 @@
   <programme start="20260928230000 +0000" stop="20260928235500 +0000" channel="58d29bb0eefad3db9c60623a">
     <title lang="tr">Haber Bülteni</title>
   </programme>
+  <programme start="20260928230000 +0000" stop="20260928233000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Adım Adım Türkistan&apos;da Bölüm 25</title>
+  </programme>
   <programme start="20260928230000 +0000" stop="20260928233000 +0000" channel="58d29bb0eefad3db9c60624f">
     <title lang="tr">NHK Newsline</title>
   </programme>
@@ -1476,6 +1506,9 @@
   <programme start="20260928230000 +0000" stop="20260928231500 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Uncle Grandpa</title>
   </programme>
+  <programme start="20260928230000 +0000" stop="20260928233000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">News</title>
+  </programme>
   <programme start="20260928230000 +0000" stop="20260929000000 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Newsdesk</title>
   </programme>
@@ -1484,6 +1517,9 @@
   </programme>
   <programme start="20260928230000 +0000" stop="20260928233000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Lingerie</title>
+  </programme>
+  <programme start="20260928230000 +0000" stop="20260929000000 +0000" channel="59dcbee1cfef0b4d80a49650">
+    <title lang="tr">Büyük Düşler Büyük İşler Bölüm 3</title>
   </programme>
   <programme start="20260928230000 +0000" stop="20260928233000 +0000" channel="5ac73ebbcfef0b34db533a95">
     <title lang="tr">Tarih ve Ötesi</title>
@@ -1565,6 +1601,9 @@
   </programme>
   <programme start="20260928230900 +0000" stop="20260929011500 +0000" channel="59dcbfdccfef0b4d80a4974a">
     <title lang="tr">Gelinim Mutfakta</title>
+  </programme>
+  <programme start="20260928231000 +0000" stop="20260929003000 +0000" channel="58d29bb0eefad3db9c60624a">
+    <title lang="tr">Dengbej Hikayeler Bölüm 4</title>
   </programme>
   <programme start="20260928231000 +0000" stop="20260928235500 +0000" channel="58d29bb0eefad3db9c6062a5">
     <title lang="tr">Yetenekli Dr. Pol</title>
@@ -1650,6 +1689,9 @@
   <programme start="20260928232800 +0000" stop="20260928233500 +0000" channel="58d29bb0eefad3db9c6062bf">
     <title lang="tr">100 Ways to Draw</title>
   </programme>
+  <programme start="20260928233000 +0000" stop="20260929000000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Tanıdık Kalpler Bölüm 14</title>
+  </programme>
   <programme start="20260928233000 +0000" stop="20260928235700 +0000" channel="58d29bb0eefad3db9c60624f">
     <title lang="tr">Hometown Stories</title>
   </programme>
@@ -1694,6 +1736,9 @@
   </programme>
   <programme start="20260928233000 +0000" stop="20260929000000 +0000" channel="58d29bb0eefad3db9c6062c6">
     <title lang="tr">Newscast</title>
+  </programme>
+  <programme start="20260928233000 +0000" stop="20260929000000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">Insıde Amerıca Bölüm 58</title>
   </programme>
   <programme start="20260928233000 +0000" stop="20260929000000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Lingerie</title>
@@ -1869,6 +1914,9 @@
   <programme start="20260929000000 +0000" stop="20260929001500 +0000" channel="58d29bb0eefad3db9c60623a">
     <title lang="tr">Haber Bülteni</title>
   </programme>
+  <programme start="20260929000000 +0000" stop="20260929003000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Sarı Çizmeli Mehmet Ağa</title>
+  </programme>
   <programme start="20260929000000 +0000" stop="20260929003000 +0000" channel="58d29bb0eefad3db9c60624f">
     <title lang="tr">NHK Newsline</title>
   </programme>
@@ -1911,6 +1959,9 @@
   <programme start="20260929000000 +0000" stop="20260929003000 +0000" channel="58d29bb0eefad3db9c6062c6">
     <title lang="tr">BBC News</title>
   </programme>
+  <programme start="20260929000000 +0000" stop="20260929003000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">News</title>
+  </programme>
   <programme start="20260929000000 +0000" stop="20260929010000 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Newsdesk</title>
   </programme>
@@ -1922,6 +1973,12 @@
   </programme>
   <programme start="20260929000000 +0000" stop="20260929003000 +0000" channel="59dca577cfef0b4d80a47b7c">
     <title lang="tr">Tarihi Rotalar</title>
+  </programme>
+  <programme start="20260929000000 +0000" stop="20260929020000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Sıla</title>
+  </programme>
+  <programme start="20260929000000 +0000" stop="20260929023000 +0000" channel="59dcbee1cfef0b4d80a49650">
+    <title lang="tr">Kudüs Fatihi Selahaddin Eyyubi Bölüm 40</title>
   </programme>
   <programme start="20260929000000 +0000" stop="20260929010000 +0000" channel="5ac73ebbcfef0b34db533a95">
     <title lang="tr">Diyanet Ana Haber</title>
@@ -2103,6 +2160,12 @@
   <programme start="20260929003000 +0000" stop="20260929021500 +0000" channel="58d29bb0eefad3db9c606231">
     <title lang="tr">Stadyum</title>
   </programme>
+  <programme start="20260929003000 +0000" stop="20260929023000 +0000" channel="58d29bb0eefad3db9c60624a">
+    <title lang="tr">Seksenler Bölüm 39</title>
+  </programme>
+  <programme start="20260929003000 +0000" stop="20260929010000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Zamana Konuşanlar Bölüm 1</title>
+  </programme>
   <programme start="20260929003000 +0000" stop="20260929010000 +0000" channel="58d29bb0eefad3db9c60624f">
     <title lang="tr">Journeys in Japan</title>
   </programme>
@@ -2138,6 +2201,9 @@
   </programme>
   <programme start="20260929003000 +0000" stop="20260929004000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Kral Şakir</title>
+  </programme>
+  <programme start="20260929003000 +0000" stop="20260929010000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">Straıt Talk Bölüm 300</title>
   </programme>
   <programme start="20260929003000 +0000" stop="20260929010000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Swimwear</title>
@@ -2298,6 +2364,9 @@
   <programme start="20260929010000 +0000" stop="20260929011500 +0000" channel="58d29bb0eefad3db9c60623a">
     <title lang="tr">Haber Bülteni</title>
   </programme>
+  <programme start="20260929010000 +0000" stop="20260929021500 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Altaylardan Tuna&apos;ya Bölüm 13</title>
+  </programme>
   <programme start="20260929010000 +0000" stop="20260929013000 +0000" channel="58d29bb0eefad3db9c60624f">
     <title lang="tr">NHK Newsline</title>
   </programme>
@@ -2333,6 +2402,9 @@
   </programme>
   <programme start="20260929010000 +0000" stop="20260929013000 +0000" channel="58d29bb0eefad3db9c6062c6">
     <title lang="tr">Newsday</title>
+  </programme>
+  <programme start="20260929010000 +0000" stop="20260929011500 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">News</title>
   </programme>
   <programme start="20260929010000 +0000" stop="20260929020000 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Newsdesk</title>
@@ -2448,6 +2520,9 @@
   <programme start="20260929011500 +0000" stop="20260929013000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Kral Şakir</title>
   </programme>
+  <programme start="20260929011500 +0000" stop="20260929013000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">Newsfeed Bölüm 115</title>
+  </programme>
   <programme start="20260929011500 +0000" stop="20260929030000 +0000" channel="59dcbfdccfef0b4d80a4974a">
     <title lang="tr">Siyah Beyaz Aşk 22.Bölüm</title>
   </programme>
@@ -2558,6 +2633,9 @@
   </programme>
   <programme start="20260929013000 +0000" stop="20260929014500 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Kral Şakir</title>
+  </programme>
+  <programme start="20260929013000 +0000" stop="20260929020000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">Roundtable Bölüm 720</title>
   </programme>
   <programme start="20260929013000 +0000" stop="20260929020000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Top Models</title>
@@ -2808,6 +2886,9 @@
   <programme start="20260929020000 +0000" stop="20260929023000 +0000" channel="58d29bb0eefad3db9c6062c6">
     <title lang="tr">Newsday</title>
   </programme>
+  <programme start="20260929020000 +0000" stop="20260929023000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">News</title>
+  </programme>
   <programme start="20260929020000 +0000" stop="20260929030000 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Newsdesk</title>
   </programme>
@@ -2816,6 +2897,9 @@
   </programme>
   <programme start="20260929020000 +0000" stop="20260929040000 +0000" channel="59dca881cfef0b4d80a47c30">
     <title lang="tr">Eksen (Tekrar)</title>
+  </programme>
+  <programme start="20260929020000 +0000" stop="20260929040000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Elveda Rumeli</title>
   </programme>
   <programme start="20260929020000 +0000" stop="20260929023000 +0000" channel="5ac73ebbcfef0b34db533a95">
     <title lang="tr">Çocuk Edebiyatı</title>
@@ -2897,6 +2981,9 @@
   </programme>
   <programme start="20260929021500 +0000" stop="20260929024500 +0000" channel="58d29bb0eefad3db9c60623d">
     <title lang="tr">Huzura Doğru</title>
+  </programme>
+  <programme start="20260929021500 +0000" stop="20260929023000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Gönül Gözüyle Bölüm 26</title>
   </programme>
   <programme start="20260929021500 +0000" stop="20260929024500 +0000" channel="58d29bb0eefad3db9c60624c">
     <title lang="tr">Leyla İle Mecnun Bölüm 88</title>
@@ -2988,6 +3075,12 @@
   <programme start="20260929023000 +0000" stop="20260929030000 +0000" channel="58d29bb0eefad3db9c606231">
     <title lang="tr">İspanya La Liga Özetler Bölüm 7</title>
   </programme>
+  <programme start="20260929023000 +0000" stop="20260929030000 +0000" channel="58d29bb0eefad3db9c60624a">
+    <title lang="tr">Kuran Öğreniyorum Bölüm 13</title>
+  </programme>
+  <programme start="20260929023000 +0000" stop="20260929025800 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">İz Ve Dönüşüm Bölüm 1</title>
+  </programme>
   <programme start="20260929023000 +0000" stop="20260929030000 +0000" channel="58d29bb0eefad3db9c60624f">
     <title lang="tr">Document 72 Hours</title>
   </programme>
@@ -3024,8 +3117,14 @@
   <programme start="20260929023000 +0000" stop="20260929024500 +0000" channel="58d29bb0eefad3db9c6062c6">
     <title lang="tr">Business Today</title>
   </programme>
+  <programme start="20260929023000 +0000" stop="20260929030000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">Raısıng Expectatıons Bölüm 3</title>
+  </programme>
   <programme start="20260929023000 +0000" stop="20260929030000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Lingerie</title>
+  </programme>
+  <programme start="20260929023000 +0000" stop="20260929025800 +0000" channel="59dcbee1cfef0b4d80a49650">
+    <title lang="tr">Nefes Alan Topraklar 9/39</title>
   </programme>
   <programme start="20260929023000 +0000" stop="20260929030000 +0000" channel="5ac73ebbcfef0b34db533a95">
     <title lang="tr">Riyazüs-Salihin Okumaları</title>
@@ -3165,6 +3264,12 @@
   <programme start="20260929025500 +0000" stop="20260929044500 +0000" channel="58d29bb0eefad3db9c6062ba">
     <title lang="tr">Amerikan Haini</title>
   </programme>
+  <programme start="20260929025800 +0000" stop="20260929030000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">İstiklal Marşı</title>
+  </programme>
+  <programme start="20260929025800 +0000" stop="20260929030000 +0000" channel="59dcbee1cfef0b4d80a49650">
+    <title lang="tr">İstiklal Marşı</title>
+  </programme>
   <programme start="20260929025800 +0000" stop="20260929032700 +0000" channel="674b8600cfef0b37448977de">
     <title lang="tr">Kend Hayatı</title>
   </programme>
@@ -3182,6 +3287,12 @@
   </programme>
   <programme start="20260929030000 +0000" stop="20260929044000 +0000" channel="58d29bb0eefad3db9c606248">
     <title lang="tr">Kırsalda Yaşamak Zor</title>
+  </programme>
+  <programme start="20260929030000 +0000" stop="20260929040000 +0000" channel="58d29bb0eefad3db9c60624a">
+    <title lang="tr">Hatim Bölüm 13</title>
+  </programme>
+  <programme start="20260929030000 +0000" stop="20260929030500 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Kazakistan Haber</title>
   </programme>
   <programme start="20260929030000 +0000" stop="20260929033000 +0000" channel="58d29bb0eefad3db9c60624f">
     <title lang="tr">NHK Newsline</title>
@@ -3261,6 +3372,9 @@
   <programme start="20260929030000 +0000" stop="20260929031000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Kral Şakir</title>
   </programme>
+  <programme start="20260929030000 +0000" stop="20260929040000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">Storyteller Bölüm 138</title>
+  </programme>
   <programme start="20260929030000 +0000" stop="20260929032500 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Newsdesk</title>
   </programme>
@@ -3272,6 +3386,9 @@
   </programme>
   <programme start="20260929030000 +0000" stop="20260929033000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Swimwear</title>
+  </programme>
+  <programme start="20260929030000 +0000" stop="20260929053000 +0000" channel="59dcbee1cfef0b4d80a49650">
+    <title lang="tr">Vuslat Bölüm 37</title>
   </programme>
   <programme start="20260929030000 +0000" stop="20260929034200 +0000" channel="59dcbfdccfef0b4d80a4974a">
     <title lang="tr">Siyah Beyaz Aşk 22.Bölüm</title>
@@ -3342,6 +3459,9 @@
   <programme start="20260929030100 +0000" stop="20260929030700 +0000" channel="69b8011acfef0b02ec9d9498">
     <title lang="tr">Envanter Klipler</title>
   </programme>
+  <programme start="20260929030500 +0000" stop="20260929031000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Kırgızca Haber</title>
+  </programme>
   <programme start="20260929030500 +0000" stop="20260929032700 +0000" channel="58d29bb0eefad3db9c606255">
     <title lang="tr">Çizgi Film &quot;İbi&quot;</title>
   </programme>
@@ -3369,6 +3489,9 @@
   <programme start="20260929031000 +0000" stop="20260929040000 +0000" channel="58d29bb0eefad3db9c60623e">
     <title lang="tr">Aslı Şafak&apos;la İşin Aslı</title>
   </programme>
+  <programme start="20260929031000 +0000" stop="20260929031500 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Özbekçe Haber</title>
+  </programme>
   <programme start="20260929031000 +0000" stop="20260929032000 +0000" channel="58d29bb0eefad3db9c6062b9">
     <title lang="tr">Mr. Bean</title>
   </programme>
@@ -3389,6 +3512,9 @@
   </programme>
   <programme start="20260929031500 +0000" stop="20260929034500 +0000" channel="58d29bb0eefad3db9c606236">
     <title lang="tr">Ataman İle Devr-i Alem</title>
+  </programme>
+  <programme start="20260929031500 +0000" stop="20260929032000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Türkmence Haber</title>
   </programme>
   <programme start="20260929031500 +0000" stop="20260929033000 +0000" channel="58d29bb0eefad3db9c60624c">
     <title lang="tr">Gönül Misafiri Bölüm 2</title>
@@ -3420,6 +3546,9 @@
   <programme start="20260929031900 +0000" stop="20260929032400 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Salyangoz İzi</title>
   </programme>
+  <programme start="20260929032000 +0000" stop="20260929032500 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Azerbaycan Haber</title>
+  </programme>
   <programme start="20260929032000 +0000" stop="20260929035500 +0000" channel="58d29bb0eefad3db9c6062a8">
     <title lang="tr">Dikey Rota Bölüm 4</title>
   </programme>
@@ -3440,6 +3569,9 @@
   </programme>
   <programme start="20260929032400 +0000" stop="20260929032900 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Salyangoz İzi</title>
+  </programme>
+  <programme start="20260929032500 +0000" stop="20260929033000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Rusça Haber</title>
   </programme>
   <programme start="20260929032500 +0000" stop="20260929034000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Kral Şakir</title>
@@ -3467,6 +3599,9 @@
   </programme>
   <programme start="20260929033000 +0000" stop="20260929035800 +0000" channel="58d29bb0eefad3db9c606231">
     <title lang="tr">Hollanda Eredivisie Özetler Bölüm 7</title>
+  </programme>
+  <programme start="20260929033000 +0000" stop="20260929040000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Avaz Gündem</title>
   </programme>
   <programme start="20260929033000 +0000" stop="20260929034500 +0000" channel="58d29bb0eefad3db9c60624c">
     <title lang="tr">Zuhurat Bölüm 11</title>
@@ -3729,6 +3864,12 @@
   <programme start="20260929040000 +0000" stop="20260929051500 +0000" channel="58d29bb0eefad3db9c60623e">
     <title lang="tr">İlk Söz</title>
   </programme>
+  <programme start="20260929040000 +0000" stop="20260929043000 +0000" channel="58d29bb0eefad3db9c60624a">
+    <title lang="tr">Kürtçe Dersleri Bölüm 61</title>
+  </programme>
+  <programme start="20260929040000 +0000" stop="20260929041500 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Çizgi Film &quot;Alperen&apos;in Maceraları&quot; Bölüm 1</title>
+  </programme>
   <programme start="20260929040000 +0000" stop="20260929041000 +0000" channel="58d29bb0eefad3db9c60624c">
     <title lang="tr">En Güzel Bölüm 14</title>
   </programme>
@@ -3807,6 +3948,9 @@
   <programme start="20260929040000 +0000" stop="20260929051500 +0000" channel="58d29bb0eefad3db9c6062cb">
     <title lang="tr">8 X 8</title>
   </programme>
+  <programme start="20260929040000 +0000" stop="20260929043000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">News</title>
+  </programme>
   <programme start="20260929040000 +0000" stop="20260929042500 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Newhour</title>
   </programme>
@@ -3818,6 +3962,9 @@
   </programme>
   <programme start="20260929040000 +0000" stop="20260929065000 +0000" channel="59dca881cfef0b4d80a47c30">
     <title lang="tr">Başka Bir Gün</title>
+  </programme>
+  <programme start="20260929040000 +0000" stop="20260929060000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Adanalı</title>
   </programme>
   <programme start="20260929040000 +0000" stop="20260929050000 +0000" channel="5ac73ebbcfef0b34db533a95">
     <title lang="tr">Mukabele</title>
@@ -3921,6 +4068,9 @@
   <programme start="20260929041300 +0000" stop="20260929041800 +0000" channel="58d29bb0eefad3db9c6062b6">
     <title lang="tr">Kemik Yetiştirmek</title>
   </programme>
+  <programme start="20260929041500 +0000" stop="20260929042500 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Masal Otağı Bölüm 1</title>
+  </programme>
   <programme start="20260929041500 +0000" stop="20260929043000 +0000" channel="58d29bb0eefad3db9c606263">
     <title lang="tr">Hüner Bölüm 6</title>
   </programme>
@@ -3981,6 +4131,9 @@
   <programme start="20260929042300 +0000" stop="20260929045900 +0000" channel="6540d968cfef0b02d2dbb177">
     <title lang="tr">CoComelon - Learn Together for Learning Month</title>
   </programme>
+  <programme start="20260929042500 +0000" stop="20260929043500 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Çizgi Film &quot;Oyun Avcıları Macera Peşinde&quot; Bölüm 27</title>
+  </programme>
   <programme start="20260929042500 +0000" stop="20260929043000 +0000" channel="58d29bb0eefad3db9c6062b9">
     <title lang="tr">Grizzy ve Lemmingler</title>
   </programme>
@@ -4004,6 +4157,9 @@
   </programme>
   <programme start="20260929043000 +0000" stop="20260929050000 +0000" channel="58d29bb0eefad3db9c606231">
     <title lang="tr">Uefa Avrupa Ligi Özetler Bölüm 1</title>
+  </programme>
+  <programme start="20260929043000 +0000" stop="20260929060000 +0000" channel="58d29bb0eefad3db9c60624a">
+    <title lang="tr">Sabah Haberleri</title>
   </programme>
   <programme start="20260929043000 +0000" stop="20260929044500 +0000" channel="58d29bb0eefad3db9c60624f">
     <title lang="tr">Activate Your Japanese!</title>
@@ -4056,6 +4212,9 @@
   <programme start="20260929043000 +0000" stop="20260929043500 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Maşa ile Koca Ayı</title>
   </programme>
+  <programme start="20260929043000 +0000" stop="20260929050000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">My Amerıca Bölüm 22</title>
+  </programme>
   <programme start="20260929043000 +0000" stop="20260929045000 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Finance and Markets</title>
   </programme>
@@ -4094,6 +4253,9 @@
   </programme>
   <programme start="20260929043400 +0000" stop="20260929045500 +0000" channel="58d29bb0eefad3db9c6062b6">
     <title lang="tr">Fosil</title>
+  </programme>
+  <programme start="20260929043500 +0000" stop="20260929045000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Çizgi Film &quot;Dedem Korkut&apos;un İzinde&quot; Bölüm 1</title>
   </programme>
   <programme start="20260929043500 +0000" stop="20260929044500 +0000" channel="58d29bb0eefad3db9c60624c">
     <title lang="tr">5 Mekan 5 Makam Bölüm 3</title>
@@ -4164,6 +4326,9 @@
   <programme start="20260929044800 +0000" stop="20260929050500 +0000" channel="58d29bb0eefad3db9c6062bf">
     <title lang="tr">Kaptan Pin&apos;le Uzay Yolculuğu</title>
   </programme>
+  <programme start="20260929045000 +0000" stop="20260929050000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Çizgi Film &quot;Turanbot Ve Kardeş Takımı&quot; Bölüm 25</title>
+  </programme>
   <programme start="20260929045000 +0000" stop="20260929045600 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Mona &amp; Sketch</title>
   </programme>
@@ -4221,6 +4386,9 @@
   <programme start="20260929050000 +0000" stop="20260929070000 +0000" channel="58d29bb0eefad3db9c606231">
     <title lang="tr">İlk Baskı</title>
   </programme>
+  <programme start="20260929050000 +0000" stop="20260929051500 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Gülşen İle Nasıl Çizilir? Bölüm 1</title>
+  </programme>
   <programme start="20260929050000 +0000" stop="20260929063000 +0000" channel="58d29bb0eefad3db9c60624c">
     <title lang="tr">Bulmaca Kulesi: Dev Kuşun Gizemi</title>
   </programme>
@@ -4277,6 +4445,9 @@
   </programme>
   <programme start="20260929050000 +0000" stop="20260929050500 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Grizzy ve Lemmingler</title>
+  </programme>
+  <programme start="20260929050000 +0000" stop="20260929053000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">News</title>
   </programme>
   <programme start="20260929050000 +0000" stop="20260929052500 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Newhour</title>
@@ -4380,6 +4551,9 @@
   <programme start="20260929051500 +0000" stop="20260929060000 +0000" channel="58d29bb0eefad3db9c60623e">
     <title lang="tr">Sabah Raporu</title>
   </programme>
+  <programme start="20260929051500 +0000" stop="20260929052000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Çizgilerle Tarih Bölüm 11</title>
+  </programme>
   <programme start="20260929051500 +0000" stop="20260929053500 +0000" channel="58d29bb0eefad3db9c606269">
     <title lang="tr">How I Met Your Mother</title>
   </programme>
@@ -4419,6 +4593,9 @@
   <programme start="20260929051800 +0000" stop="20260929052300 +0000" channel="58d29bb0eefad3db9c6062bf">
     <title lang="tr">Evcil Dinazorum</title>
   </programme>
+  <programme start="20260929052000 +0000" stop="20260929052500 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Türk&apos;ün Sözlüğü Bölüm 7</title>
+  </programme>
   <programme start="20260929052000 +0000" stop="20260929053000 +0000" channel="58d29bb0eefad3db9c606255">
     <title lang="tr">Çizgi Film &quot;Trafik Tayfa&quot;</title>
   </programme>
@@ -4443,6 +4620,9 @@
   <programme start="20260929052400 +0000" stop="20260929055400 +0000" channel="6540d968cfef0b02d2dbb177">
     <title lang="tr">The Melon Patch - Büyük Duyguları Hisset!</title>
   </programme>
+  <programme start="20260929052500 +0000" stop="20260929053000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Bir Mekan Bir Hikaye Bölüm 4</title>
+  </programme>
   <programme start="20260929052500 +0000" stop="20260929053000 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Finance and Markets</title>
   </programme>
@@ -4457,6 +4637,9 @@
   </programme>
   <programme start="20260929052600 +0000" stop="20260929053700 +0000" channel="58d29bb0eefad3db9c6062bf">
     <title lang="tr">Ormanın Ritmi</title>
+  </programme>
+  <programme start="20260929053000 +0000" stop="20260929060000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Bozkırın Hafızası Bölüm 1</title>
   </programme>
   <programme start="20260929053000 +0000" stop="20260929060000 +0000" channel="58d29bb0eefad3db9c60624f">
     <title lang="tr">Journeys in Japan</title>
@@ -4491,11 +4674,17 @@
   <programme start="20260929053000 +0000" stop="20260929053500 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Grizzy ve Lemmingler</title>
   </programme>
+  <programme start="20260929053000 +0000" stop="20260929060000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">Roundtable Bölüm 720</title>
+  </programme>
   <programme start="20260929053000 +0000" stop="20260929055000 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Newhour</title>
   </programme>
   <programme start="20260929053000 +0000" stop="20260929060000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Fashion &amp; Sports</title>
+  </programme>
+  <programme start="20260929053000 +0000" stop="20260929061000 +0000" channel="59dcbee1cfef0b4d80a49650">
+    <title lang="tr">Nefes Alan Topraklar 3/39</title>
   </programme>
   <programme start="20260929053000 +0000" stop="20260929063000 +0000" channel="5c6e8e0ecfef0b613d9ff782">
     <title lang="tr">Beklenti Raporu</title>
@@ -4671,6 +4860,12 @@
   <programme start="20260929060000 +0000" stop="20260929064500 +0000" channel="58d29bb0eefad3db9c60623e">
     <title lang="tr">Yatırım Bülteni</title>
   </programme>
+  <programme start="20260929060000 +0000" stop="20260929081500 +0000" channel="58d29bb0eefad3db9c60624a">
+    <title lang="tr">Dizi Can Ve Ciğer Bölüm 77</title>
+  </programme>
+  <programme start="20260929060000 +0000" stop="20260929061500 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Anadolu Alperenleri Bölüm 1</title>
+  </programme>
   <programme start="20260929060000 +0000" stop="20260929063000 +0000" channel="58d29bb0eefad3db9c60624f">
     <title lang="tr">Newsline Asia 24</title>
   </programme>
@@ -4731,6 +4926,9 @@
   <programme start="20260929060000 +0000" stop="20260929061500 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Bugs Bunny Yapı Ustaları</title>
   </programme>
+  <programme start="20260929060000 +0000" stop="20260929063000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">News</title>
+  </programme>
   <programme start="20260929060000 +0000" stop="20260929061500 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Newhour</title>
   </programme>
@@ -4745,6 +4943,9 @@
   </programme>
   <programme start="20260929060000 +0000" stop="20260929064500 +0000" channel="59dca577cfef0b4d80a47b7c">
     <title lang="tr">Şeflerin Mutfağı (Tekrar)</title>
+  </programme>
+  <programme start="20260929060000 +0000" stop="20260929081500 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Selena</title>
   </programme>
   <programme start="20260929060000 +0000" stop="20260929080500 +0000" channel="59dcbfdccfef0b4d80a4974a">
     <title lang="tr">Neler Oluyor Hayatta &quot;Canlı&quot;</title>
@@ -4827,6 +5028,9 @@
   <programme start="20260929061000 +0000" stop="20260929061900 +0000" channel="58d29bb0eefad3db9c6062bf">
     <title lang="tr">Superhero Sprinter Galore</title>
   </programme>
+  <programme start="20260929061000 +0000" stop="20260929070000 +0000" channel="59dcbee1cfef0b4d80a49650">
+    <title lang="tr">Temelli Misafir Bölüm 2</title>
+  </programme>
   <programme start="20260929061000 +0000" stop="20260929062000 +0000" channel="67c063a6cfef0b3744b5ff9e">
     <title lang="tr">Bilgili Naci Bölüm 3</title>
   </programme>
@@ -4838,6 +5042,9 @@
   </programme>
   <programme start="20260929061100 +0000" stop="20260929061600 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Charlie &amp; Şekiller</title>
+  </programme>
+  <programme start="20260929061500 +0000" stop="20260929063000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Bildiğin Gibi Değil Bölüm 1</title>
   </programme>
   <programme start="20260929061500 +0000" stop="20260929063000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Bugs Bunny Yapı Ustaları</title>
@@ -4908,6 +5115,9 @@
   <programme start="20260929063000 +0000" stop="20260929065500 +0000" channel="58d29bb0eefad3db9c60623a">
     <title lang="tr">Geri Sayım</title>
   </programme>
+  <programme start="20260929063000 +0000" stop="20260929070000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Tanıdık Kalpler Bölüm 14</title>
+  </programme>
   <programme start="20260929063000 +0000" stop="20260929064000 +0000" channel="58d29bb0eefad3db9c60624c">
     <title lang="tr">Güzel Türkçem Bölüm 20</title>
   </programme>
@@ -4940,6 +5150,9 @@
   </programme>
   <programme start="20260929063000 +0000" stop="20260929063500 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Maşa ile Koca Ayı</title>
+  </programme>
+  <programme start="20260929063000 +0000" stop="20260929070000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">Insıde Amerıca Bölüm 58</title>
   </programme>
   <programme start="20260929063000 +0000" stop="20260929065000 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Newhour</title>
@@ -5145,6 +5358,9 @@
   <programme start="20260929070000 +0000" stop="20260929083000 +0000" channel="58d29bb0eefad3db9c60623d">
     <title lang="tr">Haberin İçinden</title>
   </programme>
+  <programme start="20260929070000 +0000" stop="20260929073000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Anadolu İrfanı Bölüm 14</title>
+  </programme>
   <programme start="20260929070000 +0000" stop="20260929073000 +0000" channel="58d29bb0eefad3db9c60624c">
     <title lang="tr">Haberdar Bölüm 379</title>
   </programme>
@@ -5217,11 +5433,17 @@
   <programme start="20260929070000 +0000" stop="20260929084500 +0000" channel="58d29bb0eefad3db9c6062cb">
     <title lang="tr">Cevap Ver Türkiye</title>
   </programme>
+  <programme start="20260929070000 +0000" stop="20260929073000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">Busıness News</title>
+  </programme>
   <programme start="20260929070000 +0000" stop="20260929072500 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Newhour</title>
   </programme>
   <programme start="20260929070000 +0000" stop="20260929073000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Fashion From India</title>
+  </programme>
+  <programme start="20260929070000 +0000" stop="20260929094500 +0000" channel="59dcbee1cfef0b4d80a49650">
+    <title lang="tr">Gönül Dağı Bölüm 213</title>
   </programme>
   <programme start="20260929070000 +0000" stop="20260929071500 +0000" channel="5ac73ebbcfef0b34db533a95">
     <title lang="tr">Korkusuz Leventler</title>
@@ -5394,6 +5616,9 @@
   <programme start="20260929073000 +0000" stop="20260929080000 +0000" channel="58d29bb0eefad3db9c606231">
     <title lang="tr">Spor Bülteni</title>
   </programme>
+  <programme start="20260929073000 +0000" stop="20260929080000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Tercih Atlası 2026 Bölüm 7</title>
+  </programme>
   <programme start="20260929073000 +0000" stop="20260929074000 +0000" channel="58d29bb0eefad3db9c60624c">
     <title lang="tr">Memlekete Veda Bölüm 2</title>
   </programme>
@@ -5438,6 +5663,9 @@
   </programme>
   <programme start="20260929073000 +0000" stop="20260929074000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Kucho Süper Sıradan Köpek</title>
+  </programme>
+  <programme start="20260929073000 +0000" stop="20260929080000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">The Newsmakers Bölüm 718</title>
   </programme>
   <programme start="20260929073000 +0000" stop="20260929075000 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Newhour</title>
@@ -5625,6 +5853,9 @@
   <programme start="20260929080000 +0000" stop="20260929081500 +0000" channel="58d29bb0eefad3db9c60623e">
     <title lang="tr">Grafik Düellosu</title>
   </programme>
+  <programme start="20260929080000 +0000" stop="20260929083000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">İz Ve Dönüşüm Bölüm 1</title>
+  </programme>
   <programme start="20260929080000 +0000" stop="20260929082000 +0000" channel="58d29bb0eefad3db9c60624c">
     <title lang="tr">Şef Olacak Çocuk Bölüm 12</title>
   </programme>
@@ -5684,6 +5915,9 @@
   </programme>
   <programme start="20260929080000 +0000" stop="20260929081500 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Kucho Süper Sıradan Köpek</title>
+  </programme>
+  <programme start="20260929080000 +0000" stop="20260929090000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">Newshour</title>
   </programme>
   <programme start="20260929080000 +0000" stop="20260929082500 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Newhour</title>
@@ -5784,6 +6018,9 @@
   <programme start="20260929081500 +0000" stop="20260929090000 +0000" channel="58d29bb0eefad3db9c60623e">
     <title lang="tr">Fokus</title>
   </programme>
+  <programme start="20260929081500 +0000" stop="20260929094000 +0000" channel="58d29bb0eefad3db9c60624a">
+    <title lang="tr">Türkülerimiz Bölüm 37</title>
+  </programme>
   <programme start="20260929081500 +0000" stop="20260929100000 +0000" channel="58d29bb0eefad3db9c606263">
     <title lang="tr">Ryuichi Sakamoto /Opus</title>
   </programme>
@@ -5807,6 +6044,9 @@
   </programme>
   <programme start="20260929081500 +0000" stop="20260929083000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Kucho Süper Sıradan Köpek</title>
+  </programme>
+  <programme start="20260929081500 +0000" stop="20260929100000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Bez Bebek</title>
   </programme>
   <programme start="20260929081500 +0000" stop="20260929083000 +0000" channel="5e75c923cfef0b15938bc9cc">
     <title lang="tr">Beslenme Çantası Bölüm 50</title>
@@ -5855,6 +6095,9 @@
   </programme>
   <programme start="20260929083000 +0000" stop="20260929090000 +0000" channel="58d29bb0eefad3db9c60623d">
     <title lang="tr">Gündem Ekonomi</title>
+  </programme>
+  <programme start="20260929083000 +0000" stop="20260929084500 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Gönül Gözüyle Bölüm 26</title>
   </programme>
   <programme start="20260929083000 +0000" stop="20260929090000 +0000" channel="58d29bb0eefad3db9c60624c">
     <title lang="tr">Rumeli Lezzetleri Bölüm 39</title>
@@ -5967,6 +6210,9 @@
   <programme start="20260929084500 +0000" stop="20260929085500 +0000" channel="58d29bb0eefad3db9c60623a">
     <title lang="tr">Spor</title>
   </programme>
+  <programme start="20260929084500 +0000" stop="20260929085000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Çizgilerle Tarih Bölüm 11</title>
+  </programme>
   <programme start="20260929084500 +0000" stop="20260929090000 +0000" channel="58d29bb0eefad3db9c60624f">
     <title lang="tr">Bosai: Science That Can Save Your Life</title>
   </programme>
@@ -6009,6 +6255,9 @@
   <programme start="20260929084800 +0000" stop="20260929085400 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Mona &amp; Sketch</title>
   </programme>
+  <programme start="20260929085000 +0000" stop="20260929085500 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Türk&apos;ün Sözlüğü Bölüm 7</title>
+  </programme>
   <programme start="20260929085000 +0000" stop="20260929101500 +0000" channel="58d29bb0eefad3db9c606278">
     <title lang="tr">Binbir Gece</title>
   </programme>
@@ -6032,6 +6281,9 @@
   </programme>
   <programme start="20260929085500 +0000" stop="20260929090000 +0000" channel="58d29bb0eefad3db9c60623a">
     <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20260929085500 +0000" stop="20260929090000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Bir Mekan Bir Hikaye Bölüm 4</title>
   </programme>
   <programme start="20260929085500 +0000" stop="20260929092000 +0000" channel="58d29bb0eefad3db9c606255">
     <title lang="tr">Çizgi Film &quot;Maysa ve Bulut&quot;</title>
@@ -6074,6 +6326,9 @@
   </programme>
   <programme start="20260929090000 +0000" stop="20260929093000 +0000" channel="58d29bb0eefad3db9c60623e">
     <title lang="tr">Maden Dünyası</title>
+  </programme>
+  <programme start="20260929090000 +0000" stop="20260929095900 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Türkistan Gündemi Bölüm 2172</title>
   </programme>
   <programme start="20260929090000 +0000" stop="20260929091500 +0000" channel="58d29bb0eefad3db9c60624c">
     <title lang="tr">Tarifsiz Lezzetler Bölüm 15</title>
@@ -6146,6 +6401,9 @@
   </programme>
   <programme start="20260929090000 +0000" stop="20260929093000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Paw Patrol</title>
+  </programme>
+  <programme start="20260929090000 +0000" stop="20260929093000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">Afrıca Matters Bölüm 143</title>
   </programme>
   <programme start="20260929090000 +0000" stop="20260929092500 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Newhour</title>
@@ -6375,6 +6633,9 @@
   <programme start="20260929093000 +0000" stop="20260929094000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Superthings: Rivals of...</title>
   </programme>
+  <programme start="20260929093000 +0000" stop="20260929100000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">Just 2 Degrees Bölüm 248</title>
+  </programme>
   <programme start="20260929093000 +0000" stop="20260929095000 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Newhour</title>
   </programme>
@@ -6444,6 +6705,9 @@
   <programme start="20260929093900 +0000" stop="20260929094500 +0000" channel="69b8011acfef0b02ec9d9498">
     <title lang="tr">Müzik Klip - Sevgili Canan</title>
   </programme>
+  <programme start="20260929094000 +0000" stop="20260929102500 +0000" channel="58d29bb0eefad3db9c60624a">
+    <title lang="tr">Berivan Bölüm 1</title>
+  </programme>
   <programme start="20260929094000 +0000" stop="20260929112000 +0000" channel="58d29bb0eefad3db9c606299">
     <title lang="tr">Ana Kuzusu</title>
   </programme>
@@ -6482,6 +6746,9 @@
   </programme>
   <programme start="20260929094500 +0000" stop="20260929100000 +0000" channel="58d29bb0eefad3db9c60629f">
     <title lang="tr">Ülke&apos;den Haberler</title>
+  </programme>
+  <programme start="20260929094500 +0000" stop="20260929100000 +0000" channel="59dcbee1cfef0b4d80a49650">
+    <title lang="tr">Milli Parklar Bölüm 3</title>
   </programme>
   <programme start="20260929094500 +0000" stop="20260929113000 +0000" channel="5fe07d7acfef0b1593275751">
     <title lang="tr">Jerry &amp; Marge Go Large</title>
@@ -6564,6 +6831,9 @@
   <programme start="20260929095700 +0000" stop="20260929100000 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Charlie&apos;nin Dünyası</title>
   </programme>
+  <programme start="20260929095900 +0000" stop="20260929100000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
   <programme start="20260929100000 +0000" stop="20260929110000 +0000" channel="58d29bb0eefad3db9c60622e">
     <title lang="tr">TürkMedya E-Ticaret Ve Parakende Zirvesi</title>
   </programme>
@@ -6578,6 +6848,9 @@
   </programme>
   <programme start="20260929100000 +0000" stop="20260929110000 +0000" channel="58d29bb0eefad3db9c60623e">
     <title lang="tr">Seans Ortası</title>
+  </programme>
+  <programme start="20260929100000 +0000" stop="20260929103000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Zamana Konuşanlar Bölüm 1</title>
   </programme>
   <programme start="20260929100000 +0000" stop="20260929110000 +0000" channel="58d29bb0eefad3db9c60624c">
     <title lang="tr">Anneler Bölüm 87</title>
@@ -6642,6 +6915,9 @@
   <programme start="20260929100000 +0000" stop="20260929103000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Ninjago:Ejderhaların Yükselişi</title>
   </programme>
+  <programme start="20260929100000 +0000" stop="20260929103000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">News</title>
+  </programme>
   <programme start="20260929100000 +0000" stop="20260929102500 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Newsroom</title>
   </programme>
@@ -6650,6 +6926,12 @@
   </programme>
   <programme start="20260929100000 +0000" stop="20260929124500 +0000" channel="59dca881cfef0b4d80a47c30">
     <title lang="tr">Gün Ortası</title>
+  </programme>
+  <programme start="20260929100000 +0000" stop="20260929120000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Sen Anlat Karadeniz</title>
+  </programme>
+  <programme start="20260929100000 +0000" stop="20260929123000 +0000" channel="59dcbee1cfef0b4d80a49650">
+    <title lang="tr">Vuslat Bölüm 37</title>
   </programme>
   <programme start="20260929100000 +0000" stop="20260929103000 +0000" channel="5ac73ebbcfef0b34db533a95">
     <title lang="tr">Kuran Öğreniyorum</title>
@@ -6783,6 +7065,9 @@
   <programme start="20260929102000 +0000" stop="20260929110500 +0000" channel="69cac455cfef0b02ecab7d00">
     <title lang="tr">Peder Brown</title>
   </programme>
+  <programme start="20260929102500 +0000" stop="20260929110000 +0000" channel="58d29bb0eefad3db9c60624a">
+    <title lang="tr">Yamak Ahmet Bölüm 15</title>
+  </programme>
   <programme start="20260929102500 +0000" stop="20260929112000 +0000" channel="58d29bb0eefad3db9c6062a4">
     <title lang="tr">Albert Lin ile Kayıp Şehirler</title>
   </programme>
@@ -6818,6 +7103,9 @@
   </programme>
   <programme start="20260929103000 +0000" stop="20260929110000 +0000" channel="58d29bb0eefad3db9c606231">
     <title lang="tr">İspanya La Liga Özetler Bölüm 7</title>
+  </programme>
+  <programme start="20260929103000 +0000" stop="20260929110000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Tercih Atlası 2026 Bölüm 7</title>
   </programme>
   <programme start="20260929103000 +0000" stop="20260929105500 +0000" channel="58d29bb0eefad3db9c60624f">
     <title lang="tr">Darwin&apos;s Amazing Animals</title>
@@ -6863,6 +7151,9 @@
   </programme>
   <programme start="20260929103000 +0000" stop="20260929104500 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">LEGO City: Sınırsız Şehir MAX</title>
+  </programme>
+  <programme start="20260929103000 +0000" stop="20260929110000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">Busıness News</title>
   </programme>
   <programme start="20260929103000 +0000" stop="20260929105000 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Newsroom</title>
@@ -7071,6 +7362,12 @@
   <programme start="20260929110000 +0000" stop="20260929114500 +0000" channel="58d29bb0eefad3db9c60623e">
     <title lang="tr">Piyasa Hattı</title>
   </programme>
+  <programme start="20260929110000 +0000" stop="20260929120000 +0000" channel="58d29bb0eefad3db9c60624a">
+    <title lang="tr">Sağlık Olsun Bölüm 515</title>
+  </programme>
+  <programme start="20260929110000 +0000" stop="20260929113000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Şifa Yolculuğu Bölüm 19</title>
+  </programme>
   <programme start="20260929110000 +0000" stop="20260929115000 +0000" channel="58d29bb0eefad3db9c60624c">
     <title lang="tr">Öğle Ana Haber</title>
   </programme>
@@ -7124,6 +7421,9 @@
   </programme>
   <programme start="20260929110000 +0000" stop="20260929111000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Kral Şakir</title>
+  </programme>
+  <programme start="20260929110000 +0000" stop="20260929113000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">News</title>
   </programme>
   <programme start="20260929110000 +0000" stop="20260929112500 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Newsroom</title>
@@ -7296,6 +7596,9 @@
   <programme start="20260929113000 +0000" stop="20260929115000 +0000" channel="58d29bb0eefad3db9c60623a">
     <title lang="tr">Finans Kafe</title>
   </programme>
+  <programme start="20260929113000 +0000" stop="20260929120000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Anadolu İrfanı Bölüm 14</title>
+  </programme>
   <programme start="20260929113000 +0000" stop="20260929120000 +0000" channel="58d29bb0eefad3db9c606257">
     <title lang="tr">Kratt Kardeşler</title>
   </programme>
@@ -7334,6 +7637,9 @@
   </programme>
   <programme start="20260929113000 +0000" stop="20260929114500 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Kral Şakir</title>
+  </programme>
+  <programme start="20260929113000 +0000" stop="20260929120000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">The Newsmakers Bölüm 718</title>
   </programme>
   <programme start="20260929113000 +0000" stop="20260929115000 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Newsroom</title>
@@ -7515,6 +7821,12 @@
   <programme start="20260929120000 +0000" stop="20260929124500 +0000" channel="58d29bb0eefad3db9c60623d">
     <title lang="tr">Günün İçinden</title>
   </programme>
+  <programme start="20260929120000 +0000" stop="20260929130000 +0000" channel="58d29bb0eefad3db9c60624a">
+    <title lang="tr">Ben Bilirim Bölüm 96</title>
+  </programme>
+  <programme start="20260929120000 +0000" stop="20260929123000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Türk Dünyası Keşif Rotası Bölüm 14</title>
+  </programme>
   <programme start="20260929120000 +0000" stop="20260929123000 +0000" channel="58d29bb0eefad3db9c60624c">
     <title lang="tr">Gönül Verenler Bölüm 77</title>
   </programme>
@@ -7581,6 +7893,9 @@
   <programme start="20260929120000 +0000" stop="20260929121500 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Keçi Kız</title>
   </programme>
+  <programme start="20260929120000 +0000" stop="20260929130000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">Newshour</title>
+  </programme>
   <programme start="20260929120000 +0000" stop="20260929122500 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Newsroom</title>
   </programme>
@@ -7589,6 +7904,9 @@
   </programme>
   <programme start="20260929120000 +0000" stop="20260929123000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Top Photoshoots</title>
+  </programme>
+  <programme start="20260929120000 +0000" stop="20260929143000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Selena</title>
   </programme>
   <programme start="20260929120000 +0000" stop="20260929135000 +0000" channel="59dcbfdccfef0b4d80a4974a">
     <title lang="tr">GelinimMutfakta&quot;Yeni Bölüm&quot;</title>
@@ -7758,6 +8076,9 @@
   <programme start="20260929123000 +0000" stop="20260929130000 +0000" channel="58d29bb0eefad3db9c606235">
     <title lang="tr">Spor Okulları 24. Bölüm</title>
   </programme>
+  <programme start="20260929123000 +0000" stop="20260929123500 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Çizgilerle Tarih Bölüm 11</title>
+  </programme>
   <programme start="20260929123000 +0000" stop="20260929133000 +0000" channel="58d29bb0eefad3db9c60624c">
     <title lang="tr">Elde Var Hayat 12/72</title>
   </programme>
@@ -7809,6 +8130,9 @@
   <programme start="20260929123000 +0000" stop="20260929131500 +0000" channel="59dca577cfef0b4d80a47b7c">
     <title lang="tr">Gezmek Olsun (Tekrar)</title>
   </programme>
+  <programme start="20260929123000 +0000" stop="20260929130000 +0000" channel="59dcbee1cfef0b4d80a49650">
+    <title lang="tr">Semtler Ve Suretler 13/13</title>
+  </programme>
   <programme start="20260929123000 +0000" stop="20260929133000 +0000" channel="5c6e8e0ecfef0b613d9ff782">
     <title lang="tr">Paratoner</title>
   </programme>
@@ -7851,6 +8175,9 @@
   <programme start="20260929123300 +0000" stop="20260929123800 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Mona &amp; Sketch</title>
   </programme>
+  <programme start="20260929123500 +0000" stop="20260929124000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Türk&apos;ün Sözlüğü Bölüm 7</title>
+  </programme>
   <programme start="20260929123500 +0000" stop="20260929130500 +0000" channel="58d29bb0eefad3db9c6062b4">
     <title lang="tr">Altın İz Serisi</title>
   </programme>
@@ -7872,6 +8199,9 @@
   <programme start="20260929123900 +0000" stop="20260929125300 +0000" channel="69b8011acfef0b02ec9d9498">
     <title lang="tr">Envanter Klip - Baykar</title>
   </programme>
+  <programme start="20260929124000 +0000" stop="20260929124500 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Bir Mekan Bir Hikaye Bölüm 4</title>
+  </programme>
   <programme start="20260929124000 +0000" stop="20260929124800 +0000" channel="58d29bb0eefad3db9c6062bf">
     <title lang="tr">Superhero Sprinter Galore</title>
   </programme>
@@ -7892,6 +8222,9 @@
   </programme>
   <programme start="20260929124500 +0000" stop="20260929130000 +0000" channel="58d29bb0eefad3db9c60623d">
     <title lang="tr">Hayatın İçinden</title>
+  </programme>
+  <programme start="20260929124500 +0000" stop="20260929130000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Çizgi Film &quot;Alperen&apos;in Maceraları&quot; Bölüm 1</title>
   </programme>
   <programme start="20260929124500 +0000" stop="20260929130000 +0000" channel="58d29bb0eefad3db9c60629d">
     <title lang="tr">Spor Bülteni</title>
@@ -7995,6 +8328,12 @@
   <programme start="20260929130000 +0000" stop="20260929140000 +0000" channel="58d29bb0eefad3db9c60623e">
     <title lang="tr">Finans Merkezi</title>
   </programme>
+  <programme start="20260929130000 +0000" stop="20260929133000 +0000" channel="58d29bb0eefad3db9c60624a">
+    <title lang="tr">Yol Bölüm 3</title>
+  </programme>
+  <programme start="20260929130000 +0000" stop="20260929131000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Masal Otağı Bölüm 1</title>
+  </programme>
   <programme start="20260929130000 +0000" stop="20260929133000 +0000" channel="58d29bb0eefad3db9c60624f">
     <title lang="tr">NHK Newsline</title>
   </programme>
@@ -8046,6 +8385,9 @@
   <programme start="20260929130000 +0000" stop="20260929131500 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Mr. Bean</title>
   </programme>
+  <programme start="20260929130000 +0000" stop="20260929133000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">News</title>
+  </programme>
   <programme start="20260929130000 +0000" stop="20260929132500 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Newsroom</title>
   </programme>
@@ -8057,6 +8399,9 @@
   </programme>
   <programme start="20260929130000 +0000" stop="20260929140000 +0000" channel="59dca881cfef0b4d80a47c30">
     <title lang="tr">Gündem Hattı</title>
+  </programme>
+  <programme start="20260929130000 +0000" stop="20260929151500 +0000" channel="59dcbee1cfef0b4d80a49650">
+    <title lang="tr">Kara Tahta Bölüm 10</title>
   </programme>
   <programme start="20260929130000 +0000" stop="20260929140000 +0000" channel="5ac73ebbcfef0b34db533a95">
     <title lang="tr">Selman Tunayla ile Güzergah</title>
@@ -8133,6 +8478,9 @@
   <programme start="20260929130700 +0000" stop="20260929131300 +0000" channel="58d29bb0eefad3db9c6062bf">
     <title lang="tr">Boom ve Kızıllar</title>
   </programme>
+  <programme start="20260929131000 +0000" stop="20260929132000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Çizgi Film &quot;Oyun Avcıları Macera Peşinde&quot; Bölüm 27</title>
+  </programme>
   <programme start="20260929131000 +0000" stop="20260929133000 +0000" channel="58d29bb0eefad3db9c606269">
     <title lang="tr">How I Met Your Mother</title>
   </programme>
@@ -8199,6 +8547,9 @@
   <programme start="20260929131900 +0000" stop="20260929132400 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Stitches</title>
   </programme>
+  <programme start="20260929132000 +0000" stop="20260929133500 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Çizgi Film &quot;Dedem Korkut&apos;un İzinde&quot; Bölüm 1</title>
+  </programme>
   <programme start="20260929132000 +0000" stop="20260929141000 +0000" channel="58d29bb0eefad3db9c6062bd">
     <title lang="tr">2. Dünya Savaşı&apos;nın En Müthiş Olayları - Renkli</title>
   </programme>
@@ -8237,6 +8588,9 @@
   </programme>
   <programme start="20260929133000 +0000" stop="20260929140000 +0000" channel="58d29bb0eefad3db9c606235">
     <title lang="tr">Kanaryalar Soruyor (Mert Albayrak)</title>
+  </programme>
+  <programme start="20260929133000 +0000" stop="20260929134500 +0000" channel="58d29bb0eefad3db9c60624a">
+    <title lang="tr">Çizgi Film &quot; İbi&apos;&apos; Bölüm 73</title>
   </programme>
   <programme start="20260929133000 +0000" stop="20260929140000 +0000" channel="58d29bb0eefad3db9c60624c">
     <title lang="tr">Temizlik Kulübü Bölüm 11</title>
@@ -8277,6 +8631,9 @@
   <programme start="20260929133000 +0000" stop="20260929140000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">WinX Club: Sihir Geri Dönüyor</title>
   </programme>
+  <programme start="20260929133000 +0000" stop="20260929140000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">Nextech Bölüm 28</title>
+  </programme>
   <programme start="20260929133000 +0000" stop="20260929135000 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Newsroom</title>
   </programme>
@@ -8312,6 +8669,9 @@
   </programme>
   <programme start="20260929133300 +0000" stop="20260929133900 +0000" channel="58d29bb0eefad3db9c6062bf">
     <title lang="tr">Tamircikler</title>
+  </programme>
+  <programme start="20260929133500 +0000" stop="20260929134500 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Çizgi Film &quot;Turanbot Ve Kardeş Takımı&quot; Bölüm 25</title>
   </programme>
   <programme start="20260929133500 +0000" stop="20260929135000 +0000" channel="58d29bb0eefad3db9c606255">
     <title lang="tr">Çizgi Film &quot;Z Takımı&quot;</title>
@@ -8354,6 +8714,12 @@
   </programme>
   <programme start="20260929134500 +0000" stop="20260929140000 +0000" channel="58d29bb0eefad3db9c60623d">
     <title lang="tr">Hayatın İçinden</title>
+  </programme>
+  <programme start="20260929134500 +0000" stop="20260929140000 +0000" channel="58d29bb0eefad3db9c60624a">
+    <title lang="tr">Olaylar Ve Öncüler Bölüm 26</title>
+  </programme>
+  <programme start="20260929134500 +0000" stop="20260929140000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Gülşen İle Nasıl Çizilir? Bölüm 1</title>
   </programme>
   <programme start="20260929134500 +0000" stop="20260929160000 +0000" channel="58d29bb0eefad3db9c606258">
     <title lang="tr">Üç Kız Kardeş</title>
@@ -8448,6 +8814,12 @@
   <programme start="20260929140000 +0000" stop="20260929144500 +0000" channel="58d29bb0eefad3db9c60623e">
     <title lang="tr">Kapanışa Doğru</title>
   </programme>
+  <programme start="20260929140000 +0000" stop="20260929142500 +0000" channel="58d29bb0eefad3db9c60624a">
+    <title lang="tr">Haber Zazaca Haber</title>
+  </programme>
+  <programme start="20260929140000 +0000" stop="20260929145900 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Avaz Haber Bölüm 2442</title>
+  </programme>
   <programme start="20260929140000 +0000" stop="20260929144500 +0000" channel="58d29bb0eefad3db9c60624c">
     <title lang="tr">Yerden Yüksek Bölüm 62</title>
   </programme>
@@ -8507,6 +8879,9 @@
   </programme>
   <programme start="20260929140000 +0000" stop="20260929141000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Kucho Süper Sıradan Köpek</title>
+  </programme>
+  <programme start="20260929140000 +0000" stop="20260929143000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">News</title>
   </programme>
   <programme start="20260929140000 +0000" stop="20260929142500 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Newsroom</title>
@@ -8658,6 +9033,9 @@
   <programme start="20260929142400 +0000" stop="20260929142900 +0000" channel="58d29bb0eefad3db9c6062bf">
     <title lang="tr">Bitz ve Bob - Sen De Yapabilirsin</title>
   </programme>
+  <programme start="20260929142500 +0000" stop="20260929145500 +0000" channel="58d29bb0eefad3db9c60624a">
+    <title lang="tr">Türkiye&apos;de Tarım Bölüm 21</title>
+  </programme>
   <programme start="20260929142500 +0000" stop="20260929143000 +0000" channel="58d29bb0eefad3db9c60626d">
     <title lang="tr">Baby Born</title>
   </programme>
@@ -8727,11 +9105,17 @@
   <programme start="20260929143000 +0000" stop="20260929144500 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Kucho Süper Sıradan Köpek</title>
   </programme>
+  <programme start="20260929143000 +0000" stop="20260929150000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">Nexus Bölüm 144</title>
+  </programme>
   <programme start="20260929143000 +0000" stop="20260929145000 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Newsroom</title>
   </programme>
   <programme start="20260929143000 +0000" stop="20260929150000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Designers</title>
+  </programme>
+  <programme start="20260929143000 +0000" stop="20260929170000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Kardeşlerim</title>
   </programme>
   <programme start="20260929143000 +0000" stop="20260929144500 +0000" channel="5ac73ebbcfef0b34db533a95">
     <title lang="tr">Yaz Defteri</title>
@@ -8850,6 +9234,9 @@
   <programme start="20260929145500 +0000" stop="20260929150000 +0000" channel="58d29bb0eefad3db9c60623a">
     <title lang="tr">Hava Durumu</title>
   </programme>
+  <programme start="20260929145500 +0000" stop="20260929160000 +0000" channel="58d29bb0eefad3db9c60624a">
+    <title lang="tr">Gezgin Bölüm 24</title>
+  </programme>
   <programme start="20260929145500 +0000" stop="20260929150000 +0000" channel="58d29bb0eefad3db9c606289">
     <title lang="tr">Hava Durumu</title>
   </programme>
@@ -8865,6 +9252,9 @@
   <programme start="20260929145500 +0000" stop="20260929152500 +0000" channel="69963435cfef0b02ec88cbb0">
     <title lang="tr">Parantez</title>
   </programme>
+  <programme start="20260929145900 +0000" stop="20260929150000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
   <programme start="20260929145900 +0000" stop="20260929150500 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Choopies</title>
   </programme>
@@ -8879,6 +9269,9 @@
   </programme>
   <programme start="20260929150000 +0000" stop="20260929153500 +0000" channel="58d29bb0eefad3db9c60623a">
     <title lang="tr">Günün İçinden</title>
+  </programme>
+  <programme start="20260929150000 +0000" stop="20260929150500 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Kazakistan Haber</title>
   </programme>
   <programme start="20260929150000 +0000" stop="20260929154500 +0000" channel="58d29bb0eefad3db9c60624c">
     <title lang="tr">Günün İçinden</title>
@@ -8939,6 +9332,9 @@
   </programme>
   <programme start="20260929150000 +0000" stop="20260929170000 +0000" channel="58d29bb0eefad3db9c6062cb">
     <title lang="tr">Bizimkiler</title>
+  </programme>
+  <programme start="20260929150000 +0000" stop="20260929153000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">Roundtable Bölüm 721</title>
   </programme>
   <programme start="20260929150000 +0000" stop="20260929152500 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Newsroom</title>
@@ -9033,6 +9429,9 @@
   <programme start="20260929150400 +0000" stop="20260929151800 +0000" channel="58d29bb0eefad3db9c6062b6">
     <title lang="tr">Kırmızı Başlıklı Bev</title>
   </programme>
+  <programme start="20260929150500 +0000" stop="20260929151000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Kırgızca Haber</title>
+  </programme>
   <programme start="20260929150500 +0000" stop="20260929153000 +0000" channel="58d29bb0eefad3db9c606255">
     <title lang="tr">Çizgi Film &quot;Belle Ve Sebastian&quot;</title>
   </programme>
@@ -9060,6 +9459,9 @@
   <programme start="20260929150800 +0000" stop="20260929151500 +0000" channel="58d29bb0eefad3db9c60629a">
     <title lang="tr">Az Sonra</title>
   </programme>
+  <programme start="20260929151000 +0000" stop="20260929151500 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Özbekçe Haber</title>
+  </programme>
   <programme start="20260929151000 +0000" stop="20260929170000 +0000" channel="58d29bb0eefad3db9c606299">
     <title lang="tr">Sağ Salim 1</title>
   </programme>
@@ -9068,6 +9470,9 @@
   </programme>
   <programme start="20260929151000 +0000" stop="20260929164500 +0000" channel="58d29bb0eefad3db9c6062ba">
     <title lang="tr">Düşünce Hızı</title>
+  </programme>
+  <programme start="20260929151500 +0000" stop="20260929152000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Türkmence Haber</title>
   </programme>
   <programme start="20260929151500 +0000" stop="20260929161500 +0000" channel="58d29bb0eefad3db9c606266">
     <title lang="tr">Zamâne Bölüm 90</title>
@@ -9083,6 +9488,9 @@
   </programme>
   <programme start="20260929151500 +0000" stop="20260929153000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Keçi Kız</title>
+  </programme>
+  <programme start="20260929151500 +0000" stop="20260929154000 +0000" channel="59dcbee1cfef0b4d80a49650">
+    <title lang="tr">Kültür Teknesi Bölüm 2</title>
   </programme>
   <programme start="20260929151500 +0000" stop="20260929153000 +0000" channel="5da87214cfef0b4df9157780">
     <title lang="tr">Üç Damla Mutluluk</title>
@@ -9105,6 +9513,9 @@
   <programme start="20260929152000 +0000" stop="20260929160000 +0000" channel="58d29bb0eefad3db9c60623e">
     <title lang="tr">Günden Kalanlar</title>
   </programme>
+  <programme start="20260929152000 +0000" stop="20260929152500 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Azerbaycan Haber</title>
+  </programme>
   <programme start="20260929152000 +0000" stop="20260929154500 +0000" channel="58d29bb0eefad3db9c6062b4">
     <title lang="tr">Havacılar</title>
   </programme>
@@ -9126,6 +9537,9 @@
   <programme start="20260929152500 +0000" stop="20260929155000 +0000" channel="58d29bb0eefad3db9c606248">
     <title lang="tr">Nasıl Yapılmış: Rüya Arabalar</title>
   </programme>
+  <programme start="20260929152500 +0000" stop="20260929153000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Rusça Haber</title>
+  </programme>
   <programme start="20260929152500 +0000" stop="20260929170000 +0000" channel="58d29bb0eefad3db9c60629b">
     <title lang="tr">Show Ana Haber</title>
   </programme>
@@ -9146,6 +9560,9 @@
   </programme>
   <programme start="20260929152500 +0000" stop="20260929165500 +0000" channel="69963435cfef0b02ec88cbb0">
     <title lang="tr">Ana Haber önü</title>
+  </programme>
+  <programme start="20260929153000 +0000" stop="20260929161500 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Sence Bilir Mi? Bölüm 72</title>
   </programme>
   <programme start="20260929153000 +0000" stop="20260929160000 +0000" channel="58d29bb0eefad3db9c60624f">
     <title lang="tr">Journeys in Japan</title>
@@ -9185,6 +9602,9 @@
   </programme>
   <programme start="20260929153000 +0000" stop="20260929154000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Kral Şakir</title>
+  </programme>
+  <programme start="20260929153000 +0000" stop="20260929160000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">The Newsmakers Bölüm 719</title>
   </programme>
   <programme start="20260929153000 +0000" stop="20260929155000 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Newsroom</title>
@@ -9254,6 +9674,9 @@
   </programme>
   <programme start="20260929154000 +0000" stop="20260929160000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Kral Şakir</title>
+  </programme>
+  <programme start="20260929154000 +0000" stop="20260929161000 +0000" channel="59dcbee1cfef0b4d80a49650">
+    <title lang="tr">Anadolu&apos;nun Işıkları Bölüm 7</title>
   </programme>
   <programme start="20260929154000 +0000" stop="20260929155500 +0000" channel="67c063a6cfef0b3744b5ff9e">
     <title lang="tr">Meraklı Hafiye Bölüm 19</title>
@@ -9363,6 +9786,9 @@
   <programme start="20260929160000 +0000" stop="20260929170000 +0000" channel="58d29bb0eefad3db9c60623e">
     <title lang="tr">60 Dakika</title>
   </programme>
+  <programme start="20260929160000 +0000" stop="20260929170000 +0000" channel="58d29bb0eefad3db9c60624a">
+    <title lang="tr">Haber Ana Haber</title>
+  </programme>
   <programme start="20260929160000 +0000" stop="20260929163000 +0000" channel="58d29bb0eefad3db9c60624f">
     <title lang="tr">NHK Newsline</title>
   </programme>
@@ -9447,6 +9873,9 @@
   <programme start="20260929160000 +0000" stop="20260929161500 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Kral Şakir</title>
   </programme>
+  <programme start="20260929160000 +0000" stop="20260929170000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">Newshour</title>
+  </programme>
   <programme start="20260929160000 +0000" stop="20260929162500 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Newsroom</title>
   </programme>
@@ -9513,6 +9942,9 @@
   <programme start="20260929161000 +0000" stop="20260929164000 +0000" channel="58d29bb0eefad3db9c6062b4">
     <title lang="tr">Tekne Şovu 4K</title>
   </programme>
+  <programme start="20260929161000 +0000" stop="20260929170000 +0000" channel="59dcbee1cfef0b4d80a49650">
+    <title lang="tr">Temelli Misafir Bölüm 2</title>
+  </programme>
   <programme start="20260929161000 +0000" stop="20260929170500 +0000" channel="5dfc9faacfef0b201d2246b5">
     <title lang="tr">Yaşayan Sahil</title>
   </programme>
@@ -9530,6 +9962,9 @@
   </programme>
   <programme start="20260929161500 +0000" stop="20260929170000 +0000" channel="58d29bb0eefad3db9c606248">
     <title lang="tr">Yabanda 100 Gün</title>
+  </programme>
+  <programme start="20260929161500 +0000" stop="20260929163000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Bildiğin Gibi Değil Bölüm 1</title>
   </programme>
   <programme start="20260929161500 +0000" stop="20260929170000 +0000" channel="58d29bb0eefad3db9c606266">
     <title lang="tr">Asırlık Ezgiler Bölüm 13</title>
@@ -9596,6 +10031,9 @@
   </programme>
   <programme start="20260929163000 +0000" stop="20260929164500 +0000" channel="58d29bb0eefad3db9c60623d">
     <title lang="tr">Hayatın İçinden</title>
+  </programme>
+  <programme start="20260929163000 +0000" stop="20260929170000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Şifa Yolculuğu Bölüm 19</title>
   </programme>
   <programme start="20260929163000 +0000" stop="20260929164500 +0000" channel="58d29bb0eefad3db9c60624f">
     <title lang="tr">Activate Your Japanese!</title>
@@ -9825,6 +10263,12 @@
   <programme start="20260929170000 +0000" stop="20260929180000 +0000" channel="58d29bb0eefad3db9c606248">
     <title lang="tr">Yabanda 100 Gün</title>
   </programme>
+  <programme start="20260929170000 +0000" stop="20260929190000 +0000" channel="58d29bb0eefad3db9c60624a">
+    <title lang="tr">Alkış Bölüm 408</title>
+  </programme>
+  <programme start="20260929170000 +0000" stop="20260929173000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Türk Metinleri Bölüm 27</title>
+  </programme>
   <programme start="20260929170000 +0000" stop="20260929173000 +0000" channel="58d29bb0eefad3db9c60624f">
     <title lang="tr">NHK Newsline</title>
   </programme>
@@ -9915,6 +10359,9 @@
   <programme start="20260929170000 +0000" stop="20260929200000 +0000" channel="58d29bb0eefad3db9c6062cb">
     <title lang="tr">Jet Sosyete</title>
   </programme>
+  <programme start="20260929170000 +0000" stop="20260929173000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">News - London</title>
+  </programme>
   <programme start="20260929170000 +0000" stop="20260929172500 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Newsroom</title>
   </programme>
@@ -9926,6 +10373,12 @@
   </programme>
   <programme start="20260929170000 +0000" stop="20260929200000 +0000" channel="59dca881cfef0b4d80a47c30">
     <title lang="tr">Dipnot</title>
+  </programme>
+  <programme start="20260929170000 +0000" stop="20260929193000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Bir Zamanlar Çukurova</title>
+  </programme>
+  <programme start="20260929170000 +0000" stop="20260929194500 +0000" channel="59dcbee1cfef0b4d80a49650">
+    <title lang="tr">Gönül Dağı Bölüm 213</title>
   </programme>
   <programme start="20260929170000 +0000" stop="20260929171500 +0000" channel="59dcbfdccfef0b4d80a4974a">
     <title lang="tr">Az Sonra &quot;Haysiyet&quot;</title>
@@ -10083,6 +10536,9 @@
   <programme start="20260929173000 +0000" stop="20260929200000 +0000" channel="58d29bb0eefad3db9c60623d">
     <title lang="tr">Gündem Özel</title>
   </programme>
+  <programme start="20260929173000 +0000" stop="20260929190000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Türkistan&apos;da Spor Bölüm 2</title>
+  </programme>
   <programme start="20260929173000 +0000" stop="20260929190000 +0000" channel="58d29bb0eefad3db9c60624c">
     <title lang="tr">Seksenler Bölüm 12</title>
   </programme>
@@ -10112,6 +10568,9 @@
   </programme>
   <programme start="20260929173000 +0000" stop="20260929174500 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Adventure Time</title>
+  </programme>
+  <programme start="20260929173000 +0000" stop="20260929180000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">Insıde Amerıca Bölüm 58</title>
   </programme>
   <programme start="20260929173000 +0000" stop="20260929175000 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Newsroom</title>
@@ -10320,6 +10779,9 @@
   <programme start="20260929180000 +0000" stop="20260929181000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Adventure Time</title>
   </programme>
+  <programme start="20260929180000 +0000" stop="20260929181500 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">News - London</title>
+  </programme>
   <programme start="20260929180000 +0000" stop="20260929182500 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Newsroom</title>
   </programme>
@@ -10412,6 +10874,9 @@
   </programme>
   <programme start="20260929181500 +0000" stop="20260929183000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Adventure Time</title>
+  </programme>
+  <programme start="20260929181500 +0000" stop="20260929183000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">Newsfeed Bölüm 115</title>
   </programme>
   <programme start="20260929181500 +0000" stop="20260929201500 +0000" channel="5fcb6bd2cfef0b15931fcdf8">
     <title lang="tr">Barcelona-Leyma Coruna &quot;Tkr&quot;</title>
@@ -10517,6 +10982,9 @@
   </programme>
   <programme start="20260929183000 +0000" stop="20260929184500 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Sürekli Dizi: Kayıp Kasetler</title>
+  </programme>
+  <programme start="20260929183000 +0000" stop="20260929190000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">Straıt Talk Bölüm 301</title>
   </programme>
   <programme start="20260929183000 +0000" stop="20260929185000 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Newsroom</title>
@@ -10683,6 +11151,12 @@
   <programme start="20260929190000 +0000" stop="20260929195000 +0000" channel="58d29bb0eefad3db9c606248">
     <title lang="tr">Avustralyalı Opal Avcıları</title>
   </programme>
+  <programme start="20260929190000 +0000" stop="20260929200000 +0000" channel="58d29bb0eefad3db9c60624a">
+    <title lang="tr">Gece Gezgini Bölüm 34</title>
+  </programme>
+  <programme start="20260929190000 +0000" stop="20260929193000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Şehrimin Takımı Bölüm 8</title>
+  </programme>
   <programme start="20260929190000 +0000" stop="20260929203000 +0000" channel="58d29bb0eefad3db9c60624c">
     <title lang="tr">Beni Böyle Sev 12/89</title>
   </programme>
@@ -10730,6 +11204,9 @@
   </programme>
   <programme start="20260929190000 +0000" stop="20260929191000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Sürekli Dizi</title>
+  </programme>
+  <programme start="20260929190000 +0000" stop="20260929200000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">Newshour - London</title>
   </programme>
   <programme start="20260929190000 +0000" stop="20260929192500 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Newsroom</title>
@@ -10866,6 +11343,9 @@
   <programme start="20260929192700 +0000" stop="20260929193100 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Gözlerini Kapat</title>
   </programme>
+  <programme start="20260929193000 +0000" stop="20260929203000 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Kıbrıs Mücahitleri &quot;Yarın İçin Dünü Unutma&quot; Bölüm 8</title>
+  </programme>
   <programme start="20260929193000 +0000" stop="20260929200000 +0000" channel="58d29bb0eefad3db9c60624f">
     <title lang="tr">Document 72 Hours</title>
   </programme>
@@ -10895,6 +11375,9 @@
   </programme>
   <programme start="20260929193000 +0000" stop="20260929200000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Fashion News</title>
+  </programme>
+  <programme start="20260929193000 +0000" stop="20260929223000 +0000" channel="59dcbe14cfef0b4d80a49646">
+    <title lang="tr">Eşkıya Dünyaya Hükümdar Olmaz</title>
   </programme>
   <programme start="20260929193000 +0000" stop="20260929194000 +0000" channel="5fedddcecfef0b159330996e">
     <title lang="tr">Bluey</title>
@@ -10976,6 +11459,9 @@
   </programme>
   <programme start="20260929194500 +0000" stop="20260929195000 +0000" channel="58d29bb0eefad3db9c6062bf">
     <title lang="tr">Bitz ve Bob - Sen De Yapabilirsin</title>
+  </programme>
+  <programme start="20260929194500 +0000" stop="20260929200000 +0000" channel="59dcbee1cfef0b4d80a49650">
+    <title lang="tr">Milli Parklar Bölüm 3</title>
   </programme>
   <programme start="20260929194500 +0000" stop="20260929200000 +0000" channel="5ac73ebbcfef0b34db533a95">
     <title lang="tr">Mecelle Medeniyeti</title>
@@ -11073,6 +11559,9 @@
   <programme start="20260929200000 +0000" stop="20260929230000 +0000" channel="58d29bb0eefad3db9c60623d">
     <title lang="tr">Yakup Sağlam ile Bugünden Yarına</title>
   </programme>
+  <programme start="20260929200000 +0000" stop="20260929210000 +0000" channel="58d29bb0eefad3db9c60624a">
+    <title lang="tr">Dengbej Hikayeler Bölüm 5</title>
+  </programme>
   <programme start="20260929200000 +0000" stop="20260929203000 +0000" channel="58d29bb0eefad3db9c60624f">
     <title lang="tr">NHK Newsline</title>
   </programme>
@@ -11130,6 +11619,9 @@
   <programme start="20260929200000 +0000" stop="20260929201000 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Teen Titans Go!</title>
   </programme>
+  <programme start="20260929200000 +0000" stop="20260929203000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">News - London</title>
+  </programme>
   <programme start="20260929200000 +0000" stop="20260929230000 +0000" channel="59638e5fcfef0b43f0fd31b5">
     <title lang="tr">Newsroom</title>
   </programme>
@@ -11138,6 +11630,9 @@
   </programme>
   <programme start="20260929200000 +0000" stop="20260929230000 +0000" channel="59dca881cfef0b4d80a47c30">
     <title lang="tr">Gece Haberleri</title>
+  </programme>
+  <programme start="20260929200000 +0000" stop="20260929223000 +0000" channel="59dcbee1cfef0b4d80a49650">
+    <title lang="tr">Vuslat Bölüm 37</title>
   </programme>
   <programme start="20260929200000 +0000" stop="20260929210000 +0000" channel="5ac73ebbcfef0b34db533a95">
     <title lang="tr">Ne İzliyoruz?</title>
@@ -11307,6 +11802,9 @@
   <programme start="20260929203000 +0000" stop="20260929220000 +0000" channel="58d29bb0eefad3db9c606231">
     <title lang="tr">Muhabir Saati</title>
   </programme>
+  <programme start="20260929203000 +0000" stop="20260929211500 +0000" channel="58d29bb0eefad3db9c60624b">
+    <title lang="tr">Sence Bilir Mi? Bölüm 72</title>
+  </programme>
   <programme start="20260929203000 +0000" stop="20260929221500 +0000" channel="58d29bb0eefad3db9c60624c">
     <title lang="tr">Temelli Misafir Bölüm 21</title>
   </programme>
@@ -11342,6 +11840,9 @@
   </programme>
   <programme start="20260929203000 +0000" stop="20260929204500 +0000" channel="58d29bb0eefad3db9c6062c8">
     <title lang="tr">Gumball&apos;ın Muhteşem Tuhaf...</title>
+  </programme>
+  <programme start="20260929203000 +0000" stop="20260929210000 +0000" channel="58d29bb0eefad3db9c6062cc">
+    <title lang="tr">Across The Balkans Bölüm 144</title>
   </programme>
   <programme start="20260929203000 +0000" stop="20260929210000 +0000" channel="59dca3b2cfef0b4d80a47b77">
     <title lang="tr">Louis Vuitton</title>
