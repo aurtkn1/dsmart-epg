@@ -43092,6 +43092,9 @@
   <programme start="20261028210000 +0000" stop="20261028230000 +0000" channel="66e7e5cdcfef0b374461c45b">
     <title lang="tr">Spor Çoklu Ekran</title>
   </programme>
+  <programme start="20261028210000 +0000" stop="20261028231500 +0000" channel="67e5c246cfef0b3744c53a83">
+    <title lang="tr">Ben, Robot</title>
+  </programme>
   <programme start="20261028210000 +0000" stop="20261028213000 +0000" channel="67e5c4c6cfef0b3744c556fa">
     <title lang="tr">Nakliye Savaşları</title>
   </programme>
@@ -43433,9 +43436,6 @@
   </programme>
   <programme start="20261028224500 +0000" stop="20261029004500 +0000" channel="5fe07f72cfef0b159327585a">
     <title lang="tr">Vuruş Mesafesi</title>
-  </programme>
-  <programme start="20261028224500 +0000" stop="20261028231500 +0000" channel="67e5c246cfef0b3744c53a83">
-    <title lang="tr">Bir Katilin Alametleri</title>
   </programme>
   <programme start="20261028224600 +0000" stop="20261028225000 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Gözlerini Kapat</title>
@@ -47691,7 +47691,7 @@
   <programme start="20261029163000 +0000" stop="20261029190000 +0000" channel="5fe07f5dcfef0b1593275822">
     <title lang="tr">Birkaç İyi Adam</title>
   </programme>
-  <programme start="20261029163000 +0000" stop="20261029183000 +0000" channel="67e5c246cfef0b3744c53a83">
+  <programme start="20261029163000 +0000" stop="20261029192000 +0000" channel="67e5c246cfef0b3744c53a83">
     <title lang="tr">Hobbit: Beş Ordunun Savaşı</title>
   </programme>
   <programme start="20261029163000 +0000" stop="20261029173000 +0000" channel="67e5c4c6cfef0b3744c556fa">
@@ -48147,9 +48147,6 @@
   <programme start="20261029183000 +0000" stop="20261029201500 +0000" channel="5fe07f45cfef0b159327581f">
     <title lang="tr">Peel</title>
   </programme>
-  <programme start="20261029183000 +0000" stop="20261029203000 +0000" channel="67e5c246cfef0b3744c53a83">
-    <title lang="tr">Predators</title>
-  </programme>
   <programme start="20261029183000 +0000" stop="20261029190000 +0000" channel="67e5c4c6cfef0b3744c556fa">
     <title lang="tr">Ev Taşıma Operasyonu</title>
   </programme>
@@ -48296,6 +48293,9 @@
   </programme>
   <programme start="20261029192000 +0000" stop="20261029201000 +0000" channel="58d29bb0eefad3db9c606269">
     <title lang="tr">Tracker 3</title>
+  </programme>
+  <programme start="20261029192000 +0000" stop="20261029213000 +0000" channel="67e5c246cfef0b3744c53a83">
+    <title lang="tr">Predators</title>
   </programme>
   <programme start="20261029192200 +0000" stop="20261029192700 +0000" channel="58d29bb0eefad3db9c6062b7">
     <title lang="tr">Mike&apos;ın Bisikleti</title>
@@ -48539,9 +48539,6 @@
   </programme>
   <programme start="20261029203000 +0000" stop="20261029221500 +0000" channel="5fe07f29cfef0b1593275800">
     <title lang="tr">Sakar Polis 2</title>
-  </programme>
-  <programme start="20261029203000 +0000" stop="20261029223000 +0000" channel="67e5c246cfef0b3744c53a83">
-    <title lang="tr">Hobbit: Beş Ordunun Savaşı</title>
   </programme>
   <programme start="20261029203000 +0000" stop="20261029210000 +0000" channel="67e5c4c6cfef0b3744c556fa">
     <title lang="tr">Nakliye Savaşları</title>
