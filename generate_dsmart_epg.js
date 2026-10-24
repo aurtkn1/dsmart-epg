@@ -4,50 +4,56 @@
 const fs = require("fs");
 const path = require("path");
 
-const BASE_URL =
+const API_URL =
   "https://www.dsmart.com.tr/api/v1/public/epg/schedules";
+
+const LEGACY_CHANNELS_URL =
+  "https://www.dsmart.com.tr/actions/channels?page=1&limit=500";
+
+const LEGACY_SCHEDULE_URL =
+  "https://www.dsmart.com.tr/actions/schedule";
 
 const OUTPUT_FILE = path.join(__dirname, "dsmart.xml");
 const TEMP_FILE = path.join(__dirname, "dsmart.xml.tmp");
 
-const PAGE_LIMIT = 10;
 const DAYS = 7;
-const REQUEST_DELAY = 500;
-const REQUEST_TIMEOUT = 20000;
-const MAX_RETRIES = 4;
+const PAGE_LIMIT = 10;
+const REQUEST_DELAY = 300;
+const TIMEOUT_MS = 20000;
+const MAX_RETRIES = 3;
 
 const HEADERS = {
   "User-Agent":
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
   "Accept": "application/json, text/plain, */*",
   "Accept-Language": "tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7",
-  "Referer": "https://www.dsmart.com.tr/",
-  "Origin": "https://www.dsmart.com.tr",
-  "Cache-Control": "no-cache"
+  "Referer": "https://www.dsmart.com.tr/yayin-akisi",
+  "Origin": "https://www.dsmart.com.tr"
 };
 
-function sleep(ms) {
-  return new Promise(resolve => setTimeout(resolve, ms));
-}
+const sleep = ms =>
+  new Promise(resolve => setTimeout(resolve, ms));
 
-function text(value) {
+function asText(value) {
   if (value === null || value === undefined) return "";
   if (typeof value === "object") return "";
   return String(value).trim();
 }
 
-function first(object, keys) {
-  if (!object || typeof object !== "object") return "";
+function firstValue(object, keys) {
+  if (!object || typeof object !== "object") return null;
 
   for (const key of keys) {
-    const value = object[key];
-
-    if (value !== undefined && value !== null && value !== "") {
-      return value;
+    if (
+      object[key] !== undefined &&
+      object[key] !== null &&
+      object[key] !== ""
+    ) {
+      return object[key];
     }
   }
 
-  return "";
+  return null;
 }
 
 function escapeXml(value) {
@@ -77,90 +83,68 @@ function getDays() {
   return result;
 }
 
-function channelId(channel) {
-  return text(first(channel, [
-    "id",
+function getChannelId(channel) {
+  return asText(firstValue(channel, [
     "_id",
-    "channelId",
+    "id",
     "channel_id",
-    "serviceId",
-    "service_id",
-    "epgId",
-    "epg_id",
-    "uid"
+    "channelId",
+    "site_id"
   ]));
 }
 
-function channelName(channel) {
-  return text(first(channel, [
+function getChannelName(channel) {
+  return asText(firstValue(channel, [
+    "channel_name",
     "name",
     "channelName",
-    "channel_name",
     "title",
-    "displayName",
     "display_name"
   ]));
 }
 
-function programTitle(program) {
-  return text(first(program, [
+function getProgramTitle(program) {
+  return asText(firstValue(program, [
+    "program_name",
     "title",
     "name",
     "programName",
-    "program_name",
-    "eventName",
-    "event_name",
-    "originalTitle",
-    "original_title"
+    "event_name"
   ]));
 }
 
-function programStart(program) {
-  return first(program, [
-    "start",
-    "startTime",
-    "start_time",
-    "startDate",
-    "start_date",
-    "startDateTime",
-    "start_date_time",
-    "begin",
-    "beginTime",
-    "begin_time",
-    "dateTime",
-    "datetime",
-    "airingStart",
-    "airing_start"
-  ]);
-}
-
-function programStop(program) {
-  return first(program, [
-    "stop",
-    "end",
-    "endTime",
-    "end_time",
-    "endDate",
-    "end_date",
-    "endDateTime",
-    "end_date_time",
-    "finish",
-    "finishTime",
-    "finish_time",
-    "airingEnd",
-    "airing_end"
-  ]);
-}
-
-function programDescription(program) {
-  return text(first(program, [
+function getDescription(program) {
+  return asText(firstValue(program, [
     "description",
     "summary",
-    "synopsis",
-    "shortDescription",
-    "short_description",
-    "detail"
+    "synopsis"
   ]));
+}
+
+function parseDuration(value) {
+  if (value === null || value === undefined) return 0;
+
+  let input = String(value).trim();
+
+  // Bazı D-Smart kayıtlarında süre "tarih, HH:mm:ss" biçimindedir.
+  if (input.includes(",")) {
+    input = input.split(",").pop().trim();
+  }
+
+  const parts = input.split(":").map(Number);
+
+  if (
+    parts.length !== 3 ||
+    parts.some(n => !Number.isFinite(n) || n < 0)
+  ) {
+    return 0;
+  }
+
+  return (
+    parts[0] * 3600 +
+    parts[1] * 60 +
+    parts[2]
+  ) * 1000;
 }
 
 function parseDate(value, day) {
@@ -168,34 +152,38 @@ function parseDate(value, day) {
     return null;
   }
 
-  if (typeof value === "number" || /^\d{10,13}$/.test(String(value))) {
-    const number = Number(value);
-    const milliseconds =
-      number < 10000000000 ? number * 1000 : number;
-    const date = new Date(milliseconds);
-
+  if (typeof value === "number") {
+    const ms = value < 10000000000 ? value * 1000 : value;
+    const date = new Date(ms);
     return Number.isNaN(date.getTime()) ? null : date;
   }
 
-  let valueText = String(value).trim();
+  const input = String(value).trim();
 
-  if (!valueText) return null;
-
-  if (/^\d{1,2}:\d{2}(:\d{2})?$/.test(valueText)) {
-    valueText = `${day}T${valueText}`;
+  if (/^\d{10,13}$/.test(input)) {
+    const number = Number(input);
+    const ms = number < 10000000000 ? number * 1000 : number;
+    const date = new Date(ms);
+    return Number.isNaN(date.getTime()) ? null : date;
   }
 
-  if (/^\d{4}-\d{2}-\d{2} \d/.test(valueText)) {
-    valueText = valueText.replace(" ", "T");
+  let normalized = input;
+
+  if (/^\d{1,2}:\d{2}(:\d{2})?$/.test(normalized)) {
+    normalized = `${day}T${normalized}`;
   }
 
-  const date = new Date(valueText);
+  if (/^\d{4}-\d{2}-\d{2} \d/.test(normalized)) {
+    normalized = normalized.replace(" ", "T");
+  }
+
+  const date = new Date(normalized);
 
   return Number.isNaN(date.getTime()) ? null : date;
 }
 
 function xmltvTime(date) {
-  const pad = value => String(value).padStart(2, "0");
+  const pad = n => String(n).padStart(2, "0");
 
   const offset = -date.getTimezoneOffset();
   const sign = offset >= 0 ? "+" : "-";
@@ -212,24 +200,18 @@ function xmltvTime(date) {
   );
 }
 
-async function fetchJson(day, page) {
-  const url = new URL(BASE_URL);
-
-  url.searchParams.set("page", String(page));
-  url.searchParams.set("limit", String(PAGE_LIMIT));
-  url.searchParams.set("day", day);
+async function fetchJson(url) {
+  let lastError;
 
   for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
     const controller = new AbortController();
     const timeout = setTimeout(
       () => controller.abort(),
-      REQUEST_TIMEOUT
+      TIMEOUT_MS
     );
 
     try {
-      console.log(
-        `İstek: ${day} | Sayfa ${page} | Deneme ${attempt}/${MAX_RETRIES}`
-      );
+      console.log(`GET ${url}`);
 
       const response = await fetch(url, {
         method: "GET",
@@ -240,74 +222,215 @@ async function fetchJson(day, page) {
       const body = await response.text();
 
       if (!response.ok) {
-        console.error(`HTTP ${response.status}: ${url}`);
-        console.error(
-          `Sunucu yanıtı: ${body.replace(/\s+/g, " ").slice(0, 700)}`
+        const preview = body
+          .replace(/\s+/g, " ")
+          .slice(0, 400);
+
+        const error = new Error(
+          `HTTP ${response.status} — ${url}` +
+          (preview ? ` | Yanıt: ${preview}` : "")
         );
 
-        const error = new Error(`HTTP ${response.status}`);
         error.status = response.status;
 
         if (
-          response.status === 403 ||
-          response.status === 401 ||
           response.status === 400 ||
+          response.status === 401 ||
+          response.status === 403 ||
           response.status === 404
         ) {
           throw error;
         }
 
-        if (
-          ![408, 425, 429, 500, 502, 503, 504].includes(response.status)
-        ) {
-          throw error;
-        }
-
-        if (attempt === MAX_RETRIES) throw error;
-
-        await sleep(attempt * 2000);
-        continue;
+        throw error;
       }
-
-      let data;
 
       try {
-        data = JSON.parse(body);
+        return JSON.parse(body);
       } catch {
         throw new Error(
-          `Sunucu JSON yerine farklı bir yanıt döndürdü: ${body.slice(0, 300)}`
+          `Sunucu JSON döndürmedi: ${url} | ` +
+          body.replace(/\s+/g, " ").slice(0, 300)
         );
       }
-
-      return data;
     } catch (error) {
-      if (error.status) throw error;
+      lastError = error;
 
-      console.error(`İstek hatası: ${error.message}`);
+      console.error(error.message);
 
-      if (attempt === MAX_RETRIES) throw error;
+      if (error.status) {
+        throw error;
+      }
 
-      await sleep(attempt * 2000);
+      if (attempt < MAX_RETRIES) {
+        await sleep(attempt * 1500);
+      }
     } finally {
       clearTimeout(timeout);
     }
   }
 
-  throw new Error(`${day} sayfa ${page} alınamadı.`);
+  throw lastError || new Error("İstek başarısız.");
 }
 
-function extractChannels(data) {
-  if (!data || typeof data !== "object") return [];
+function extractModernChannels(data) {
+  if (Array.isArray(data?.data?.channels)) {
+    return data.data.channels;
+  }
 
+  if (Array.isArray(data?.channels)) {
+    return data.channels;
+  }
+
+  return [];
+}
+
+function normalizeProgram(program, day) {
+  const title = getProgramTitle(program);
+  if (!title) return null;
+
+  const rawStart = firstValue(program, [
+    "start_date",
+    "startDate",
+    "start_time",
+    "startTime",
+    "start",
+    "begin"
+  ]);
+
+  const start = parseDate(rawStart, day);
+  if (!start) return null;
+
+  const rawStop = firstValue(program, [
+    "end_date",
+    "endDate",
+    "end_time",
+    "endTime",
+    "stop",
+    "end"
+  ]);
+
+  let stop = parseDate(rawStop, day);
+
+  if (!stop || stop <= start) {
+    const duration = parseDuration(
+      firstValue(program, ["duration", "length", "runtime"])
+    );
+
+    if (duration > 0) {
+      stop = new Date(start.getTime() + duration);
+    }
+  }
+
+  if (!stop || stop <= start) return null;
+
+  return {
+    title,
+    description: getDescription(program),
+    start,
+    stop
+  };
+}
+
+function extractSchedule(channel, day) {
+  const schedule = Array.isArray(channel?.schedule)
+    ? channel.schedule
+    : [];
+
+  const result = [];
+
+  for (const item of schedule) {
+    const title = getProgramTitle(item);
+    if (!title) continue;
+
+    // D-Smart'ın bilinen yapısında start_date ve duration bulunur.
+    const start = parseDate(item.start_date, day);
+
+    if (!start) {
+      console.log(
+        `UYARI: Başlangıç zamanı çözümlenemedi: ${title}`
+      );
+      continue;
+    }
+
+    const duration = parseDuration(item.duration);
+    if (duration <= 0) continue;
+
+    result.push({
+      title,
+      description: getDescription(item),
+      start,
+      stop: new Date(start.getTime() + duration)
+    });
+  }
+
+  return result;
+}
+
+async function fetchModernDay(day) {
+  const allChannels = new Map();
+  let page = 1;
+  let totalPages = 1;
+
+  while (page <= totalPages) {
+    const url = new URL(API_URL);
+    url.searchParams.set("page", String(page));
+    url.searchParams.set("limit", String(PAGE_LIMIT));
+    url.searchParams.set("day", day);
+
+    const data = await fetchJson(url.toString());
+    const items = extractModernChannels(data);
+
+    if (page === 1 && items.length === 0) {
+      throw new Error(
+        "API yanıtında data.channels bulunamadı."
+      );
+    }
+
+    for (const channel of items) {
+      const id = getChannelId(channel);
+      const name = getChannelName(channel);
+      const key = id || name;
+
+      if (key && !allChannels.has(key)) {
+        allChannels.set(key, channel);
+      }
+    }
+
+    const total = Number(data?.data?.total || 0);
+    totalPages = total > 0
+      ? Math.ceil(total / PAGE_LIMIT)
+      : (items.length >= PAGE_LIMIT ? page + 1 : page);
+
+    if (page >= totalPages) break;
+
+    page++;
+    await sleep(REQUEST_DELAY);
+  }
+
+  const result = [];
+
+  for (const channel of allChannels.values()) {
+    const id = getChannelId(channel);
+    const name = getChannelName(channel);
+    const programs = extractSchedule(channel, day);
+
+    if (id && name && programs.length) {
+      result.push({ id, name, programs });
+    }
+  }
+
+  return result;
+}
+
+function extractLegacyChannels(data) {
   const candidates = [
     data?.data?.channels,
     data?.channels,
     data?.data?.items,
     data?.items,
-    data?.data?.results,
-    data?.results,
-    data?.data?.content,
-    data?.content
+    data?.data,
+    data
   ];
 
   for (const candidate of candidates) {
@@ -317,172 +440,119 @@ function extractChannels(data) {
   return [];
 }
 
-function pageCount(data, page, count) {
-  const possible = [
-    data?.data?.totalPages,
-    data?.data?.total_pages,
-    data?.data?.lastPage,
-    data?.data?.last_page,
-    data?.totalPages,
-    data?.total_pages,
-    data?.lastPage,
-    data?.last_page
+function extractLegacyPrograms(data, day) {
+  const candidates = [
+    data?.data?.schedule,
+    data?.data?.schedules,
+    data?.data?.programs,
+    data?.data?.items,
+    data?.schedule,
+    data?.schedules,
+    data?.programs,
+    data?.items,
+    data?.data,
+    data
   ];
 
-  for (const value of possible) {
-    const number = Number(value);
+  let items = [];
 
-    if (Number.isFinite(number) && number > 0) {
-      return Math.min(number, 1000);
+  for (const candidate of candidates) {
+    if (Array.isArray(candidate)) {
+      items = candidate;
+      break;
     }
   }
 
-  const totals = [
-    data?.data?.total,
-    data?.data?.totalCount,
-    data?.data?.total_count,
-    data?.total,
-    data?.totalCount,
-    data?.total_count
-  ];
+  const result = [];
 
-  for (const value of totals) {
-    const number = Number(value);
+  for (const item of items) {
+    const program = normalizeProgram(item, day);
 
-    if (Number.isFinite(number) && number > 0) {
-      return Math.max(1, Math.ceil(number / PAGE_LIMIT));
+    if (program) {
+      result.push(program);
+    } else if (
+      item &&
+      typeof item === "object" &&
+      Array.isArray(item.schedule)
+    ) {
+      result.push(...extractSchedule(item, day));
     }
   }
 
-  return count >= PAGE_LIMIT ? page + 1 : page;
+  return result;
 }
 
-async function fetchAllChannels(day) {
-  const channels = new Map();
-  let page = 1;
-  let lastPage = 1;
+async function fetchLegacyChannels() {
+  console.log("Eski API deneniyor: /actions/channels");
 
-  while (page <= lastPage) {
-    const data = await fetchJson(day, page);
-    const items = extractChannels(data);
+  const data = await fetchJson(LEGACY_CHANNELS_URL);
+  const channels = extractLegacyChannels(data);
 
-    if (page === 1 && items.length === 0) {
-      console.log(
-        `UYARI: ${day} yanıtında tanınan kanal listesi bulunamadı.`
-      );
-      console.log(
-        `Yanıt anahtarları: ${Object.keys(data || {}).join(", ")}`
-      );
-
-      if (data?.data && typeof data.data === "object") {
-        console.log(
-          `data anahtarları: ${Object.keys(data.data).join(", ")}`
-        );
-      }
-
-      return [];
-    }
-
-    for (const item of items) {
-      const id = channelId(item);
-      const name = channelName(item);
-      const key = id || name;
-
-      if (key && !channels.has(key)) {
-        channels.set(key, item);
-      }
-    }
-
-    lastPage = pageCount(data, page, items.length);
-
-    console.log(
-      `${day}: sayfa ${page}/${lastPage}, ${items.length} kayıt`
+  if (!channels.length) {
+    throw new Error(
+      "Eski API yanıtında kanal listesi bulunamadı."
     );
+  }
 
-    if (page >= lastPage) break;
+  return channels.filter(channel =>
+    getChannelId(channel) && getChannelName(channel)
+  );
+}
 
-    page++;
+async function fetchLegacyDay(day, channels) {
+  const result = [];
+
+  for (const channel of channels) {
+    const id = getChannelId(channel);
+    const name = getChannelName(channel);
+
+    if (!id || !name) continue;
+
+    const url = new URL(LEGACY_SCHEDULE_URL);
+    url.searchParams.set("channel_id", id);
+
+    try {
+      const data = await fetchJson(url.toString());
+      const programs = extractLegacyPrograms(data, day);
+
+      if (programs.length) {
+        result.push({ id, name, programs });
+      }
+    } catch (error) {
+      console.error(
+        `Eski API kanal hatası (${name}): ${error.message}`
+      );
+    }
+
     await sleep(REQUEST_DELAY);
   }
 
-  return [...channels.values()];
+  return result;
 }
 
-function collectProgramObjects(value, output, visited = new Set()) {
-  if (!value || typeof value !== "object") return;
-  if (visited.has(value)) return;
+function mergeChannels(destination, source) {
+  for (const channel of source) {
+    if (!channel.id || !channel.name) continue;
 
-  visited.add(value);
-
-  if (Array.isArray(value)) {
-    for (const item of value) {
-      collectProgramObjects(item, output, visited);
-    }
-    return;
-  }
-
-  const title = programTitle(value);
-  const start = programStart(value);
-
-  if (title && start) {
-    output.push(value);
-  }
-
-  for (const [key, child] of Object.entries(value)) {
-    if (
-      ["logo", "image", "images", "channelInfo", "channel_info"].includes(key)
-    ) {
-      continue;
-    }
-
-    if (child && typeof child === "object") {
-      collectProgramObjects(child, output, visited);
-    }
-  }
-}
-
-function extractPrograms(channel, day) {
-  const objects = [];
-  collectProgramObjects(channel, objects);
-
-  const unique = new Map();
-
-  for (const item of objects) {
-    const title = programTitle(item);
-    const start = parseDate(programStart(item), day);
-    let stop = parseDate(programStop(item), day);
-
-    if (!title || !start) continue;
-    if (stop && stop <= start) stop = null;
-
-    const key = `${title}|${start.toISOString()}`;
-
-    if (!unique.has(key)) {
-      unique.set(key, {
-        title,
-        start,
-        stop,
-        description: programDescription(item)
+    if (!destination.has(channel.id)) {
+      destination.set(channel.id, {
+        id: channel.id,
+        name: channel.name,
+        programs: new Map()
       });
     }
-  }
 
-  const programs = [...unique.values()].sort(
-    (a, b) => a.start - b.start
-  );
+    const target = destination.get(channel.id);
 
-  for (let i = 0; i < programs.length; i++) {
-    if (!programs[i].stop) {
-      const next = programs[i + 1];
+    for (const program of channel.programs) {
+      const key =
+        `${program.title}|${program.start.toISOString()}`;
 
-      programs[i].stop =
-        next && next.start > programs[i].start
-          ? next.start
-          : new Date(programs[i].start.getTime() + 30 * 60000);
+      if (!target.programs.has(key)) {
+        target.programs.set(key, program);
+      }
     }
   }
-
-  return programs.filter(item => item.stop > item.start);
 }
 
 function buildXml(channels) {
@@ -504,7 +574,11 @@ function buildXml(channels) {
   }
 
   for (const channel of validChannels) {
-    for (const program of channel.programs) {
+    const programs = [...channel.programs.values()].sort(
+      (a, b) => a.start - b.start
+    );
+
+    for (const program of programs) {
       lines.push(
         `  <programme start="${xmltvTime(program.start)}" stop="${xmltvTime(program.stop)}" channel="${escapeXml(channel.id)}">`,
         `    <title lang="tr">${escapeXml(program.title)}</title>`
@@ -533,95 +607,93 @@ async function main() {
   const days = getDays();
   const channelsMap = new Map();
 
-  let successfulDays = 0;
+  let modernWorked = false;
+  let legacyChannels = null;
 
   for (const day of days) {
     console.log("");
     console.log(`Tarih: ${day}`);
 
-    let items;
-
     try {
-      items = await fetchAllChannels(day);
-      successfulDays++;
+      const channels = await fetchModernDay(day);
+
+      if (channels.length) {
+        modernWorked = true;
+        mergeChannels(channelsMap, channels);
+        console.log(`${day}: ${channels.length} kanal alındı.`);
+      } else {
+        console.log(`${day}: Program bulunamadı.`);
+      }
     } catch (error) {
-      console.error(`${day} alınamadı: ${error.message}`);
-      continue;
-    }
+      console.error(`Güncel API başarısız: ${error.message}`);
 
-    for (const item of items) {
-      const id = channelId(item);
-      const name = channelName(item);
-      const key = id || name;
-
-      if (!key) continue;
-
-      if (!channelsMap.has(key)) {
-        channelsMap.set(key, {
-          id: key,
-          name: name || key,
-          programs: new Map()
-        });
+      if (!legacyChannels) {
+        try {
+          legacyChannels = await fetchLegacyChannels();
+          console.log(
+            `Eski API kanal sayısı: ${legacyChannels.length}`
+          );
+        } catch (legacyError) {
+          console.error(
+            `Eski kanal API'si de başarısız: ${legacyError.message}`
+          );
+          break;
+        }
       }
 
-      const channel = channelsMap.get(key);
+      try {
+        const channels = await fetchLegacyDay(day, legacyChannels);
+        mergeChannels(channelsMap, channels);
 
-      for (const program of extractPrograms(item, day)) {
-        const programKey =
-          `${program.title}|${program.start.toISOString()}`;
-
-        if (!channel.programs.has(programKey)) {
-          channel.programs.set(programKey, program);
-        }
+        console.log(
+          `${day}: Eski API'den ${channels.length} kanal alındı.`
+        );
+      } catch (legacyError) {
+        console.error(
+          `${day}: Eski API de başarısız: ${legacyError.message}`
+        );
       }
     }
 
     await sleep(REQUEST_DELAY);
   }
 
-  const channels = [...channelsMap.values()].map(channel => ({
-    id: channel.id,
-    name: channel.name,
-    programs: [...channel.programs.values()].sort(
-      (a, b) => a.start - b.start
-    )
-  }));
-
-  const programTotal = channels.reduce(
-    (total, channel) => total + channel.programs.length,
+  const channels = [...channelsMap.values()];
+  const programCount = channels.reduce(
+    (sum, channel) => sum + channel.programs.size,
     0
   );
 
   console.log("");
-  console.log(`Başarılı gün isteği: ${successfulDays}/${days.length}`);
   console.log(`Kanal sayısı: ${channels.length}`);
-  console.log(`Program sayısı: ${programTotal}`);
+  console.log(`Program sayısı: ${programCount}`);
 
-  if (successfulDays === 0) {
+  if (programCount === 0) {
     throw new Error(
-      "Hiçbir gün için API verisi alınamadı. Mevcut XML korunuyor."
-    );
-  }
-
-  if (programTotal === 0) {
-    throw new Error(
-      "Program bulunamadı. API yanıt şeması farklı olabilir. Mevcut XML korunuyor."
+      "Hiç program alınamadı. İki API adresi de erişim engeli veriyor olabilir. Mevcut dsmart.xml korunuyor."
     );
   }
 
   const xml = buildXml(channels);
 
-  if (!xml.includes("<programme ") || !xml.includes("</tv>")) {
-    throw new Error("XML doğrulaması başarısız. Mevcut dosya korunuyor.");
+  if (
+    !xml.includes("<programme ") ||
+    !xml.includes("</tv>")
+  ) {
+    throw new Error(
+      "XML kontrolü başarısız. Mevcut dosya korunuyor."
+    );
   }
 
   fs.writeFileSync(TEMP_FILE, xml, "utf8");
 
-  const written = fs.readFileSync(TEMP_FILE, "utf8");
+  const verify = fs.readFileSync(TEMP_FILE, "utf8");
 
-  if (!written.includes("<programme ")) {
+  if (!verify.includes("<programme ")) {
     fs.unlinkSync(TEMP_FILE);
-    throw new Error("Geçici XML kontrolü başarısız.");
+    throw new Error(
+      "Geçici XML doğrulanamadı. Mevcut dosya korunuyor."
+    );
   }
 
   fs.renameSync(TEMP_FILE, OUTPUT_FILE);
