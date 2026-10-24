@@ -4,56 +4,58 @@
 const fs = require("fs");
 const path = require("path");
 
-const API_URL =
-  "https://www.dsmart.com.tr/api/v1/public/epg/schedules";
-
-const LEGACY_CHANNELS_URL =
-  "https://www.dsmart.com.tr/actions/channels?page=1&limit=500";
-
-const LEGACY_SCHEDULE_URL =
-  "https://www.dsmart.com.tr/actions/schedule";
-
 const OUTPUT_FILE = path.join(__dirname, "dsmart.xml");
 const TEMP_FILE = path.join(__dirname, "dsmart.xml.tmp");
 
-const DAYS = 7;
-const PAGE_LIMIT = 10;
-const REQUEST_DELAY = 300;
-const TIMEOUT_MS = 20000;
-const MAX_RETRIES = 3;
+const API_URL =
+  "https://global-epg-prod.erstream.com/Epg/GetChannelEpgWithRange";
 
-const HEADERS = {
-  "User-Agent":
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-  "Accept": "application/json, text/plain, */*",
-  "Accept-Language": "tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7",
-  "Referer": "https://www.dsmart.com.tr/yayin-akisi",
-  "Origin": "https://www.dsmart.com.tr"
-};
+const API_KEY = "pln1jFxpWu1AMwtH1PIU";
+
+const TIMEZONE = "03";
+const LANGUAGE = "tr";
+const DAYS_TO_FETCH = 6;
+const TIMEOUT_MS = 60000;
+
+const CHANNELS = [
+  {
+    id: "MSCL",
+    name: "Movie Smart Classic",
+    cmsId: 246150
+  },
+  {
+    id: "MSTU",
+    name: "Movie Smart Türk",
+    cmsId: 246147
+  },
+  {
+    id: "SPPR",
+    name: "Sport Smart",
+    cmsId: 246003
+  },
+  {
+    id: "SPS2",
+    name: "Sport Smart 2",
+    cmsId: 246171
+  }
+];
 
 const sleep = ms =>
   new Promise(resolve => setTimeout(resolve, ms));
 
-function asText(value) {
-  if (value === null || value === undefined) return "";
-  if (typeof value === "object") return "";
-  return String(value).trim();
+function istanbulToday() {
+  const now = new Date();
+  const utcMs = now.getTime();
+  const turkeyMs = utcMs + 3 * 60 * 60 * 1000;
+
+  return new Date(turkeyMs).toISOString().slice(0, 10);
 }
 
-function firstValue(object, keys) {
-  if (!object || typeof object !== "object") return null;
+function addDays(dateString, amount) {
+  const date = new Date(`${dateString}T00:00:00Z`);
+  date.setUTCDate(date.getUTCDate() + amount);
 
-  for (const key of keys) {
-    if (
-      object[key] !== undefined &&
-      object[key] !== null &&
-      object[key] !== ""
-    ) {
-      return object[key];
-    }
-  }
-
-  return null;
+  return date.toISOString().slice(0, 10);
 }
 
 function escapeXml(value) {
@@ -65,256 +67,262 @@ function escapeXml(value) {
     .replace(/'/g, "&apos;");
 }
 
-function getDays() {
-  const result = [];
-  const now = new Date();
-
-  for (let i = 0; i < DAYS; i++) {
-    const date = new Date(now);
-    date.setDate(now.getDate() + i);
-
-    const year = date.getFullYear();
-    const month = String(date.getMonth() + 1).padStart(2, "0");
-    const day = String(date.getDate()).padStart(2, "0");
-
-    result.push(`${year}-${month}-${day}`);
+function firstValue(object, keys) {
+  if (!object || typeof object !== "object") {
+    return null;
   }
 
-  return result;
+  for (const key of keys) {
+    const value = object[key];
+
+    if (
+      value !== undefined &&
+      value !== null &&
+      value !== ""
+    ) {
+      return value;
+    }
+  }
+
+  return null;
 }
 
-function getChannelId(channel) {
-  return asText(firstValue(channel, [
-    "_id",
-    "id",
-    "channel_id",
-    "channelId",
-    "site_id"
-  ]));
+function textValue(value) {
+  if (
+    value === null ||
+    value === undefined ||
+    typeof value === "object"
+  ) {
+    return "";
+  }
+
+  return String(value).trim();
 }
 
-function getChannelName(channel) {
-  return asText(firstValue(channel, [
-    "channel_name",
-    "name",
-    "channelName",
-    "title",
-    "display_name"
-  ]));
-}
-
-function getProgramTitle(program) {
-  return asText(firstValue(program, [
-    "program_name",
-    "title",
+function getTitle(program) {
+  return textValue(firstValue(program, [
     "name",
     "programName",
-    "event_name"
+    "program_name",
+    "title",
+    "eventName",
+    "contentName"
   ]));
 }
 
 function getDescription(program) {
-  return asText(firstValue(program, [
+  return textValue(firstValue(program, [
     "description",
     "summary",
-    "synopsis"
+    "synopsis",
+    "shortDescription"
   ]));
 }
 
-function parseDuration(value) {
-  if (value === null || value === undefined) return 0;
-
-  let input = String(value).trim();
-
-  // Bazı D-Smart kayıtlarında süre "tarih, HH:mm:ss" biçimindedir.
-  if (input.includes(",")) {
-    input = input.split(",").pop().trim();
-  }
-
-  const parts = input.split(":").map(Number);
-
-  if (
-    parts.length !== 3 ||
-    parts.some(n => !Number.isFinite(n) || n < 0)
-  ) {
-    return 0;
-  }
-
-  return (
-    parts[0] * 3600 +
-    parts[1] * 60 +
-    parts[2]
-  ) * 1000;
-}
-
-function parseDate(value, day) {
-  if (value === null || value === undefined || value === "") {
+function getDatePart(value) {
+  if (value === null || value === undefined) {
     return null;
-  }
-
-  if (typeof value === "number") {
-    const ms = value < 10000000000 ? value * 1000 : value;
-    const date = new Date(ms);
-    return Number.isNaN(date.getTime()) ? null : date;
   }
 
   const input = String(value).trim();
 
+  const iso = input.match(/^(\d{4}-\d{2}-\d{2})/);
+  if (iso) {
+    return iso[1];
+  }
+
+  const european = input.match(
+    /^(\d{1,2})\.(\d{1,2})\.(\d{4})/
+  );
+
+  if (european) {
+    return (
+      european[3] + "-" +
+      european[2].padStart(2, "0") + "-" +
+      european[1].padStart(2, "0")
+    );
+  }
+
+  return null;
+}
+
+function parseDateTime(dateValue, timeValue, fallbackDate) {
+  if (
+    timeValue === null ||
+    timeValue === undefined ||
+    timeValue === ""
+  ) {
+    return null;
+  }
+
+  if (typeof timeValue === "number") {
+    const milliseconds =
+      timeValue < 10000000000
+        ? timeValue * 1000
+        : timeValue;
+
+    const result = new Date(milliseconds);
+
+    return Number.isNaN(result.getTime())
+      ? null
+      : result;
+  }
+
+  const input = String(timeValue).trim();
+
   if (/^\d{10,13}$/.test(input)) {
     const number = Number(input);
-    const ms = number < 10000000000 ? number * 1000 : number;
-    const date = new Date(ms);
-    return Number.isNaN(date.getTime()) ? null : date;
+    const milliseconds =
+      number < 10000000000
+        ? number * 1000
+        : number;
+
+    const result = new Date(milliseconds);
+
+    return Number.isNaN(result.getTime())
+      ? null
+      : result;
   }
 
-  let normalized = input;
+  // Başlangıç veya bitiş tam tarih-saat olarak geldiyse.
+  if (/^\d{4}-\d{2}-\d{2}[T ]/.test(input)) {
+    let normalized = input.replace(" ", "T");
 
-  if (/^\d{1,2}:\d{2}(:\d{2})?$/.test(normalized)) {
-    normalized = `${day}T${normalized}`;
+    // Saat dilimi belirtilmemişse API'nin +03 saatini uygula.
+    if (!/(Z|[+-]\d{2}:\d{2}|[+-]\d{4})$/i.test(normalized)) {
+      normalized += "+03:00";
+    }
+
+    const result = new Date(normalized);
+
+    return Number.isNaN(result.getTime())
+      ? null
+      : result;
   }
 
-  if (/^\d{4}-\d{2}-\d{2} \d/.test(normalized)) {
-    normalized = normalized.replace(" ", "T");
-  }
-
-  const date = new Date(normalized);
-
-  return Number.isNaN(date.getTime()) ? null : date;
-}
-
-function xmltvTime(date) {
-  const pad = n => String(n).padStart(2, "0");
-
-  const offset = -date.getTimezoneOffset();
-  const sign = offset >= 0 ? "+" : "-";
-  const absolute = Math.abs(offset);
-
-  return (
-    `${date.getFullYear()}` +
-    `${pad(date.getMonth() + 1)}` +
-    `${pad(date.getDate())}` +
-    `${pad(date.getHours())}` +
-    `${pad(date.getMinutes())}` +
-    `${pad(date.getSeconds())} ` +
-    `${sign}${pad(Math.floor(absolute / 60))}${pad(absolute % 60)}`
+  // Saat yalnızca HH:mm veya HH:mm:ss biçimindeyse.
+  const clock = input.match(
+    /^(\d{1,2}):(\d{2})(?::(\d{2}))?$/
   );
-}
 
-async function fetchJson(url) {
-  let lastError;
+  if (clock) {
+    const datePart =
+      getDatePart(dateValue) || fallbackDate;
 
-  for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
-    const controller = new AbortController();
-    const timeout = setTimeout(
-      () => controller.abort(),
-      TIMEOUT_MS
+    if (!datePart) {
+      return null;
+    }
+
+    const hour = clock[1].padStart(2, "0");
+    const minute = clock[2];
+    const second = clock[3] || "00";
+
+    const result = new Date(
+      `${datePart}T${hour}:${minute}:${second}+03:00`
     );
 
-    try {
-      console.log(`GET ${url}`);
-
-      const response = await fetch(url, {
-        method: "GET",
-        headers: HEADERS,
-        signal: controller.signal
-      });
-
-      const body = await response.text();
-
-      if (!response.ok) {
-        const preview = body
-          .replace(/\s+/g, " ")
-          .slice(0, 400);
-
-        const error = new Error(
-          `HTTP ${response.status} — ${url}` +
-          (preview ? ` | Yanıt: ${preview}` : "")
-        );
-
-        error.status = response.status;
-
-        if (
-          response.status === 400 ||
-          response.status === 401 ||
-          response.status === 403 ||
-          response.status === 404
-        ) {
-          throw error;
-        }
-
-        throw error;
-      }
-
-      try {
-        return JSON.parse(body);
-      } catch {
-        throw new Error(
-          `Sunucu JSON döndürmedi: ${url} | ` +
-          body.replace(/\s+/g, " ").slice(0, 300)
-        );
-      }
-    } catch (error) {
-      lastError = error;
-
-      console.error(error.message);
-
-      if (error.status) {
-        throw error;
-      }
-
-      if (attempt < MAX_RETRIES) {
-        await sleep(attempt * 1500);
-      }
-    } finally {
-      clearTimeout(timeout);
-    }
+    return Number.isNaN(result.getTime())
+      ? null
+      : result;
   }
 
-  throw lastError || new Error("İstek başarısız.");
+  // Diğer geçerli tarih biçimlerini dene.
+  const result = new Date(input);
+
+  return Number.isNaN(result.getTime())
+    ? null
+    : result;
 }
 
-function extractModernChannels(data) {
-  if (Array.isArray(data?.data?.channels)) {
-    return data.data.channels;
+function parseDuration(value) {
+  if (value === null || value === undefined) {
+    return 0;
   }
 
-  if (Array.isArray(data?.channels)) {
-    return data.channels;
+  if (typeof value === "number") {
+    // Sayısal süreler API'de saniye olarak gelirse.
+    return value > 0 ? value * 1000 : 0;
   }
 
-  return [];
+  const input = String(value).trim();
+
+  const match = input.match(
+    /(?:^|,\s*)(\d{1,3}):(\d{2})(?::(\d{2}))?$/
+  );
+
+  if (!match) {
+    return 0;
+  }
+
+  const first = Number(match[1]);
+  const second = Number(match[2]);
+  const third = Number(match[3] || 0);
+
+  if (second > 59 || third > 59) {
+    return 0;
+  }
+
+  return (first * 3600 + second * 60 + third) * 1000;
 }
 
-function normalizeProgram(program, day) {
-  const title = getProgramTitle(program);
-  if (!title) return null;
+function getProgramStart(program, day) {
+  const dateValue = firstValue(program, [
+    "date",
+    "broadcastDate",
+    "day",
+    "startDate"
+  ]);
 
-  const rawStart = firstValue(program, [
-    "start_date",
-    "startDate",
-    "start_time",
+  const timeValue = firstValue(program, [
+    "startHour",
     "startTime",
+    "start_date",
+    "startDateTime",
     "start",
     "begin"
   ]);
 
-  const start = parseDate(rawStart, day);
-  if (!start) return null;
+  return parseDateTime(dateValue, timeValue, day);
+}
 
-  const rawStop = firstValue(program, [
-    "end_date",
+function getProgramEnd(program, day, start) {
+  const dateValue = firstValue(program, [
     "endDate",
-    "end_time",
+    "broadcastDate",
+    "date",
+    "day"
+  ]);
+
+  const timeValue = firstValue(program, [
+    "endHour",
     "endTime",
+    "end_date",
+    "endDateTime",
     "stop",
     "end"
   ]);
 
-  let stop = parseDate(rawStop, day);
+  let stop = parseDateTime(dateValue, timeValue, day);
+
+  // Program gece yarısını aşıyorsa bitişi ertesi güne taşı.
+  if (stop && stop <= start) {
+    const endInput = String(timeValue ?? "").trim();
+
+    // Tam tarih-saat verilmişse tarih yanlışlığını gizleme.
+    if (/^\d{4}-\d{2}-\d{2}[T ]/.test(endInput)) {
+      return null;
+    }
+
+    stop = new Date(stop.getTime() + 24 * 60 * 60 * 1000);
+  }
 
   if (!stop || stop <= start) {
     const duration = parseDuration(
-      firstValue(program, ["duration", "length", "runtime"])
+      firstValue(program, [
+        "duration",
+        "length",
+        "runtime"
+      ])
     );
 
     if (duration > 0) {
@@ -322,250 +330,221 @@ function normalizeProgram(program, day) {
     }
   }
 
-  if (!stop || stop <= start) return null;
-
-  return {
-    title,
-    description: getDescription(program),
-    start,
-    stop
-  };
+  return stop && stop > start ? stop : null;
 }
 
-function extractSchedule(channel, day) {
-  const schedule = Array.isArray(channel?.schedule)
-    ? channel.schedule
-    : [];
-
+function findPrograms(payload) {
   const result = [];
+  const visited = new Set();
 
-  for (const item of schedule) {
-    const title = getProgramTitle(item);
-    if (!title) continue;
-
-    // D-Smart'ın bilinen yapısında start_date ve duration bulunur.
-    const start = parseDate(item.start_date, day);
-
-    if (!start) {
-      console.log(
-        `UYARI: Başlangıç zamanı çözümlenemedi: ${title}`
-      );
-      continue;
+  function walk(value) {
+    if (!value || typeof value !== "object") {
+      return;
     }
 
-    const duration = parseDuration(item.duration);
-    if (duration <= 0) continue;
-
-    result.push({
-      title,
-      description: getDescription(item),
-      start,
-      stop: new Date(start.getTime() + duration)
-    });
-  }
-
-  return result;
-}
-
-async function fetchModernDay(day) {
-  const allChannels = new Map();
-  let page = 1;
-  let totalPages = 1;
-
-  while (page <= totalPages) {
-    const url = new URL(API_URL);
-    url.searchParams.set("page", String(page));
-    url.searchParams.set("limit", String(PAGE_LIMIT));
-    url.searchParams.set("day", day);
-
-    const data = await fetchJson(url.toString());
-    const items = extractModernChannels(data);
-
-    if (page === 1 && items.length === 0) {
-      throw new Error(
-        "API yanıtında data.channels bulunamadı."
-      );
+    if (visited.has(value)) {
+      return;
     }
 
-    for (const channel of items) {
-      const id = getChannelId(channel);
-      const name = getChannelName(channel);
-      const key = id || name;
+    visited.add(value);
 
-      if (key && !allChannels.has(key)) {
-        allChannels.set(key, channel);
+    if (Array.isArray(value)) {
+      for (const item of value) {
+        walk(item);
+      }
+
+      return;
+    }
+
+    const title = getTitle(value);
+
+    const startValue = firstValue(value, [
+      "startHour",
+      "startTime",
+      "start_date",
+      "startDateTime",
+      "start",
+      "begin"
+    ]);
+
+    const endValue = firstValue(value, [
+      "endHour",
+      "endTime",
+      "end_date",
+      "endDateTime",
+      "stop",
+      "end",
+      "duration",
+      "length",
+      "runtime"
+    ]);
+
+    if (title && startValue !== null && endValue !== null) {
+      result.push(value);
+    }
+
+    for (const child of Object.values(value)) {
+      if (child && typeof child === "object") {
+        walk(child);
       }
     }
-
-    const total = Number(data?.data?.total || 0);
-    totalPages = total > 0
-      ? Math.ceil(total / PAGE_LIMIT)
-      : (items.length >= PAGE_LIMIT ? page + 1 : page);
-
-    if (page >= totalPages) break;
-
-    page++;
-    await sleep(REQUEST_DELAY);
   }
 
-  const result = [];
-
-  for (const channel of allChannels.values()) {
-    const id = getChannelId(channel);
-    const name = getChannelName(channel);
-    const programs = extractSchedule(channel, day);
-
-    if (id && name && programs.length) {
-      result.push({ id, name, programs });
-    }
-  }
+  walk(payload);
 
   return result;
 }
 
-function extractLegacyChannels(data) {
-  const candidates = [
-    data?.data?.channels,
-    data?.channels,
-    data?.data?.items,
-    data?.items,
-    data?.data,
-    data
-  ];
+async function fetchChannel(channel, startDate, endDate) {
+  const url = new URL(API_URL);
 
-  for (const candidate of candidates) {
-    if (Array.isArray(candidate)) return candidate;
-  }
+  url.searchParams.set("includeEnding", "true");
+  url.searchParams.set("fillResponse", "true");
+  url.searchParams.set("key", API_KEY);
+  url.searchParams.set("cmsId", String(channel.cmsId));
+  url.searchParams.set("startDate", startDate);
+  url.searchParams.set("endDate", endDate);
+  url.searchParams.set("timezone", TIMEZONE);
+  url.searchParams.set("lang", LANGUAGE);
 
-  return [];
-}
+  const controller = new AbortController();
 
-function extractLegacyPrograms(data, day) {
-  const candidates = [
-    data?.data?.schedule,
-    data?.data?.schedules,
-    data?.data?.programs,
-    data?.data?.items,
-    data?.schedule,
-    data?.schedules,
-    data?.programs,
-    data?.items,
-    data?.data,
-    data
-  ];
-
-  let items = [];
-
-  for (const candidate of candidates) {
-    if (Array.isArray(candidate)) {
-      items = candidate;
-      break;
-    }
-  }
-
-  const result = [];
-
-  for (const item of items) {
-    const program = normalizeProgram(item, day);
-
-    if (program) {
-      result.push(program);
-    } else if (
-      item &&
-      typeof item === "object" &&
-      Array.isArray(item.schedule)
-    ) {
-      result.push(...extractSchedule(item, day));
-    }
-  }
-
-  return result;
-}
-
-async function fetchLegacyChannels() {
-  console.log("Eski API deneniyor: /actions/channels");
-
-  const data = await fetchJson(LEGACY_CHANNELS_URL);
-  const channels = extractLegacyChannels(data);
-
-  if (!channels.length) {
-    throw new Error(
-      "Eski API yanıtında kanal listesi bulunamadı."
-    );
-  }
-
-  return channels.filter(channel =>
-    getChannelId(channel) && getChannelName(channel)
+  const timeout = setTimeout(
+    () => controller.abort(),
+    TIMEOUT_MS
   );
-}
 
-async function fetchLegacyDay(day, channels) {
-  const result = [];
+  try {
+    console.log(`GET ${channel.name}: ${startDate} - ${endDate}`);
 
-  for (const channel of channels) {
-    const id = getChannelId(channel);
-    const name = getChannelName(channel);
+    const response = await fetch(url.toString(), {
+      method: "GET",
+      headers: {
+        "Accept": "application/json",
+        "User-Agent": "DSmart-EPG-Updater/1.0"
+      },
+      signal: controller.signal
+    });
 
-    if (!id || !name) continue;
+    const body = await response.text();
 
-    const url = new URL(LEGACY_SCHEDULE_URL);
-    url.searchParams.set("channel_id", id);
+    if (!response.ok) {
+      throw new Error(
+        `${channel.name}: HTTP ${response.status} — ` +
+        body.replace(/\s+/g, " ").slice(0, 250)
+      );
+    }
+
+    let payload;
 
     try {
-      const data = await fetchJson(url.toString());
-      const programs = extractLegacyPrograms(data, day);
-
-      if (programs.length) {
-        result.push({ id, name, programs });
-      }
-    } catch (error) {
-      console.error(
-        `Eski API kanal hatası (${name}): ${error.message}`
+      payload = JSON.parse(body);
+    } catch {
+      throw new Error(
+        `${channel.name}: API geçerli JSON döndürmedi.`
       );
     }
 
-    await sleep(REQUEST_DELAY);
-  }
+    if (
+      payload &&
+      payload.statusCode !== undefined &&
+      Number(payload.statusCode) !== 200
+    ) {
+      throw new Error(
+        `${channel.name}: API statusCode=${payload.statusCode}`
+      );
+    }
 
-  return result;
-}
+    const rawPrograms = findPrograms(payload);
+    const programs = [];
 
-function mergeChannels(destination, source) {
-  for (const channel of source) {
-    if (!channel.id || !channel.name) continue;
+    for (const item of rawPrograms) {
+      const title = getTitle(item);
+      if (!title) continue;
 
-    if (!destination.has(channel.id)) {
-      destination.set(channel.id, {
-        id: channel.id,
-        name: channel.name,
-        programs: new Map()
+      const dateValue = firstValue(item, [
+        "date",
+        "broadcastDate",
+        "day",
+        "startDate"
+      ]);
+
+      const day =
+        getDatePart(dateValue) || startDate;
+
+      const start = getProgramStart(item, day);
+      if (!start) continue;
+
+      const stop = getProgramEnd(item, day, start);
+      if (!stop) continue;
+
+      programs.push({
+        title,
+        description: getDescription(item),
+        start,
+        stop
       });
     }
 
-    const target = destination.get(channel.id);
+    // Aynı program iki kez geldiyse tek kayıt tut.
+    const unique = new Map();
 
-    for (const program of channel.programs) {
+    for (const program of programs) {
       const key =
-        `${program.title}|${program.start.toISOString()}`;
+        `${program.title}|${program.start.getTime()}`;
 
-      if (!target.programs.has(key)) {
-        target.programs.set(key, program);
+      if (!unique.has(key)) {
+        unique.set(key, program);
       }
     }
+
+    const finalPrograms = [...unique.values()].sort(
+      (a, b) => a.start - b.start
+    );
+
+    console.log(
+      `${channel.name}: ${finalPrograms.length} program alındı.`
+    );
+
+    if (finalPrograms.length === 0) {
+      throw new Error(
+        `${channel.name}: API yanıtından program çıkarılamadı.`
+      );
+    }
+
+    return {
+      ...channel,
+      programs: finalPrograms
+    };
+  } finally {
+    clearTimeout(timeout);
   }
+}
+
+function xmltvTime(date) {
+  // Tarih nesnesi gerçek anı tutar; XMLTV'de +0300 gösterilir.
+  const local = new Date(date.getTime() + 3 * 60 * 60 * 1000);
+
+  const pad = number =>
+    String(number).padStart(2, "0");
+
+  return (
+    `${local.getUTCFullYear()}` +
+    `${pad(local.getUTCMonth() + 1)}` +
+    `${pad(local.getUTCDate())}` +
+    `${pad(local.getUTCHours())}` +
+    `${pad(local.getUTCMinutes())}` +
+    `${pad(local.getUTCSeconds())} +0300`
+  );
 }
 
 function buildXml(channels) {
   const lines = [
     '<?xml version="1.0" encoding="UTF-8"?>',
-    '<tv generator-info-name="D-Smart EPG">'
+    '<tv generator-info-name="D-Smart Four Channel EPG">'
   ];
 
-  const validChannels = channels.filter(
-    channel => channel.programs.length > 0
-  );
-
-  for (const channel of validChannels) {
+  for (const channel of channels) {
     lines.push(
       `  <channel id="${escapeXml(channel.id)}">`,
       `    <display-name lang="tr">${escapeXml(channel.name)}</display-name>`,
@@ -573,12 +552,8 @@ function buildXml(channels) {
     );
   }
 
-  for (const channel of validChannels) {
-    const programs = [...channel.programs.values()].sort(
-      (a, b) => a.start - b.start
-    );
-
-    for (const program of programs) {
+  for (const channel of channels) {
+    for (const program of channel.programs) {
       lines.push(
         `  <programme start="${xmltvTime(program.start)}" stop="${xmltvTime(program.stop)}" channel="${escapeXml(channel.id)}">`,
         `    <title lang="tr">${escapeXml(program.title)}</title>`
@@ -599,113 +574,113 @@ function buildXml(channels) {
   return lines.join("\n");
 }
 
-async function main() {
-  console.log("======================================");
-  console.log("D-SMART EPG BAŞLADI");
-  console.log("======================================");
-
-  const days = getDays();
-  const channelsMap = new Map();
-
-  let modernWorked = false;
-  let legacyChannels = null;
-
-  for (const day of days) {
-    console.log("");
-    console.log(`Tarih: ${day}`);
-
-    try {
-      const channels = await fetchModernDay(day);
-
-      if (channels.length) {
-        modernWorked = true;
-        mergeChannels(channelsMap, channels);
-        console.log(`${day}: ${channels.length} kanal alındı.`);
-      } else {
-        console.log(`${day}: Program bulunamadı.`);
-      }
-    } catch (error) {
-      console.error(`Güncel API başarısız: ${error.message}`);
-
-      if (!legacyChannels) {
-        try {
-          legacyChannels = await fetchLegacyChannels();
-          console.log(
-            `Eski API kanal sayısı: ${legacyChannels.length}`
-          );
-        } catch (legacyError) {
-          console.error(
-            `Eski kanal API'si de başarısız: ${legacyError.message}`
-          );
-          break;
-        }
-      }
-
-      try {
-        const channels = await fetchLegacyDay(day, legacyChannels);
-        mergeChannels(channelsMap, channels);
-
-        console.log(
-          `${day}: Eski API'den ${channels.length} kanal alındı.`
-        );
-      } catch (legacyError) {
-        console.error(
-          `${day}: Eski API de başarısız: ${legacyError.message}`
-        );
-      }
-    }
-
-    await sleep(REQUEST_DELAY);
-  }
-
-  const channels = [...channelsMap.values()];
-  const programCount = channels.reduce(
-    (sum, channel) => sum + channel.programs.size,
-    0
-  );
-
-  console.log("");
-  console.log(`Kanal sayısı: ${channels.length}`);
-  console.log(`Program sayısı: ${programCount}`);
-
-  if (programCount === 0) {
-    throw new Error(
-      "Hiç program alınamadı. İki API adresi de erişim engeli veriyor olabilir. Mevcut dsmart.xml korunuyor."
-    );
-  }
-
-  const xml = buildXml(channels);
-
+function validateXml(xml, channels) {
   if (
-    !xml.includes("<programme ") ||
+    !xml.includes('<?xml') ||
+    !xml.includes("<tv") ||
     !xml.includes("</tv>")
   ) {
+    throw new Error("XMLTV yapısı geçersiz.");
+  }
+
+  const programmeCount =
+    (xml.match(/<programme\s/g) || []).length;
+
+  if (programmeCount === 0) {
+    throw new Error("XML içinde program bulunamadı.");
+  }
+
+  for (const channel of channels) {
+    if (!xml.includes(`channel="${channel.id}"`)) {
+      throw new Error(
+        `${channel.name}: XML içinde kanal/program kaydı bulunamadı.`
+      );
+    }
+  }
+
+  return programmeCount;
+}
+
+async function main() {
+  console.log("======================================");
+  console.log("D-SMART 4 KANAL EPG BAŞLADI");
+  console.log("======================================");
+
+  const startDate = istanbulToday();
+  const endDate = addDays(startDate, DAYS_TO_FETCH - 1);
+
+  console.log(`Başlangıç: ${startDate}`);
+  console.log(`Bitiş: ${endDate}`);
+  console.log("");
+
+  const results = [];
+
+  // Her kanal ayrı sorgulanır.
+  for (const channel of CHANNELS) {
+    const result = await fetchChannel(
+      channel,
+      startDate,
+      endDate
+    );
+
+    results.push(result);
+
+    await sleep(500);
+  }
+
+  // Dört kanalın tamamı başarılı olmadan eski dosyayı değiştirme.
+  if (results.length !== CHANNELS.length) {
     throw new Error(
-      "XML kontrolü başarısız. Mevcut dosya korunuyor."
+      "Dört kanalın tamamı alınamadı. Mevcut XML korunuyor."
     );
   }
+
+  const xml = buildXml(results);
+  const programmeCount = validateXml(xml, results);
 
   fs.writeFileSync(TEMP_FILE, xml, "utf8");
 
-  const verify = fs.readFileSync(TEMP_FILE, "utf8");
+  const savedXml = fs.readFileSync(TEMP_FILE, "utf8");
+  const savedCount = validateXml(savedXml, results);
 
-  if (!verify.includes("<programme ")) {
+  if (savedCount !== programmeCount) {
     fs.unlinkSync(TEMP_FILE);
+
     throw new Error(
-      "Geçici XML doğrulanamadı. Mevcut dosya korunuyor."
+      "Geçici XML doğrulaması başarısız. Mevcut XML korunuyor."
     );
   }
 
+  // Doğrulama başarılıysa dsmart.xml dosyasını güncelle.
   fs.renameSync(TEMP_FILE, OUTPUT_FILE);
 
-  console.log("EPG başarıyla oluşturuldu.");
-  console.log(`Dosya boyutu: ${fs.statSync(OUTPUT_FILE).size} bayt`);
+  console.log("");
+  console.log("======================================");
+  console.log("EPG BAŞARIYLA OLUŞTURULDU");
+  console.log("======================================");
+
+  for (const channel of results) {
+    console.log(
+      `${channel.name}: ${channel.programs.length} program`
+    );
+  }
+
+  console.log(`Toplam program: ${programmeCount}`);
+  console.log(`Dosya: ${OUTPUT_FILE}`);
+  console.log(`Boyut: ${fs.statSync(OUTPUT_FILE).size} bayt`);
 }
 
 main().catch(error => {
   console.error("");
   console.error("D-SMART EPG HATASI:");
   console.error(error.message);
+
+  if (fs.existsSync(TEMP_FILE)) {
+    try {
+      fs.unlinkSync(TEMP_FILE);
+    } catch {}
+  }
+
   console.error("Mevcut dsmart.xml korunuyor.");
   process.exitCode = 1;
 });
