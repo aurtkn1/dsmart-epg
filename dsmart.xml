@@ -856,63 +856,39 @@
     <title lang="tr">Golf: Genesis championship - Güney Kore</title>
     <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
-  <programme start="20261029080000 +0300" stop="20261029090000 +0300" channel="SPPR">
-    <title lang="tr">Spor Smart</title>
-    <desc lang="tr">Spor Smart</desc>
+  <programme start="20261029080000 +0300" stop="20261029110000 +0300" channel="SPPR">
+    <title lang="tr">Golf: Genesis championship - Güney Kore</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
-  <programme start="20261029090000 +0300" stop="20261029100000 +0300" channel="SPPR">
-    <title lang="tr">Spor Smart</title>
-    <desc lang="tr">Spor Smart</desc>
+  <programme start="20261029110000 +0300" stop="20261029130000 +0300" channel="SPPR">
+    <title lang="tr">Adelaide - Lion city</title>
+    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
   </programme>
-  <programme start="20261029100000 +0300" stop="20261029110000 +0300" channel="SPPR">
-    <title lang="tr">Spor Smart</title>
-    <desc lang="tr">Spor Smart</desc>
+  <programme start="20261029130000 +0300" stop="20261029153000 +0300" channel="SPPR">
+    <title lang="tr">Tampiners - Svay rieng</title>
+    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
   </programme>
-  <programme start="20261029110000 +0300" stop="20261029120000 +0300" channel="SPPR">
-    <title lang="tr">Spor Smart</title>
-    <desc lang="tr">Spor Smart</desc>
+  <programme start="20261029153000 +0300" stop="20261029173000 +0300" channel="SPPR">
+    <title lang="tr">Shanghai greenland - Machida</title>
+    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
   </programme>
-  <programme start="20261029120000 +0300" stop="20261029130000 +0300" channel="SPPR">
-    <title lang="tr">Spor Smart</title>
-    <desc lang="tr">Spor Smart</desc>
+  <programme start="20261029173000 +0300" stop="20261029193000 +0300" channel="SPPR">
+    <title lang="tr">Fluminense - Internacional</title>
+    <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
   </programme>
-  <programme start="20261029130000 +0300" stop="20261029140000 +0300" channel="SPPR">
-    <title lang="tr">Spor Smart</title>
-    <desc lang="tr">Spor Smart</desc>
+  <programme start="20261029193000 +0300" stop="20261029200000 +0300" channel="SPPR">
+    <title lang="tr">Monster Jam</title>
+    <desc lang="tr">Monster Jam&apos;da dev canavar kamyonlar, çılgın akrobasi ve hız dolu yarışlarla izleyicilere adrenalin dolu anlar sunuyor.</desc>
   </programme>
-  <programme start="20261029140000 +0300" stop="20261029150000 +0300" channel="SPPR">
-    <title lang="tr">Spor Smart</title>
-    <desc lang="tr">Spor Smart</desc>
+  <programme start="20261029200000 +0300" stop="20261029213000 +0300" channel="SPPR">
+    <title lang="tr">Spor Ajansı</title>
+    <desc lang="tr">Günün öne çıkan spor gelişmeleri, kritik maç analizleri ve takım performansları Spor Ajansı&apos;nda izleyiciye hızlı ve heyecanlı şekilde aktarılıyor.</desc>
   </programme>
-  <programme start="20261029150000 +0300" stop="20261029160000 +0300" channel="SPPR">
-    <title lang="tr">Spor Smart</title>
-    <desc lang="tr">Spor Smart</desc>
+  <programme start="20261029213000 +0300" stop="20261029223000 +0300" channel="SPPR">
+    <title lang="tr">Dünyanın Futbolu</title>
+    <desc lang="tr">Futbol dünyasında haftanın öne çıkan gelişmeleri &quot;Dünyanın Futbolu&quot;nda ekrana geliyor. Farklı liglerden haberle bu programda.</desc>
   </programme>
-  <programme start="20261029160000 +0300" stop="20261029170000 +0300" channel="SPPR">
-    <title lang="tr">Spor Smart</title>
-    <desc lang="tr">Spor Smart</desc>
-  </programme>
-  <programme start="20261029170000 +0300" stop="20261029180000 +0300" channel="SPPR">
-    <title lang="tr">Spor Smart</title>
-    <desc lang="tr">Spor Smart</desc>
-  </programme>
-  <programme start="20261029180000 +0300" stop="20261029190000 +0300" channel="SPPR">
-    <title lang="tr">Spor Smart</title>
-    <desc lang="tr">Spor Smart</desc>
-  </programme>
-  <programme start="20261029190000 +0300" stop="20261029200000 +0300" channel="SPPR">
-    <title lang="tr">Spor Smart</title>
-    <desc lang="tr">Spor Smart</desc>
-  </programme>
-  <programme start="20261029200000 +0300" stop="20261029210000 +0300" channel="SPPR">
-    <title lang="tr">Spor Smart</title>
-    <desc lang="tr">Spor Smart</desc>
-  </programme>
-  <programme start="20261029210000 +0300" stop="20261029220000 +0300" channel="SPPR">
-    <title lang="tr">Spor Smart</title>
-    <desc lang="tr">Spor Smart</desc>
-  </programme>
-  <programme start="20261029220000 +0300" stop="20261029230000 +0300" channel="SPPR">
+  <programme start="20261029223000 +0300" stop="20261029230000 +0300" channel="SPPR">
     <title lang="tr">Spor Smart</title>
     <desc lang="tr">Spor Smart</desc>
   </programme>
