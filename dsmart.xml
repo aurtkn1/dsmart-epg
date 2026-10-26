@@ -12,66 +12,6 @@
   <channel id="SPS2">
     <display-name lang="tr">Sport Smart 2</display-name>
   </channel>
-  <programme start="20261025231000 +0300" stop="20261026005000 +0300" channel="MSCL">
-    <title lang="tr">Korkusuz Cengaver</title>
-    <desc lang="tr">Korkusuz bir savaşçının adalet için ihanet ve düşmanlara karşı verdiği epik mücadele.</desc>
-  </programme>
-  <programme start="20261026005000 +0300" stop="20261026023000 +0300" channel="MSCL">
-    <title lang="tr">Şaka ile Karışık</title>
-    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
-  </programme>
-  <programme start="20261026023000 +0300" stop="20261026035000 +0300" channel="MSCL">
-    <title lang="tr">Tamam mı Devam mı</title>
-    <desc lang="tr">İlişkiler, yanlış anlaşılmalar ve beklenmedik gelişmelerin iç içe geçtiği hikâyede, kararlar hayatın seyrini değiştiriyor.</desc>
-  </programme>
-  <programme start="20261026035000 +0300" stop="20261026052000 +0300" channel="MSCL">
-    <title lang="tr">Elveda Sevgilim</title>
-    <desc lang="tr">Selimoğulları ve Kadiroğulları kan davası yüzünden birbirlerine düşman iki ailedir. Türkan, Kadiroğullarının kızıdır ve kuzeni Osman onu sevmektedir. Türkan ise düşman oldukları ailenin tek oğlu olan Kemal&apos;le yakınlaşmaya başlamıştır. Bu durum ailelerin tepkisini çeker. Birbirlerini seven iki genç her şeye rağmen birlikte olmak için ölesiye çaba sarf eder.</desc>
-  </programme>
-  <programme start="20261026052000 +0300" stop="20261026070000 +0300" channel="MSCL">
-    <title lang="tr">Hayat Merdiveni</title>
-    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
-  </programme>
-  <programme start="20261026070000 +0300" stop="20261026090000 +0300" channel="MSCL">
-    <title lang="tr">Arzu ile Kamber</title>
-    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
-  </programme>
-  <programme start="20261026090000 +0300" stop="20261026102000 +0300" channel="MSCL">
-    <title lang="tr">Ölümden Korkmuyorum</title>
-    <desc lang="tr">Murat hapisten yeni çıkmıştır. Oğlu Zeki, gençleri uyuşturucu ve alkol batağına sürükleyen çetenin ağına düşmüştür. Murat, oğlunun bu ortamlara gitmesini engeller ve düzgün bir hayat sürmesini sağlar. Fakat Zeki&apos; nin geçmişi peşini bırakmaz. Çete lideri Taş, Zeki&apos; yi bulup öldürür. Murat, ne olursa olsun Taş&apos; ı bulup oğlunun intikamını almak istemektedir.</desc>
-  </programme>
-  <programme start="20261026102000 +0300" stop="20261026115000 +0300" channel="MSCL">
-    <title lang="tr">Güllü</title>
-    <desc lang="tr">Tam bir kahkaha tufanı olan Yeşilçam klasiğiyle unutulmaz bir romantik-komedi keyfi yaşayacaksınız.</desc>
-  </programme>
-  <programme start="20261026115000 +0300" stop="20261026133000 +0300" channel="MSCL">
-    <title lang="tr">Korkusuz Cengaver</title>
-    <desc lang="tr">Korkusuz bir savaşçının adalet için ihanet ve düşmanlara karşı verdiği epik mücadele.</desc>
-  </programme>
-  <programme start="20261026133000 +0300" stop="20261026150000 +0300" channel="MSCL">
-    <title lang="tr">Şehvet Uçurumları</title>
-    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
-  </programme>
-  <programme start="20261026150000 +0300" stop="20261026163000 +0300" channel="MSCL">
-    <title lang="tr">Tamam mı Devam mı</title>
-    <desc lang="tr">İlişkiler, yanlış anlaşılmalar ve beklenmedik gelişmelerin iç içe geçtiği hikâyede, kararlar hayatın seyrini değiştiriyor.</desc>
-  </programme>
-  <programme start="20261026163000 +0300" stop="20261026181000 +0300" channel="MSCL">
-    <title lang="tr">Zehir Hafiye</title>
-    <desc lang="tr">Kemal Sunal&apos;ın başrolde olduğu Zehir Hafiye, komik ve sürükleyici bir dedektif hikâyesini ekrana taşıyor.</desc>
-  </programme>
-  <programme start="20261026181000 +0300" stop="20261026195000 +0300" channel="MSCL">
-    <title lang="tr">Son Sabah</title>
-    <desc lang="tr">Ferdi ve Gülcan çocukluktan beri birbirlerine âşıktır. Ferdi&apos;nin babası, Gülcan&apos;ın amcasını öldürmeye mecbur kalmıştır. Bu olay sonrasında Ferdi kan davası sebebiyle Almanya&apos;ya kaçırılır. Yıllar sonra Ferdi köyüne geri döner. Gülcan ile yaşadıkları aşk daha da artmıştır. Ancak Gülcan&apos;ın ağabeyi Kazım, kardeşini amcaoğlu Seyit ile evlendirmek ister. İki âşık kan davası devam ederken, birbirlerine kavuşmak için büyük bir mücadele verecektir.</desc>
-  </programme>
-  <programme start="20261026195000 +0300" stop="20261026213000 +0300" channel="MSCL">
-    <title lang="tr">Almanya Acı Vatan</title>
-    <desc lang="tr">Şerif Gören ve Zeki Ökten&apos;in yönettiği Almanya Acı Vatan, gurbet, kimlik ve toplumsal çatışmaları Rahmi Saltuk&apos;un performansıyla anlatır.</desc>
-  </programme>
-  <programme start="20261026213000 +0300" stop="20261026232000 +0300" channel="MSCL">
-    <title lang="tr">Öğretmen</title>
-    <desc lang="tr">Köyünden İstanbul&apos;a ailesiyle birlikte göç eden Hüsnü Öğretmen, burada tutunmak için mücadele eder. Ancak yaşadığı geçim sıkıntısıyla psikolojik sorunlar yaşamaya başlar.</desc>
-  </programme>
   <programme start="20261026232000 +0300" stop="20261027010000 +0300" channel="MSCL">
     <title lang="tr">Anneler ve Kızları</title>
     <desc lang="tr">Güçlü bağların sınandığı bu klasik melodramda iki annenin kızıyla imtihanı, umut ve ayrılığın iç içe geçtiği bir hikâye izliyoruz.</desc>
@@ -312,69 +252,69 @@
     <title lang="tr">Öksüzler</title>
     <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
-  <programme start="20261030230000 +0300" stop="20261031000000 +0300" channel="MSCL">
+  <programme start="20261030230000 +0300" stop="20261031004000 +0300" channel="MSCL">
+    <title lang="tr">Mavi Mavi</title>
+    <desc lang="tr">İbrahim Tatlıses&apos;in başrolünde olduğu Mavi Mavi, aşk ve dostluğun iç içe geçtiği duygusal bir hikâyeyi izleyiciyle buluşturuyor.</desc>
+  </programme>
+  <programme start="20261031004000 +0300" stop="20261031020000 +0300" channel="MSCL">
+    <title lang="tr">Damgalı Kadın</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261031020000 +0300" stop="20261031033000 +0300" channel="MSCL">
+    <title lang="tr">Hiçbir Gece</title>
+    <desc lang="tr">Onun sıcaklığı Sevda&apos;nın yalnızlığına iyi gelmektedir. Bu ilişki Sevda&apos;yı bir yandan iyileştirirken, öte yandan kalbinde yeni yaralar açacaktır.</desc>
+  </programme>
+  <programme start="20261031033000 +0300" stop="20261031052000 +0300" channel="MSCL">
+    <title lang="tr">Vahşi Gelin</title>
+    <desc lang="tr">Özgür ruhlu bir genç kadının, hiç beklemediği bir evlilikle değişen hayatı ve bu süreçte yaşadığı eğlenceli maceralar anlatılıyor.</desc>
+  </programme>
+  <programme start="20261031052000 +0300" stop="20261031070000 +0300" channel="MSCL">
+    <title lang="tr">Seni Sevmek Kaderim</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261031070000 +0300" stop="20261031083000 +0300" channel="MSCL">
+    <title lang="tr">Cingene</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261031083000 +0300" stop="20261031101000 +0300" channel="MSCL">
+    <title lang="tr">Mavi Eşarp</title>
+    <desc lang="tr">Bir aşkın ve sırlı ilişkilerin izinde ilerleyen hikâye, duyguların derinliğini ve geçmişin izlerini ekrana taşıyor. Mavi Eşarp etkileyici bir dram sunuyor.</desc>
+  </programme>
+  <programme start="20261031101000 +0300" stop="20261031115000 +0300" channel="MSCL">
+    <title lang="tr">Kınalı Yapıncak</title>
+    <desc lang="tr">Zorluklar içinde hayata tutunan bir genç kızın, acıdan umuda uzanan etkileyici ve duygu yüklü hikâyesi.</desc>
+  </programme>
+  <programme start="20261031115000 +0300" stop="20261031133000 +0300" channel="MSCL">
+    <title lang="tr">Mavi Mavi</title>
+    <desc lang="tr">İbrahim Tatlıses&apos;in başrolünde olduğu Mavi Mavi, aşk ve dostluğun iç içe geçtiği duygusal bir hikâyeyi izleyiciyle buluşturuyor.</desc>
+  </programme>
+  <programme start="20261031133000 +0300" stop="20261031150000 +0300" channel="MSCL">
+    <title lang="tr">Kadersizler</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261031150000 +0300" stop="20261031163000 +0300" channel="MSCL">
+    <title lang="tr">Hiçbir Gece</title>
+    <desc lang="tr">Onun sıcaklığı Sevda&apos;nın yalnızlığına iyi gelmektedir. Bu ilişki Sevda&apos;yı bir yandan iyileştirirken, öte yandan kalbinde yeni yaralar açacaktır.</desc>
+  </programme>
+  <programme start="20261031163000 +0300" stop="20261031181000 +0300" channel="MSCL">
+    <title lang="tr">Sevenler Ölmez</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261031181000 +0300" stop="20261031195000 +0300" channel="MSCL">
+    <title lang="tr">Boş Çerçeve</title>
+    <desc lang="tr">Boş Çerçeve, yoksulluk ve umutsuzluk içinde hayata tutunmaya çalışan bir kadının, aşk ve fedakârlıkla şekillenen hüzünlü öyküsünü anlatır.</desc>
+  </programme>
+  <programme start="20261031195000 +0300" stop="20261031213000 +0300" channel="MSCL">
+    <title lang="tr">Katma Değer Şaban</title>
+    <desc lang="tr">Katma Değer Şaban, Kemal Sunal&apos;ın başrolünde olduğu, iş dünyası ve bürokrasiyi mizahi bir dille ele alan eğlenceli bir Türk komedisidir.</desc>
+  </programme>
+  <programme start="20261031213000 +0300" stop="20261031230000 +0300" channel="MSCL">
+    <title lang="tr">Cingöz Recai</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261031230000 +0300" stop="20261101000000 +0300" channel="MSCL">
     <title lang="tr">MovieSmart Classic</title>
     <desc lang="tr">MovieSmart Classic</desc>
-  </programme>
-  <programme start="20261025235000 +0300" stop="20261026013000 +0300" channel="MSTU">
-    <title lang="tr">Şansımı Seveyim</title>
-    <desc lang="tr">Şanssızlıklarıyla bilinen Sebahattin, aşkı bulup talihini döndürmek için geçmişte ahını aldığı herkesten helallik istemek zorunda kalır.</desc>
-  </programme>
-  <programme start="20261026013000 +0300" stop="20261026031000 +0300" channel="MSTU">
-    <title lang="tr">Çılgınlar</title>
-    <desc lang="tr">Zengin bir işadamı ile bir kadının imkânsız aşkı ekrana geliyor. Tehlikeli örgüt ve engellere rağmen, aşkları için mücadele ederler.</desc>
-  </programme>
-  <programme start="20261026031000 +0300" stop="20261026045000 +0300" channel="MSTU">
-    <title lang="tr">Peri: Ağzı Olmayan Kız</title>
-    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
-  </programme>
-  <programme start="20261026045000 +0300" stop="20261026053000 +0300" channel="MSTU">
-    <title lang="tr">Hakan Gence ile Sıkı Muhabbet</title>
-    <desc lang="tr">Hakan Gence, gündemin sıcak konularını ve popüler meseleleri konuklarıyla samimi bir sohbet ortamında tartışıyor.</desc>
-  </programme>
-  <programme start="20261026053000 +0300" stop="20261026070000 +0300" channel="MSTU">
-    <title lang="tr">Katakulli: Tuzak</title>
-    <desc lang="tr">Eğlenceli bir dolandırıcılık macerası; beklenmedik tuzaklar ve mahalle komedisiyle dolu bir kovalamacaya dönüşüyor.</desc>
-  </programme>
-  <programme start="20261026070000 +0300" stop="20261026084000 +0300" channel="MSTU">
-    <title lang="tr">G.D.O Kara Kedi</title>
-    <desc lang="tr">Şafak Sezer kendine özgü mizahıyla izleyiciyi sürükleyici bir maceraya davet ediyor. Kara mizah, sürpriz olaylar ve eğlenceli karakterlerle dolu film, seyirciye keyifli anlar vaat ediyor.</desc>
-  </programme>
-  <programme start="20261026084000 +0300" stop="20261026091000 +0300" channel="MSTU">
-    <title lang="tr">Hakan Gence ile Sıkı Muhabbet</title>
-    <desc lang="tr">Hakan Gence, gündemin sıcak konularını ve popüler meseleleri konuklarıyla samimi bir sohbet ortamında tartışıyor.</desc>
-  </programme>
-  <programme start="20261026091000 +0300" stop="20261026110000 +0300" channel="MSTU">
-    <title lang="tr">Çakallarla Dans 5</title>
-    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
-  </programme>
-  <programme start="20261026110000 +0300" stop="20261026124000 +0300" channel="MSTU">
-    <title lang="tr">Çılgınlar</title>
-    <desc lang="tr">Zengin bir işadamı ile bir kadının imkânsız aşkı ekrana geliyor. Tehlikeli örgüt ve engellere rağmen, aşkları için mücadele ederler.</desc>
-  </programme>
-  <programme start="20261026124000 +0300" stop="20261026142000 +0300" channel="MSTU">
-    <title lang="tr">Şansımı Seveyim</title>
-    <desc lang="tr">Şanssızlıklarıyla bilinen Sebahattin, aşkı bulup talihini döndürmek için geçmişte ahını aldığı herkesten helallik istemek zorunda kalır.</desc>
-  </programme>
-  <programme start="20261026142000 +0300" stop="20261026161000 +0300" channel="MSTU">
-    <title lang="tr">Davaro</title>
-    <desc lang="tr">Kemal Sunal&apos;ın unutulmaz karakterlerinden Memo, köyüne döndüğünde kan davası ve başlık parasıyla karşı karşıya kalır.</desc>
-  </programme>
-  <programme start="20261026161000 +0300" stop="20261026180000 +0300" channel="MSTU">
-    <title lang="tr">Behzat Ç. Ankara Yanıyor</title>
-    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
-  </programme>
-  <programme start="20261026180000 +0300" stop="20261026200000 +0300" channel="MSTU">
-    <title lang="tr">Mandıra Filozofu</title>
-    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
-  </programme>
-  <programme start="20261026200000 +0300" stop="20261026220000 +0300" channel="MSTU">
-    <title lang="tr">Mandıra Filozofu: İstanbul</title>
-    <desc lang="tr">Doğayla iç içe, sade bir hayat süren Mustafa Ali, İstanbul&apos;un karmaşasına adım atar. Şehir hayatıyla başlayan macera, eğlenceli anlara dönüşür.</desc>
-  </programme>
-  <programme start="20261026220000 +0300" stop="20261026234000 +0300" channel="MSTU">
-    <title lang="tr">Öteki Taraf</title>
-    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
   <programme start="20261026234000 +0300" stop="20261027013000 +0300" channel="MSTU">
     <title lang="tr">Aşk Geliyorum Demez</title>
@@ -600,49 +540,73 @@
     <title lang="tr">Bir Bayram Hikayesi</title>
     <desc lang="tr">Bayram coşkusunu ekrana taşıyan bu film, aile bağları, dostluk ve sıcak anlarla dolu keyifli bir hikâyeyi izleyiciye sunuyor.</desc>
   </programme>
-  <programme start="20261030232000 +0300" stop="20261031000000 +0300" channel="MSTU">
+  <programme start="20261030232000 +0300" stop="20261031005000 +0300" channel="MSTU">
+    <title lang="tr">Baba Bizi Eversene</title>
+    <desc lang="tr">Yıllar sonra kavuşan Mahir ve Sevim&apos;in evlenmesine katı baba Fazıl Bey yine karşı çıkar. Ancak Sevim&apos;in erkek kardeşinin yarattığı büyük karmaşa, aşıkları bir araya getirecektir.</desc>
+  </programme>
+  <programme start="20261031005000 +0300" stop="20261031022000 +0300" channel="MSTU">
+    <title lang="tr">Bay E</title>
+    <desc lang="tr">Mutlu bir ilişki sürdüren Leyla ile İsmet, bir gün birbirlerine dürüst olacaklarına söz vererek birbirlerini aldatıp aldatmadıklarını sorar. Bu deneylerinin sonucu, herkesi şaşırtacaktır...</desc>
+  </programme>
+  <programme start="20261031022000 +0300" stop="20261031035000 +0300" channel="MSTU">
+    <title lang="tr">Satın Alınan Koca</title>
+    <desc lang="tr">Yanlış anlaşılmalarla şekillenen Satın Alınan Koca, Duygu Sağıroğlu yönetiminde ve Cüneyt Arkın&apos;ın performansıyla romantik bir hikâye sunuyor.</desc>
+  </programme>
+  <programme start="20261031035000 +0300" stop="20261031052000 +0300" channel="MSTU">
+    <title lang="tr">Sakar Şakir</title>
+    <desc lang="tr">Sakarlığıyla tanınan bir adam, miras yüzünden ailesinin kurduğu tuzaklardan kurtulmaya çalışır.</desc>
+  </programme>
+  <programme start="20261031052000 +0300" stop="20261031070000 +0300" channel="MSTU">
+    <title lang="tr">Kuzenler Firarda</title>
+    <desc lang="tr">Kasaba hayatından bunalan iki kuzen, İzmir yolunda eğlenceli ve beklenmedik olaylarla dolu bir maceraya atılıyor.</desc>
+  </programme>
+  <programme start="20261031070000 +0300" stop="20261031085000 +0300" channel="MSTU">
+    <title lang="tr">Mirasyediler : Aşk Ve Karmaşa</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261031085000 +0300" stop="20261031092000 +0300" channel="MSTU">
+    <title lang="tr">Hakan Gence ile Sıkı Muhabbet</title>
+    <desc lang="tr">Hakan Gence, gündemin sıcak konularını ve popüler meseleleri konuklarıyla samimi bir sohbet ortamında tartışıyor.</desc>
+  </programme>
+  <programme start="20261031092000 +0300" stop="20261031110000 +0300" channel="MSTU">
+    <title lang="tr">Katakulli</title>
+    <desc lang="tr">Hırsızlık için girdiği evde damat adayı ilan edilen bir gencin, evlilikle hapis arasındaki trajikomik seçimi ekranda.</desc>
+  </programme>
+  <programme start="20261031110000 +0300" stop="20261031124000 +0300" channel="MSTU">
+    <title lang="tr">Baba Bizi Eversene</title>
+    <desc lang="tr">Yıllar sonra kavuşan Mahir ve Sevim&apos;in evlenmesine katı baba Fazıl Bey yine karşı çıkar. Ancak Sevim&apos;in erkek kardeşinin yarattığı büyük karmaşa, aşıkları bir araya getirecektir.</desc>
+  </programme>
+  <programme start="20261031124000 +0300" stop="20261031142000 +0300" channel="MSTU">
+    <title lang="tr">Bir Bayram Hikayesi</title>
+    <desc lang="tr">Bayram coşkusunu ekrana taşıyan bu film, aile bağları, dostluk ve sıcak anlarla dolu keyifli bir hikâyeyi izleyiciye sunuyor.</desc>
+  </programme>
+  <programme start="20261031142000 +0300" stop="20261031160000 +0300" channel="MSTU">
+    <title lang="tr">Oha Diyorum</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261031160000 +0300" stop="20261031175000 +0300" channel="MSTU">
+    <title lang="tr">Katakulli 4: Tam Zamanı</title>
+    <desc lang="tr">Komik tesadüfler ve beklenmedik gelişmeler, kahramanları yeni bir maceranın tam ortasına sürüklüyor.</desc>
+  </programme>
+  <programme start="20261031175000 +0300" stop="20261031200000 +0300" channel="MSTU">
+    <title lang="tr">Kardeşim Benim</title>
+    <desc lang="tr">Araları bozuk iki ünlü sanatçı kardeş Hakan ve Ozan, babalarının sıra dışı vasiyetini yerine getirmek üzere çıktıkları yolculukta hesaplaşır.</desc>
+  </programme>
+  <programme start="20261031200000 +0300" stop="20261031215000 +0300" channel="MSTU">
+    <title lang="tr">Biz Size Döneriz</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261031215000 +0300" stop="20261031220000 +0300" channel="MSTU">
     <title lang="tr">MovieSmart Türk</title>
     <desc lang="tr">MovieSmart Türk</desc>
   </programme>
-  <programme start="20261025230000 +0300" stop="20261026013000 +0300" channel="SPPR">
-    <title lang="tr">Independiente - Boca juniors</title>
-    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  <programme start="20261031220000 +0300" stop="20261031230000 +0300" channel="MSTU">
+    <title lang="tr">MovieSmart Türk</title>
+    <desc lang="tr">MovieSmart Türk</desc>
   </programme>
-  <programme start="20261026013000 +0300" stop="20261026033000 +0300" channel="SPPR">
-    <title lang="tr">River plate - Racing club</title>
-    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
-  </programme>
-  <programme start="20261026033000 +0300" stop="20261026080000 +0300" channel="SPPR">
-    <title lang="tr">Genesis championship - Güney kore</title>
-    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
-  </programme>
-  <programme start="20261026080000 +0300" stop="20261026100000 +0300" channel="SPPR">
-    <title lang="tr">Al nassr - Neftci</title>
-    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
-  </programme>
-  <programme start="20261026100000 +0300" stop="20261026120000 +0300" channel="SPPR">
-    <title lang="tr">Kashiwa - Port</title>
-    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
-  </programme>
-  <programme start="20261026120000 +0300" stop="20261026140000 +0300" channel="SPPR">
-    <title lang="tr">Air force - Al ain</title>
-    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
-  </programme>
-  <programme start="20261026140000 +0300" stop="20261026160000 +0300" channel="SPPR">
-    <title lang="tr">River plate - Racing club</title>
-    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
-  </programme>
-  <programme start="20261026160000 +0300" stop="20261026170000 +0300" channel="SPPR">
-    <title lang="tr">Monster Jam</title>
-    <desc lang="tr">Monster Jam&apos;da dev canavar kamyonlar, çılgın akrobasi ve hız dolu yarışlarla izleyicilere adrenalin dolu anlar sunuyor.</desc>
-  </programme>
-  <programme start="20261026170000 +0300" stop="20261026190000 +0300" channel="SPPR">
-    <title lang="tr">Neftçi - Al ittihad</title>
-    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
-  </programme>
-  <programme start="20261026190000 +0300" stop="20261026213000 +0300" channel="SPPR">
-    <title lang="tr">Al ahli - Al gharafa</title>
-    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
+  <programme start="20261031230000 +0300" stop="20261101000000 +0300" channel="MSTU">
+    <title lang="tr">MovieSmart Türk</title>
+    <desc lang="tr">MovieSmart Türk</desc>
   </programme>
   <programme start="20261026213000 +0300" stop="20261027000000 +0300" channel="SPPR">
     <title lang="tr">Futbol Kulübü</title>
@@ -884,53 +848,53 @@
     <title lang="tr">Al khadisiyah - Al sadd</title>
     <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
   </programme>
-  <programme start="20261030223000 +0300" stop="20261030230000 +0300" channel="SPPR">
-    <title lang="tr">Spor Smart</title>
-    <desc lang="tr">Spor Smart</desc>
+  <programme start="20261030223000 +0300" stop="20261031003000 +0300" channel="SPPR">
+    <title lang="tr">Argentinos - I. rivadavia</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
   </programme>
-  <programme start="20261030230000 +0300" stop="20261031000000 +0300" channel="SPPR">
-    <title lang="tr">Spor Smart</title>
-    <desc lang="tr">Spor Smart</desc>
-  </programme>
-  <programme start="20261025230000 +0300" stop="20261026010000 +0300" channel="SPS2">
-    <title lang="tr">Newcastle jets - Gamba osaka</title>
-    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
-  </programme>
-  <programme start="20261026010000 +0300" stop="20261026030000 +0300" channel="SPS2">
-    <title lang="tr">East bengal - Al shorta</title>
-    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
-  </programme>
-  <programme start="20261026030000 +0300" stop="20261026050000 +0300" channel="SPS2">
-    <title lang="tr">Al nassr - Neftçi</title>
-    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
-  </programme>
-  <programme start="20261026050000 +0300" stop="20261026080000 +0300" channel="SPS2">
-    <title lang="tr">13. Eker I Bursa Koşusu</title>
-    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
-  </programme>
-  <programme start="20261026080000 +0300" stop="20261026130000 +0300" channel="SPS2">
-    <title lang="tr">Golf: Genesis championship - Güney Kore</title>
-    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
-  </programme>
-  <programme start="20261026130000 +0300" stop="20261026150000 +0300" channel="SPS2">
-    <title lang="tr">Cruzeiro - Remo</title>
-    <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
-  </programme>
-  <programme start="20261026150000 +0300" stop="20261026170000 +0300" channel="SPS2">
+  <programme start="20261031003000 +0300" stop="20261031023000 +0300" channel="SPPR">
     <title lang="tr">Lleida - Real madrid</title>
     <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
   </programme>
-  <programme start="20261026170000 +0300" stop="20261026190000 +0300" channel="SPS2">
-    <title lang="tr">Valencia - Baskonia</title>
+  <programme start="20261031023000 +0300" stop="20261031033000 +0300" channel="SPPR">
+    <title lang="tr">Yabancı At Yarışları</title>
+    <desc lang="tr">Adrenalini dorukta yaşayın! Yabancı at yarışlarının en heyecanlı anları Spor Smart ekranında</desc>
+  </programme>
+  <programme start="20261031033000 +0300" stop="20261031053000 +0300" channel="SPPR">
+    <title lang="tr">Racing club - Aldosivi</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261031053000 +0300" stop="20261031080000 +0300" channel="SPPR">
+    <title lang="tr">Golf</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261031080000 +0300" stop="20261031113000 +0300" channel="SPPR">
+    <title lang="tr">Golf: Genesis championship - Güney Kore</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261031113000 +0300" stop="20261031133000 +0300" channel="SPPR">
+    <title lang="tr">Santos - Palmeiras</title>
+    <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
+  </programme>
+  <programme start="20261031133000 +0300" stop="20261031153000 +0300" channel="SPPR">
+    <title lang="tr">Manresa - San pablo burgos</title>
     <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
   </programme>
-  <programme start="20261026190000 +0300" stop="20261026213000 +0300" channel="SPS2">
-    <title lang="tr">Al ain - Tractor</title>
-    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
+  <programme start="20261031153000 +0300" stop="20261031173000 +0300" channel="SPPR">
+    <title lang="tr">Barcelona - Zaragoza</title>
+    <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
   </programme>
-  <programme start="20261026213000 +0300" stop="20261026233000 +0300" channel="SPS2">
-    <title lang="tr">Al khadisiyah - Al sadd</title>
-    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
+  <programme start="20261031173000 +0300" stop="20261031200000 +0300" channel="SPPR">
+    <title lang="tr">Golf: Genesis championship - Güney Kore</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261031200000 +0300" stop="20261031220000 +0300" channel="SPPR">
+    <title lang="tr">Zaragoza - Girona</title>
+    <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
+  </programme>
+  <programme start="20261031220000 +0300" stop="20261101000000 +0300" channel="SPPR">
+    <title lang="tr">Leyma coruna - Tenerife</title>
+    <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
   </programme>
   <programme start="20261026233000 +0300" stop="20261027013000 +0300" channel="SPS2">
     <title lang="tr">Mirassol - Sao paulo</title>
@@ -1148,8 +1112,60 @@
     <title lang="tr">Manresa - San pablo burgos</title>
     <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
   </programme>
-  <programme start="20261030233000 +0300" stop="20261031000000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+  <programme start="20261030233000 +0300" stop="20261031013000 +0300" channel="SPS2">
+    <title lang="tr">Al shorta - Al hussein</title>
+    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261031013000 +0300" stop="20261031033000 +0300" channel="SPS2">
+    <title lang="tr">Viettel - Seul</title>
+    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261031033000 +0300" stop="20261031053000 +0300" channel="SPS2">
+    <title lang="tr">Al shamal - Al hilal</title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
+  </programme>
+  <programme start="20261031053000 +0300" stop="20261031060000 +0300" channel="SPS2">
+    <title lang="tr">2026</title>
+    <desc lang="tr">Adrenalini dorukta yaşayın! Yabancı at yarışlarının en heyecanlı anları Spor Smart ekranında</desc>
+  </programme>
+  <programme start="20261031060000 +0300" stop="20261031080000 +0300" channel="SPS2">
+    <title lang="tr">Fluminense - Internacional</title>
+    <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
+  </programme>
+  <programme start="20261031080000 +0300" stop="20261031093000 +0300" channel="SPS2">
+    <title lang="tr">Smart Sahne</title>
+    <desc lang="tr">Spor dünyasından öne çıkan gelişmeler, dikkat çeken başarılar ve gündemin merak edilen başlıkları ekranlara geliyor.</desc>
+  </programme>
+  <programme start="20261031093000 +0300" stop="20261031100000 +0300" channel="SPS2">
+    <title lang="tr">Yabancı At Yarışları</title>
+    <desc lang="tr">Adrenalini dorukta yaşayın! Yabancı at yarışlarının en heyecanlı anları Spor Smart ekranında</desc>
+  </programme>
+  <programme start="20261031100000 +0300" stop="20261031120000 +0300" channel="SPS2">
+    <title lang="tr">Gamba osaka - Buriram</title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
+  </programme>
+  <programme start="20261031120000 +0300" stop="20261031140000 +0300" channel="SPS2">
+    <title lang="tr">Dejeon - Vissel kobe</title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
+  </programme>
+  <programme start="20261031140000 +0300" stop="20261031160000 +0300" channel="SPS2">
+    <title lang="tr">Nasaf - Kuwait</title>
+    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261031160000 +0300" stop="20261031180000 +0300" channel="SPS2">
+    <title lang="tr">Gol gohar - Arkadaq</title>
+    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261031180000 +0300" stop="20261031200000 +0300" channel="SPS2">
+    <title lang="tr">Al jazira - Muharraq</title>
+    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261031200000 +0300" stop="20261031220000 +0300" channel="SPS2">
+    <title lang="tr">Atletico mineiro - Cruzeiro</title>
+    <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
+  </programme>
+  <programme start="20261031220000 +0300" stop="20261101000000 +0300" channel="SPS2">
+    <title lang="tr">Al ain - Tractor</title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
   </programme>
 </tv>
