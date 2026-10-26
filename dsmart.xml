@@ -685,7 +685,7 @@
     <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
   </programme>
   <programme start="20261027153000 +0300" stop="20261027173000 +0300" channel="SPPR">
-    <title lang="tr">Guoan - Jeonbuk</title>
+    <title lang="tr">Ratchaburi - Kashiwa</title>
     <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
   </programme>
   <programme start="20261027173000 +0300" stop="20261027180000 +0300" channel="SPPR">
@@ -749,20 +749,16 @@
     <desc lang="tr">Futbol dünyasında haftanın öne çıkan gelişmeleri &quot;Dünyanın Futbolu&quot;nda ekrana geliyor. Farklı liglerden haberle bu programda.</desc>
   </programme>
   <programme start="20261028130000 +0300" stop="20261028153000 +0300" channel="SPPR">
-    <title lang="tr">Gamba osaka - Buriram</title>
+    <title lang="tr">Kashima antlers - Pohang</title>
     <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
   </programme>
-  <programme start="20261028153000 +0300" stop="20261028163000 +0300" channel="SPPR">
+  <programme start="20261028153000 +0300" stop="20261028173000 +0300" channel="SPPR">
+    <title lang="tr">Viettel - Seul</title>
+    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261028173000 +0300" stop="20261028190000 +0300" channel="SPPR">
     <title lang="tr">Golf: Genesis championship - Güney Kore</title>
     <desc lang="tr">Program açıklaması bulunmuyor.</desc>
-  </programme>
-  <programme start="20261028163000 +0300" stop="20261028170000 +0300" channel="SPPR">
-    <title lang="tr">özetler ***</title>
-    <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
-  </programme>
-  <programme start="20261028170000 +0300" stop="20261028190000 +0300" channel="SPPR">
-    <title lang="tr">Nasaf - Kuwait</title>
-    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
   </programme>
   <programme start="20261028190000 +0300" stop="20261028213000 +0300" channel="SPPR">
     <title lang="tr">Al jazira - Muharraq</title>
@@ -793,7 +789,7 @@
     <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
   </programme>
   <programme start="20261029053000 +0300" stop="20261029080000 +0300" channel="SPPR">
-    <title lang="tr">Golf: Genesis championship - Güney Kore</title>
+    <title lang="tr">Hindistan Open Golf Turnuvası</title>
     <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
   <programme start="20261029080000 +0300" stop="20261029110000 +0300" channel="SPPR">
@@ -809,7 +805,7 @@
     <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
   </programme>
   <programme start="20261029153000 +0300" stop="20261029173000 +0300" channel="SPPR">
-    <title lang="tr">Shanghai greenland - Machida</title>
+    <title lang="tr">Tai po - Pathum united</title>
     <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
   </programme>
   <programme start="20261029173000 +0300" stop="20261029193000 +0300" channel="SPPR">
@@ -845,7 +841,7 @@
     <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
   </programme>
   <programme start="20261030060000 +0300" stop="20261030080000 +0300" channel="SPPR">
-    <title lang="tr">Golf: Genesis championship - Güney Kore</title>
+    <title lang="tr">Golf</title>
     <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
   <programme start="20261030080000 +0300" stop="20261030100000 +0300" channel="SPPR">
@@ -881,12 +877,12 @@
     <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
   <programme start="20261030183000 +0300" stop="20261030203000 +0300" channel="SPPR">
-    <title lang="tr">Al nassr - Al wasl</title>
+    <title lang="tr">Al shamal - Al hilal</title>
     <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
   </programme>
   <programme start="20261030203000 +0300" stop="20261030223000 +0300" channel="SPPR">
-    <title lang="tr">Çifte Şans</title>
-    <desc lang="tr">Heyecan iki kat! Çifte Şans&apos;ta sürprizler, kritik anlar ve unutulmaz mücadeleler ekranda</desc>
+    <title lang="tr">Al khadisiyah - Al sadd</title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
   </programme>
   <programme start="20261030223000 +0300" stop="20261030230000 +0300" channel="SPPR">
     <title lang="tr">Spor Smart</title>
@@ -933,7 +929,7 @@
     <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
   </programme>
   <programme start="20261026213000 +0300" stop="20261026233000 +0300" channel="SPS2">
-    <title lang="tr">Al nassr - Al wasl</title>
+    <title lang="tr">Al khadisiyah - Al sadd</title>
     <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
   </programme>
   <programme start="20261026233000 +0300" stop="20261027013000 +0300" channel="SPS2">
@@ -969,7 +965,7 @@
     <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
   </programme>
   <programme start="20261027153000 +0300" stop="20261027173000 +0300" channel="SPS2">
-    <title lang="tr">Ratchaburi - Kashiwa</title>
+    <title lang="tr">Gouan - Jeonbuk</title>
     <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
   </programme>
   <programme start="20261027173000 +0300" stop="20261027190000 +0300" channel="SPS2">
@@ -1017,7 +1013,7 @@
     <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
   </programme>
   <programme start="20261028130000 +0300" stop="20261028153000 +0300" channel="SPS2">
-    <title lang="tr">Kashima antlers - Pohang</title>
+    <title lang="tr">Gamba osaka - Buriram</title>
     <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
   </programme>
   <programme start="20261028153000 +0300" stop="20261028173000 +0300" channel="SPS2">
@@ -1073,7 +1069,7 @@
     <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
   </programme>
   <programme start="20261029153000 +0300" stop="20261029173000 +0300" channel="SPS2">
-    <title lang="tr">Tai po - Pathum united</title>
+    <title lang="tr">Shanghai greenland - Machida</title>
     <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
   </programme>
   <programme start="20261029173000 +0300" stop="20261029193000 +0300" channel="SPS2">
