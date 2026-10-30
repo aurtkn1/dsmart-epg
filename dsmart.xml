@@ -765,64 +765,56 @@
     <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
   <programme start="20261102080000 +0300" stop="20261102100000 +0300" channel="SPPR">
-    <title lang="tr">Arjantin Clasura</title>
-    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
-  </programme>
-  <programme start="20261102100000 +0300" stop="20261102133000 +0300" channel="SPPR">
-    <title lang="tr">Almanya BMW Internatinonal Open Golf Turnuvası</title>
-    <desc lang="tr">Almanya&apos;da düzenlenen üst düzey golf turnuvasında dünyanın en iyi sporcuları zorlu sahada mücadele ediyor.</desc>
-  </programme>
-  <programme start="20261102133000 +0300" stop="20261102140000 +0300" channel="SPPR">
-    <title lang="tr">Dünya Kupası&apos;nda Brezilya Ligi&apos;nde</title>
-    <desc lang="tr">Dünya futbolunun en büyük turnuvasında ve Brezilya futbolunda öne çıkan gelişmeler spor programında ele alınıyor.</desc>
-  </programme>
-  <programme start="20261102140000 +0300" stop="20261102143000 +0300" channel="SPPR">
-    <title lang="tr">Haber 14</title>
-    <desc lang="tr">Yurtdışından ve dünyadan haberleri saat 14&apos;te!</desc>
-  </programme>
-  <programme start="20261102143000 +0300" stop="20261102150000 +0300" channel="SPPR">
-    <title lang="tr">Arjantin Clasura</title>
-    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
-  </programme>
-  <programme start="20261102150000 +0300" stop="20261102170000 +0300" channel="SPPR">
-    <title lang="tr">Basketbol: İspanya Ligi</title>
-    <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
-  </programme>
-  <programme start="20261102170000 +0300" stop="20261102173000 +0300" channel="SPPR">
-    <title lang="tr">Haber 17</title>
-    <desc lang="tr">Yurtdışından ve dünyadan haberleri saat 17&apos;de!</desc>
-  </programme>
-  <programme start="20261102173000 +0300" stop="20261102200000 +0300" channel="SPPR">
-    <title lang="tr">Almanya BMW Internatinonal Open Golf Turnuvası</title>
-    <desc lang="tr">Almanya&apos;da düzenlenen üst düzey golf turnuvasında dünyanın en iyi sporcuları zorlu sahada mücadele ediyor.</desc>
-  </programme>
-  <programme start="20261102200000 +0300" stop="20261102220000 +0300" channel="SPPR">
-    <title lang="tr">Kupa Günlüğü</title>
-    <desc lang="tr">Futbol dünyasının öne çıkan gelişmeleri ve maç analizleri &quot;Kupa Günlüğü&quot;nde ekranlara geliyor; taraftarlar için keyifli bir spor özeti sunuluyor.</desc>
-  </programme>
-  <programme start="20261102220000 +0300" stop="20261102223000 +0300" channel="SPPR">
-    <title lang="tr">Dünya Kupası&apos;nda Brezilya Ligi&apos;nde</title>
-    <desc lang="tr">Dünya futbolunun en büyük turnuvasında ve Brezilya futbolunda öne çıkan gelişmeler spor programında ele alınıyor.</desc>
-  </programme>
-  <programme start="20261102223000 +0300" stop="20261102233000 +0300" channel="SPPR">
-    <title lang="tr">Dünya Kupası Belgeseli</title>
-    <desc lang="tr">Futbol tarihine damga vuran Dünya Kupası anları, unutulmaz hikâyeler ve efsane maçlar ekranlara taşınıyor.</desc>
-  </programme>
-  <programme start="20261102233000 +0300" stop="20261103020000 +0300" channel="SPPR">
-    <title lang="tr">Asya Şampiyonlar Ligi Elite</title>
+    <title lang="tr">Kashima antlers - Pohang</title>
     <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
   </programme>
+  <programme start="20261102100000 +0300" stop="20261102120000 +0300" channel="SPPR">
+    <title lang="tr">Johor darul - Port</title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
+  </programme>
+  <programme start="20261102120000 +0300" stop="20261102140000 +0300" channel="SPPR">
+    <title lang="tr">Al shamal - Al hilal</title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
+  </programme>
+  <programme start="20261102140000 +0300" stop="20261102160000 +0300" channel="SPPR">
+    <title lang="tr">Boca juniors - River plate</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261102160000 +0300" stop="20261102170000 +0300" channel="SPPR">
+    <title lang="tr">Monster Jam</title>
+    <desc lang="tr">Monster Jam&apos;da dev canavar kamyonlar, çılgın akrobasi ve hız dolu yarışlarla izleyicilere adrenalin dolu anlar sunuyor.</desc>
+  </programme>
+  <programme start="20261102170000 +0300" stop="20261102190000 +0300" channel="SPPR">
+    <title lang="tr">Pakhtakor - Al nassr</title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
+  </programme>
+  <programme start="20261102190000 +0300" stop="20261102213000 +0300" channel="SPPR">
+    <title lang="tr">Al sadd - Al ahli</title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
+  </programme>
+  <programme start="20261102213000 +0300" stop="20261102230000 +0300" channel="SPPR">
+    <title lang="tr">Futbol Kulübü</title>
+    <desc lang="tr">Futbol gündeminin öne çıkan başlıkları &quot;Futbol Kulübü&quot;nde ele alınıyor. Haftanın dikkat çeken gelişmeleri ve önemli karşılaşmaları bu programda.</desc>
+  </programme>
+  <programme start="20261102230000 +0300" stop="20261103000000 +0300" channel="SPPR">
+    <title lang="tr">Dünyanın Futbolu</title>
+    <desc lang="tr">Futbol dünyasında haftanın öne çıkan gelişmeleri &quot;Dünyanın Futbolu&quot;nda ekrana geliyor. Farklı liglerden haberle bu programda.</desc>
+  </programme>
+  <programme start="20261103000000 +0300" stop="20261103020000 +0300" channel="SPPR">
+    <title lang="tr">Velez - San lorenzo</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
   <programme start="20261103020000 +0300" stop="20261103040000 +0300" channel="SPPR">
-    <title lang="tr">Brezilya Ligi</title>
+    <title lang="tr">Bragantino - Santos</title>
     <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
   </programme>
   <programme start="20261103040000 +0300" stop="20261103060000 +0300" channel="SPPR">
-    <title lang="tr">Asya Şampiyonlar Ligi 2</title>
-    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
+    <title lang="tr">Atletico mineiro - Cruzeiro</title>
+    <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
   </programme>
   <programme start="20261103060000 +0300" stop="20261103080000 +0300" channel="SPPR">
-    <title lang="tr">AFC Kadınlar Şampiyonlar Ligi</title>
-    <desc lang="tr">Kadın futbolunda Asya&apos;nın en üst düzey kulüp turnuvasında güçlü takımlar kıyasıya mücadele ediyor ve büyük rekabet yaşanıyor.</desc>
+    <title lang="tr">Vasco da gama - Flamengo</title>
+    <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
   </programme>
   <programme start="20261103080000 +0300" stop="20261103113000 +0300" channel="SPPR">
     <title lang="tr">Almanya BMW Internatinonal Open Golf Turnuvası</title>
@@ -1048,107 +1040,51 @@
     <title lang="tr">Al nahda - Al rayyan</title>
     <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
   </programme>
-  <programme start="20261102050000 +0300" stop="20261102053000 +0300" channel="SPS2">
+  <programme start="20261102050000 +0300" stop="20261102080000 +0300" channel="SPS2">
     <title lang="tr">13. Eker I Bursa Koşusu</title>
     <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
-  <programme start="20261102053000 +0300" stop="20261102060000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+  <programme start="20261102080000 +0300" stop="20261102130000 +0300" channel="SPS2">
+    <title lang="tr">Genesis championship - Güney kore</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
-  <programme start="20261102060000 +0300" stop="20261102070000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+  <programme start="20261102130000 +0300" stop="20261102150000 +0300" channel="SPS2">
+    <title lang="tr">Atletico mineiro - Cruzeiro</title>
+    <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
   </programme>
-  <programme start="20261102070000 +0300" stop="20261102080000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+  <programme start="20261102150000 +0300" stop="20261102170000 +0300" channel="SPS2">
+    <title lang="tr">Zaragoza - Girona</title>
+    <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
   </programme>
-  <programme start="20261102080000 +0300" stop="20261102090000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+  <programme start="20261102170000 +0300" stop="20261102190000 +0300" channel="SPS2">
+    <title lang="tr">Leyma coruna - Tenerife</title>
+    <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
   </programme>
-  <programme start="20261102090000 +0300" stop="20261102100000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+  <programme start="20261102190000 +0300" stop="20261102213000 +0300" channel="SPS2">
+    <title lang="tr">Tractor - Neftchi</title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
   </programme>
-  <programme start="20261102100000 +0300" stop="20261102110000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+  <programme start="20261102213000 +0300" stop="20261102233000 +0300" channel="SPS2">
+    <title lang="tr">Al ittihad - Al ain</title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
   </programme>
-  <programme start="20261102110000 +0300" stop="20261102120000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+  <programme start="20261102233000 +0300" stop="20261103013000 +0300" channel="SPS2">
+    <title lang="tr">Beijing beikong - Kaya</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
-  <programme start="20261102120000 +0300" stop="20261102130000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+  <programme start="20261103013000 +0300" stop="20261103033000 +0300" channel="SPS2">
+    <title lang="tr">Naegohyang - Ayeyawady</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
-  <programme start="20261102130000 +0300" stop="20261102140000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+  <programme start="20261103033000 +0300" stop="20261103043000 +0300" channel="SPS2">
+    <title lang="tr">Dünyanın Futbolu</title>
+    <desc lang="tr">Futbol dünyasında haftanın öne çıkan gelişmeleri &quot;Dünyanın Futbolu&quot;nda ekrana geliyor. Farklı liglerden haberle bu programda.</desc>
   </programme>
-  <programme start="20261102140000 +0300" stop="20261102150000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+  <programme start="20261103043000 +0300" stop="20261103053000 +0300" channel="SPS2">
+    <title lang="tr">Genesis championship - Güney kore</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
-  <programme start="20261102150000 +0300" stop="20261102160000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261102160000 +0300" stop="20261102170000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261102170000 +0300" stop="20261102180000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261102180000 +0300" stop="20261102190000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261102190000 +0300" stop="20261102200000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261102200000 +0300" stop="20261102210000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261102210000 +0300" stop="20261102220000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261102220000 +0300" stop="20261102230000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261102230000 +0300" stop="20261103000000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261103000000 +0300" stop="20261103010000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261103010000 +0300" stop="20261103020000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261103020000 +0300" stop="20261103030000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261103030000 +0300" stop="20261103040000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261103040000 +0300" stop="20261103050000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261103050000 +0300" stop="20261103060000 +0300" channel="SPS2">
+  <programme start="20261103053000 +0300" stop="20261103060000 +0300" channel="SPS2">
     <title lang="tr">Spor Smart 2</title>
     <desc lang="tr">Spor Smart 2</desc>
   </programme>
