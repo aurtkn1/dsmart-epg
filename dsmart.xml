@@ -836,69 +836,37 @@
     <title lang="tr">Brezilya Ligi</title>
     <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
   </programme>
-  <programme start="20261105080000 +0300" stop="20261105090000 +0300" channel="SPPR">
-    <title lang="tr">Spor Smart</title>
-    <desc lang="tr">Spor Smart</desc>
+  <programme start="20261105080000 +0300" stop="20261105100000 +0300" channel="SPPR">
+    <title lang="tr">Asya Şampiyonlar Ligi Elite</title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
   </programme>
-  <programme start="20261105090000 +0300" stop="20261105100000 +0300" channel="SPPR">
-    <title lang="tr">Spor Smart</title>
-    <desc lang="tr">Spor Smart</desc>
+  <programme start="20261105100000 +0300" stop="20261105113000 +0300" channel="SPPR">
+    <title lang="tr">L&apos;etape Marmaris</title>
+    <desc lang="tr">Marmaris&apos;te düzenlenen L&apos;Etape yarışında bisikletçiler, zorlu parkurlarda hız ve dayanıklılık mücadelesi veriyor.</desc>
   </programme>
-  <programme start="20261105100000 +0300" stop="20261105110000 +0300" channel="SPPR">
-    <title lang="tr">Spor Smart</title>
-    <desc lang="tr">Spor Smart</desc>
+  <programme start="20261105113000 +0300" stop="20261105133000 +0300" channel="SPPR">
+    <title lang="tr">Basketbol: İspanya Ligi</title>
+    <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
   </programme>
-  <programme start="20261105110000 +0300" stop="20261105120000 +0300" channel="SPPR">
-    <title lang="tr">Spor Smart</title>
-    <desc lang="tr">Spor Smart</desc>
-  </programme>
-  <programme start="20261105120000 +0300" stop="20261105130000 +0300" channel="SPPR">
-    <title lang="tr">Spor Smart</title>
-    <desc lang="tr">Spor Smart</desc>
-  </programme>
-  <programme start="20261105130000 +0300" stop="20261105140000 +0300" channel="SPPR">
-    <title lang="tr">Spor Smart</title>
-    <desc lang="tr">Spor Smart</desc>
-  </programme>
-  <programme start="20261105140000 +0300" stop="20261105150000 +0300" channel="SPPR">
-    <title lang="tr">Spor Smart</title>
-    <desc lang="tr">Spor Smart</desc>
-  </programme>
-  <programme start="20261105150000 +0300" stop="20261105160000 +0300" channel="SPPR">
-    <title lang="tr">Spor Smart</title>
-    <desc lang="tr">Spor Smart</desc>
-  </programme>
-  <programme start="20261105160000 +0300" stop="20261105170000 +0300" channel="SPPR">
-    <title lang="tr">Spor Smart</title>
-    <desc lang="tr">Spor Smart</desc>
-  </programme>
-  <programme start="20261105170000 +0300" stop="20261105180000 +0300" channel="SPPR">
-    <title lang="tr">Spor Smart</title>
-    <desc lang="tr">Spor Smart</desc>
-  </programme>
-  <programme start="20261105180000 +0300" stop="20261105190000 +0300" channel="SPPR">
-    <title lang="tr">Spor Smart</title>
-    <desc lang="tr">Spor Smart</desc>
+  <programme start="20261105133000 +0300" stop="20261105190000 +0300" channel="SPPR">
+    <title lang="tr">Genesis Scottish Open Golf Turnuvası</title>
+    <desc lang="tr">İskoçya&apos;da düzenlenen üst düzey golf turnuvasında dünyanın en iyi sporcuları zorlu parkurda mücadele ediyor.</desc>
   </programme>
   <programme start="20261105190000 +0300" stop="20261105200000 +0300" channel="SPPR">
-    <title lang="tr">Spor Smart</title>
-    <desc lang="tr">Spor Smart</desc>
+    <title lang="tr">Yabancı At Yarışları</title>
+    <desc lang="tr">Adrenalini dorukta yaşayın! Yabancı at yarışlarının en heyecanlı anları Spor Smart ekranında</desc>
   </programme>
-  <programme start="20261105200000 +0300" stop="20261105210000 +0300" channel="SPPR">
-    <title lang="tr">Spor Smart</title>
-    <desc lang="tr">Spor Smart</desc>
-  </programme>
-  <programme start="20261105210000 +0300" stop="20261105220000 +0300" channel="SPPR">
-    <title lang="tr">Spor Smart</title>
-    <desc lang="tr">Spor Smart</desc>
+  <programme start="20261105200000 +0300" stop="20261105220000 +0300" channel="SPPR">
+    <title lang="tr">Kupa Günlüğü</title>
+    <desc lang="tr">Futbol dünyasının öne çıkan gelişmeleri ve maç analizleri &quot;Kupa Günlüğü&quot;nde ekranlara geliyor; taraftarlar için keyifli bir spor özeti sunuluyor.</desc>
   </programme>
   <programme start="20261105220000 +0300" stop="20261105230000 +0300" channel="SPPR">
-    <title lang="tr">Spor Smart</title>
-    <desc lang="tr">Spor Smart</desc>
+    <title lang="tr">Dünya Kupası Belgeseli</title>
+    <desc lang="tr">Futbol tarihine damga vuran Dünya Kupası anları, unutulmaz hikâyeler ve efsane maçlar ekranlara taşınıyor.</desc>
   </programme>
   <programme start="20261105230000 +0300" stop="20261106000000 +0300" channel="SPPR">
-    <title lang="tr">Spor Smart</title>
-    <desc lang="tr">Spor Smart</desc>
+    <title lang="tr">Foodball</title>
+    <desc lang="tr">Futbol dünyasındaki güncel gelişmeler, analizler ve öne çıkan olaylar spor programında izleyiciyle buluşuyor.</desc>
   </programme>
   <programme start="20261031220000 +0300" stop="20261101000000 +0300" channel="SPS2">
     <title lang="tr">Al ain - Tractor</title>
