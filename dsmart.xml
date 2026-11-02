@@ -666,13 +666,17 @@
     <title lang="tr">Bragantino - Santos</title>
     <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
   </programme>
-  <programme start="20261103040000 +0300" stop="20261103060000 +0300" channel="SPPR">
-    <title lang="tr">Atletico mineiro - Cruzeiro</title>
-    <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
+  <programme start="20261103040000 +0300" stop="20261103053000 +0300" channel="SPPR">
+    <title lang="tr">Salomon Kapadokya Ultra - Trail</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
-  <programme start="20261103060000 +0300" stop="20261103080000 +0300" channel="SPPR">
-    <title lang="tr">Vasco da gama - Flamengo</title>
-    <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
+  <programme start="20261103053000 +0300" stop="20261103073000 +0300" channel="SPPR">
+    <title lang="tr">Yabancı At Yarışları</title>
+    <desc lang="tr">Adrenalini dorukta yaşayın! Yabancı at yarışlarının en heyecanlı anları Spor Smart ekranında</desc>
+  </programme>
+  <programme start="20261103073000 +0300" stop="20261103080000 +0300" channel="SPPR">
+    <title lang="tr">Monster Jam</title>
+    <desc lang="tr">Dev kamyonların nefes kesen gösterilerini, akrobasi hareketlerini ve heyecan dolu yarışlarını ekrana taşıyan aksiyon dolu bir motorsporları etkinliğidir.</desc>
   </programme>
   <programme start="20261103080000 +0300" stop="20261103113000 +0300" channel="SPPR">
     <title lang="tr">Almanya BMW Internatinonal Open Golf Turnuvası</title>
