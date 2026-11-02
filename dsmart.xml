@@ -18,66 +18,6 @@
   <channel id="DSMX">
     <display-name lang="tr">Dizi Smart Max</display-name>
   </channel>
-  <programme start="20261101232000 +0300" stop="20261102010000 +0300" channel="MSCL">
-    <title lang="tr">Ayşem</title>
-    <desc lang="tr">İbrahim Tatlıses ve Hülya Avşar&apos;ın başrollerini paylaştığı Ayşem, aşk, dram ve fedakârlıkla örülü duygusal bir hikâye sunuyor.</desc>
-  </programme>
-  <programme start="20261102010000 +0300" stop="20261102024000 +0300" channel="MSCL">
-    <title lang="tr">Fatoş Talihsiz Yavru</title>
-    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
-  </programme>
-  <programme start="20261102024000 +0300" stop="20261102041000 +0300" channel="MSCL">
-    <title lang="tr">Savulun Battal Gazi Geliyor</title>
-    <desc lang="tr">Cesur kahraman Battal Gazi, adaleti sağlamak için sahneye çıkıyor. Natuk Baytan&apos;ın yönetmenliğinde Cüneyt Arkın, unutulmaz bir performans sergiliyor.</desc>
-  </programme>
-  <programme start="20261102041000 +0300" stop="20261102054000 +0300" channel="MSCL">
-    <title lang="tr">Kenarın Dilberi</title>
-    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
-  </programme>
-  <programme start="20261102054000 +0300" stop="20261102070000 +0300" channel="MSCL">
-    <title lang="tr">Gün Akşam Oldu</title>
-    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
-  </programme>
-  <programme start="20261102070000 +0300" stop="20261102084000 +0300" channel="MSCL">
-    <title lang="tr">Kart Horoz</title>
-    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
-  </programme>
-  <programme start="20261102084000 +0300" stop="20261102102000 +0300" channel="MSCL">
-    <title lang="tr">Ali Baba Ve Kirk Haramiler</title>
-    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
-  </programme>
-  <programme start="20261102102000 +0300" stop="20261102113000 +0300" channel="MSCL">
-    <title lang="tr">Gül ve Şeker</title>
-    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
-  </programme>
-  <programme start="20261102113000 +0300" stop="20261102132000 +0300" channel="MSCL">
-    <title lang="tr">Yarın Ağlayacağım</title>
-    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
-  </programme>
-  <programme start="20261102132000 +0300" stop="20261102151000 +0300" channel="MSCL">
-    <title lang="tr">Kumarbaz</title>
-    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
-  </programme>
-  <programme start="20261102151000 +0300" stop="20261102165000 +0300" channel="MSCL">
-    <title lang="tr">Savulun Battal Gazi Geliyor</title>
-    <desc lang="tr">Cesur kahraman Battal Gazi, adaleti sağlamak için sahneye çıkıyor. Natuk Baytan&apos;ın yönetmenliğinde Cüneyt Arkın, unutulmaz bir performans sergiliyor.</desc>
-  </programme>
-  <programme start="20261102165000 +0300" stop="20261102183000 +0300" channel="MSCL">
-    <title lang="tr">Ben de Özledim</title>
-    <desc lang="tr">Ferdi küçük bir kasabada otobüs şoförlüğü yapmaktadır. Ancak kazandığı para Ferdi&apos;yi zar zor geçindirir. Üstelik Gül ile nişanlı olan Ferdi istediği gibi bir düğün yapabilmek için yeterince para biriktiremez. Bu nedenle para kazanmak amacıyla Libya&apos;ya gitmek için başvuru yapar. Başvurusu kabul edilen Ferdi, Libya&apos;ya gitmek üzere yola çıkar. Ancak hiç hesapta olmayan bir oyun yüzünden Ferdi&apos;nin bütün planları altüst olacaktır.</desc>
-  </programme>
-  <programme start="20261102183000 +0300" stop="20261102201000 +0300" channel="MSCL">
-    <title lang="tr">Kara Orkun</title>
-    <desc lang="tr">Yonca, Türk hakanı Batur Han&apos;ın kızıdır. Batur Han, Yonca&apos;yı evlendirmek ister. Bunun için en uygun aday Tibet Beyi Lima&apos;dır. Ancak Yonca, Lima&apos;yı değil cengâver Kara Orkun&apos;u sevmektedir. Bu yüzden, Atalarından emanet olarak kalan, ancak sonra ortadan kaybolan mavi elması kim getirirse onunla evleneceğini açıklar. Mavi elmas, Nepal racasının hazineleri arasındadır. Mavi elmasa ulaşmak için zorlu bir mücadele başlayacaktır.</desc>
-  </programme>
-  <programme start="20261102201000 +0300" stop="20261102213000 +0300" channel="MSCL">
-    <title lang="tr">Bir Genç Kızın Romanı</title>
-    <desc lang="tr">Ailesinden uzakta büyüyen kimsesiz Selma, aldığı beklenmedik bir mektupla köklerinin peşine düşer. Ancak geçmişin izleri, ailesine dair karanlık gerçekleri ortaya çıkarır.</desc>
-  </programme>
-  <programme start="20261102213000 +0300" stop="20261102231000 +0300" channel="MSCL">
-    <title lang="tr">Yakışıklı</title>
-    <desc lang="tr">Selim, saf ve iyi niyetli bir gençtir. Hayatın sürprizleri ve komik olaylar onu beklerken, saf davranışları çevresindekilerin başını belaya sokar.</desc>
-  </programme>
   <programme start="20261102231000 +0300" stop="20261103004000 +0300" channel="MSCL">
     <title lang="tr">Yayla Kızı</title>
     <desc lang="tr">Dağların huzurlu atmosferinde geçen film, sevda, özlem ve yaşam mücadelesini etkileyici bir hikâyeyle ekrana taşıyor.</desc>
@@ -326,61 +266,93 @@
     <title lang="tr">Bataklik Bülbülü</title>
     <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
-  <programme start="20261106230000 +0300" stop="20261107000000 +0300" channel="MSCL">
+  <programme start="20261106230000 +0300" stop="20261107005000 +0300" channel="MSCL">
+    <title lang="tr">Ben Doğarken Ölmüşüm</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261107005000 +0300" stop="20261107024000 +0300" channel="MSCL">
+    <title lang="tr">Çıtkırıldım</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261107024000 +0300" stop="20261107042000 +0300" channel="MSCL">
+    <title lang="tr">Sarmaşık Gülleri</title>
+    <desc lang="tr">Annesini kaybetmiş babasıyla kalan genç bir kızdır Gülseren. Üvey annesi ve üvey ablası genç kıza hizmetçi gibi davranmaktadırlar.</desc>
+  </programme>
+  <programme start="20261107042000 +0300" stop="20261107055000 +0300" channel="MSCL">
+    <title lang="tr">Ham Meyva</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261107055000 +0300" stop="20261107070000 +0300" channel="MSCL">
+    <title lang="tr">İntikam Benim</title>
+    <desc lang="tr">Babası haksız yere suçlanıp öldüğünde hayatı altüst olan Derin, yeni kimliğiyle intikamını almak için plan yapar ve ihanete uğradığı zengin aileye sızar.</desc>
+  </programme>
+  <programme start="20261107070000 +0300" stop="20261107080000 +0300" channel="MSCL">
     <title lang="tr">MovieSmart Classic</title>
     <desc lang="tr">MovieSmart Classic</desc>
   </programme>
-  <programme start="20261101234000 +0300" stop="20261102013000 +0300" channel="MSTU">
-    <title lang="tr">Yalandan Sevgilim</title>
-    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  <programme start="20261107080000 +0300" stop="20261107090000 +0300" channel="MSCL">
+    <title lang="tr">MovieSmart Classic</title>
+    <desc lang="tr">MovieSmart Classic</desc>
   </programme>
-  <programme start="20261102013000 +0300" stop="20261102030000 +0300" channel="MSTU">
-    <title lang="tr">Acele Koca Aranıyor</title>
-    <desc lang="tr">Genç avukat Abdi, karısı Melike&apos;yi beş yıl önce kaybettikten sonra yeni bir hayata başlamak ister. Ancak nikah günü Melike&apos;nin hayatta olduğu ortaya çıkar.</desc>
+  <programme start="20261107090000 +0300" stop="20261107100000 +0300" channel="MSCL">
+    <title lang="tr">MovieSmart Classic</title>
+    <desc lang="tr">MovieSmart Classic</desc>
   </programme>
-  <programme start="20261102030000 +0300" stop="20261102050000 +0300" channel="MSTU">
-    <title lang="tr">Çirkin Şansı</title>
-    <desc lang="tr">Kötü talih ve beklenmedik olaylar hayatı altüst eden bir karakterin şansı düzeltme mücadelesini, komedi ve dram unsurlarıyla anlatıyor.</desc>
+  <programme start="20261107100000 +0300" stop="20261107110000 +0300" channel="MSCL">
+    <title lang="tr">MovieSmart Classic</title>
+    <desc lang="tr">MovieSmart Classic</desc>
   </programme>
-  <programme start="20261102050000 +0300" stop="20261102070000 +0300" channel="MSTU">
-    <title lang="tr">Balalayka</title>
-    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  <programme start="20261107110000 +0300" stop="20261107120000 +0300" channel="MSCL">
+    <title lang="tr">MovieSmart Classic</title>
+    <desc lang="tr">MovieSmart Classic</desc>
   </programme>
-  <programme start="20261102070000 +0300" stop="20261102091000 +0300" channel="MSTU">
-    <title lang="tr">Arif V 216</title>
-    <desc lang="tr">Komedi ve bilim kurgu öğeleriyle, eski dost robot 216&apos;nın dünyayı ziyaret edip insan olma hayaliyle başlayan zaman yolculuğu macerası izleyiciyle buluşuyor.</desc>
+  <programme start="20261107120000 +0300" stop="20261107130000 +0300" channel="MSCL">
+    <title lang="tr">MovieSmart Classic</title>
+    <desc lang="tr">MovieSmart Classic</desc>
   </programme>
-  <programme start="20261102091000 +0300" stop="20261102111000 +0300" channel="MSTU">
-    <title lang="tr">Deli Ormanlı</title>
-    <desc lang="tr">Eski boksör Savaş, ringlere dönmek ister. Hayatını yeniden kurmaya çalışırken aşk, geçmiş ve yeni rakipler onun için zorlu bir sınava dönüşür.</desc>
+  <programme start="20261107130000 +0300" stop="20261107140000 +0300" channel="MSCL">
+    <title lang="tr">MovieSmart Classic</title>
+    <desc lang="tr">MovieSmart Classic</desc>
   </programme>
-  <programme start="20261102111000 +0300" stop="20261102130000 +0300" channel="MSTU">
-    <title lang="tr">Rüzgar</title>
-    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  <programme start="20261107140000 +0300" stop="20261107150000 +0300" channel="MSCL">
+    <title lang="tr">MovieSmart Classic</title>
+    <desc lang="tr">MovieSmart Classic</desc>
   </programme>
-  <programme start="20261102130000 +0300" stop="20261102150000 +0300" channel="MSTU">
-    <title lang="tr">Yalandan Sevgilim</title>
-    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  <programme start="20261107150000 +0300" stop="20261107160000 +0300" channel="MSCL">
+    <title lang="tr">MovieSmart Classic</title>
+    <desc lang="tr">MovieSmart Classic</desc>
   </programme>
-  <programme start="20261102150000 +0300" stop="20261102164000 +0300" channel="MSTU">
-    <title lang="tr">Derman</title>
-    <desc lang="tr">Yoksullukla boğuşan bir ailenin hayata tutunma mücadelesini anlatan film, aşk ve vicdan arasında sıkışan insanların dramını işler.</desc>
+  <programme start="20261107160000 +0300" stop="20261107170000 +0300" channel="MSCL">
+    <title lang="tr">MovieSmart Classic</title>
+    <desc lang="tr">MovieSmart Classic</desc>
   </programme>
-  <programme start="20261102164000 +0300" stop="20261102182000 +0300" channel="MSTU">
-    <title lang="tr">Borç</title>
-    <desc lang="tr">Hayat, bir borcun peşinden sürüklenen kahraman için beklenmedik gelişmelerle dolup taşar. Vuslat Saraçoğlu&apos;nun yönetmenliğinde, entrikalar, sürprizler ve hızlı tempolu olaylar izleyiciyi sürekli ekrana kilitliyor. Serdar Orçin&apos;in performansı, gerilim ve dramın bir araya geldiği unutulmaz bir deneyim yaratıyor.</desc>
+  <programme start="20261107170000 +0300" stop="20261107180000 +0300" channel="MSCL">
+    <title lang="tr">MovieSmart Classic</title>
+    <desc lang="tr">MovieSmart Classic</desc>
   </programme>
-  <programme start="20261102182000 +0300" stop="20261102200000 +0300" channel="MSTU">
-    <title lang="tr">Cafer&apos;in Çilesi</title>
-    <desc lang="tr">Teyzesi ve eniştesinin seyahate çıkmasıyla köşkte yalnız kalan Cafer&apos;in, hovarda arkadaşlarının ve misafirlerin köşke doluşmasıyla başlayan trajikomik ve eğlenceli hikayesi.</desc>
+  <programme start="20261107180000 +0300" stop="20261107190000 +0300" channel="MSCL">
+    <title lang="tr">MovieSmart Classic</title>
+    <desc lang="tr">MovieSmart Classic</desc>
   </programme>
-  <programme start="20261102200000 +0300" stop="20261102215000 +0300" channel="MSTU">
-    <title lang="tr">Doğulu</title>
-    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  <programme start="20261107190000 +0300" stop="20261107200000 +0300" channel="MSCL">
+    <title lang="tr">MovieSmart Classic</title>
+    <desc lang="tr">MovieSmart Classic</desc>
   </programme>
-  <programme start="20261102215000 +0300" stop="20261102235000 +0300" channel="MSTU">
-    <title lang="tr">Hep Yek 4: Bela Okuma Altan</title>
-    <desc lang="tr">Talihsiz bir planın peşinden sürüklenen iki kafadar, peş peşe gelen belalarla baş etmeye çalışırken komik durumlara düşüyor.</desc>
+  <programme start="20261107200000 +0300" stop="20261107210000 +0300" channel="MSCL">
+    <title lang="tr">MovieSmart Classic</title>
+    <desc lang="tr">MovieSmart Classic</desc>
+  </programme>
+  <programme start="20261107210000 +0300" stop="20261107220000 +0300" channel="MSCL">
+    <title lang="tr">MovieSmart Classic</title>
+    <desc lang="tr">MovieSmart Classic</desc>
+  </programme>
+  <programme start="20261107220000 +0300" stop="20261107230000 +0300" channel="MSCL">
+    <title lang="tr">MovieSmart Classic</title>
+    <desc lang="tr">MovieSmart Classic</desc>
+  </programme>
+  <programme start="20261107230000 +0300" stop="20261108000000 +0300" channel="MSCL">
+    <title lang="tr">MovieSmart Classic</title>
+    <desc lang="tr">MovieSmart Classic</desc>
   </programme>
   <programme start="20261102235000 +0300" stop="20261103015000 +0300" channel="MSTU">
     <title lang="tr">Unutursam Fısılda</title>
@@ -606,53 +578,97 @@
     <title lang="tr">Karakomik Filmler: 2 Arada</title>
     <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
-  <programme start="20261106230000 +0300" stop="20261107000000 +0300" channel="MSTU">
+  <programme start="20261106230000 +0300" stop="20261107011000 +0300" channel="MSTU">
+    <title lang="tr">Bu İşte Bir Yalnızlık Var</title>
+    <desc lang="tr">Gençliğinde uzun süre bir müzik grubunda gitar çalıp beste yapan Mehmet, 30&apos;lu yaşların sonuna geldiğinde hem müziği bırakmış hem de aile hayatında zor zamanlar geçiren birine dönüşmüştür. Eşiyle boşanıp müziği bırakır; maddi anlamda da bitik durumdadır ve bu süreçte kendisini hayata yaklaştıran tek şey kızı Ezgi&apos;dir. Bu nedenle hiç istemese de anlaşamadığı eski eşiyle sık sık görüşmek zorunda kalır. Özel ders vererek ya da gitar tamiratı yaparken hayatını sürdüren Mehmet, uzun yıllardır birlikte oldukları arkadaşları Ayşe ve Orhan çiftiyle aynı apartmanda oturmaktadır. Evliliklerinde sorunlar yaşayan Ayşe ve Orhan&apos;ın tartıştığı akşamlardan birinde Orhan&apos;ın evi terk etmesi işleri karıştırır. Mehmet değer verdiği Ayşe&apos;ye yardımcı ve destek olabilmek için sürekli yanında olur; aradan günler geçer ve birlikte Orhan&apos;ı aramaya koyulurlar. Tam bu esnada çok sevdiği bir dostunu kaybettiği haberi gelir ve aynı zamanda bir iş teklifi alır. Mehmet hiç istemese de bu işi kabul etmek zorundadır; öte yandan Ayşe ile olan ilişkisi günden güne tuhaflaşmaktadır...</desc>
+  </programme>
+  <programme start="20261107011000 +0300" stop="20261107025000 +0300" channel="MSTU">
+    <title lang="tr">Severek Ayrılalım</title>
+    <desc lang="tr">Meral, kız kardeşinin eşi Ömer&apos;e âşık olur. Yasak aşk, herkesi derinden sarsar.</desc>
+  </programme>
+  <programme start="20261107025000 +0300" stop="20261107041000 +0300" channel="MSTU">
+    <title lang="tr">Asansör</title>
+    <desc lang="tr">TV sunucusu Can, kendisine mesaj gönderen bir kadınla buluşmak için, dördüncü katında oturduğu apartmana gider ve eski asansöre biner. Dördüncü kata bir karış kala asansör aniden duruyor...</desc>
+  </programme>
+  <programme start="20261107041000 +0300" stop="20261107052000 +0300" channel="MSTU">
+    <title lang="tr">Karakomik Filmler: 2 Arada</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261107052000 +0300" stop="20261107065400 +0300" channel="MSTU">
+    <title lang="tr">Çılgınlar</title>
+    <desc lang="tr">Zengin bir işadamı ile bir kadının imkânsız aşkı ekrana geliyor. Tehlikeli örgüt ve engellere rağmen, aşkları için mücadele ederler.</desc>
+  </programme>
+  <programme start="20261107065400 +0300" stop="20261107070000 +0300" channel="MSTU">
     <title lang="tr">MovieSmart Türk</title>
     <desc lang="tr">MovieSmart Türk</desc>
   </programme>
-  <programme start="20261101233000 +0300" stop="20261102013000 +0300" channel="SPPR">
-    <title lang="tr">Atletico mineiro - Cruzeiro</title>
-    <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
+  <programme start="20261107070000 +0300" stop="20261107080000 +0300" channel="MSTU">
+    <title lang="tr">MovieSmart Türk</title>
+    <desc lang="tr">MovieSmart Türk</desc>
   </programme>
-  <programme start="20261102013000 +0300" stop="20261102033000 +0300" channel="SPPR">
-    <title lang="tr">Vasco da gama - Flamengo</title>
-    <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
+  <programme start="20261107080000 +0300" stop="20261107090000 +0300" channel="MSTU">
+    <title lang="tr">MovieSmart Türk</title>
+    <desc lang="tr">MovieSmart Türk</desc>
   </programme>
-  <programme start="20261102033000 +0300" stop="20261102080000 +0300" channel="SPPR">
-    <title lang="tr">Golf: Genesis championship - Güney Kore</title>
-    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  <programme start="20261107090000 +0300" stop="20261107100000 +0300" channel="MSTU">
+    <title lang="tr">MovieSmart Türk</title>
+    <desc lang="tr">MovieSmart Türk</desc>
   </programme>
-  <programme start="20261102080000 +0300" stop="20261102100000 +0300" channel="SPPR">
-    <title lang="tr">Kashima antlers - Pohang</title>
-    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
+  <programme start="20261107100000 +0300" stop="20261107110000 +0300" channel="MSTU">
+    <title lang="tr">MovieSmart Türk</title>
+    <desc lang="tr">MovieSmart Türk</desc>
   </programme>
-  <programme start="20261102100000 +0300" stop="20261102120000 +0300" channel="SPPR">
-    <title lang="tr">Johor darul - Port</title>
-    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
+  <programme start="20261107110000 +0300" stop="20261107120000 +0300" channel="MSTU">
+    <title lang="tr">MovieSmart Türk</title>
+    <desc lang="tr">MovieSmart Türk</desc>
   </programme>
-  <programme start="20261102120000 +0300" stop="20261102140000 +0300" channel="SPPR">
-    <title lang="tr">Al shamal - Al hilal</title>
-    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
+  <programme start="20261107120000 +0300" stop="20261107130000 +0300" channel="MSTU">
+    <title lang="tr">MovieSmart Türk</title>
+    <desc lang="tr">MovieSmart Türk</desc>
   </programme>
-  <programme start="20261102140000 +0300" stop="20261102160000 +0300" channel="SPPR">
-    <title lang="tr">Boca juniors - River plate</title>
-    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  <programme start="20261107130000 +0300" stop="20261107140000 +0300" channel="MSTU">
+    <title lang="tr">MovieSmart Türk</title>
+    <desc lang="tr">MovieSmart Türk</desc>
   </programme>
-  <programme start="20261102160000 +0300" stop="20261102170000 +0300" channel="SPPR">
-    <title lang="tr">Monster Jam</title>
-    <desc lang="tr">Monster Jam&apos;da dev canavar kamyonlar, çılgın akrobasi ve hız dolu yarışlarla izleyicilere adrenalin dolu anlar sunuyor.</desc>
+  <programme start="20261107140000 +0300" stop="20261107150000 +0300" channel="MSTU">
+    <title lang="tr">MovieSmart Türk</title>
+    <desc lang="tr">MovieSmart Türk</desc>
   </programme>
-  <programme start="20261102170000 +0300" stop="20261102190000 +0300" channel="SPPR">
-    <title lang="tr">Pakhtakor - Al nassr</title>
-    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
+  <programme start="20261107150000 +0300" stop="20261107160000 +0300" channel="MSTU">
+    <title lang="tr">MovieSmart Türk</title>
+    <desc lang="tr">MovieSmart Türk</desc>
   </programme>
-  <programme start="20261102190000 +0300" stop="20261102213000 +0300" channel="SPPR">
-    <title lang="tr">Al sadd - Al ahli</title>
-    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
+  <programme start="20261107160000 +0300" stop="20261107170000 +0300" channel="MSTU">
+    <title lang="tr">MovieSmart Türk</title>
+    <desc lang="tr">MovieSmart Türk</desc>
   </programme>
-  <programme start="20261102213000 +0300" stop="20261102230000 +0300" channel="SPPR">
-    <title lang="tr">Futbol Kulübü</title>
-    <desc lang="tr">Futbol gündeminin öne çıkan başlıkları &quot;Futbol Kulübü&quot;nde ele alınıyor. Haftanın dikkat çeken gelişmeleri ve önemli karşılaşmaları bu programda.</desc>
+  <programme start="20261107170000 +0300" stop="20261107180000 +0300" channel="MSTU">
+    <title lang="tr">MovieSmart Türk</title>
+    <desc lang="tr">MovieSmart Türk</desc>
+  </programme>
+  <programme start="20261107180000 +0300" stop="20261107190000 +0300" channel="MSTU">
+    <title lang="tr">MovieSmart Türk</title>
+    <desc lang="tr">MovieSmart Türk</desc>
+  </programme>
+  <programme start="20261107190000 +0300" stop="20261107200000 +0300" channel="MSTU">
+    <title lang="tr">MovieSmart Türk</title>
+    <desc lang="tr">MovieSmart Türk</desc>
+  </programme>
+  <programme start="20261107200000 +0300" stop="20261107210000 +0300" channel="MSTU">
+    <title lang="tr">MovieSmart Türk</title>
+    <desc lang="tr">MovieSmart Türk</desc>
+  </programme>
+  <programme start="20261107210000 +0300" stop="20261107220000 +0300" channel="MSTU">
+    <title lang="tr">MovieSmart Türk</title>
+    <desc lang="tr">MovieSmart Türk</desc>
+  </programme>
+  <programme start="20261107220000 +0300" stop="20261107230000 +0300" channel="MSTU">
+    <title lang="tr">MovieSmart Türk</title>
+    <desc lang="tr">MovieSmart Türk</desc>
+  </programme>
+  <programme start="20261107230000 +0300" stop="20261108000000 +0300" channel="MSTU">
+    <title lang="tr">MovieSmart Türk</title>
+    <desc lang="tr">MovieSmart Türk</desc>
   </programme>
   <programme start="20261102230000 +0300" stop="20261103000000 +0300" channel="SPPR">
     <title lang="tr">Dünyanın Futbolu</title>
@@ -678,21 +694,33 @@
     <title lang="tr">Monster Jam</title>
     <desc lang="tr">Dev kamyonların nefes kesen gösterilerini, akrobasi hareketlerini ve heyecan dolu yarışlarını ekrana taşıyan aksiyon dolu bir motorsporları etkinliğidir.</desc>
   </programme>
-  <programme start="20261103080000 +0300" stop="20261103113000 +0300" channel="SPPR">
-    <title lang="tr">Almanya BMW Internatinonal Open Golf Turnuvası</title>
-    <desc lang="tr">Almanya&apos;da düzenlenen üst düzey golf turnuvasında dünyanın en iyi sporcuları zorlu sahada mücadele ediyor.</desc>
+  <programme start="20261103080000 +0300" stop="20261103093000 +0300" channel="SPPR">
+    <title lang="tr">Dünyanın Futbolu</title>
+    <desc lang="tr">Futbol dünyasında haftanın öne çıkan gelişmeleri &quot;Dünyanın Futbolu&quot;nda ekrana geliyor. Farklı liglerden haberle bu programda.</desc>
   </programme>
-  <programme start="20261103113000 +0300" stop="20261103140000 +0300" channel="SPPR">
-    <title lang="tr">Asya Şampiyonlar Ligi Elite</title>
+  <programme start="20261103093000 +0300" stop="20261103110000 +0300" channel="SPPR">
+    <title lang="tr">Alanya</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261103110000 +0300" stop="20261103130000 +0300" channel="SPPR">
+    <title lang="tr">Newcastle jets - Shanghai port</title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
+  </programme>
+  <programme start="20261103130000 +0300" stop="20261103140000 +0300" channel="SPPR">
+    <title lang="tr">Vissel kobe - Ratchaburi</title>
     <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
   </programme>
   <programme start="20261103140000 +0300" stop="20261103143000 +0300" channel="SPPR">
     <title lang="tr">Haber 14</title>
     <desc lang="tr">Yurtdışından ve dünyadan haberleri saat 14&apos;te!</desc>
   </programme>
-  <programme start="20261103143000 +0300" stop="20261103163000 +0300" channel="SPPR">
+  <programme start="20261103143000 +0300" stop="20261103153000 +0300" channel="SPPR">
     <title lang="tr">Basketbol: İspanya Ligi</title>
     <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
+  </programme>
+  <programme start="20261103153000 +0300" stop="20261103163000 +0300" channel="SPPR">
+    <title lang="tr">Tai port - Gouan</title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
   </programme>
   <programme start="20261103163000 +0300" stop="20261103170000 +0300" channel="SPPR">
     <title lang="tr">Yabancı At Yarışları</title>
@@ -702,57 +730,101 @@
     <title lang="tr">Haber 17</title>
     <desc lang="tr">Yurtdışından ve dünyadan haberleri saat 17&apos;de!</desc>
   </programme>
-  <programme start="20261103173000 +0300" stop="20261103200000 +0300" channel="SPPR">
-    <title lang="tr">Almanya BMW Internatinonal Open Golf Turnuvası</title>
-    <desc lang="tr">Almanya&apos;da düzenlenen üst düzey golf turnuvasında dünyanın en iyi sporcuları zorlu sahada mücadele ediyor.</desc>
-  </programme>
-  <programme start="20261103200000 +0300" stop="20261103220000 +0300" channel="SPPR">
-    <title lang="tr">Kupa Günlüğü</title>
-    <desc lang="tr">Futbol dünyasının öne çıkan gelişmeleri ve maç analizleri &quot;Kupa Günlüğü&quot;nde ekranlara geliyor; taraftarlar için keyifli bir spor özeti sunuluyor.</desc>
-  </programme>
-  <programme start="20261103220000 +0300" stop="20261103233000 +0300" channel="SPPR">
-    <title lang="tr">Dünya Kupası Belgeseli</title>
-    <desc lang="tr">Futbol tarihine damga vuran Dünya Kupası anları, unutulmaz hikâyeler ve efsane maçlar ekranlara taşınıyor.</desc>
-  </programme>
-  <programme start="20261103233000 +0300" stop="20261104000000 +0300" channel="SPPR">
-    <title lang="tr">Arjantin Clasura</title>
-    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
-  </programme>
-  <programme start="20261104000000 +0300" stop="20261104013000 +0300" channel="SPPR">
+  <programme start="20261103173000 +0300" stop="20261103180000 +0300" channel="SPPR">
     <title lang="tr">Yabancı At Yarışları</title>
     <desc lang="tr">Adrenalini dorukta yaşayın! Yabancı at yarışlarının en heyecanlı anları Spor Smart ekranında</desc>
   </programme>
-  <programme start="20261104013000 +0300" stop="20261104033000 +0300" channel="SPPR">
+  <programme start="20261103180000 +0300" stop="20261103190000 +0300" channel="SPPR">
+    <title lang="tr">Dünyanın Futbolu</title>
+    <desc lang="tr">Futbol dünyasında haftanın öne çıkan gelişmeleri &quot;Dünyanın Futbolu&quot;nda ekrana geliyor. Farklı liglerden haberle bu programda.</desc>
+  </programme>
+  <programme start="20261103190000 +0300" stop="20261103200000 +0300" channel="SPPR">
+    <title lang="tr">Istiklal - Al shamal</title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
+  </programme>
+  <programme start="20261103200000 +0300" stop="20261103210000 +0300" channel="SPPR">
+    <title lang="tr">Kupa Günlüğü</title>
+    <desc lang="tr">Futbol dünyasının öne çıkan gelişmeleri ve maç analizleri &quot;Kupa Günlüğü&quot;nde ekranlara geliyor; taraftarlar için keyifli bir spor özeti sunuluyor.</desc>
+  </programme>
+  <programme start="20261103210000 +0300" stop="20261103213000 +0300" channel="SPPR">
+    <title lang="tr">Monster Jam</title>
+    <desc lang="tr">Monster Jam&apos;da dev canavar kamyonlar, çılgın akrobasi ve hız dolu yarışlarla izleyicilere adrenalin dolu anlar sunuyor.</desc>
+  </programme>
+  <programme start="20261103213000 +0300" stop="20261103220000 +0300" channel="SPPR">
+    <title lang="tr">Smart Sahne</title>
+    <desc lang="tr">Spor dünyasından öne çıkan gelişmeler, dikkat çeken başarılar ve gündemin merak edilen başlıkları ekranlara geliyor.</desc>
+  </programme>
+  <programme start="20261103220000 +0300" stop="20261103230000 +0300" channel="SPPR">
+    <title lang="tr">Dünya Kupası Belgeseli</title>
+    <desc lang="tr">Futbol tarihine damga vuran Dünya Kupası anları, unutulmaz hikâyeler ve efsane maçlar ekranlara taşınıyor.</desc>
+  </programme>
+  <programme start="20261103230000 +0300" stop="20261103233000 +0300" channel="SPPR">
+    <title lang="tr">Arjantin Clasura Özetler</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261103233000 +0300" stop="20261104000000 +0300" channel="SPPR">
+    <title lang="tr">Brezilya Ligi Özetler</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261104000000 +0300" stop="20261104010000 +0300" channel="SPPR">
+    <title lang="tr">Yabancı At Yarışları</title>
+    <desc lang="tr">Adrenalini dorukta yaşayın! Yabancı at yarışlarının en heyecanlı anları Spor Smart ekranında</desc>
+  </programme>
+  <programme start="20261104010000 +0300" stop="20261104013000 +0300" channel="SPPR">
+    <title lang="tr">Racing club - Aldosivi</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261104013000 +0300" stop="20261104030000 +0300" channel="SPPR">
     <title lang="tr">Asya Şampiyonlar Ligi 2</title>
     <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
   </programme>
-  <programme start="20261104033000 +0300" stop="20261104060000 +0300" channel="SPPR">
+  <programme start="20261104030000 +0300" stop="20261104033000 +0300" channel="SPPR">
+    <title lang="tr">Dünyanın Futbolu</title>
+    <desc lang="tr">Futbol dünyasında haftanın öne çıkan gelişmeleri &quot;Dünyanın Futbolu&quot;nda ekrana geliyor. Farklı liglerden haberle bu programda.</desc>
+  </programme>
+  <programme start="20261104033000 +0300" stop="20261104040000 +0300" channel="SPPR">
     <title lang="tr">Asya Şampiyonlar Ligi Elite</title>
     <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
   </programme>
+  <programme start="20261104040000 +0300" stop="20261104060000 +0300" channel="SPPR">
+    <title lang="tr">Bragantino - Santos</title>
+    <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
+  </programme>
   <programme start="20261104060000 +0300" stop="20261104080000 +0300" channel="SPPR">
-    <title lang="tr">Basketbol: İspanya Ligi</title>
-    <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
+    <title lang="tr">Mirassol - Sao paulo</title>
+    <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
   </programme>
   <programme start="20261104080000 +0300" stop="20261104090000 +0300" channel="SPPR">
     <title lang="tr">Monster Jam</title>
     <desc lang="tr">Monster Jam&apos;da dev canavar kamyonlar, çılgın akrobasi ve hız dolu yarışlarla izleyicilere adrenalin dolu anlar sunuyor.</desc>
   </programme>
-  <programme start="20261104090000 +0300" stop="20261104120000 +0300" channel="SPPR">
-    <title lang="tr">Almanya BMW Internatinonal Open Golf Turnuvası</title>
-    <desc lang="tr">Almanya&apos;da düzenlenen üst düzey golf turnuvasında dünyanın en iyi sporcuları zorlu sahada mücadele ediyor.</desc>
+  <programme start="20261104090000 +0300" stop="20261104110000 +0300" channel="SPPR">
+    <title lang="tr">Real madrid - San pablo burgos</title>
+    <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
   </programme>
-  <programme start="20261104120000 +0300" stop="20261104140000 +0300" channel="SPPR">
+  <programme start="20261104110000 +0300" stop="20261104120000 +0300" channel="SPPR">
+    <title lang="tr">Melbourne - Persib bandung</title>
+    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261104120000 +0300" stop="20261104130000 +0300" channel="SPPR">
     <title lang="tr">Brezilya Ligi</title>
     <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
+  </programme>
+  <programme start="20261104130000 +0300" stop="20261104140000 +0300" channel="SPPR">
+    <title lang="tr">Pohang - Gamba osaka</title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
   </programme>
   <programme start="20261104140000 +0300" stop="20261104143000 +0300" channel="SPPR">
     <title lang="tr">Haber 14</title>
     <desc lang="tr">Yurtdışından ve dünyadan haberleri saat 14&apos;te!</desc>
   </programme>
-  <programme start="20261104143000 +0300" stop="20261104163000 +0300" channel="SPPR">
+  <programme start="20261104143000 +0300" stop="20261104153000 +0300" channel="SPPR">
     <title lang="tr">Brezilya Ligi</title>
     <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
+  </programme>
+  <programme start="20261104153000 +0300" stop="20261104163000 +0300" channel="SPPR">
+    <title lang="tr">Buriram - Kashima antlers</title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
   </programme>
   <programme start="20261104163000 +0300" stop="20261104170000 +0300" channel="SPPR">
     <title lang="tr">Arjantin Clasura</title>
@@ -762,9 +834,13 @@
     <title lang="tr">Haber 17</title>
     <desc lang="tr">Yurtdışından ve dünyadan haberleri saat 17&apos;de!</desc>
   </programme>
-  <programme start="20261104173000 +0300" stop="20261104193000 +0300" channel="SPPR">
-    <title lang="tr">Basketbol: İspanya Ligi</title>
-    <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
+  <programme start="20261104173000 +0300" stop="20261104190000 +0300" channel="SPPR">
+    <title lang="tr">Genesis championship - Güney kore</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261104190000 +0300" stop="20261104193000 +0300" channel="SPPR">
+    <title lang="tr">Al rayyan - Al nahda</title>
+    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
   </programme>
   <programme start="20261104193000 +0300" stop="20261104200000 +0300" channel="SPPR">
     <title lang="tr">Dünya Kupası&apos;nda Brezilya Ligi&apos;nde</title>
@@ -774,57 +850,113 @@
     <title lang="tr">Foodball</title>
     <desc lang="tr">Futbol dünyasındaki güncel gelişmeler, analizler ve öne çıkan olaylar spor programında izleyiciyle buluşuyor.</desc>
   </programme>
-  <programme start="20261104210000 +0300" stop="20261105020000 +0300" channel="SPPR">
+  <programme start="20261104210000 +0300" stop="20261104213000 +0300" channel="SPPR">
     <title lang="tr">Almanya BMW Internatinonal Open Golf Turnuvası</title>
     <desc lang="tr">Almanya&apos;da düzenlenen üst düzey golf turnuvasında dünyanın en iyi sporcuları zorlu sahada mücadele ediyor.</desc>
   </programme>
-  <programme start="20261105020000 +0300" stop="20261105040000 +0300" channel="SPPR">
+  <programme start="20261104213000 +0300" stop="20261104233000 +0300" channel="SPPR">
+    <title lang="tr">Muharraq - Al jazira</title>
+    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261104233000 +0300" stop="20261105000000 +0300" channel="SPPR">
+    <title lang="tr">Monster Jam</title>
+    <desc lang="tr">Dev kamyonların nefes kesen gösterilerini, akrobasi hareketlerini ve heyecan dolu yarışlarını ekrana taşıyan aksiyon dolu bir motorsporları etkinliğidir.</desc>
+  </programme>
+  <programme start="20261105000000 +0300" stop="20261105010000 +0300" channel="SPPR">
+    <title lang="tr">Dünyanın Futbolu</title>
+    <desc lang="tr">Futbol dünyasında haftanın öne çıkan gelişmeleri &quot;Dünyanın Futbolu&quot;nda ekrana geliyor. Farklı liglerden haberle bu programda.</desc>
+  </programme>
+  <programme start="20261105010000 +0300" stop="20261105020000 +0300" channel="SPPR">
+    <title lang="tr">Beijing beikong - Kaya</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261105020000 +0300" stop="20261105030000 +0300" channel="SPPR">
     <title lang="tr">Asya Şampiyonlar Ligi Elite</title>
     <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
   </programme>
-  <programme start="20261105040000 +0300" stop="20261105060000 +0300" channel="SPPR">
+  <programme start="20261105030000 +0300" stop="20261105033000 +0300" channel="SPPR">
+    <title lang="tr">Arjantin Clasura Özetler</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261105033000 +0300" stop="20261105040000 +0300" channel="SPPR">
+    <title lang="tr">Sao paulo - Corinthians</title>
+    <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
+  </programme>
+  <programme start="20261105040000 +0300" stop="20261105053000 +0300" channel="SPPR">
     <title lang="tr">AFC Kadınlar Şampiyonlar Ligi</title>
     <desc lang="tr">Kadın futbolunda Asya&apos;nın en üst düzey kulüp turnuvasında güçlü takımlar kıyasıya mücadele ediyor ve büyük rekabet yaşanıyor.</desc>
   </programme>
-  <programme start="20261105060000 +0300" stop="20261105080000 +0300" channel="SPPR">
-    <title lang="tr">Brezilya Ligi</title>
-    <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
+  <programme start="20261105053000 +0300" stop="20261105080000 +0300" channel="SPPR">
+    <title lang="tr">Hindistan Open Golf Turnuvası</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
   <programme start="20261105080000 +0300" stop="20261105100000 +0300" channel="SPPR">
-    <title lang="tr">Asya Şampiyonlar Ligi Elite</title>
-    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
+    <title lang="tr">Genesis championship - Güney kore</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
-  <programme start="20261105100000 +0300" stop="20261105113000 +0300" channel="SPPR">
+  <programme start="20261105100000 +0300" stop="20261105110000 +0300" channel="SPPR">
     <title lang="tr">L&apos;etape Marmaris</title>
     <desc lang="tr">Marmaris&apos;te düzenlenen L&apos;Etape yarışında bisikletçiler, zorlu parkurlarda hız ve dayanıklılık mücadelesi veriyor.</desc>
   </programme>
-  <programme start="20261105113000 +0300" stop="20261105133000 +0300" channel="SPPR">
+  <programme start="20261105110000 +0300" stop="20261105113000 +0300" channel="SPPR">
+    <title lang="tr">Leyma coruna - Tenerife</title>
+    <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
+  </programme>
+  <programme start="20261105113000 +0300" stop="20261105130000 +0300" channel="SPPR">
     <title lang="tr">Basketbol: İspanya Ligi</title>
     <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
   </programme>
-  <programme start="20261105133000 +0300" stop="20261105190000 +0300" channel="SPPR">
+  <programme start="20261105130000 +0300" stop="20261105133000 +0300" channel="SPPR">
+    <title lang="tr">Matchida - Shnaghai shenhua</title>
+    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261105133000 +0300" stop="20261105153000 +0300" channel="SPPR">
     <title lang="tr">Genesis Scottish Open Golf Turnuvası</title>
     <desc lang="tr">İskoçya&apos;da düzenlenen üst düzey golf turnuvasında dünyanın en iyi sporcuları zorlu parkurda mücadele ediyor.</desc>
   </programme>
-  <programme start="20261105190000 +0300" stop="20261105200000 +0300" channel="SPPR">
+  <programme start="20261105153000 +0300" stop="20261105173000 +0300" channel="SPPR">
+    <title lang="tr">Pathum - Tai po</title>
+    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261105173000 +0300" stop="20261105190000 +0300" channel="SPPR">
+    <title lang="tr">Sao paulo - Corinthians</title>
+    <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
+  </programme>
+  <programme start="20261105190000 +0300" stop="20261105193000 +0300" channel="SPPR">
     <title lang="tr">Yabancı At Yarışları</title>
     <desc lang="tr">Adrenalini dorukta yaşayın! Yabancı at yarışlarının en heyecanlı anları Spor Smart ekranında</desc>
   </programme>
-  <programme start="20261105200000 +0300" stop="20261105220000 +0300" channel="SPPR">
-    <title lang="tr">Kupa Günlüğü</title>
-    <desc lang="tr">Futbol dünyasının öne çıkan gelişmeleri ve maç analizleri &quot;Kupa Günlüğü&quot;nde ekranlara geliyor; taraftarlar için keyifli bir spor özeti sunuluyor.</desc>
+  <programme start="20261105193000 +0300" stop="20261105200000 +0300" channel="SPPR">
+    <title lang="tr">Monster Jam</title>
+    <desc lang="tr">Monster Jam&apos;da dev canavar kamyonlar, çılgın akrobasi ve hız dolu yarışlarla izleyicilere adrenalin dolu anlar sunuyor.</desc>
+  </programme>
+  <programme start="20261105200000 +0300" stop="20261105213000 +0300" channel="SPPR">
+    <title lang="tr">Spor Ajansı</title>
+    <desc lang="tr">Günün öne çıkan spor gelişmeleri, kritik maç analizleri ve takım performansları Spor Ajansı&apos;nda izleyiciye hızlı ve heyecanlı şekilde aktarılıyor.</desc>
+  </programme>
+  <programme start="20261105213000 +0300" stop="20261105220000 +0300" channel="SPPR">
+    <title lang="tr">Unicaja - Barcelona</title>
+    <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
   </programme>
   <programme start="20261105220000 +0300" stop="20261105230000 +0300" channel="SPPR">
     <title lang="tr">Dünya Kupası Belgeseli</title>
     <desc lang="tr">Futbol tarihine damga vuran Dünya Kupası anları, unutulmaz hikâyeler ve efsane maçlar ekranlara taşınıyor.</desc>
   </programme>
-  <programme start="20261105230000 +0300" stop="20261106000000 +0300" channel="SPPR">
+  <programme start="20261105230000 +0300" stop="20261105233000 +0300" channel="SPPR">
     <title lang="tr">Foodball</title>
     <desc lang="tr">Futbol dünyasındaki güncel gelişmeler, analizler ve öne çıkan olaylar spor programında izleyiciyle buluşuyor.</desc>
   </programme>
-  <programme start="20261106000000 +0300" stop="20261106020000 +0300" channel="SPPR">
+  <programme start="20261105233000 +0300" stop="20261106000000 +0300" channel="SPPR">
+    <title lang="tr">Zaragoza - Girona</title>
+    <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
+  </programme>
+  <programme start="20261106000000 +0300" stop="20261106013000 +0300" channel="SPPR">
     <title lang="tr">Asya Şampiyonlar Ligi 2</title>
     <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261106013000 +0300" stop="20261106020000 +0300" channel="SPPR">
+    <title lang="tr">Palmeiras - Remo</title>
+    <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
   </programme>
   <programme start="20261106020000 +0300" stop="20261106033000 +0300" channel="SPPR">
     <title lang="tr">Kickboks</title>
@@ -834,77 +966,165 @@
     <title lang="tr">Arjantin Clasura</title>
     <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
   </programme>
-  <programme start="20261106040000 +0300" stop="20261106080000 +0300" channel="SPPR">
+  <programme start="20261106040000 +0300" stop="20261106053000 +0300" channel="SPPR">
     <title lang="tr">Almanya BMW Internatinonal Open Golf Turnuvası</title>
     <desc lang="tr">Almanya&apos;da düzenlenen üst düzey golf turnuvasında dünyanın en iyi sporcuları zorlu sahada mücadele ediyor.</desc>
   </programme>
-  <programme start="20261106080000 +0300" stop="20261106110000 +0300" channel="SPPR">
-    <title lang="tr">Asya Şampiyonlar Ligi Elite</title>
-    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
+  <programme start="20261106053000 +0300" stop="20261106080000 +0300" channel="SPPR">
+    <title lang="tr">Golf</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
-  <programme start="20261106110000 +0300" stop="20261106130000 +0300" channel="SPPR">
+  <programme start="20261106080000 +0300" stop="20261106100000 +0300" channel="SPPR">
+    <title lang="tr">Velez - San lorenzo</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261106100000 +0300" stop="20261106110000 +0300" channel="SPPR">
+    <title lang="tr">Racing club - Aldosivi</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261106110000 +0300" stop="20261106120000 +0300" channel="SPPR">
     <title lang="tr">Basketbol: İspanya Ligi</title>
     <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
+  </programme>
+  <programme start="20261106120000 +0300" stop="20261106130000 +0300" channel="SPPR">
+    <title lang="tr">Al wasl - Air force</title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
   </programme>
   <programme start="20261106130000 +0300" stop="20261106133000 +0300" channel="SPPR">
     <title lang="tr">Monster Jam</title>
     <desc lang="tr">Monster Jam&apos;da dev canavar kamyonlar, çılgın akrobasi ve hız dolu yarışlarla izleyicilere adrenalin dolu anlar sunuyor.</desc>
   </programme>
-  <programme start="20261106133000 +0300" stop="20261106190000 +0300" channel="SPPR">
+  <programme start="20261106133000 +0300" stop="20261106140000 +0300" channel="SPPR">
     <title lang="tr">Genesis Scottish Open Golf Turnuvası</title>
     <desc lang="tr">İskoçya&apos;da düzenlenen üst düzey golf turnuvasında dünyanın en iyi sporcuları zorlu parkurda mücadele ediyor.</desc>
+  </programme>
+  <programme start="20261106140000 +0300" stop="20261106143000 +0300" channel="SPPR">
+    <title lang="tr">Haber 14</title>
+    <desc lang="tr">Yurtdışından ve dünyadan haberleri saat 14&apos;te!</desc>
+  </programme>
+  <programme start="20261106143000 +0300" stop="20261106163000 +0300" channel="SPPR">
+    <title lang="tr">Al gharafa - Al khadisiyah</title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
+  </programme>
+  <programme start="20261106163000 +0300" stop="20261106170000 +0300" channel="SPPR">
+    <title lang="tr">Yabancı At Yarışları</title>
+    <desc lang="tr">Adrenalini dorukta yaşayın! Yabancı at yarışlarının en heyecanlı anları Spor Smart ekranında</desc>
+  </programme>
+  <programme start="20261106170000 +0300" stop="20261106173000 +0300" channel="SPPR">
+    <title lang="tr">Haber 17</title>
+    <desc lang="tr">Yurtdışından ve dünyadan haberleri saat 17&apos;de!</desc>
+  </programme>
+  <programme start="20261106173000 +0300" stop="20261106183000 +0300" channel="SPPR">
+    <title lang="tr">Spor Ajansı</title>
+    <desc lang="tr">Günün öne çıkan spor gelişmeleri, kritik maç analizleri ve takım performansları Spor Ajansı&apos;nda izleyiciye hızlı ve heyecanlı şekilde aktarılıyor.</desc>
+  </programme>
+  <programme start="20261106183000 +0300" stop="20261106190000 +0300" channel="SPPR">
+    <title lang="tr">Kashiwa reysol - Daejeon</title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
   </programme>
   <programme start="20261106190000 +0300" stop="20261106200000 +0300" channel="SPPR">
     <title lang="tr">Yabancı At Yarışları</title>
     <desc lang="tr">Adrenalini dorukta yaşayın! Yabancı at yarışlarının en heyecanlı anları Spor Smart ekranında</desc>
   </programme>
-  <programme start="20261106200000 +0300" stop="20261106220000 +0300" channel="SPPR">
+  <programme start="20261106200000 +0300" stop="20261106203000 +0300" channel="SPPR">
     <title lang="tr">Kupa Günlüğü</title>
     <desc lang="tr">Futbol dünyasının öne çıkan gelişmeleri ve maç analizleri &quot;Kupa Günlüğü&quot;nde ekranlara geliyor; taraftarlar için keyifli bir spor özeti sunuluyor.</desc>
   </programme>
-  <programme start="20261106220000 +0300" stop="20261107000000 +0300" channel="SPPR">
+  <programme start="20261106203000 +0300" stop="20261106220000 +0300" channel="SPPR">
+    <title lang="tr">Çifte Şans</title>
+    <desc lang="tr">Heyecan iki kat! Çifte Şans&apos;ta sürprizler, kritik anlar ve unutulmaz mücadeleler ekranda</desc>
+  </programme>
+  <programme start="20261106220000 +0300" stop="20261106223000 +0300" channel="SPPR">
     <title lang="tr">Dünya Kupası Belgeseli</title>
     <desc lang="tr">Futbol tarihine damga vuran Dünya Kupası anları, unutulmaz hikâyeler ve efsane maçlar ekranlara taşınıyor.</desc>
   </programme>
-  <programme start="20261101230000 +0300" stop="20261102010000 +0300" channel="SPS2">
-    <title lang="tr">Shanghai greenland - Machida</title>
-    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
+  <programme start="20261106223000 +0300" stop="20261107000000 +0300" channel="SPPR">
+    <title lang="tr">Boca juniors - River plate</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
   </programme>
-  <programme start="20261102010000 +0300" stop="20261102030000 +0300" channel="SPS2">
-    <title lang="tr">Al faisaly - Al taawon</title>
-    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
+  <programme start="20261107000000 +0300" stop="20261107003000 +0300" channel="SPPR">
+    <title lang="tr">Asya Şampiyonlar Ligi Elite</title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
   </programme>
-  <programme start="20261102030000 +0300" stop="20261102050000 +0300" channel="SPS2">
-    <title lang="tr">Al nahda - Al rayyan</title>
-    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
-  </programme>
-  <programme start="20261102050000 +0300" stop="20261102080000 +0300" channel="SPS2">
-    <title lang="tr">13. Eker I Bursa Koşusu</title>
-    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
-  </programme>
-  <programme start="20261102080000 +0300" stop="20261102130000 +0300" channel="SPS2">
-    <title lang="tr">Genesis championship - Güney kore</title>
-    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
-  </programme>
-  <programme start="20261102130000 +0300" stop="20261102150000 +0300" channel="SPS2">
-    <title lang="tr">Atletico mineiro - Cruzeiro</title>
-    <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
-  </programme>
-  <programme start="20261102150000 +0300" stop="20261102170000 +0300" channel="SPS2">
-    <title lang="tr">Zaragoza - Girona</title>
-    <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
-  </programme>
-  <programme start="20261102170000 +0300" stop="20261102190000 +0300" channel="SPS2">
+  <programme start="20261107003000 +0300" stop="20261107023000 +0300" channel="SPPR">
     <title lang="tr">Leyma coruna - Tenerife</title>
     <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
   </programme>
-  <programme start="20261102190000 +0300" stop="20261102213000 +0300" channel="SPS2">
-    <title lang="tr">Tractor - Neftchi</title>
-    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
+  <programme start="20261107023000 +0300" stop="20261107033000 +0300" channel="SPPR">
+    <title lang="tr">Yabancı At Yarışları</title>
+    <desc lang="tr">Adrenalini dorukta yaşayın! Yabancı at yarışlarının en heyecanlı anları Spor Smart ekranında</desc>
   </programme>
-  <programme start="20261102213000 +0300" stop="20261102233000 +0300" channel="SPS2">
-    <title lang="tr">Al ittihad - Al ain</title>
-    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
+  <programme start="20261107033000 +0300" stop="20261107053000 +0300" channel="SPPR">
+    <title lang="tr">Racing club - Aldosivi</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261107053000 +0300" stop="20261107060000 +0300" channel="SPPR">
+    <title lang="tr">Golf</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261107060000 +0300" stop="20261107080000 +0300" channel="SPPR">
+    <title lang="tr">Basketbol: İspanya Ligi</title>
+    <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
+  </programme>
+  <programme start="20261107080000 +0300" stop="20261107093000 +0300" channel="SPPR">
+    <title lang="tr">Golf: Genesis championship - Güney Kore</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261107093000 +0300" stop="20261107113000 +0300" channel="SPPR">
+    <title lang="tr">Al kuwait - Nasaf</title>
+    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261107113000 +0300" stop="20261107133000 +0300" channel="SPPR">
+    <title lang="tr">Naegohyang - Inac kobe</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261107133000 +0300" stop="20261107140000 +0300" channel="SPPR">
+    <title lang="tr">Monster Jam</title>
+    <desc lang="tr">Monster Jam&apos;da dev canavar kamyonlar, çılgın akrobasi ve hız dolu yarışlarla izleyicilere adrenalin dolu anlar sunuyor.</desc>
+  </programme>
+  <programme start="20261107140000 +0300" stop="20261107153000 +0300" channel="SPPR">
+    <title lang="tr">Rize</title>
+    <desc lang="tr">Hız, heyecan ve adrenalin bir arada! Enduro ve ATV tutkunları zorlu parkurlarda kıyasıya mücadele ediyor.</desc>
+  </programme>
+  <programme start="20261107153000 +0300" stop="20261107170000 +0300" channel="SPPR">
+    <title lang="tr">Basketbol: İspanya Ligi</title>
+    <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
+  </programme>
+  <programme start="20261107170000 +0300" stop="20261107173000 +0300" channel="SPPR">
+    <title lang="tr">Monster Jam</title>
+    <desc lang="tr">Monster Jam&apos;da dev canavar kamyonlar, çılgın akrobasi ve hız dolu yarışlarla izleyicilere adrenalin dolu anlar sunuyor.</desc>
+  </programme>
+  <programme start="20261107173000 +0300" stop="20261107183000 +0300" channel="SPPR">
+    <title lang="tr">East bengal - Sports club</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261107183000 +0300" stop="20261107190000 +0300" channel="SPPR">
+    <title lang="tr">Monster Jam</title>
+    <desc lang="tr">Monster Jam&apos;da dev canavar kamyonlar, çılgın akrobasi ve hız dolu yarışlarla izleyicilere adrenalin dolu anlar sunuyor.</desc>
+  </programme>
+  <programme start="20261107190000 +0300" stop="20261107193000 +0300" channel="SPPR">
+    <title lang="tr">Basketbol: İspanya Ligi</title>
+    <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
+  </programme>
+  <programme start="20261107193000 +0300" stop="20261107200000 +0300" channel="SPPR">
+    <title lang="tr">Arjantin Clasura Özetler</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261107200000 +0300" stop="20261107210000 +0300" channel="SPPR">
+    <title lang="tr">Manresa - Obradoiro</title>
+    <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
+  </programme>
+  <programme start="20261107210000 +0300" stop="20261107220000 +0300" channel="SPPR">
+    <title lang="tr">Yabancı At Yarışları</title>
+    <desc lang="tr">Adrenalini dorukta yaşayın! Yabancı at yarışlarının en heyecanlı anları Spor Smart ekranında</desc>
+  </programme>
+  <programme start="20261107220000 +0300" stop="20261107230000 +0300" channel="SPPR">
+    <title lang="tr">Salomon Kapadokya Ultra - Trail</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261107230000 +0300" stop="20261108000000 +0300" channel="SPPR">
+    <title lang="tr">Lleida - Baskonia</title>
+    <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
   </programme>
   <programme start="20261102233000 +0300" stop="20261103013000 +0300" channel="SPS2">
     <title lang="tr">Beijing beikong - Kaya</title>
@@ -918,541 +1138,265 @@
     <title lang="tr">Dünyanın Futbolu</title>
     <desc lang="tr">Futbol dünyasında haftanın öne çıkan gelişmeleri &quot;Dünyanın Futbolu&quot;nda ekrana geliyor. Farklı liglerden haberle bu programda.</desc>
   </programme>
-  <programme start="20261103043000 +0300" stop="20261103053000 +0300" channel="SPS2">
+  <programme start="20261103043000 +0300" stop="20261103080000 +0300" channel="SPS2">
     <title lang="tr">Genesis championship - Güney kore</title>
     <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
-  <programme start="20261103053000 +0300" stop="20261103060000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261103060000 +0300" stop="20261103070000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261103070000 +0300" stop="20261103080000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
   <programme start="20261103080000 +0300" stop="20261103090000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+    <title lang="tr">Salomon Kapadokya Ultra - Trail</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
-  <programme start="20261103090000 +0300" stop="20261103100000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+  <programme start="20261103090000 +0300" stop="20261103110000 +0300" channel="SPS2">
+    <title lang="tr">Unicaja - Barcelona</title>
+    <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
   </programme>
-  <programme start="20261103100000 +0300" stop="20261103110000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+  <programme start="20261103110000 +0300" stop="20261103130000 +0300" channel="SPS2">
+    <title lang="tr">Real madrid - San pablo burgos</title>
+    <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
   </programme>
-  <programme start="20261103110000 +0300" stop="20261103120000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+  <programme start="20261103130000 +0300" stop="20261103153000 +0300" channel="SPS2">
+    <title lang="tr">Jeonbuk - Johor tazim</title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
   </programme>
-  <programme start="20261103120000 +0300" stop="20261103130000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+  <programme start="20261103153000 +0300" stop="20261103173000 +0300" channel="SPS2">
+    <title lang="tr">Cong an ha - Kyoto</title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
   </programme>
-  <programme start="20261103130000 +0300" stop="20261103140000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+  <programme start="20261103173000 +0300" stop="20261103190000 +0300" channel="SPS2">
+    <title lang="tr">Genesis championship - Güney kore</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
-  <programme start="20261103140000 +0300" stop="20261103150000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+  <programme start="20261103190000 +0300" stop="20261103213000 +0300" channel="SPS2">
+    <title lang="tr">Al hussein - Al shorta</title>
+    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
   </programme>
-  <programme start="20261103150000 +0300" stop="20261103160000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+  <programme start="20261103213000 +0300" stop="20261103233000 +0300" channel="SPS2">
+    <title lang="tr">Al hilal - Shabab al ahli</title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
   </programme>
-  <programme start="20261103160000 +0300" stop="20261103170000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261103170000 +0300" stop="20261103180000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261103180000 +0300" stop="20261103190000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261103190000 +0300" stop="20261103200000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261103200000 +0300" stop="20261103210000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261103210000 +0300" stop="20261103220000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261103220000 +0300" stop="20261103230000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261103230000 +0300" stop="20261104000000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261104000000 +0300" stop="20261104010000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+  <programme start="20261103233000 +0300" stop="20261104010000 +0300" channel="SPS2">
+    <title lang="tr">Dünyanın Futbolu</title>
+    <desc lang="tr">Futbol dünyasında haftanın öne çıkan gelişmeleri &quot;Dünyanın Futbolu&quot;nda ekrana geliyor. Farklı liglerden haberle bu programda.</desc>
   </programme>
   <programme start="20261104010000 +0300" stop="20261104020000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+    <title lang="tr">Smart Sahne</title>
+    <desc lang="tr">Spor dünyasından öne çıkan gelişmeler, dikkat çeken başarılar ve gündemin merak edilen başlıkları ekranlara geliyor.</desc>
   </programme>
-  <programme start="20261104020000 +0300" stop="20261104030000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+  <programme start="20261104020000 +0300" stop="20261104040000 +0300" channel="SPS2">
+    <title lang="tr">Inac kobe - Bam khaton</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
-  <programme start="20261104030000 +0300" stop="20261104040000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+  <programme start="20261104040000 +0300" stop="20261104060000 +0300" channel="SPS2">
+    <title lang="tr">Melbourne - Nasaf</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
-  <programme start="20261104040000 +0300" stop="20261104050000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+  <programme start="20261104060000 +0300" stop="20261104080000 +0300" channel="SPS2">
+    <title lang="tr">Pakhtakor - Al nassr</title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
   </programme>
-  <programme start="20261104050000 +0300" stop="20261104060000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261104060000 +0300" stop="20261104070000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261104070000 +0300" stop="20261104080000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261104080000 +0300" stop="20261104090000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261104090000 +0300" stop="20261104100000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+  <programme start="20261104080000 +0300" stop="20261104100000 +0300" channel="SPS2">
+    <title lang="tr">Vasco da gama - Flamengo</title>
+    <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
   </programme>
   <programme start="20261104100000 +0300" stop="20261104110000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+    <title lang="tr">Dünyanın Futbolu</title>
+    <desc lang="tr">Futbol dünyasında haftanın öne çıkan gelişmeleri &quot;Dünyanın Futbolu&quot;nda ekrana geliyor. Farklı liglerden haberle bu programda.</desc>
   </programme>
-  <programme start="20261104110000 +0300" stop="20261104120000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+  <programme start="20261104110000 +0300" stop="20261104130000 +0300" channel="SPS2">
+    <title lang="tr">Unicaja - Barcelona</title>
+    <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
   </programme>
-  <programme start="20261104120000 +0300" stop="20261104130000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+  <programme start="20261104130000 +0300" stop="20261104153000 +0300" channel="SPS2">
+    <title lang="tr">Seul - Viettel</title>
+    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
   </programme>
-  <programme start="20261104130000 +0300" stop="20261104140000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+  <programme start="20261104153000 +0300" stop="20261104170000 +0300" channel="SPS2">
+    <title lang="tr">Plaj Futbolu: Dünya Kupası</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
-  <programme start="20261104140000 +0300" stop="20261104150000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+  <programme start="20261104170000 +0300" stop="20261104190000 +0300" channel="SPS2">
+    <title lang="tr">Arkadaq - Gol gohar</title>
+    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
   </programme>
-  <programme start="20261104150000 +0300" stop="20261104160000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+  <programme start="20261104190000 +0300" stop="20261104213000 +0300" channel="SPS2">
+    <title lang="tr">Al wahda - Al khaldiya</title>
+    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
   </programme>
-  <programme start="20261104160000 +0300" stop="20261104170000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+  <programme start="20261104213000 +0300" stop="20261104233000 +0300" channel="SPS2">
+    <title lang="tr">Al taawon - Al faysaly</title>
+    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
   </programme>
-  <programme start="20261104170000 +0300" stop="20261104180000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+  <programme start="20261104233000 +0300" stop="20261105013000 +0300" channel="SPS2">
+    <title lang="tr">Real madrid - San pablo burgos</title>
+    <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
   </programme>
-  <programme start="20261104180000 +0300" stop="20261104190000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+  <programme start="20261105013000 +0300" stop="20261105033000 +0300" channel="SPS2">
+    <title lang="tr">Zaragoza - Girona</title>
+    <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
   </programme>
-  <programme start="20261104190000 +0300" stop="20261104200000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+  <programme start="20261105033000 +0300" stop="20261105040000 +0300" channel="SPS2">
+    <title lang="tr">Monster Jam</title>
+    <desc lang="tr">Dev kamyonların nefes kesen gösterilerini, akrobasi hareketlerini ve heyecan dolu yarışlarını ekrana taşıyan aksiyon dolu bir motorsporları etkinliğidir.</desc>
   </programme>
-  <programme start="20261104200000 +0300" stop="20261104210000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+  <programme start="20261105040000 +0300" stop="20261105060000 +0300" channel="SPS2">
+    <title lang="tr">Al sadd - Al ahli</title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
   </programme>
-  <programme start="20261104210000 +0300" stop="20261104220000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261104220000 +0300" stop="20261104230000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261104230000 +0300" stop="20261105000000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261105000000 +0300" stop="20261105010000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261105010000 +0300" stop="20261105020000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261105020000 +0300" stop="20261105030000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261105030000 +0300" stop="20261105040000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261105040000 +0300" stop="20261105050000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261105050000 +0300" stop="20261105060000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261105060000 +0300" stop="20261105070000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261105070000 +0300" stop="20261105080000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
+  <programme start="20261105060000 +0300" stop="20261105080000 +0300" channel="SPS2">
+    <title lang="tr">Al wasl - Air force</title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
   </programme>
   <programme start="20261105080000 +0300" stop="20261105090000 +0300" channel="SPS2">
+    <title lang="tr">2026</title>
+    <desc lang="tr">Adrenalini dorukta yaşayın! Yabancı at yarışlarının en heyecanlı anları Spor Smart ekranında</desc>
+  </programme>
+  <programme start="20261105090000 +0300" stop="20261105110000 +0300" channel="SPS2">
+    <title lang="tr">Bragantino - Santos</title>
+    <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
+  </programme>
+  <programme start="20261105110000 +0300" stop="20261105130000 +0300" channel="SPS2">
+    <title lang="tr">Boca juniors - River plate</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261105130000 +0300" stop="20261105153000 +0300" channel="SPS2">
+    <title lang="tr">Lion city - Adelaide</title>
+    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261105153000 +0300" stop="20261105173000 +0300" channel="SPS2">
+    <title lang="tr">Kuching - Gangwon</title>
+    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261105173000 +0300" stop="20261105193000 +0300" channel="SPS2">
+    <title lang="tr">Leyma coruna - Tenerife</title>
+    <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
+  </programme>
+  <programme start="20261105193000 +0300" stop="20261105213000 +0300" channel="SPS2">
+    <title lang="tr">Al gharafa - Al khadisiyah</title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
+  </programme>
+  <programme start="20261105213000 +0300" stop="20261105233000 +0300" channel="SPS2">
+    <title lang="tr">Kashiwa reysol - Daejeon</title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
+  </programme>
+  <programme start="20261105233000 +0300" stop="20261106010000 +0300" channel="SPS2">
+    <title lang="tr">Spor Ajansı</title>
+    <desc lang="tr">Günün öne çıkan spor gelişmeleri, kritik maç analizleri ve takım performansları Spor Ajansı&apos;nda izleyiciye hızlı ve heyecanlı şekilde aktarılıyor.</desc>
+  </programme>
+  <programme start="20261106010000 +0300" stop="20261106013000 +0300" channel="SPS2">
+    <title lang="tr">2026</title>
+    <desc lang="tr">Adrenalini dorukta yaşayın! Yabancı at yarışlarının en heyecanlı anları Spor Smart ekranında</desc>
+  </programme>
+  <programme start="20261106013000 +0300" stop="20261106033000 +0300" channel="SPS2">
+    <title lang="tr">East bengal - Al seeb</title>
+    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261106033000 +0300" stop="20261106040000 +0300" channel="SPS2">
+    <title lang="tr">Arjantin Clasura Özetler</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261106040000 +0300" stop="20261106060000 +0300" channel="SPS2">
+    <title lang="tr">Newcastle jets - Shanghai port</title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
+  </programme>
+  <programme start="20261106060000 +0300" stop="20261106080000 +0300" channel="SPS2">
+    <title lang="tr">Vissel kobe - Ratchaburi</title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
+  </programme>
+  <programme start="20261106080000 +0300" stop="20261106093000 +0300" channel="SPS2">
+    <title lang="tr">Spor Ajansı</title>
+    <desc lang="tr">Günün öne çıkan spor gelişmeleri, kritik maç analizleri ve takım performansları Spor Ajansı&apos;nda izleyiciye hızlı ve heyecanlı şekilde aktarılıyor.</desc>
+  </programme>
+  <programme start="20261106093000 +0300" stop="20261106113000 +0300" channel="SPS2">
+    <title lang="tr">Sao paulo - Corinthians</title>
+    <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
+  </programme>
+  <programme start="20261106113000 +0300" stop="20261106133000 +0300" channel="SPS2">
+    <title lang="tr">Bragantino - Santos</title>
+    <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
+  </programme>
+  <programme start="20261106133000 +0300" stop="20261106150000 +0300" channel="SPS2">
+    <title lang="tr">Smart Sahne</title>
+    <desc lang="tr">Spor dünyasından öne çıkan gelişmeler, dikkat çeken başarılar ve gündemin merak edilen başlıkları ekranlara geliyor.</desc>
+  </programme>
+  <programme start="20261106150000 +0300" stop="20261106153000 +0300" channel="SPS2">
+    <title lang="tr">Haber 15</title>
+    <desc lang="tr">Güncel haberlerin aktarıldığı bültende gündemdeki gelişmeler hızlı ve anlaşılır şekilde izleyiciye sunuluyor.</desc>
+  </programme>
+  <programme start="20261106153000 +0300" stop="20261106170000 +0300" channel="SPS2">
+    <title lang="tr">Real madrid - San pablo burgos</title>
+    <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
+  </programme>
+  <programme start="20261106170000 +0300" stop="20261106190000 +0300" channel="SPS2">
+    <title lang="tr">Racing club - Aldosivi</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261106190000 +0300" stop="20261106193000 +0300" channel="SPS2">
+    <title lang="tr">Haber 19</title>
+    <desc lang="tr">Yurtdışından ve dünyadan haberleri saat 19&apos;da!</desc>
+  </programme>
+  <programme start="20261106193000 +0300" stop="20261106213000 +0300" channel="SPS2">
+    <title lang="tr">Unicaja - Barcelona</title>
+    <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
+  </programme>
+  <programme start="20261106213000 +0300" stop="20261106233000 +0300" channel="SPS2">
+    <title lang="tr">Zaragoza - Girona</title>
+    <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
+  </programme>
+  <programme start="20261106233000 +0300" stop="20261107013000 +0300" channel="SPS2">
+    <title lang="tr">Melbourne - Persib bandung</title>
+    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261107013000 +0300" stop="20261107033000 +0300" channel="SPS2">
+    <title lang="tr">Al rayyan - Al nahda</title>
+    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261107033000 +0300" stop="20261107053000 +0300" channel="SPS2">
+    <title lang="tr">Pohang - Gamba osaka</title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
+  </programme>
+  <programme start="20261107053000 +0300" stop="20261107060000 +0300" channel="SPS2">
+    <title lang="tr">2026</title>
+    <desc lang="tr">Adrenalini dorukta yaşayın! Yabancı at yarışlarının en heyecanlı anları Spor Smart ekranında</desc>
+  </programme>
+  <programme start="20261107060000 +0300" stop="20261107080000 +0300" channel="SPS2">
+    <title lang="tr">Vasco da gama - Flamengo</title>
+    <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
+  </programme>
+  <programme start="20261107080000 +0300" stop="20261107093000 +0300" channel="SPS2">
+    <title lang="tr">Smart Sahne</title>
+    <desc lang="tr">Spor dünyasından öne çıkan gelişmeler, dikkat çeken başarılar ve gündemin merak edilen başlıkları ekranlara geliyor.</desc>
+  </programme>
+  <programme start="20261107093000 +0300" stop="20261107113000 +0300" channel="SPS2">
+    <title lang="tr">Leyma coruna - Tenerife</title>
+    <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
+  </programme>
+  <programme start="20261107113000 +0300" stop="20261107133000 +0300" channel="SPS2">
+    <title lang="tr">Hwacheon - Ho chi minh</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261107133000 +0300" stop="20261107153000 +0300" channel="SPS2">
+    <title lang="tr">Melbourne - Beijing</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261107153000 +0300" stop="20261107173000 +0300" channel="SPS2">
+    <title lang="tr">Bam khaton - Ayewaday</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261107173000 +0300" stop="20261107193000 +0300" channel="SPS2">
+    <title lang="tr">Kaya - Nasaf</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261107193000 +0300" stop="20261107213000 +0300" channel="SPS2">
+    <title lang="tr">Muharraq - Al jazira</title>
+    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261107213000 +0300" stop="20261107233000 +0300" channel="SPS2">
+    <title lang="tr">Sao paulo - Corinthians</title>
+    <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
+  </programme>
+  <programme start="20261107233000 +0300" stop="20261108000000 +0300" channel="SPS2">
     <title lang="tr">Spor Smart 2</title>
     <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261105090000 +0300" stop="20261105100000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261105100000 +0300" stop="20261105110000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261105110000 +0300" stop="20261105120000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261105120000 +0300" stop="20261105130000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261105130000 +0300" stop="20261105140000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261105140000 +0300" stop="20261105150000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261105150000 +0300" stop="20261105160000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261105160000 +0300" stop="20261105170000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261105170000 +0300" stop="20261105180000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261105180000 +0300" stop="20261105190000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261105190000 +0300" stop="20261105200000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261105200000 +0300" stop="20261105210000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261105210000 +0300" stop="20261105220000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261105220000 +0300" stop="20261105230000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261105230000 +0300" stop="20261106000000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261106000000 +0300" stop="20261106010000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261106010000 +0300" stop="20261106020000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261106020000 +0300" stop="20261106030000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261106030000 +0300" stop="20261106040000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261106040000 +0300" stop="20261106050000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261106050000 +0300" stop="20261106060000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261106060000 +0300" stop="20261106070000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261106070000 +0300" stop="20261106080000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261106080000 +0300" stop="20261106090000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261106090000 +0300" stop="20261106100000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261106100000 +0300" stop="20261106110000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261106110000 +0300" stop="20261106120000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261106120000 +0300" stop="20261106130000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261106130000 +0300" stop="20261106140000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261106140000 +0300" stop="20261106150000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261106150000 +0300" stop="20261106160000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261106160000 +0300" stop="20261106170000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261106170000 +0300" stop="20261106180000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261106180000 +0300" stop="20261106190000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261106190000 +0300" stop="20261106200000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261106200000 +0300" stop="20261106210000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261106210000 +0300" stop="20261106220000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261106220000 +0300" stop="20261106230000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261106230000 +0300" stop="20261107000000 +0300" channel="SPS2">
-    <title lang="tr">Spor Smart 2</title>
-    <desc lang="tr">Spor Smart 2</desc>
-  </programme>
-  <programme start="20261101233000 +0300" stop="20261102000000 +0300" channel="CSMR">
-    <title lang="tr">Cico ile Moco</title>
-    <desc lang="tr">Cico ve Moco, her gün yeni şeyler keşfeden iki sevimli dosttur. Eğlenceli oyunlar, küçük sürprizler ve neşeli maceralarla öğrenmeyi keyifli hale getirirler.</desc>
-  </programme>
-  <programme start="20261102000000 +0300" stop="20261102003000 +0300" channel="CSMR">
-    <title lang="tr">Origami Yapıyoruz</title>
-    <desc lang="tr">Origami Yapıyoruz, çocuklara kağıt katlamanın inceliklerini öğreten eğlenceli bir programdır. Basit adımlarla hayvanlar, nesneler ve figürler yapılırken el becerisi ve hayal gücü gelişir.</desc>
-  </programme>
-  <programme start="20261102003000 +0300" stop="20261102013000 +0300" channel="CSMR">
-    <title lang="tr">Cico ile Moco</title>
-    <desc lang="tr">Cico ve Moco, her gün yeni şeyler keşfeden iki sevimli dosttur. Eğlenceli oyunlar, küçük sürprizler ve neşeli maceralarla öğrenmeyi keyifli hale getirirler.</desc>
-  </programme>
-  <programme start="20261102013000 +0300" stop="20261102023000 +0300" channel="CSMR">
-    <title lang="tr">Origami Yapıyoruz</title>
-    <desc lang="tr">Origami Yapıyoruz, çocuklara kağıt katlamanın inceliklerini öğreten eğlenceli bir programdır. Basit adımlarla hayvanlar, nesneler ve figürler yapılırken el becerisi ve hayal gücü gelişir.</desc>
-  </programme>
-  <programme start="20261102023000 +0300" stop="20261102035000 +0300" channel="CSMR">
-    <title lang="tr">Cico ile Moco</title>
-    <desc lang="tr">Cico ve Moco, her gün yeni şeyler keşfeden iki sevimli dosttur. Eğlenceli oyunlar, küçük sürprizler ve neşeli maceralarla öğrenmeyi keyifli hale getirirler.</desc>
-  </programme>
-  <programme start="20261102035000 +0300" stop="20261102050000 +0300" channel="CSMR">
-    <title lang="tr">Origami Yapıyoruz</title>
-    <desc lang="tr">Origami Yapıyoruz, çocuklara kağıt katlamanın inceliklerini öğreten eğlenceli bir programdır. Basit adımlarla hayvanlar, nesneler ve figürler yapılırken el becerisi ve hayal gücü gelişir.</desc>
-  </programme>
-  <programme start="20261102050000 +0300" stop="20261102060000 +0300" channel="CSMR">
-    <title lang="tr">Cico ile Moco</title>
-    <desc lang="tr">Cico ve Moco, her gün yeni şeyler keşfeden iki sevimli dosttur. Eğlenceli oyunlar, küçük sürprizler ve neşeli maceralarla öğrenmeyi keyifli hale getirirler.</desc>
-  </programme>
-  <programme start="20261102060000 +0300" stop="20261102063000 +0300" channel="CSMR">
-    <title lang="tr">Homur ve Gumur</title>
-    <desc lang="tr">Homur ve Gumur, inşaat araçlarının dostluk ve iş birliği dolu maceralarını renkli ve eğlenceli bir şekilde ekranlara taşıyan animasyondur.</desc>
-  </programme>
-  <programme start="20261102063000 +0300" stop="20261102070000 +0300" channel="CSMR">
-    <title lang="tr">Canavar Avcısı Kulübü</title>
-    <desc lang="tr">Canavar Avcısı Kulübü, gizli canavarları yakalayan genç kahramanların dostluk ve cesaret dolu maceralarını anlatan animasyon serisidir.</desc>
-  </programme>
-  <programme start="20261102070000 +0300" stop="20261102073000 +0300" channel="CSMR">
-    <title lang="tr">Kukuli</title>
-    <desc lang="tr">Kukuli ve arkadaşları, eğlenceli ve öğretici şarkılarla miniklere neşeli, kahkaha dolu maceralar sunuyor.</desc>
-  </programme>
-  <programme start="20261102073000 +0300" stop="20261102080000 +0300" channel="CSMR">
-    <title lang="tr">Extreme Football</title>
-    <desc lang="tr">Extreme Football, akrobatik hareketler ve hızlı maçlarla takım ruhu ve cesareti eğlenceli bir şekilde anlatan animasyon serisidir.</desc>
-  </programme>
-  <programme start="20261102080000 +0300" stop="20261102083000 +0300" channel="CSMR">
-    <title lang="tr">Boonie Ayıları: Maceracılar</title>
-    <desc lang="tr">Boonie Ayıları: Maceracılar, cesur ayıların dostluk ve macera dolu hikâyelerini eğlenceli ve öğretici bir şekilde ekranlara taşıyan animasyondur.</desc>
-  </programme>
-  <programme start="20261102083000 +0300" stop="20261102090000 +0300" channel="CSMR">
-    <title lang="tr">Kody Kapow</title>
-    <desc lang="tr">Kung fu temalı bu animasyon, bir çocuğun eğlenceli ve öğretici maceralarını anlatır.</desc>
-  </programme>
-  <programme start="20261102090000 +0300" stop="20261102093000 +0300" channel="CSMR">
-    <title lang="tr">Boonie Ayıları: Maceracılar</title>
-    <desc lang="tr">Boonie Ayıları: Maceracılar, cesur ayıların dostluk ve macera dolu hikâyelerini eğlenceli ve öğretici bir şekilde ekranlara taşıyan animasyondur.</desc>
-  </programme>
-  <programme start="20261102093000 +0300" stop="20261102100000 +0300" channel="CSMR">
-    <title lang="tr">Mondo Yan</title>
-    <desc lang="tr">Mondo Yan, renkli dünyası ve enerjik hikâyeleriyle dostluk, paylaşma ve hayal gücünü eğlenceli maceralarla anlatan bir animasyon dizisidir.</desc>
-  </programme>
-  <programme start="20261102100000 +0300" stop="20261102103000 +0300" channel="CSMR">
-    <title lang="tr">Kody Kapow</title>
-    <desc lang="tr">Kung fu temalı bu animasyon, bir çocuğun eğlenceli ve öğretici maceralarını anlatır.</desc>
-  </programme>
-  <programme start="20261102103000 +0300" stop="20261102110000 +0300" channel="CSMR">
-    <title lang="tr">Kukuli</title>
-    <desc lang="tr">Kukuli ve arkadaşları, eğlenceli ve öğretici şarkılarla miniklere neşeli, kahkaha dolu maceralar sunuyor.</desc>
-  </programme>
-  <programme start="20261102110000 +0300" stop="20261102113000 +0300" channel="CSMR">
-    <title lang="tr">Boonie Ayıları: Maceracılar</title>
-    <desc lang="tr">Boonie Ayıları: Maceracılar, cesur ayıların dostluk ve macera dolu hikâyelerini eğlenceli ve öğretici bir şekilde ekranlara taşıyan animasyondur.</desc>
-  </programme>
-  <programme start="20261102113000 +0300" stop="20261102120000 +0300" channel="CSMR">
-    <title lang="tr">Extreme Football</title>
-    <desc lang="tr">Extreme Football, akrobatik hareketler ve hızlı maçlarla takım ruhu ve cesareti eğlenceli bir şekilde anlatan animasyon serisidir.</desc>
-  </programme>
-  <programme start="20261102120000 +0300" stop="20261102123000 +0300" channel="CSMR">
-    <title lang="tr">Homur ve Gumur</title>
-    <desc lang="tr">Homur ve Gumur, inşaat araçlarının dostluk ve iş birliği dolu maceralarını renkli ve eğlenceli bir şekilde ekranlara taşıyan animasyondur.</desc>
-  </programme>
-  <programme start="20261102123000 +0300" stop="20261102130000 +0300" channel="CSMR">
-    <title lang="tr">Canavar Avcısı Kulübü</title>
-    <desc lang="tr">Canavar Avcısı Kulübü, gizli canavarları yakalayan genç kahramanların dostluk ve cesaret dolu maceralarını anlatan animasyon serisidir.</desc>
-  </programme>
-  <programme start="20261102130000 +0300" stop="20261102133000 +0300" channel="CSMR">
-    <title lang="tr">Boonie Ayıları: Maceracılar</title>
-    <desc lang="tr">Boonie Ayıları: Maceracılar, cesur ayıların dostluk ve macera dolu hikâyelerini eğlenceli ve öğretici bir şekilde ekranlara taşıyan animasyondur.</desc>
-  </programme>
-  <programme start="20261102133000 +0300" stop="20261102140000 +0300" channel="CSMR">
-    <title lang="tr">Kody Kapow</title>
-    <desc lang="tr">Kung fu temalı bu animasyon, bir çocuğun eğlenceli ve öğretici maceralarını anlatır.</desc>
-  </programme>
-  <programme start="20261102140000 +0300" stop="20261102143000 +0300" channel="CSMR">
-    <title lang="tr">Boonie Ayıları: Maceracılar</title>
-    <desc lang="tr">Boonie Ayıları: Maceracılar, cesur ayıların dostluk ve macera dolu hikâyelerini eğlenceli ve öğretici bir şekilde ekranlara taşıyan animasyondur.</desc>
-  </programme>
-  <programme start="20261102143000 +0300" stop="20261102150000 +0300" channel="CSMR">
-    <title lang="tr">Homur ve Gumur</title>
-    <desc lang="tr">Homur ve Gumur, inşaat araçlarının dostluk ve iş birliği dolu maceralarını renkli ve eğlenceli bir şekilde ekranlara taşıyan animasyondur.</desc>
-  </programme>
-  <programme start="20261102150000 +0300" stop="20261102153000 +0300" channel="CSMR">
-    <title lang="tr">Kukuli</title>
-    <desc lang="tr">Kukuli ve arkadaşları, eğlenceli ve öğretici şarkılarla miniklere neşeli, kahkaha dolu maceralar sunuyor.</desc>
-  </programme>
-  <programme start="20261102153000 +0300" stop="20261102160000 +0300" channel="CSMR">
-    <title lang="tr">Canavar Avcısı Kulübü</title>
-    <desc lang="tr">Canavar Avcısı Kulübü, gizli canavarları yakalayan genç kahramanların dostluk ve cesaret dolu maceralarını anlatan animasyon serisidir.</desc>
-  </programme>
-  <programme start="20261102160000 +0300" stop="20261102163000 +0300" channel="CSMR">
-    <title lang="tr">Boonie Ayıları: Maceracılar</title>
-    <desc lang="tr">Boonie Ayıları: Maceracılar, cesur ayıların dostluk ve macera dolu hikâyelerini eğlenceli ve öğretici bir şekilde ekranlara taşıyan animasyondur.</desc>
-  </programme>
-  <programme start="20261102163000 +0300" stop="20261102170000 +0300" channel="CSMR">
-    <title lang="tr">Mondo Yan</title>
-    <desc lang="tr">Mondo Yan, renkli dünyası ve enerjik hikâyeleriyle dostluk, paylaşma ve hayal gücünü eğlenceli maceralarla anlatan bir animasyon dizisidir.</desc>
-  </programme>
-  <programme start="20261102170000 +0300" stop="20261102173000 +0300" channel="CSMR">
-    <title lang="tr">Extreme Football</title>
-    <desc lang="tr">Extreme Football, akrobatik hareketler ve hızlı maçlarla takım ruhu ve cesareti eğlenceli bir şekilde anlatan animasyon serisidir.</desc>
-  </programme>
-  <programme start="20261102173000 +0300" stop="20261102180000 +0300" channel="CSMR">
-    <title lang="tr">Kody Kapow</title>
-    <desc lang="tr">Kung fu temalı bu animasyon, bir çocuğun eğlenceli ve öğretici maceralarını anlatır.</desc>
-  </programme>
-  <programme start="20261102180000 +0300" stop="20261102183000 +0300" channel="CSMR">
-    <title lang="tr">Mondo Yan</title>
-    <desc lang="tr">Mondo Yan, renkli dünyası ve enerjik hikâyeleriyle dostluk, paylaşma ve hayal gücünü eğlenceli maceralarla anlatan bir animasyon dizisidir.</desc>
-  </programme>
-  <programme start="20261102183000 +0300" stop="20261102190000 +0300" channel="CSMR">
-    <title lang="tr">Boonie Ayıları: Maceracılar</title>
-    <desc lang="tr">Boonie Ayıları: Maceracılar, cesur ayıların dostluk ve macera dolu hikâyelerini eğlenceli ve öğretici bir şekilde ekranlara taşıyan animasyondur.</desc>
-  </programme>
-  <programme start="20261102190000 +0300" stop="20261102193000 +0300" channel="CSMR">
-    <title lang="tr">Extreme Football</title>
-    <desc lang="tr">Extreme Football, akrobatik hareketler ve hızlı maçlarla takım ruhu ve cesareti eğlenceli bir şekilde anlatan animasyon serisidir.</desc>
-  </programme>
-  <programme start="20261102193000 +0300" stop="20261102200000 +0300" channel="CSMR">
-    <title lang="tr">Kukuli</title>
-    <desc lang="tr">Kukuli ve arkadaşları, eğlenceli ve öğretici şarkılarla miniklere neşeli, kahkaha dolu maceralar sunuyor.</desc>
-  </programme>
-  <programme start="20261102200000 +0300" stop="20261102203000 +0300" channel="CSMR">
-    <title lang="tr">Canavar Avcısı Kulübü</title>
-    <desc lang="tr">Canavar Avcısı Kulübü, gizli canavarları yakalayan genç kahramanların dostluk ve cesaret dolu maceralarını anlatan animasyon serisidir.</desc>
-  </programme>
-  <programme start="20261102203000 +0300" stop="20261102210000 +0300" channel="CSMR">
-    <title lang="tr">Homur ve Gumur</title>
-    <desc lang="tr">Homur ve Gumur, inşaat araçlarının dostluk ve iş birliği dolu maceralarını renkli ve eğlenceli bir şekilde ekranlara taşıyan animasyondur.</desc>
-  </programme>
-  <programme start="20261102210000 +0300" stop="20261102213000 +0300" channel="CSMR">
-    <title lang="tr">Boonie Ayıları: Maceracılar</title>
-    <desc lang="tr">Boonie Ayıları: Maceracılar, cesur ayıların dostluk ve macera dolu hikâyelerini eğlenceli ve öğretici bir şekilde ekranlara taşıyan animasyondur.</desc>
-  </programme>
-  <programme start="20261102213000 +0300" stop="20261102220000 +0300" channel="CSMR">
-    <title lang="tr">Mondo Yan</title>
-    <desc lang="tr">Mondo Yan, renkli dünyası ve enerjik hikâyeleriyle dostluk, paylaşma ve hayal gücünü eğlenceli maceralarla anlatan bir animasyon dizisidir.</desc>
-  </programme>
-  <programme start="20261102220000 +0300" stop="20261102223000 +0300" channel="CSMR">
-    <title lang="tr">Origami Yapıyoruz</title>
-    <desc lang="tr">Origami Yapıyoruz, çocuklara kağıt katlamanın inceliklerini öğreten eğlenceli bir programdır. Basit adımlarla hayvanlar, nesneler ve figürler yapılırken el becerisi ve hayal gücü gelişir.</desc>
-  </programme>
-  <programme start="20261102223000 +0300" stop="20261102230000 +0300" channel="CSMR">
-    <title lang="tr">Cico ile Moco</title>
-    <desc lang="tr">Cico ve Moco, her gün yeni şeyler keşfeden iki sevimli dosttur. Eğlenceli oyunlar, küçük sürprizler ve neşeli maceralarla öğrenmeyi keyifli hale getirirler.</desc>
-  </programme>
-  <programme start="20261102230000 +0300" stop="20261102233000 +0300" channel="CSMR">
-    <title lang="tr">Origami Yapıyoruz</title>
-    <desc lang="tr">Origami Yapıyoruz, çocuklara kağıt katlamanın inceliklerini öğreten eğlenceli bir programdır. Basit adımlarla hayvanlar, nesneler ve figürler yapılırken el becerisi ve hayal gücü gelişir.</desc>
   </programme>
   <programme start="20261102233000 +0300" stop="20261103000000 +0300" channel="CSMR">
     <title lang="tr">Cico ile Moco</title>
@@ -2130,61 +2074,173 @@
     <title lang="tr">Cico ile Moco</title>
     <desc lang="tr">Cico ve Moco, her gün yeni şeyler keşfeden iki sevimli dosttur. Eğlenceli oyunlar, küçük sürprizler ve neşeli maceralarla öğrenmeyi keyifli hale getirirler.</desc>
   </programme>
-  <programme start="20261101224500 +0300" stop="20261102010500 +0300" channel="DSMX">
-    <title lang="tr">İsimsizler</title>
-    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  <programme start="20261107000000 +0300" stop="20261107003000 +0300" channel="CSMR">
+    <title lang="tr">Origami Yapıyoruz</title>
+    <desc lang="tr">Origami Yapıyoruz, çocuklara kağıt katlamanın inceliklerini öğreten eğlenceli bir programdır. Basit adımlarla hayvanlar, nesneler ve figürler yapılırken el becerisi ve hayal gücü gelişir.</desc>
   </programme>
-  <programme start="20261102010500 +0300" stop="20261102033000 +0300" channel="DSMX">
-    <title lang="tr">Baht Oyunu</title>
-    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  <programme start="20261107003000 +0300" stop="20261107013000 +0300" channel="CSMR">
+    <title lang="tr">Cico ile Moco</title>
+    <desc lang="tr">Cico ve Moco, her gün yeni şeyler keşfeden iki sevimli dosttur. Eğlenceli oyunlar, küçük sürprizler ve neşeli maceralarla öğrenmeyi keyifli hale getirirler.</desc>
   </programme>
-  <programme start="20261102033000 +0300" stop="20261102052000 +0300" channel="DSMX">
-    <title lang="tr">Yaz&apos;ın Öyküsü</title>
-    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  <programme start="20261107013000 +0300" stop="20261107023000 +0300" channel="CSMR">
+    <title lang="tr">Origami Yapıyoruz</title>
+    <desc lang="tr">Origami Yapıyoruz, çocuklara kağıt katlamanın inceliklerini öğreten eğlenceli bir programdır. Basit adımlarla hayvanlar, nesneler ve figürler yapılırken el becerisi ve hayal gücü gelişir.</desc>
   </programme>
-  <programme start="20261102052000 +0300" stop="20261102055500 +0300" channel="DSMX">
-    <title lang="tr">Dövme Kulübü</title>
-    <desc lang="tr">Dövme sanatçılarını ve eserlerine gizledikleri hayatları anlatan Dövme Kulübü, Max Smart ekranlarında.</desc>
+  <programme start="20261107023000 +0300" stop="20261107035000 +0300" channel="CSMR">
+    <title lang="tr">Cico ile Moco</title>
+    <desc lang="tr">Cico ve Moco, her gün yeni şeyler keşfeden iki sevimli dosttur. Eğlenceli oyunlar, küçük sürprizler ve neşeli maceralarla öğrenmeyi keyifli hale getirirler.</desc>
   </programme>
-  <programme start="20261102055500 +0300" stop="20261102070500 +0300" channel="DSMX">
-    <title lang="tr">Aşk ve Umut</title>
-    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  <programme start="20261107035000 +0300" stop="20261107050000 +0300" channel="CSMR">
+    <title lang="tr">Origami Yapıyoruz</title>
+    <desc lang="tr">Origami Yapıyoruz, çocuklara kağıt katlamanın inceliklerini öğreten eğlenceli bir programdır. Basit adımlarla hayvanlar, nesneler ve figürler yapılırken el becerisi ve hayal gücü gelişir.</desc>
   </programme>
-  <programme start="20261102070500 +0300" stop="20261102081500 +0300" channel="DSMX">
-    <title lang="tr">Alın Yazım</title>
-    <desc lang="tr">Zorluklarla büyüyen genç bir kadın, kaderini değiştirmek için mücadele ederken aşk, ihanet ve aile sırlarıyla yüzleşir.</desc>
+  <programme start="20261107050000 +0300" stop="20261107060000 +0300" channel="CSMR">
+    <title lang="tr">Cico ile Moco</title>
+    <desc lang="tr">Cico ve Moco, her gün yeni şeyler keşfeden iki sevimli dosttur. Eğlenceli oyunlar, küçük sürprizler ve neşeli maceralarla öğrenmeyi keyifli hale getirirler.</desc>
   </programme>
-  <programme start="20261102081500 +0300" stop="20261102094000 +0300" channel="DSMX">
-    <title lang="tr">Çemberimde Gül Oya</title>
-    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  <programme start="20261107060000 +0300" stop="20261107063000 +0300" channel="CSMR">
+    <title lang="tr">Mondo Yan</title>
+    <desc lang="tr">Mondo Yan, renkli dünyası ve enerjik hikâyeleriyle dostluk, paylaşma ve hayal gücünü eğlenceli maceralarla anlatan bir animasyon dizisidir.</desc>
   </programme>
-  <programme start="20261102094000 +0300" stop="20261102105500 +0300" channel="DSMX">
-    <title lang="tr">Mutfağım</title>
-    <desc lang="tr">Lezzetli tarifler ve pratik mutfak sırlarıyla dolu Mutfağım, izleyiciyi mutfağa davet ediyor.</desc>
+  <programme start="20261107063000 +0300" stop="20261107070000 +0300" channel="CSMR">
+    <title lang="tr">Kukuli</title>
+    <desc lang="tr">Kukuli ve arkadaşları, eğlenceli ve öğretici şarkılarla miniklere neşeli, kahkaha dolu maceralar sunuyor.</desc>
   </programme>
-  <programme start="20261102105500 +0300" stop="20261102122000 +0300" channel="DSMX">
-    <title lang="tr">Kavak Yelleri</title>
-    <desc lang="tr">Gençliğin heyecanı, dostluğun gücü ve ilk aşkların karmaşası Kavak Yelleri&apos;nde Ege kasabasında kesişen hayatlarla ekrana taşınıyor.</desc>
+  <programme start="20261107070000 +0300" stop="20261107073000 +0300" channel="CSMR">
+    <title lang="tr">Extreme Football</title>
+    <desc lang="tr">Extreme Football, akrobatik hareketler ve hızlı maçlarla takım ruhu ve cesareti eğlenceli bir şekilde anlatan animasyon serisidir.</desc>
   </programme>
-  <programme start="20261102122000 +0300" stop="20261102150000 +0300" channel="DSMX">
-    <title lang="tr">Bodrum Masalı</title>
-    <desc lang="tr">Türkiye, büyük bir ayaklanma yaşayan bir aile hakkında romantik, drama dizisi. Aşk, entrika ve hayat mücadelesi bu hikayenin ana temalarıdır.</desc>
+  <programme start="20261107073000 +0300" stop="20261107080000 +0300" channel="CSMR">
+    <title lang="tr">Boonie Ayıları: Maceracılar</title>
+    <desc lang="tr">Boonie Ayıları: Maceracılar, cesur ayıların dostluk ve macera dolu hikâyelerini eğlenceli ve öğretici bir şekilde ekranlara taşıyan animasyondur.</desc>
   </programme>
-  <programme start="20261102150000 +0300" stop="20261102173000 +0300" channel="DSMX">
-    <title lang="tr">Siyah Beyaz Aşk</title>
-    <desc lang="tr">Zıt karakterlere sahip iki kişinin kesişen hayatları üzerinden gelişen dramatik bir aşk hikâyesi anlatılır.</desc>
+  <programme start="20261107080000 +0300" stop="20261107083000 +0300" channel="CSMR">
+    <title lang="tr">Canavar Avcısı Kulübü</title>
+    <desc lang="tr">Canavar Avcısı Kulübü, gizli canavarları yakalayan genç kahramanların dostluk ve cesaret dolu maceralarını anlatan animasyon serisidir.</desc>
   </programme>
-  <programme start="20261102173000 +0300" stop="20261102195000 +0300" channel="DSMX">
-    <title lang="tr">Vatanım Sensin</title>
-    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  <programme start="20261107083000 +0300" stop="20261107090000 +0300" channel="CSMR">
+    <title lang="tr">Homur ve Gumur</title>
+    <desc lang="tr">Homur ve Gumur, inşaat araçlarının dostluk ve iş birliği dolu maceralarını renkli ve eğlenceli bir şekilde ekranlara taşıyan animasyondur.</desc>
   </programme>
-  <programme start="20261102195000 +0300" stop="20261102201500 +0300" channel="DSMX">
-    <title lang="tr">Hakan Gence ile Sıkı Muhabbet</title>
-    <desc lang="tr">Hakan Gence, gündemin sıcak konularını ve popüler meseleleri konuklarıyla samimi bir sohbet ortamında tartışıyor.</desc>
+  <programme start="20261107090000 +0300" stop="20261107093000 +0300" channel="CSMR">
+    <title lang="tr">Kody Kapow</title>
+    <desc lang="tr">Kung fu temalı bu animasyon, bir çocuğun eğlenceli ve öğretici maceralarını anlatır.</desc>
   </programme>
-  <programme start="20261102201500 +0300" stop="20261102224500 +0300" channel="DSMX">
-    <title lang="tr">Aşkın Tarifi</title>
-    <desc lang="tr">Aşkı ve tutkuyu yemekle harmanlayan bir şef, kalbinin tarifini keşfederken duygusal bir yolculuğa çıkar.</desc>
+  <programme start="20261107093000 +0300" stop="20261107100000 +0300" channel="CSMR">
+    <title lang="tr">Boonie Ayıları: Maceracılar</title>
+    <desc lang="tr">Boonie Ayıları: Maceracılar, cesur ayıların dostluk ve macera dolu hikâyelerini eğlenceli ve öğretici bir şekilde ekranlara taşıyan animasyondur.</desc>
+  </programme>
+  <programme start="20261107100000 +0300" stop="20261107103000 +0300" channel="CSMR">
+    <title lang="tr">Canavar Avcısı Kulübü</title>
+    <desc lang="tr">Canavar Avcısı Kulübü, gizli canavarları yakalayan genç kahramanların dostluk ve cesaret dolu maceralarını anlatan animasyon serisidir.</desc>
+  </programme>
+  <programme start="20261107103000 +0300" stop="20261107110000 +0300" channel="CSMR">
+    <title lang="tr">Mondo Yan</title>
+    <desc lang="tr">Mondo Yan, renkli dünyası ve enerjik hikâyeleriyle dostluk, paylaşma ve hayal gücünü eğlenceli maceralarla anlatan bir animasyon dizisidir.</desc>
+  </programme>
+  <programme start="20261107110000 +0300" stop="20261107113000 +0300" channel="CSMR">
+    <title lang="tr">Canavar Avcısı Kulübü</title>
+    <desc lang="tr">Canavar Avcısı Kulübü, gizli canavarları yakalayan genç kahramanların dostluk ve cesaret dolu maceralarını anlatan animasyon serisidir.</desc>
+  </programme>
+  <programme start="20261107113000 +0300" stop="20261107120000 +0300" channel="CSMR">
+    <title lang="tr">Kukuli</title>
+    <desc lang="tr">Kukuli ve arkadaşları, eğlenceli ve öğretici şarkılarla miniklere neşeli, kahkaha dolu maceralar sunuyor.</desc>
+  </programme>
+  <programme start="20261107120000 +0300" stop="20261107123000 +0300" channel="CSMR">
+    <title lang="tr">Homur ve Gumur</title>
+    <desc lang="tr">Homur ve Gumur, inşaat araçlarının dostluk ve iş birliği dolu maceralarını renkli ve eğlenceli bir şekilde ekranlara taşıyan animasyondur.</desc>
+  </programme>
+  <programme start="20261107123000 +0300" stop="20261107130000 +0300" channel="CSMR">
+    <title lang="tr">Kody Kapow</title>
+    <desc lang="tr">Kung fu temalı bu animasyon, bir çocuğun eğlenceli ve öğretici maceralarını anlatır.</desc>
+  </programme>
+  <programme start="20261107130000 +0300" stop="20261107133000 +0300" channel="CSMR">
+    <title lang="tr">Homur ve Gumur</title>
+    <desc lang="tr">Homur ve Gumur, inşaat araçlarının dostluk ve iş birliği dolu maceralarını renkli ve eğlenceli bir şekilde ekranlara taşıyan animasyondur.</desc>
+  </programme>
+  <programme start="20261107133000 +0300" stop="20261107140000 +0300" channel="CSMR">
+    <title lang="tr">Mondo Yan</title>
+    <desc lang="tr">Mondo Yan, renkli dünyası ve enerjik hikâyeleriyle dostluk, paylaşma ve hayal gücünü eğlenceli maceralarla anlatan bir animasyon dizisidir.</desc>
+  </programme>
+  <programme start="20261107140000 +0300" stop="20261107143000 +0300" channel="CSMR">
+    <title lang="tr">Boonie Ayıları: Maceracılar</title>
+    <desc lang="tr">Boonie Ayıları: Maceracılar, cesur ayıların dostluk ve macera dolu hikâyelerini eğlenceli ve öğretici bir şekilde ekranlara taşıyan animasyondur.</desc>
+  </programme>
+  <programme start="20261107143000 +0300" stop="20261107150000 +0300" channel="CSMR">
+    <title lang="tr">Kukuli</title>
+    <desc lang="tr">Kukuli ve arkadaşları, eğlenceli ve öğretici şarkılarla miniklere neşeli, kahkaha dolu maceralar sunuyor.</desc>
+  </programme>
+  <programme start="20261107150000 +0300" stop="20261107153000 +0300" channel="CSMR">
+    <title lang="tr">Extreme Football</title>
+    <desc lang="tr">Extreme Football, akrobatik hareketler ve hızlı maçlarla takım ruhu ve cesareti eğlenceli bir şekilde anlatan animasyon serisidir.</desc>
+  </programme>
+  <programme start="20261107153000 +0300" stop="20261107160000 +0300" channel="CSMR">
+    <title lang="tr">Canavar Avcısı Kulübü</title>
+    <desc lang="tr">Canavar Avcısı Kulübü, gizli canavarları yakalayan genç kahramanların dostluk ve cesaret dolu maceralarını anlatan animasyon serisidir.</desc>
+  </programme>
+  <programme start="20261107160000 +0300" stop="20261107163000 +0300" channel="CSMR">
+    <title lang="tr">Kody Kapow</title>
+    <desc lang="tr">Kung fu temalı bu animasyon, bir çocuğun eğlenceli ve öğretici maceralarını anlatır.</desc>
+  </programme>
+  <programme start="20261107163000 +0300" stop="20261107170000 +0300" channel="CSMR">
+    <title lang="tr">Boonie Ayıları: Maceracılar</title>
+    <desc lang="tr">Boonie Ayıları: Maceracılar, cesur ayıların dostluk ve macera dolu hikâyelerini eğlenceli ve öğretici bir şekilde ekranlara taşıyan animasyondur.</desc>
+  </programme>
+  <programme start="20261107170000 +0300" stop="20261107173000 +0300" channel="CSMR">
+    <title lang="tr">Canavar Avcısı Kulübü</title>
+    <desc lang="tr">Canavar Avcısı Kulübü, gizli canavarları yakalayan genç kahramanların dostluk ve cesaret dolu maceralarını anlatan animasyon serisidir.</desc>
+  </programme>
+  <programme start="20261107173000 +0300" stop="20261107180000 +0300" channel="CSMR">
+    <title lang="tr">Mondo Yan</title>
+    <desc lang="tr">Mondo Yan, renkli dünyası ve enerjik hikâyeleriyle dostluk, paylaşma ve hayal gücünü eğlenceli maceralarla anlatan bir animasyon dizisidir.</desc>
+  </programme>
+  <programme start="20261107180000 +0300" stop="20261107183000 +0300" channel="CSMR">
+    <title lang="tr">Canavar Avcısı Kulübü</title>
+    <desc lang="tr">Canavar Avcısı Kulübü, gizli canavarları yakalayan genç kahramanların dostluk ve cesaret dolu maceralarını anlatan animasyon serisidir.</desc>
+  </programme>
+  <programme start="20261107183000 +0300" stop="20261107190000 +0300" channel="CSMR">
+    <title lang="tr">Kukuli</title>
+    <desc lang="tr">Kukuli ve arkadaşları, eğlenceli ve öğretici şarkılarla miniklere neşeli, kahkaha dolu maceralar sunuyor.</desc>
+  </programme>
+  <programme start="20261107190000 +0300" stop="20261107193000 +0300" channel="CSMR">
+    <title lang="tr">Extreme Football</title>
+    <desc lang="tr">Extreme Football, akrobatik hareketler ve hızlı maçlarla takım ruhu ve cesareti eğlenceli bir şekilde anlatan animasyon serisidir.</desc>
+  </programme>
+  <programme start="20261107193000 +0300" stop="20261107200000 +0300" channel="CSMR">
+    <title lang="tr">Boonie Ayıları: Maceracılar</title>
+    <desc lang="tr">Boonie Ayıları: Maceracılar, cesur ayıların dostluk ve macera dolu hikâyelerini eğlenceli ve öğretici bir şekilde ekranlara taşıyan animasyondur.</desc>
+  </programme>
+  <programme start="20261107200000 +0300" stop="20261107203000 +0300" channel="CSMR">
+    <title lang="tr">Canavar Avcısı Kulübü</title>
+    <desc lang="tr">Canavar Avcısı Kulübü, gizli canavarları yakalayan genç kahramanların dostluk ve cesaret dolu maceralarını anlatan animasyon serisidir.</desc>
+  </programme>
+  <programme start="20261107203000 +0300" stop="20261107210000 +0300" channel="CSMR">
+    <title lang="tr">Kody Kapow</title>
+    <desc lang="tr">Kung fu temalı bu animasyon, bir çocuğun eğlenceli ve öğretici maceralarını anlatır.</desc>
+  </programme>
+  <programme start="20261107210000 +0300" stop="20261107213000 +0300" channel="CSMR">
+    <title lang="tr">Extreme Football</title>
+    <desc lang="tr">Extreme Football, akrobatik hareketler ve hızlı maçlarla takım ruhu ve cesareti eğlenceli bir şekilde anlatan animasyon serisidir.</desc>
+  </programme>
+  <programme start="20261107213000 +0300" stop="20261107220000 +0300" channel="CSMR">
+    <title lang="tr">Mondo Yan</title>
+    <desc lang="tr">Mondo Yan, renkli dünyası ve enerjik hikâyeleriyle dostluk, paylaşma ve hayal gücünü eğlenceli maceralarla anlatan bir animasyon dizisidir.</desc>
+  </programme>
+  <programme start="20261107220000 +0300" stop="20261107223000 +0300" channel="CSMR">
+    <title lang="tr">Origami Yapıyoruz</title>
+    <desc lang="tr">Origami Yapıyoruz, çocuklara kağıt katlamanın inceliklerini öğreten eğlenceli bir programdır. Basit adımlarla hayvanlar, nesneler ve figürler yapılırken el becerisi ve hayal gücü gelişir.</desc>
+  </programme>
+  <programme start="20261107223000 +0300" stop="20261107230000 +0300" channel="CSMR">
+    <title lang="tr">Cico ile Moco</title>
+    <desc lang="tr">Cico ve Moco, her gün yeni şeyler keşfeden iki sevimli dosttur. Eğlenceli oyunlar, küçük sürprizler ve neşeli maceralarla öğrenmeyi keyifli hale getirirler.</desc>
+  </programme>
+  <programme start="20261107230000 +0300" stop="20261107233000 +0300" channel="CSMR">
+    <title lang="tr">Origami Yapıyoruz</title>
+    <desc lang="tr">Origami Yapıyoruz, çocuklara kağıt katlamanın inceliklerini öğreten eğlenceli bir programdır. Basit adımlarla hayvanlar, nesneler ve figürler yapılırken el becerisi ve hayal gücü gelişir.</desc>
+  </programme>
+  <programme start="20261107233000 +0300" stop="20261108000000 +0300" channel="CSMR">
+    <title lang="tr">Cico ile Moco</title>
+    <desc lang="tr">Cico ve Moco, her gün yeni şeyler keşfeden iki sevimli dosttur. Eğlenceli oyunlar, küçük sürprizler ve neşeli maceralarla öğrenmeyi keyifli hale getirirler.</desc>
   </programme>
   <programme start="20261102224500 +0300" stop="20261103011500 +0300" channel="DSMX">
     <title lang="tr">Baht Oyunu</title>
@@ -2406,7 +2462,95 @@
     <title lang="tr">Dönence</title>
     <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
-  <programme start="20261106230000 +0300" stop="20261107000000 +0300" channel="DSMX">
+  <programme start="20261106230000 +0300" stop="20261107012000 +0300" channel="DSMX">
+    <title lang="tr">Meryem</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261107012000 +0300" stop="20261107033000 +0300" channel="DSMX">
+    <title lang="tr">Vatanım Sensin</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261107033000 +0300" stop="20261107044000 +0300" channel="DSMX">
+    <title lang="tr">Mutfağım</title>
+    <desc lang="tr">Lezzetli tarifler ve pratik mutfak sırlarıyla dolu Mutfağım, izleyiciyi mutfağa davet ediyor.</desc>
+  </programme>
+  <programme start="20261107044000 +0300" stop="20261107050000 +0300" channel="DSMX">
+    <title lang="tr">Dizi Smart Max</title>
+    <desc lang="tr">Dizi Smart Max</desc>
+  </programme>
+  <programme start="20261107050000 +0300" stop="20261107060000 +0300" channel="DSMX">
+    <title lang="tr">Dizi Smart Max</title>
+    <desc lang="tr">Dizi Smart Max</desc>
+  </programme>
+  <programme start="20261107060000 +0300" stop="20261107070000 +0300" channel="DSMX">
+    <title lang="tr">Dizi Smart Max</title>
+    <desc lang="tr">Dizi Smart Max</desc>
+  </programme>
+  <programme start="20261107070000 +0300" stop="20261107080000 +0300" channel="DSMX">
+    <title lang="tr">Dizi Smart Max</title>
+    <desc lang="tr">Dizi Smart Max</desc>
+  </programme>
+  <programme start="20261107080000 +0300" stop="20261107090000 +0300" channel="DSMX">
+    <title lang="tr">Dizi Smart Max</title>
+    <desc lang="tr">Dizi Smart Max</desc>
+  </programme>
+  <programme start="20261107090000 +0300" stop="20261107100000 +0300" channel="DSMX">
+    <title lang="tr">Dizi Smart Max</title>
+    <desc lang="tr">Dizi Smart Max</desc>
+  </programme>
+  <programme start="20261107100000 +0300" stop="20261107110000 +0300" channel="DSMX">
+    <title lang="tr">Dizi Smart Max</title>
+    <desc lang="tr">Dizi Smart Max</desc>
+  </programme>
+  <programme start="20261107110000 +0300" stop="20261107120000 +0300" channel="DSMX">
+    <title lang="tr">Dizi Smart Max</title>
+    <desc lang="tr">Dizi Smart Max</desc>
+  </programme>
+  <programme start="20261107120000 +0300" stop="20261107130000 +0300" channel="DSMX">
+    <title lang="tr">Dizi Smart Max</title>
+    <desc lang="tr">Dizi Smart Max</desc>
+  </programme>
+  <programme start="20261107130000 +0300" stop="20261107140000 +0300" channel="DSMX">
+    <title lang="tr">Dizi Smart Max</title>
+    <desc lang="tr">Dizi Smart Max</desc>
+  </programme>
+  <programme start="20261107140000 +0300" stop="20261107150000 +0300" channel="DSMX">
+    <title lang="tr">Dizi Smart Max</title>
+    <desc lang="tr">Dizi Smart Max</desc>
+  </programme>
+  <programme start="20261107150000 +0300" stop="20261107160000 +0300" channel="DSMX">
+    <title lang="tr">Dizi Smart Max</title>
+    <desc lang="tr">Dizi Smart Max</desc>
+  </programme>
+  <programme start="20261107160000 +0300" stop="20261107170000 +0300" channel="DSMX">
+    <title lang="tr">Dizi Smart Max</title>
+    <desc lang="tr">Dizi Smart Max</desc>
+  </programme>
+  <programme start="20261107170000 +0300" stop="20261107180000 +0300" channel="DSMX">
+    <title lang="tr">Dizi Smart Max</title>
+    <desc lang="tr">Dizi Smart Max</desc>
+  </programme>
+  <programme start="20261107180000 +0300" stop="20261107190000 +0300" channel="DSMX">
+    <title lang="tr">Dizi Smart Max</title>
+    <desc lang="tr">Dizi Smart Max</desc>
+  </programme>
+  <programme start="20261107190000 +0300" stop="20261107200000 +0300" channel="DSMX">
+    <title lang="tr">Dizi Smart Max</title>
+    <desc lang="tr">Dizi Smart Max</desc>
+  </programme>
+  <programme start="20261107200000 +0300" stop="20261107210000 +0300" channel="DSMX">
+    <title lang="tr">Dizi Smart Max</title>
+    <desc lang="tr">Dizi Smart Max</desc>
+  </programme>
+  <programme start="20261107210000 +0300" stop="20261107220000 +0300" channel="DSMX">
+    <title lang="tr">Dizi Smart Max</title>
+    <desc lang="tr">Dizi Smart Max</desc>
+  </programme>
+  <programme start="20261107220000 +0300" stop="20261107230000 +0300" channel="DSMX">
+    <title lang="tr">Dizi Smart Max</title>
+    <desc lang="tr">Dizi Smart Max</desc>
+  </programme>
+  <programme start="20261107230000 +0300" stop="20261108000000 +0300" channel="DSMX">
     <title lang="tr">Dizi Smart Max</title>
     <desc lang="tr">Dizi Smart Max</desc>
   </programme>
