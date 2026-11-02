@@ -37,6 +37,16 @@ const CHANNELS = [
     id: "SPS2",
     name: "Sport Smart 2",
     cmsId: 246171
+  },
+  {
+    id: "CSMR",
+    name: "Çocuk Smart",
+    cmsId: 246012
+  },
+  {
+    id: "DSMX",
+    name: "Dizi Smart Max",
+    cmsId: 246015
   }
 ];
 
@@ -541,7 +551,7 @@ function xmltvTime(date) {
 function buildXml(channels) {
   const lines = [
     '<?xml version="1.0" encoding="UTF-8"?>',
-    '<tv generator-info-name="D-Smart Four Channel EPG">'
+    '<tv generator-info-name="D-Smart Six Channel EPG">'
   ];
 
   for (const channel of channels) {
@@ -603,7 +613,7 @@ function validateXml(xml, channels) {
 
 async function main() {
   console.log("======================================");
-  console.log("D-SMART 4 KANAL EPG BAŞLADI");
+  console.log("D-SMART 6 KANAL EPG BAŞLADI");
   console.log("======================================");
 
   const startDate = istanbulToday();
@@ -628,10 +638,10 @@ async function main() {
     await sleep(500);
   }
 
-  // Dört kanalın tamamı başarılı olmadan eski dosyayı değiştirme.
+  // Altı kanalın tamamı başarılı olmadan eski dosyayı değiştirme.
   if (results.length !== CHANNELS.length) {
     throw new Error(
-      "Dört kanalın tamamı alınamadı. Mevcut XML korunuyor."
+      "Altı kanalın tamamı alınamadı. Mevcut XML korunuyor."
     );
   }
 
