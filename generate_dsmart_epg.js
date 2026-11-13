@@ -25,7 +25,12 @@ const CHANNELS = [
     cmsId: 246003,
     apiNames: ["Spor Smart"]
   },
-  { id: "SPS2", name: "Sport Smart 2", cmsId: 246171 },
+  {
+    id: "SPS2",
+    name: "Sport Smart 2",
+    cmsId: 246171,
+    apiNames: ["Spor Smart 2"]
+  },
   { id: "COCUK", name: "Çocuk Smart", cmsId: 246012 },
   { id: "DSMAX", name: "Dizi Smart Max", cmsId: 246015 },
   { id: "NGEO", name: "National Geographic", cmsId: 246180 },
@@ -56,6 +61,7 @@ function turkeyToday() {
   }).formatToParts(new Date());
 
   const values = {};
+
   for (const part of parts) {
     values[part.type] = part.value;
   }
@@ -78,7 +84,6 @@ function escapeXml(value) {
     .replace(/'/g, "&apos;");
 }
 
-// Boşlukları kaldırarak kanal adlarını karşılaştırır.
 function normalizeName(value) {
   return String(value ?? "")
     .trim()
@@ -90,6 +95,7 @@ function getDatePart(value) {
   if (!value) return null;
 
   const match = String(value).match(/^(\d{4}-\d{2}-\d{2})/);
+
   return match ? match[1] : null;
 }
 
@@ -177,7 +183,9 @@ function getProgramEnd(program, start) {
 
   if (!end) {
     const duration = parseDuration(program.duration);
+
     if (!duration) return null;
+
     end = new Date(start.getTime() + duration);
   }
 
@@ -249,6 +257,7 @@ async function fetchChannel(channel, startDate, endDate) {
   const url = `${API_URL}?${params.toString()}`;
 
   const controller = new AbortController();
+
   const timeout = setTimeout(
     () => controller.abort(),
     TIMEOUT_MS
@@ -527,7 +536,10 @@ main().catch(error => {
       fs.unlinkSync(TEMP_FILE);
     }
   } catch (cleanupError) {
-    console.error("Geçici dosya temizlenemedi:", cleanupError.message);
+    console.error(
+      "Geçici dosya temizlenemedi:",
+      cleanupError.message
+    );
   }
 
   console.error("Mevcut dsmart.xml korunuyor.");
