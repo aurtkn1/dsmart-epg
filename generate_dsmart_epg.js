@@ -264,10 +264,6 @@ async function fetchChannel(channel, startDate, endDate) {
       );
     }
 
-    console.log(
-      `${channel.name}: API toplam ${payload.length} kayıt döndürdü.`
-    );
-
     if (payload.length === 0) {
       throw new Error(
         `${channel.name}: API boş program listesi döndürdü.`
@@ -282,21 +278,23 @@ async function fetchChannel(channel, startDate, endDate) {
     }
 
     console.log(
+      `${channel.name}: API toplam ${payload.length} kayıt döndürdü.`
+    );
+
+    console.log(
       `${channel.name}: API durum kodları:`,
       JSON.stringify(statusCounts)
     );
 
-    const invalidRecords = payload.filter(
-      item => Number(item.statusCode) !== 200
-    );
+    const invalidRecords = payload.filter(item => {
+      const status = Number(item.statusCode);
+
+      return status !== 200 && status !== 300;
+    });
 
     if (invalidRecords.length > 0) {
       console.log(
-        `${channel.name}: Başarısız kayıt sayısı: ${invalidRecords.length}`
-      );
-
-      console.log(
-        `${channel.name}: İlk başarısız API kayıtları:`
+        `${channel.name}: Beklenmeyen API kayıtları:`
       );
 
       for (const item of invalidRecords.slice(0, 5)) {
@@ -304,14 +302,31 @@ async function fetchChannel(channel, startDate, endDate) {
       }
 
       throw new Error(
-        `${channel.name}: API statusCode=${invalidRecords[0].statusCode}. ` +
-        `${invalidRecords.length} başarısız kayıt bulundu.`
+        `${channel.name}: Beklenmeyen statusCode=${invalidRecords[0].statusCode}.`
+      );
+    }
+
+    const emptyRecords = payload.filter(
+      item => Number(item.statusCode) === 300
+    );
+
+    console.log(
+      `${channel.name}: ${emptyRecords.length} boş yayın kaydı atlandı.`
+    );
+
+    const validRecords = payload.filter(
+      item => Number(item.statusCode) === 200
+    );
+
+    if (validRecords.length === 0) {
+      throw new Error(
+        `${channel.name}: API içinde başarılı program kaydı bulunamadı.`
       );
     }
 
     const programs = [];
 
-    for (const item of payload) {
+    for (const item of validRecords) {
       if (String(item.cmsId) !== String(channel.cmsId)) {
         console.log(
           "CMS ID uyuşmazlığı:",
