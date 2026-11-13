@@ -10,44 +10,37 @@ const TEMP_FILE = path.join(__dirname, "dsmart.xml.tmp");
 const API_URL =
   "https://global-epg-prod.erstream.com/Epg/GetChannelEpgWithRange";
 
-const API_KEY = "pln1jFxpWu1AMwtH1PIU";
+const API_KEY = process.env.DS_MART_API_KEY;
 
 const TIMEZONE = "03";
 const LANGUAGE = "tr";
-const DAYS_TO_FETCH = 6;
+const DAYS_TO_FETCH = 7;
 const TIMEOUT_MS = 60000;
 
 const CHANNELS = [
-  {
-    id: "MSCL",
-    name: "Movie Smart Classic",
-    cmsId: 246150
-  },
-  {
-    id: "MSTU",
-    name: "Movie Smart Türk",
-    cmsId: 246147
-  },
-  {
-    id: "SPPR",
-    name: "Sport Smart",
-    cmsId: 246003
-  },
-  {
-    id: "SPS2",
-    name: "Sport Smart 2",
-    cmsId: 246171
-  },
-  {
-    id: "CSMR",
-    name: "Çocuk Smart",
-    cmsId: 246012
-  },
-  {
-    id: "DSMX",
-    name: "Dizi Smart Max",
-    cmsId: 246015
-  }
+  { id: "MSCL", name: "Movie Smart Classic", cmsId: 246150 },
+  { id: "MSTU", name: "Movie Smart Türk", cmsId: 246147 },
+  { id: "SPPR", name: "Sport Smart", cmsId: 246003 },
+  { id: "SPS2", name: "Sport Smart 2", cmsId: 246171 },
+  { id: "CSMR", name: "Çocuk Smart", cmsId: 246012 },
+  { id: "DSMX", name: "Dizi Smart Max", cmsId: 246015 },
+  { id: "NATG", name: "National Geographic", cmsId: 246180 },
+  { id: "NGWD", name: "National Geographic WILD", cmsId: 246183 },
+  { id: "COSM", name: "Cosmo En", cmsId: 1301767 },
+  { id: "VISH", name: "Viasat History", cmsId: 146054 },
+  { id: "DOCS", name: "Docu Screen", cmsId: 245976 },
+  { id: "LOVE", name: "Love Nature", cmsId: 246189 },
+  { id: "DISC", name: "Discovery Channel", cmsId: 245964 },
+  { id: "IDIS", name: "Discovery ID", cmsId: 245955 },
+  { id: "FASH", name: "Fashion TV", cmsId: 245982 },
+  { id: "SZCT", name: "SZC TV", cmsId: 246240 },
+  { id: "SHMX", name: "Show Max", cmsId: 246165 },
+  { id: "DRTV", name: "Dream TV", cmsId: 246093 },
+  { id: "BABY", name: "Baby TV", cmsId: 245952 },
+  { id: "AZOO", name: "Azoomee", cmsId: 246168 },
+  { id: "BBCF", name: "BBC FIRST", cmsId: 1314412 },
+  { id: "KAND", name: "Kanal D", cmsId: 245931 },
+  { id: "FX", name: "FX", cmsId: 246186 }
 ];
 
 const sleep = ms =>
@@ -55,8 +48,7 @@ const sleep = ms =>
 
 function istanbulToday() {
   const now = new Date();
-  const utcMs = now.getTime();
-  const turkeyMs = utcMs + 3 * 60 * 60 * 1000;
+  const turkeyMs = now.getTime() + 3 * 60 * 60 * 1000;
 
   return new Date(turkeyMs).toISOString().slice(0, 10);
 }
@@ -77,86 +69,17 @@ function escapeXml(value) {
     .replace(/'/g, "&apos;");
 }
 
-function firstValue(object, keys) {
-  if (!object || typeof object !== "object") {
-    return null;
-  }
-
-  for (const key of keys) {
-    const value = object[key];
-
-    if (
-      value !== undefined &&
-      value !== null &&
-      value !== ""
-    ) {
-      return value;
-    }
-  }
-
-  return null;
-}
-
-function textValue(value) {
-  if (
-    value === null ||
-    value === undefined ||
-    typeof value === "object"
-  ) {
-    return "";
-  }
-
-  return String(value).trim();
-}
-
-function getTitle(program) {
-  return textValue(firstValue(program, [
-    "name",
-    "programName",
-    "program_name",
-    "title",
-    "eventName",
-    "contentName"
-  ]));
-}
-
-function getDescription(program) {
-  return textValue(firstValue(program, [
-    "description",
-    "summary",
-    "synopsis",
-    "shortDescription"
-  ]));
-}
-
 function getDatePart(value) {
   if (value === null || value === undefined) {
     return null;
   }
 
-  const input = String(value).trim();
+  const match = String(value).trim().match(/^(\d{4}-\d{2}-\d{2})/);
 
-  const iso = input.match(/^(\d{4}-\d{2}-\d{2})/);
-  if (iso) {
-    return iso[1];
-  }
-
-  const european = input.match(
-    /^(\d{1,2})\.(\d{1,2})\.(\d{4})/
-  );
-
-  if (european) {
-    return (
-      european[3] + "-" +
-      european[2].padStart(2, "0") + "-" +
-      european[1].padStart(2, "0")
-    );
-  }
-
-  return null;
+  return match ? match[1] : null;
 }
 
-function parseDateTime(dateValue, timeValue, fallbackDate) {
+function parseClock(dateValue, timeValue, fallbackDate) {
   if (
     timeValue === null ||
     timeValue === undefined ||
@@ -165,83 +88,47 @@ function parseDateTime(dateValue, timeValue, fallbackDate) {
     return null;
   }
 
-  if (typeof timeValue === "number") {
-    const milliseconds =
-      timeValue < 10000000000
-        ? timeValue * 1000
-        : timeValue;
-
-    const result = new Date(milliseconds);
-
-    return Number.isNaN(result.getTime())
-      ? null
-      : result;
-  }
-
   const input = String(timeValue).trim();
 
-  if (/^\d{10,13}$/.test(input)) {
-    const number = Number(input);
-    const milliseconds =
-      number < 10000000000
-        ? number * 1000
-        : number;
+  const fullDate = input.match(
+    /^(\d{4}-\d{2}-\d{2})[T ](\d{1,2}:\d{2}(?::\d{2})?)/
+  );
 
-    const result = new Date(milliseconds);
+  if (fullDate) {
+    const normalized = input.replace(" ", "T");
+    const withTimezone =
+      /(?:Z|[+-]\d{2}:\d{2}|[+-]\d{4})$/i.test(normalized)
+        ? normalized
+        : `${normalized}+03:00`;
 
-    return Number.isNaN(result.getTime())
-      ? null
-      : result;
+    const result = new Date(withTimezone);
+
+    return Number.isNaN(result.getTime()) ? null : result;
   }
 
-  // Başlangıç veya bitiş tam tarih-saat olarak geldiyse.
-  if (/^\d{4}-\d{2}-\d{2}[T ]/.test(input)) {
-    let normalized = input.replace(" ", "T");
-
-    // Saat dilimi belirtilmemişse API'nin +03 saatini uygula.
-    if (!/(Z|[+-]\d{2}:\d{2}|[+-]\d{4})$/i.test(normalized)) {
-      normalized += "+03:00";
-    }
-
-    const result = new Date(normalized);
-
-    return Number.isNaN(result.getTime())
-      ? null
-      : result;
-  }
-
-  // Saat yalnızca HH:mm veya HH:mm:ss biçimindeyse.
   const clock = input.match(
     /^(\d{1,2}):(\d{2})(?::(\d{2}))?$/
   );
 
-  if (clock) {
-    const datePart =
-      getDatePart(dateValue) || fallbackDate;
-
-    if (!datePart) {
-      return null;
-    }
-
-    const hour = clock[1].padStart(2, "0");
-    const minute = clock[2];
-    const second = clock[3] || "00";
-
-    const result = new Date(
-      `${datePart}T${hour}:${minute}:${second}+03:00`
-    );
-
-    return Number.isNaN(result.getTime())
-      ? null
-      : result;
+  if (!clock) {
+    return null;
   }
 
-  // Diğer geçerli tarih biçimlerini dene.
-  const result = new Date(input);
+  const datePart = getDatePart(dateValue) || fallbackDate;
 
-  return Number.isNaN(result.getTime())
-    ? null
-    : result;
+  if (!datePart) {
+    return null;
+  }
+
+  const hour = clock[1].padStart(2, "0");
+  const minute = clock[2];
+  const second = clock[3] || "00";
+
+  const result = new Date(
+    `${datePart}T${hour}:${minute}:${second}+03:00`
+  );
+
+  return Number.isNaN(result.getTime()) ? null : result;
 }
 
 function parseDuration(value) {
@@ -249,14 +136,7 @@ function parseDuration(value) {
     return 0;
   }
 
-  if (typeof value === "number") {
-    // Sayısal süreler API'de saniye olarak gelirse.
-    return value > 0 ? value * 1000 : 0;
-  }
-
-  const input = String(value).trim();
-
-  const match = input.match(
+  const match = String(value).trim().match(
     /(?:^|,\s*)(\d{1,3}):(\d{2})(?::(\d{2}))?$/
   );
 
@@ -264,76 +144,38 @@ function parseDuration(value) {
     return 0;
   }
 
-  const first = Number(match[1]);
-  const second = Number(match[2]);
-  const third = Number(match[3] || 0);
+  const hours = Number(match[1]);
+  const minutes = Number(match[2]);
+  const seconds = Number(match[3] || 0);
 
-  if (second > 59 || third > 59) {
+  if (minutes > 59 || seconds > 59) {
     return 0;
   }
 
-  return (first * 3600 + second * 60 + third) * 1000;
+  return (hours * 3600 + minutes * 60 + seconds) * 1000;
 }
 
-function getProgramStart(program, day) {
-  const dateValue = firstValue(program, [
-    "date",
-    "broadcastDate",
-    "day",
-    "startDate"
-  ]);
-
-  const timeValue = firstValue(program, [
-    "startHour",
-    "startTime",
-    "start_date",
-    "startDateTime",
-    "start",
-    "begin"
-  ]);
-
-  return parseDateTime(dateValue, timeValue, day);
+function getProgramStart(program) {
+  return parseClock(
+    program.date,
+    program.startHour,
+    getDatePart(program.date)
+  );
 }
 
-function getProgramEnd(program, day, start) {
-  const dateValue = firstValue(program, [
-    "endDate",
-    "broadcastDate",
-    "date",
-    "day"
-  ]);
+function getProgramEnd(program, start) {
+  let stop = parseClock(
+    program.date,
+    program.endHour,
+    getDatePart(program.date)
+  );
 
-  const timeValue = firstValue(program, [
-    "endHour",
-    "endTime",
-    "end_date",
-    "endDateTime",
-    "stop",
-    "end"
-  ]);
-
-  let stop = parseDateTime(dateValue, timeValue, day);
-
-  // Program gece yarısını aşıyorsa bitişi ertesi güne taşı.
   if (stop && stop <= start) {
-    const endInput = String(timeValue ?? "").trim();
-
-    // Tam tarih-saat verilmişse tarih yanlışlığını gizleme.
-    if (/^\d{4}-\d{2}-\d{2}[T ]/.test(endInput)) {
-      return null;
-    }
-
     stop = new Date(stop.getTime() + 24 * 60 * 60 * 1000);
   }
 
   if (!stop || stop <= start) {
-    const duration = parseDuration(
-      firstValue(program, [
-        "duration",
-        "length",
-        "runtime"
-      ])
-    );
+    const duration = parseDuration(program.duration);
 
     if (duration > 0) {
       stop = new Date(start.getTime() + duration);
@@ -343,66 +185,12 @@ function getProgramEnd(program, day, start) {
   return stop && stop > start ? stop : null;
 }
 
-function findPrograms(payload) {
-  const result = [];
-  const visited = new Set();
+function getTitle(program) {
+  return String(program.name ?? "").trim();
+}
 
-  function walk(value) {
-    if (!value || typeof value !== "object") {
-      return;
-    }
-
-    if (visited.has(value)) {
-      return;
-    }
-
-    visited.add(value);
-
-    if (Array.isArray(value)) {
-      for (const item of value) {
-        walk(item);
-      }
-
-      return;
-    }
-
-    const title = getTitle(value);
-
-    const startValue = firstValue(value, [
-      "startHour",
-      "startTime",
-      "start_date",
-      "startDateTime",
-      "start",
-      "begin"
-    ]);
-
-    const endValue = firstValue(value, [
-      "endHour",
-      "endTime",
-      "end_date",
-      "endDateTime",
-      "stop",
-      "end",
-      "duration",
-      "length",
-      "runtime"
-    ]);
-
-    if (title && startValue !== null && endValue !== null) {
-      result.push(value);
-    }
-
-    for (const child of Object.values(value)) {
-      if (child && typeof child === "object") {
-        walk(child);
-      }
-    }
-  }
-
-  walk(payload);
-
-  return result;
+function getDescription(program) {
+  return String(program.description ?? "").trim();
 }
 
 async function fetchChannel(channel, startDate, endDate) {
@@ -430,8 +218,8 @@ async function fetchChannel(channel, startDate, endDate) {
     const response = await fetch(url.toString(), {
       method: "GET",
       headers: {
-        "Accept": "application/json",
-        "User-Agent": "DSmart-EPG-Updater/1.0"
+        Accept: "application/json",
+        "User-Agent": "DSmart-EPG-Updater/2.0"
       },
       signal: controller.signal
     });
@@ -455,37 +243,43 @@ async function fetchChannel(channel, startDate, endDate) {
       );
     }
 
-    if (
-      payload &&
-      payload.statusCode !== undefined &&
-      Number(payload.statusCode) !== 200
-    ) {
+    if (!Array.isArray(payload)) {
       throw new Error(
-        `${channel.name}: API statusCode=${payload.statusCode}`
+        `${channel.name}: API yanıtı beklenen JSON dizisi değil.`
       );
     }
 
-    const rawPrograms = findPrograms(payload);
+    if (payload.length === 0) {
+      throw new Error(
+        `${channel.name}: API boş program listesi döndürdü.`
+      );
+    }
+
     const programs = [];
 
-    for (const item of rawPrograms) {
+    for (const item of payload) {
+      if (Number(item.statusCode) !== 200) {
+        throw new Error(
+          `${channel.name}: API statusCode=${item.statusCode}`
+        );
+      }
+
+      if (String(item.cmsId) !== String(channel.cmsId)) {
+        throw new Error(
+          `${channel.name}: Yanıtta farklı CMS ID bulundu.`
+        );
+      }
+
       const title = getTitle(item);
+
       if (!title) continue;
 
-      const dateValue = firstValue(item, [
-        "date",
-        "broadcastDate",
-        "day",
-        "startDate"
-      ]);
+      const start = getProgramStart(item);
 
-      const day =
-        getDatePart(dateValue) || startDate;
-
-      const start = getProgramStart(item, day);
       if (!start) continue;
 
-      const stop = getProgramEnd(item, day, start);
+      const stop = getProgramEnd(item, start);
+
       if (!stop) continue;
 
       programs.push({
@@ -496,12 +290,10 @@ async function fetchChannel(channel, startDate, endDate) {
       });
     }
 
-    // Aynı program iki kez geldiyse tek kayıt tut.
     const unique = new Map();
 
     for (const program of programs) {
-      const key =
-        `${program.title}|${program.start.getTime()}`;
+      const key = `${program.title}|${program.start.getTime()}`;
 
       if (!unique.has(key)) {
         unique.set(key, program);
@@ -512,15 +304,15 @@ async function fetchChannel(channel, startDate, endDate) {
       (a, b) => a.start - b.start
     );
 
+    if (finalPrograms.length === 0) {
+      throw new Error(
+        `${channel.name}: Geçerli program kaydı çıkarılamadı.`
+      );
+    }
+
     console.log(
       `${channel.name}: ${finalPrograms.length} program alındı.`
     );
-
-    if (finalPrograms.length === 0) {
-      throw new Error(
-        `${channel.name}: API yanıtından program çıkarılamadı.`
-      );
-    }
 
     return {
       ...channel,
@@ -532,8 +324,9 @@ async function fetchChannel(channel, startDate, endDate) {
 }
 
 function xmltvTime(date) {
-  // Tarih nesnesi gerçek anı tutar; XMLTV'de +0300 gösterilir.
-  const local = new Date(date.getTime() + 3 * 60 * 60 * 1000);
+  const local = new Date(
+    date.getTime() + 3 * 60 * 60 * 1000
+  );
 
   const pad = number =>
     String(number).padStart(2, "0");
@@ -551,7 +344,7 @@ function xmltvTime(date) {
 function buildXml(channels) {
   const lines = [
     '<?xml version="1.0" encoding="UTF-8"?>',
-    '<tv generator-info-name="D-Smart Six Channel EPG">'
+    '<tv generator-info-name="D-Smart 23 Channel EPG">'
   ];
 
   for (const channel of channels) {
@@ -601,9 +394,9 @@ function validateXml(xml, channels) {
   }
 
   for (const channel of channels) {
-    if (!xml.includes(`channel="${channel.id}"`)) {
+    if (!xml.includes(`<channel id="${channel.id}">`)) {
       throw new Error(
-        `${channel.name}: XML içinde kanal/program kaydı bulunamadı.`
+        `${channel.name}: XML içinde kanal kaydı bulunamadı.`
       );
     }
   }
@@ -613,19 +406,25 @@ function validateXml(xml, channels) {
 
 async function main() {
   console.log("======================================");
-  console.log("D-SMART 6 KANAL EPG BAŞLADI");
+  console.log("D-SMART 23 KANAL EPG BAŞLADI");
   console.log("======================================");
+
+  if (!API_KEY) {
+    throw new Error(
+      "DS_MART_API_KEY bulunamadı. GitHub Secrets ayarını kontrol edin."
+    );
+  }
 
   const startDate = istanbulToday();
   const endDate = addDays(startDate, DAYS_TO_FETCH - 1);
 
+  console.log(`Kanal sayısı: ${CHANNELS.length}`);
   console.log(`Başlangıç: ${startDate}`);
   console.log(`Bitiş: ${endDate}`);
   console.log("");
 
   const results = [];
 
-  // Her kanal ayrı sorgulanır.
   for (const channel of CHANNELS) {
     const result = await fetchChannel(
       channel,
@@ -638,10 +437,9 @@ async function main() {
     await sleep(500);
   }
 
-  // Altı kanalın tamamı başarılı olmadan eski dosyayı değiştirme.
   if (results.length !== CHANNELS.length) {
     throw new Error(
-      "Altı kanalın tamamı alınamadı. Mevcut XML korunuyor."
+      "23 kanalın tamamı alınamadı. Mevcut XML korunuyor."
     );
   }
 
@@ -661,7 +459,6 @@ async function main() {
     );
   }
 
-  // Doğrulama başarılıysa dsmart.xml dosyasını güncelle.
   fs.renameSync(TEMP_FILE, OUTPUT_FILE);
 
   console.log("");
@@ -675,6 +472,7 @@ async function main() {
     );
   }
 
+  console.log(`Toplam kanal: ${results.length}`);
   console.log(`Toplam program: ${programmeCount}`);
   console.log(`Dosya: ${OUTPUT_FILE}`);
   console.log(`Boyut: ${fs.statSync(OUTPUT_FILE).size} bayt`);
