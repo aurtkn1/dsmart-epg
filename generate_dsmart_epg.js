@@ -96,6 +96,7 @@ function parseClock(dateValue, timeValue, fallbackDate) {
 
   if (fullDate) {
     const normalized = input.replace(" ", "T");
+
     const withTimezone =
       /(?:Z|[+-]\d{2}:\d{2}|[+-]\d{4})$/i.test(normalized)
         ? normalized
@@ -226,10 +227,14 @@ async function fetchChannel(channel, startDate, endDate) {
 
     const body = await response.text();
 
+    console.log(
+      `${channel.name}: HTTP yanıtı ${response.status}`
+    );
+
     if (!response.ok) {
       throw new Error(
         `${channel.name}: HTTP ${response.status} — ` +
-        body.replace(/\s+/g, " ").slice(0, 250)
+        body.replace(/\s+/g, " ").slice(0, 500)
       );
     }
 
@@ -238,16 +243,30 @@ async function fetchChannel(channel, startDate, endDate) {
     try {
       payload = JSON.parse(body);
     } catch {
+      console.log(
+        "JSON olmayan API yanıtı:",
+        body.slice(0, 1000)
+      );
+
       throw new Error(
         `${channel.name}: API geçerli JSON döndürmedi.`
       );
     }
 
     if (!Array.isArray(payload)) {
+      console.log(
+        "Beklenmeyen API yanıtı:",
+        JSON.stringify(payload, null, 2).slice(0, 3000)
+      );
+
       throw new Error(
         `${channel.name}: API yanıtı beklenen JSON dizisi değil.`
       );
     }
+
+    console.log(
+      `${channel.name}: API toplam ${payload.length} kayıt döndürdü.`
+    );
 
     if (payload.length === 0) {
       throw new Error(
@@ -255,16 +274,50 @@ async function fetchChannel(channel, startDate, endDate) {
       );
     }
 
+    const statusCounts = {};
+
+    for (const item of payload) {
+      const status = String(item.statusCode ?? "BOS");
+      statusCounts[status] = (statusCounts[status] || 0) + 1;
+    }
+
+    console.log(
+      `${channel.name}: API durum kodları:`,
+      JSON.stringify(statusCounts)
+    );
+
+    const invalidRecords = payload.filter(
+      item => Number(item.statusCode) !== 200
+    );
+
+    if (invalidRecords.length > 0) {
+      console.log(
+        `${channel.name}: Başarısız kayıt sayısı: ${invalidRecords.length}`
+      );
+
+      console.log(
+        `${channel.name}: İlk başarısız API kayıtları:`
+      );
+
+      for (const item of invalidRecords.slice(0, 5)) {
+        console.log(JSON.stringify(item, null, 2));
+      }
+
+      throw new Error(
+        `${channel.name}: API statusCode=${invalidRecords[0].statusCode}. ` +
+        `${invalidRecords.length} başarısız kayıt bulundu.`
+      );
+    }
+
     const programs = [];
 
     for (const item of payload) {
-      if (Number(item.statusCode) !== 200) {
-        throw new Error(
-          `${channel.name}: API statusCode=${item.statusCode}`
-        );
-      }
-
       if (String(item.cmsId) !== String(channel.cmsId)) {
+        console.log(
+          "CMS ID uyuşmazlığı:",
+          JSON.stringify(item)
+        );
+
         throw new Error(
           `${channel.name}: Yanıtta farklı CMS ID bulundu.`
         );
