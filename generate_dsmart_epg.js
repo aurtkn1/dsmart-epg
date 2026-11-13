@@ -78,11 +78,12 @@ function escapeXml(value) {
     .replace(/'/g, "&apos;");
 }
 
+// Boşlukları kaldırarak kanal adlarını karşılaştırır.
 function normalizeName(value) {
   return String(value ?? "")
     .trim()
     .toLocaleLowerCase("tr-TR")
-    .replace(/\s+/g, " ");
+    .replace(/\s+/g, "");
 }
 
 function getDatePart(value) {
