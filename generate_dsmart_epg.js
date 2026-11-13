@@ -47,7 +47,12 @@ const CHANNELS = [
   { id: "DREAM", name: "Dream TV", cmsId: 246093 },
   { id: "BABY", name: "Baby TV", cmsId: 245952 },
   { id: "AZOOMEE", name: "Azoomee", cmsId: 246168 },
-  { id: "BBCFIRST", name: "BBC FIRST", cmsId: 1314412 },
+  {
+    id: "BBCFIRST",
+    name: "BBC FIRST",
+    cmsId: 1314412,
+    apiNames: ["BBC First"]
+  },
   { id: "KANALD", name: "Kanal D", cmsId: 245931 },
   { id: "FX", name: "FX", cmsId: 246186 }
 ];
