@@ -8109,6 +8109,110 @@
     <title lang="tr">Gizli Hazineler</title>
     <desc lang="tr">Henry ve sam, cornwall&apos;da 1900&apos;lerden kalma eşine az rastlanir buhar motorlu arabalara rastliyor. ikilinin şansi yaver giderse bu arabalardan biriyle gezintiye bile çikabilirler!</desc>
   </programme>
+  <programme start="20261120060000 +0300" stop="20261120065000 +0300" channel="DISC">
+    <title lang="tr">Alaska: Son Sınır</title>
+    <desc lang="tr">Doğa şartları, başka etmenler ve aile sorunları nedeniyle güçlerinin sınırında yaşayan Kilcher&apos;ler ailenin zengin kırsal yaşam geleneğini sürdürebilmek için birlikte çalışıyorlar.</desc>
+  </programme>
+  <programme start="20261120065000 +0300" stop="20261120074000 +0300" channel="DISC">
+    <title lang="tr">Alaska: Son Sınır</title>
+    <desc lang="tr">Doğa şartları, başka etmenler ve aile sorunları nedeniyle güçlerinin sınırında yaşayan Kilcher&apos;ler ailenin zengin kırsal yaşam geleneğini sürdürebilmek için birlikte çalışıyorlar.</desc>
+  </programme>
+  <programme start="20261120074000 +0300" stop="20261120083000 +0300" channel="DISC">
+    <title lang="tr">Alaska: Son Sınır</title>
+    <desc lang="tr">Kilcher ailesi, çiftlik yaşamının zorluklarını ve keyifli yanlarını izleyicilerin sorularıyla ele alırken yeni sezona dair ipuçları veriyor.</desc>
+  </programme>
+  <programme start="20261120083000 +0300" stop="20261120092000 +0300" channel="DISC">
+    <title lang="tr">Alaska: Son Sınır</title>
+    <desc lang="tr">Kilcher ailesi, 80 yıldır hayatta kalmak için çeşitli aletlere ihtiyaç duyar. Çiftlik evinin ayakta kalmasını sağlayan da yine o tehlikeli aletlerdir.</desc>
+  </programme>
+  <programme start="20261120092000 +0300" stop="20261120100500 +0300" channel="DISC">
+    <title lang="tr">Hurda Avcıları: Klasik Arabalar</title>
+    <desc lang="tr">Ekip, klasik bir Fiat 124 Spider yarış arabası sayesinde klasik yarış hayallerini gerçekleştirme şansı yakalar. Drew dar tasarıma sahip aracın yeşil tonlarından nefret eder.</desc>
+  </programme>
+  <programme start="20261120100500 +0300" stop="20261120105000 +0300" channel="DISC">
+    <title lang="tr">Hurda Avcıları: Klasik Arabalar</title>
+    <desc lang="tr">Drew, ender bulunan yarı tamamlanmış Land Rover 2A Serisi sayesinde hayalindeki safari aracını yaratma şansını yakalar. Aksesuarlar bulunamayınca özel üreticiler devreye girer.</desc>
+  </programme>
+  <programme start="20261120105000 +0300" stop="20261120111300 +0300" channel="DISC">
+    <title lang="tr">Nasıl Yapılmış?</title>
+    <desc lang="tr">Gündelik kullanılan eşyaları mercek altına almayı sürdürüyoruz. Alüminyum kanolar, ağaç taslar, tekerlekli andalyeye uygun minibüsler ve marimbaların nasıl yapıldığı ele alınıyor.</desc>
+  </programme>
+  <programme start="20261120111300 +0300" stop="20261120113500 +0300" channel="DISC">
+    <title lang="tr">Nasil Yapilmiş: Rüya Arabalar</title>
+    <desc lang="tr">Bir BMW 18&apos;in nasıl üretildiğini hiç merak ettiniz mi? &quot;Nasıl Yapılmış&quot; ekibi ile birlikte bu arabanın doğum yerine gidiyor ve muhteşem dış görünüşünü inceliyoruz.</desc>
+  </programme>
+  <programme start="20261120113500 +0300" stop="20261120122000 +0300" channel="DISC">
+    <title lang="tr">Hurda Avcıları</title>
+    <desc lang="tr">Drew, Sheffield&apos;de ev tahliyeleri uzmanını ziyaret ediyor, 19. yüzyıldan kalma bir fabrikada sanayi tipi mobilyalar görüyor, sonra da koleksiyonluk eski punk eşyaları buluyor.</desc>
+  </programme>
+  <programme start="20261120122000 +0300" stop="20261120130500 +0300" channel="DISC">
+    <title lang="tr">Hurda Avcıları: Tamirat</title>
+    <desc lang="tr">Demir ustası Neville, 19.yy&apos;dan kalma dökme demirden bir şömineyi onarıyor. Alex&apos;in onardığı 1930&apos;lardan kalma masa çiftlik evinin göz bebeği oluyor.</desc>
+  </programme>
+  <programme start="20261120130500 +0300" stop="20261120132800 +0300" channel="DISC">
+    <title lang="tr">Kumsal Evi Avcıları</title>
+    <desc lang="tr">İki kız kardeş, Detroit Broadkill Sahili&apos;nde tüm ailenin tadını çıkarabileceği bir kumsal evi arıyor.</desc>
+  </programme>
+  <programme start="20261120132800 +0300" stop="20261120135000 +0300" channel="DISC">
+    <title lang="tr">Kumsal Evi Avcıları</title>
+    <desc lang="tr">Yıllarca para biriktiren Arkansaslı çift, dört çocuğuyla birlikte Florida Destin&apos;de yeni bir sayfa açmaya hazırdır.</desc>
+  </programme>
+  <programme start="20261120135000 +0300" stop="20261120143500 +0300" channel="DISC">
+    <title lang="tr">Ölümcül Av</title>
+    <desc lang="tr">Sig ve Sophia melez yengeç yakalar ancak dengesiz tanklar gemiyi batırabilir. Buzlarla yarışan Time Bandit tayfası OJ&apos;i eve yetiştirmeye çalışır.</desc>
+  </programme>
+  <programme start="20261120143500 +0300" stop="20261120152000 +0300" channel="DISC">
+    <title lang="tr">Ölümcül Av</title>
+    <desc lang="tr">Sig su alan bölümü tamir etmek için sepetleri atar. Rick, Jake onun blöfünü yutana kadar bereketli av sahalarını gizlemek için Time Bandit&apos;i kullanır.</desc>
+  </programme>
+  <programme start="20261120152000 +0300" stop="20261120160500 +0300" channel="DISC">
+    <title lang="tr">Kırsalda Yaşamak Zor</title>
+    <desc lang="tr">Kırsalın en ücra noktalarına taşınanlar kısa zamanda çok şey öğrenmek zorundalar. Evlerini olası tehlikelere karşı korumak için hayatta kalma uzmanlarını yardıma çağırıyorlar.</desc>
+  </programme>
+  <programme start="20261120160500 +0300" stop="20261120165000 +0300" channel="DISC">
+    <title lang="tr">Kırsalda Yaşamak Zor</title>
+    <desc lang="tr">Kırsalın en ücra noktalarına taşınanlar kısa zamanda çok şey öğrenmek zorundalar. Evlerini olası tehlikelere karşı korumak için hayatta kalma uzmanlarını yardıma çağırıyorlar.</desc>
+  </programme>
+  <programme start="20261120165000 +0300" stop="20261120174000 +0300" channel="DISC">
+    <title lang="tr">Dizel Kardeşler</title>
+    <desc lang="tr">Dizelli araçlar dünyasında, Heavy D, Diesel Dave ve DieselSellerz&apos;deki ekipleri çevrenin en büyük ve en müthiş kamyonlarını üretiyorlar. İyi çalışıyorlar, iyi eğleniyorlar!</desc>
+  </programme>
+  <programme start="20261120174000 +0300" stop="20261120182500 +0300" channel="DISC">
+    <title lang="tr">İşte Sürat İşte Ses</title>
+    <desc lang="tr">Özel bölümler. Motor ustası Richard Rawlings ile dahi tamirci Aaron Kaufman harika klasik arabalar bulmak için Texas&apos;ı karış karış dolaşıyorlar.</desc>
+  </programme>
+  <programme start="20261120182500 +0300" stop="20261120185000 +0300" channel="DISC">
+    <title lang="tr">Nasıl Yapılır?</title>
+    <desc lang="tr">İşin mutfağına giderek, çeşitli gündelik eşyaların üretimini gerçekleştiren mühendisleri ve ileri görüşlü endüstriyel tasarımcıları tanıma fırsatı buluyoruz.</desc>
+  </programme>
+  <programme start="20261120185000 +0300" stop="20261120191500 +0300" channel="DISC">
+    <title lang="tr">Nasıl Yapılmış?</title>
+    <desc lang="tr">Gündelik eşyaların mercek altına alınarak üretim süreçlerinin açıklanmasına devam ediliyor. Meyveli börekler ve pirinç muslukların nasıl yapıldığı bu bölümün konuları arasında.</desc>
+  </programme>
+  <programme start="20261120191500 +0300" stop="20261120200000 +0300" channel="DISC">
+    <title lang="tr">Alaska&apos;yı Mesken Tuttuk</title>
+    <desc lang="tr">Alaska coğrafyasının derinliklerinde yabanda doğup büyümüş bir aile yaşar. Billy, Amy ve yedi çocukları medeniyetten uzaktadır, hayatta kalmak için birbirlerine güvenirler.</desc>
+  </programme>
+  <programme start="20261120200000 +0300" stop="20261120210000 +0300" channel="DISC">
+    <title lang="tr">Alaska&apos;yı Mesken Tuttuk</title>
+    <desc lang="tr">Brown&apos;lar Alaska&apos;nın ortalarında, uygarlıktan uzak, yabanda doğup büyümüş bir aile. Bu yedi çocuklu ailenin fertleri ancak birbirlerine güvenerek yaşamlarını sürdürebilirler.</desc>
+  </programme>
+  <programme start="20261120210000 +0300" stop="20261120213000 +0300" channel="DISC">
+    <title lang="tr">Suçlar Kayıt Altında</title>
+    <desc lang="tr">Silahlı bir soyguncu genç bir kadına saldırır, ancak kadın cesurca ona karşı savaşır ve saldırganı savuşturur. Bir motosiklet yolculuğu, şiddetli bir yol verme kavgasına dönüşür.</desc>
+  </programme>
+  <programme start="20261120213000 +0300" stop="20261120220000 +0300" channel="DISC">
+    <title lang="tr">Suçlar Kayıt Altında</title>
+    <desc lang="tr">Tuhaf bir adam, bir kadının çocuklarını zorla kaçırmaya çalışır, ancak genç bir güreşçi günü kurtarır. Güpegündüz korkunç bir soygun gerçekleşir.</desc>
+  </programme>
+  <programme start="20261120220000 +0300" stop="20261120225000 +0300" channel="DISC">
+    <title lang="tr">Vegas Kumarhanesinin Sırları</title>
+    <desc lang="tr">Las Vegas&apos;ın en ünlü kumarhanelerinden birinde, gece gündüz işleyen sistemin perde arkasındaki hiç bitmeyen kaos gözler önüne geliyor.</desc>
+  </programme>
+  <programme start="20261120225000 +0300" stop="20261120233500 +0300" channel="DISC">
+    <title lang="tr">Gümrük Kontrol: İtalya</title>
+    <desc lang="tr">Güvenlik ve Gümrük Hizmetleri memurları, uyuşturucu, silah ve şüpheli teröristlerin daimi tehdidi altındaki İtalya sınırlarını korurlar.</desc>
+  </programme>
   <programme start="20261114230000 +0300" stop="20261115000000 +0300" channel="ID">
     <title lang="tr">Jack Osbourne&apos;s Night Of Terror</title>
     <desc lang="tr">Jack&apos;in hayalet avını uzaktan izleyen Sharon Osbourne, yüzyıllık bir otelde koparılan yaygaranın ne olduğunu görmeye niyetlenir ancak kötü bir ruhla karşılaşır.</desc>
@@ -8628,6 +8732,62 @@
   <programme start="20261120070000 +0300" stop="20261120080000 +0300" channel="ID">
     <title lang="tr">Dedektif Köpekler</title>
     <desc lang="tr">Liverpool&apos;da bir ara sokakta dev bir Hint keneviri deposu bulan Chico, polis memuru Bartley&apos;nin büyük bir uyuşturucu ağını çökertmesine yardım eder.</desc>
+  </programme>
+  <programme start="20261120080000 +0300" stop="20261120090000 +0300" channel="ID">
+    <title lang="tr">Keşfedilen Cinayet</title>
+    <desc lang="tr">Dedektif Derrick Levasseur ve Dr. Kris Mohandie çözülmemiş cinayet vakalarını araştırıyor. Eski kanıtları ve yeni ipuçlarını gözden geçirerek bu vakaları çözmeye çalışıyorlar.</desc>
+  </programme>
+  <programme start="20261120090000 +0300" stop="20261120100000 +0300" channel="ID">
+    <title lang="tr">Keşfedilen Cinayet</title>
+    <desc lang="tr">Dedektif Derrick Levasseur ve Dr. Kris Mohandie çözülmemiş cinayet vakalarını araştırıyor. Eski kanıtları ve yeni ipuçlarını gözden geçirerek bu vakaları çözmeye çalışıyorlar.</desc>
+  </programme>
+  <programme start="20261120100000 +0300" stop="20261120110000 +0300" channel="ID">
+    <title lang="tr">Evdeki Cinayet</title>
+    <desc lang="tr">2013&apos;te sevilen basketbol koçu Jimmy McClain zalmce öldürülmüş olarak bulunur. Bir zorlama olmadan içeri girildiğini gören polis, Jimmy&apos;nin katili tanıdığından korkar.</desc>
+  </programme>
+  <programme start="20261120110000 +0300" stop="20261120120000 +0300" channel="ID">
+    <title lang="tr">Evdeki Cinayet</title>
+    <desc lang="tr">Cody iş aramak için New Jersey&apos;e taşınır ama bir gece bir grup yeni arkadaşıyla, bir partiye katıldıktan sonra ortadan kaybolur. Olay bir cinayet soruşturmasına dönüşür.</desc>
+  </programme>
+  <programme start="20261120120000 +0300" stop="20261120140000 +0300" channel="ID">
+    <title lang="tr">Şeytan Aramızda</title>
+    <desc lang="tr">Bir Alaska otobanında, bir keskin nişancı genç bir adamı vurur ve bir toplumun korku yaşamasına neden olur. Bir taraftan bir aile yas tutarken diğeri intikam ateşi ile yanar.</desc>
+  </programme>
+  <programme start="20261120140000 +0300" stop="20261120150000 +0300" channel="ID">
+    <title lang="tr">Suçun Her Anı</title>
+    <desc lang="tr">New Orleans&apos;ta bir katil bir rapçiyi vurur. Arkansas&apos;taki bir dizi soygunu çözmekte zorlanan polisler video görüntülerinden yararlanır.</desc>
+  </programme>
+  <programme start="20261120150000 +0300" stop="20261120160000 +0300" channel="ID">
+    <title lang="tr">Sosyal Medya Cinayetleri</title>
+    <desc lang="tr">Stephanie sanal ortamda makyaj tasarımları yapan bir sanatçı olarak bir marka kurar, Cadılar Bayramı arifesinde ortadan kaybolduğunda gerçek dünyada işler kontrolden çıkar.</desc>
+  </programme>
+  <programme start="20261120160000 +0300" stop="20261120170000 +0300" channel="ID">
+    <title lang="tr">Gümrük Kontrol: Polonya</title>
+    <desc lang="tr">(Border Control Poland: Polonya&apos;nın sınırındaki güvenlik ve gümrük hizmetleri ülkeye yasadışı maddelerin girmesini önlemek için sürekli nöbet halindedir. Suçu tespit etmek onların görevi.</desc>
+  </programme>
+  <programme start="20261120170000 +0300" stop="20261120180000 +0300" channel="ID">
+    <title lang="tr">Gümrük Kontrol: Polonya</title>
+    <desc lang="tr">(Border Control Poland: Polonya&apos;nın sınırındaki güvenlik ve gümrük hizmetleri ülkeye yasadışı maddelerin girmesini önlemek için sürekli nöbet halindedir. Suçu tespit etmek onların görevi.</desc>
+  </programme>
+  <programme start="20261120180000 +0300" stop="20261120190000 +0300" channel="ID">
+    <title lang="tr">Polis Kamerası</title>
+    <desc lang="tr">Polis beden kameralarındaki gerçek görüntüler kullanılarak, polisliğin ön cephesine yakın ve kişisel bir bakış. Devriyede yaşam rutinden başka her şeyi sunabilir.</desc>
+  </programme>
+  <programme start="20261120190000 +0300" stop="20261120200000 +0300" channel="ID">
+    <title lang="tr">Polis Kamerası</title>
+    <desc lang="tr">Yerel bir komiser yardımcısı, yanan evinde mahsur kalan bir kadını kurtarmaya çalışır. Ayrıca, stajyer bir polis memuru kendini yüksek hızlı bir kovalamacanın ortasında bulur.</desc>
+  </programme>
+  <programme start="20261120200000 +0300" stop="20261120220000 +0300" channel="ID">
+    <title lang="tr">Şeytan Aramızda</title>
+    <desc lang="tr">Kaliforniya&apos;da cesetler ortaya çıktığında, müfettişler bir seri katili aradıklarını fark eder. Şüpheli, saldırıları ile ilgili korkunç sesli günlükler tutmaktadır.</desc>
+  </programme>
+  <programme start="20261120220000 +0300" stop="20261120230000 +0300" channel="ID">
+    <title lang="tr">Ölümcül Aileler</title>
+    <desc lang="tr">Utah&apos;ta iki çocuk annesi bir kadın 2009 yılında ortadan kaybolur. Polis soruşturması sırasında ailenin karanlık sırları ortaya çıkar ve beklenmedik bir trajedi yaşanır. PREMIERE</desc>
+  </programme>
+  <programme start="20261120230000 +0300" stop="20261121000000 +0300" channel="ID">
+    <title lang="tr">Toksik</title>
+    <desc lang="tr">Elizabeth Chambers, bir lakros oyuncusu ile erkek arkadaşının trajik ilişkilerindeki tehlike sinyallerini mercek altına alır.</desc>
   </programme>
   <programme start="20261114233000 +0300" stop="20261115000000 +0300" channel="FTV">
     <title lang="tr">Dolce &amp; Gabbana</title>
@@ -9641,6 +9801,150 @@
     <title lang="tr">Lingerie</title>
     <desc lang="tr">Don&apos;t miss the latest trends in the most sensual pieces of fashion, we&apos;re talking about the latest lingerie collections presented on the world podiums! Sizzling hot looks from top lingerie designers</desc>
   </programme>
+  <programme start="20261120060000 +0300" stop="20261120063000 +0300" channel="FTV">
+    <title lang="tr">Swimwear</title>
+    <desc lang="tr">Everyone needs a great swimsuit in their wardrobe, better to have more than one. Enjoy trendsetting collections to find a reliable, well-fitted, and stylish option for your poolside excellence</desc>
+  </programme>
+  <programme start="20261120063000 +0300" stop="20261120070000 +0300" channel="FTV">
+    <title lang="tr">Swimwear</title>
+    <desc lang="tr">Everyone needs a great swimsuit in their wardrobe, better to have more than one. Enjoy trendsetting collections to find a reliable, well-fitted, and stylish option for your poolside excellence</desc>
+  </programme>
+  <programme start="20261120070000 +0300" stop="20261120073000 +0300" channel="FTV">
+    <title lang="tr">Top Photoshoots</title>
+    <desc lang="tr">Dive into the breathtaking world of the fashion photography to discover behind-the-scenes atmosphere and enjoy the most beautiful masterpieces of the iconic photographers and their muses</desc>
+  </programme>
+  <programme start="20261120073000 +0300" stop="20261120080000 +0300" channel="FTV">
+    <title lang="tr">Top Photoshoots</title>
+    <desc lang="tr">Dive into the breathtaking world of the fashion photography to discover behind-the-scenes atmosphere and enjoy the most beautiful masterpieces of the iconic photographers and their muses</desc>
+  </programme>
+  <programme start="20261120080000 +0300" stop="20261120083000 +0300" channel="FTV">
+    <title lang="tr">Fashion &amp; Sports</title>
+    <desc lang="tr">Athleisure is conquering the world! Everyone looks like having just finished a work-out in the gym, while grabbing a cappuccino. If this lifestyle is yours, be first to discover the must-haves!</desc>
+  </programme>
+  <programme start="20261120083000 +0300" stop="20261120090000 +0300" channel="FTV">
+    <title lang="tr">Fashion &amp; Sports</title>
+    <desc lang="tr">Athleisure is conquering the world! Everyone looks like having just finished a work-out in the gym, while grabbing a cappuccino. If this lifestyle is yours, be first to discover the must-haves!</desc>
+  </programme>
+  <programme start="20261120090000 +0300" stop="20261120093000 +0300" channel="FTV">
+    <title lang="tr">Beauty</title>
+    <desc lang="tr">Get inspired with the latest trends in hairstyles, enjoy the tips and tricks of the top makeup artists and get the best use of the exclusive guide in the world of skincare products!</desc>
+  </programme>
+  <programme start="20261120093000 +0300" stop="20261120100000 +0300" channel="FTV">
+    <title lang="tr">Beauty</title>
+    <desc lang="tr">Get inspired with the latest trends in hairstyles, enjoy the tips and tricks of the top makeup artists and get the best use of the exclusive guide in the world of skincare products!</desc>
+  </programme>
+  <programme start="20261120100000 +0300" stop="20261120103000 +0300" channel="FTV">
+    <title lang="tr">Fashion From Spain</title>
+    <desc lang="tr">Welcome to the world of Spanish fashion that made a name across the globe for its creativity,and bold style! Discover the known and emerging designers to refresh your wardrobe with Mediterranean style</desc>
+  </programme>
+  <programme start="20261120103000 +0300" stop="20261120110000 +0300" channel="FTV">
+    <title lang="tr">Fashion From Spain</title>
+    <desc lang="tr">Welcome to the world of Spanish fashion that made a name across the globe for its creativity,and bold style! Discover the known and emerging designers to refresh your wardrobe with Mediterranean style</desc>
+  </programme>
+  <programme start="20261120110000 +0300" stop="20261120113000 +0300" channel="FTV">
+    <title lang="tr">Elle Magazine Story</title>
+    <desc lang="tr">Best of the best in high fashion, beauty, health, and entertainment since 1945 - meet the exciting story of ELLE - the largest global lifestyle magazine in the world!</desc>
+  </programme>
+  <programme start="20261120113000 +0300" stop="20261120120000 +0300" channel="FTV">
+    <title lang="tr">Elle Magazine Story</title>
+    <desc lang="tr">Best of the best in high fashion, beauty, health, and entertainment since 1945 - meet the exciting story of ELLE - the largest global lifestyle magazine in the world!</desc>
+  </programme>
+  <programme start="20261120120000 +0300" stop="20261120123000 +0300" channel="FTV">
+    <title lang="tr">Most Watched</title>
+    <desc lang="tr">Tune in to witness a curated showcase of iconic brand highlights, unforgettable collection reveals, and the most captivating celebrity fashion moments.</desc>
+  </programme>
+  <programme start="20261120123000 +0300" stop="20261120130000 +0300" channel="FTV">
+    <title lang="tr">Most Watched</title>
+    <desc lang="tr">Tune in to witness a curated showcase of iconic brand highlights, unforgettable collection reveals, and the most captivating celebrity fashion moments.</desc>
+  </programme>
+  <programme start="20261120130000 +0300" stop="20261120133000 +0300" channel="FTV">
+    <title lang="tr">Fashion Junior</title>
+    <desc lang="tr">Follow kids fashion trends that will be huge in the recent and coming seasons, stay tuned for the best dressed celebs&apos; kids and runway highlights!</desc>
+  </programme>
+  <programme start="20261120133000 +0300" stop="20261120140000 +0300" channel="FTV">
+    <title lang="tr">Fashion Junior</title>
+    <desc lang="tr">Follow kids fashion trends that will be huge in the recent and coming seasons, stay tuned for the best dressed celebs&apos; kids and runway highlights!</desc>
+  </programme>
+  <programme start="20261120140000 +0300" stop="20261120143000 +0300" channel="FTV">
+    <title lang="tr">Paris Fashion Week</title>
+    <desc lang="tr">Welcome to Paris, the epicenter of fashion and the host for the legendary Fashion Week! The most influential designers, models, celebrities flock to France to be a part of this major fashion event</desc>
+  </programme>
+  <programme start="20261120143000 +0300" stop="20261120150000 +0300" channel="FTV">
+    <title lang="tr">Paris Fashion Week</title>
+    <desc lang="tr">Welcome to Paris, the epicenter of fashion and the host for the legendary Fashion Week! The most influential designers, models, celebrities flock to France to be a part of this major fashion event</desc>
+  </programme>
+  <programme start="20261120150000 +0300" stop="20261120153000 +0300" channel="FTV">
+    <title lang="tr">Fashion Films</title>
+    <desc lang="tr">Sit back, relax and enjoy a handful of experimental narrative fashion films with top models starring, it&apos;s one of the most artistic ways to follow the latest collections!</desc>
+  </programme>
+  <programme start="20261120153000 +0300" stop="20261120160000 +0300" channel="FTV">
+    <title lang="tr">Fashion Films</title>
+    <desc lang="tr">Sit back, relax and enjoy a handful of experimental narrative fashion films with top models starring, it&apos;s one of the most artistic ways to follow the latest collections!</desc>
+  </programme>
+  <programme start="20261120160000 +0300" stop="20261120163000 +0300" channel="FTV">
+    <title lang="tr">Bridal</title>
+    <desc lang="tr">Grab a clue on what&apos;s going on in the world of brides before you hit a salon! Enjoy a wide array of high fashion choices, undeniably romantic and decidedly feminine.</desc>
+  </programme>
+  <programme start="20261120163000 +0300" stop="20261120170000 +0300" channel="FTV">
+    <title lang="tr">Bridal</title>
+    <desc lang="tr">Grab a clue on what&apos;s going on in the world of brides before you hit a salon! Enjoy a wide array of high fashion choices, undeniably romantic and decidedly feminine.</desc>
+  </programme>
+  <programme start="20261120170000 +0300" stop="20261120173000 +0300" channel="FTV">
+    <title lang="tr">Top Photoshoots</title>
+    <desc lang="tr">Dive into the breathtaking world of the fashion photography to discover behind-the-scenes atmosphere and enjoy the most beautiful masterpieces of the iconic photographers and their muses</desc>
+  </programme>
+  <programme start="20261120173000 +0300" stop="20261120180000 +0300" channel="FTV">
+    <title lang="tr">Top Photoshoots</title>
+    <desc lang="tr">Dive into the breathtaking world of the fashion photography to discover behind-the-scenes atmosphere and enjoy the most beautiful masterpieces of the iconic photographers and their muses</desc>
+  </programme>
+  <programme start="20261120180000 +0300" stop="20261120183000 +0300" channel="FTV">
+    <title lang="tr">Fashion Teens</title>
+    <desc lang="tr">Explore the latest fashion trends for teens, the cutest outfits of the A-list celebrities, mix &amp; match insights, and style tips for all occasions.</desc>
+  </programme>
+  <programme start="20261120183000 +0300" stop="20261120190000 +0300" channel="FTV">
+    <title lang="tr">Fashion Teens</title>
+    <desc lang="tr">Explore the latest fashion trends for teens, the cutest outfits of the A-list celebrities, mix &amp; match insights, and style tips for all occasions.</desc>
+  </programme>
+  <programme start="20261120190000 +0300" stop="20261120193000 +0300" channel="FTV">
+    <title lang="tr">Designers</title>
+    <desc lang="tr">Explore stories of the top fashion designers of all time! Meet the legends, like Coco Chanel or Karl Lagerfeld and don&apos;t miss the amazingly talented young designers who shape the future of fashion now</desc>
+  </programme>
+  <programme start="20261120193000 +0300" stop="20261120200000 +0300" channel="FTV">
+    <title lang="tr">Designers</title>
+    <desc lang="tr">Explore stories of the top fashion designers of all time! Meet the legends, like Coco Chanel or Karl Lagerfeld and don&apos;t miss the amazingly talented young designers who shape the future of fashion now</desc>
+  </programme>
+  <programme start="20261120200000 +0300" stop="20261120203000 +0300" channel="FTV">
+    <title lang="tr">Fashion From South Africa</title>
+    <desc lang="tr">Witness the talent explosion of the South African fashion, its gifted designers who are looking inward and making important creative statements about what it means to be fashionably South African.</desc>
+  </programme>
+  <programme start="20261120203000 +0300" stop="20261120210000 +0300" channel="FTV">
+    <title lang="tr">Fashion From South Africa</title>
+    <desc lang="tr">Witness the talent explosion of the South African fashion, its gifted designers who are looking inward and making important creative statements about what it means to be fashionably South African.</desc>
+  </programme>
+  <programme start="20261120210000 +0300" stop="20261120213000 +0300" channel="FTV">
+    <title lang="tr">Most Watched</title>
+    <desc lang="tr">Tune in to witness a curated showcase of iconic brand highlights, unforgettable collection reveals, and the most captivating celebrity fashion moments.</desc>
+  </programme>
+  <programme start="20261120213000 +0300" stop="20261120220000 +0300" channel="FTV">
+    <title lang="tr">Most Watched</title>
+    <desc lang="tr">Tune in to witness a curated showcase of iconic brand highlights, unforgettable collection reveals, and the most captivating celebrity fashion moments.</desc>
+  </programme>
+  <programme start="20261120220000 +0300" stop="20261120223000 +0300" channel="FTV">
+    <title lang="tr">Fashion News</title>
+    <desc lang="tr">Check out the inside scoop on fashion news, all the daily news you need to know, including standout fashion moments, major events, current collections and trends on and off the runway.</desc>
+  </programme>
+  <programme start="20261120223000 +0300" stop="20261120230000 +0300" channel="FTV">
+    <title lang="tr">Fashion News</title>
+    <desc lang="tr">Check out the inside scoop on fashion news, all the daily news you need to know, including standout fashion moments, major events, current collections and trends on and off the runway.</desc>
+  </programme>
+  <programme start="20261120230000 +0300" stop="20261120233000 +0300" channel="FTV">
+    <title lang="tr">Elle Magazine Story</title>
+    <desc lang="tr">Best of the best in high fashion, beauty, health, and entertainment since 1945 - meet the exciting story of ELLE - the largest global lifestyle magazine in the world!</desc>
+  </programme>
+  <programme start="20261120233000 +0300" stop="20261121000000 +0300" channel="FTV">
+    <title lang="tr">Elle Magazine Story</title>
+    <desc lang="tr">Best of the best in high fashion, beauty, health, and entertainment since 1945 - meet the exciting story of ELLE - the largest global lifestyle magazine in the world!</desc>
+  </programme>
   <programme start="20261114230000 +0300" stop="20261115000000 +0300" channel="SZC">
     <title lang="tr">Nokta Atışı</title>
     <desc lang="tr">Siyaset gündemi uzman konuklar ile masaya yatırılıyor.</desc>
@@ -10518,6 +10822,34 @@
     <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
   <programme start="20261120000000 +0300" stop="20261120030000 +0300" channel="DREAM">
+    <title lang="tr">Dream TV</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261120030000 +0300" stop="20261120060000 +0300" channel="DREAM">
+    <title lang="tr">Dream TV</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261120060000 +0300" stop="20261120090000 +0300" channel="DREAM">
+    <title lang="tr">Dream TV</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261120090000 +0300" stop="20261120120000 +0300" channel="DREAM">
+    <title lang="tr">Dream TV</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261120120000 +0300" stop="20261120150000 +0300" channel="DREAM">
+    <title lang="tr">Dream TV</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261120150000 +0300" stop="20261120180000 +0300" channel="DREAM">
+    <title lang="tr">Dream TV</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261120180000 +0300" stop="20261120210000 +0300" channel="DREAM">
+    <title lang="tr">Dream TV</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261120210000 +0300" stop="20261121000000 +0300" channel="DREAM">
     <title lang="tr">Dream TV</title>
     <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
@@ -23932,6 +24264,74 @@
   <programme start="20261120062500 +0300" stop="20261120070000 +0300" channel="BBCFIRST">
     <title lang="tr">Ghosts</title>
     <desc lang="tr">Alison and Mike negotiate with Barclay. Meanwhile, the ghosts investigate Kitty&apos;s death.</desc>
+  </programme>
+  <programme start="20261120070000 +0300" stop="20261120080500 +0300" channel="BBCFIRST">
+    <title lang="tr">Call the Midwife</title>
+    <desc lang="tr">It&apos;s 1969 and more babies than ever are being born in hospital.</desc>
+  </programme>
+  <programme start="20261120080500 +0300" stop="20261120091000 +0300" channel="BBCFIRST">
+    <title lang="tr">Call the Midwife</title>
+    <desc lang="tr">It&apos;s 1969 and more babies than ever are being born in hospital.</desc>
+  </programme>
+  <programme start="20261120091000 +0300" stop="20261120100500 +0300" channel="BBCFIRST">
+    <title lang="tr">Midsomer Murders</title>
+    <desc lang="tr">Special to mark the series&apos; 100th episode. Barnaby and Nelson join forces with two detectives in Copenhagen when a Midsomer resident and biscuit factory boss is murdered.</desc>
+  </programme>
+  <programme start="20261120100500 +0300" stop="20261120110500 +0300" channel="BBCFIRST">
+    <title lang="tr">Midsomer Murders</title>
+    <desc lang="tr">Special to mark the series&apos; 100th episode. Barnaby and Nelson join forces with two detectives in Copenhagen when a Midsomer resident and biscuit factory boss is murdered.</desc>
+  </programme>
+  <programme start="20261120110500 +0300" stop="20261120121000 +0300" channel="BBCFIRST">
+    <title lang="tr">Death in Paradise</title>
+    <desc lang="tr">DI Humphrey Goodman and his team are perplexed by the seemingly random killing of a stand-in on a film set and fear the murderer may strike again.</desc>
+  </programme>
+  <programme start="20261120121000 +0300" stop="20261120131500 +0300" channel="BBCFIRST">
+    <title lang="tr">Murdoch Mysteries</title>
+    <desc lang="tr">The theft of a priceless Rembrandt draws Murdoch into the world of high-powered couple James and Sally Pendrick.</desc>
+  </programme>
+  <programme start="20261120131500 +0300" stop="20261120141000 +0300" channel="BBCFIRST">
+    <title lang="tr">You&apos;re Killing Me</title>
+    <desc lang="tr">A copycat killer mimics murders from Allie&apos;s books in Founders Cove.</desc>
+  </programme>
+  <programme start="20261120141000 +0300" stop="20261120150500 +0300" channel="BBCFIRST">
+    <title lang="tr">Hudson &amp; Rex</title>
+    <desc lang="tr">Some shots of dead bodies, and a scene where it&apos;s implied Rex The Dog got shot. Impactful for younger viewers.</desc>
+  </programme>
+  <programme start="20261120150500 +0300" stop="20261120160000 +0300" channel="BBCFIRST">
+    <title lang="tr">My Life is Murder</title>
+    <desc lang="tr">A wealthy socialite dies in suspicious circumstances, leaving her entire fortune to her cat. To uncover the truth, Alexa investigates a heady world of high society gossip.</desc>
+  </programme>
+  <programme start="20261120160000 +0300" stop="20261120170000 +0300" channel="BBCFIRST">
+    <title lang="tr">My Life is Murder</title>
+    <desc lang="tr">Alexa&apos;s investigates the death of a tough tennis coach, but she&apos;s not the only one on the case. A glamorous private investigator is determined to solve the case before Alexa.</desc>
+  </programme>
+  <programme start="20261120170000 +0300" stop="20261120175500 +0300" channel="BBCFIRST">
+    <title lang="tr">Father Brown</title>
+    <desc lang="tr">A murderer is using Kembleford&apos;s new model village to plan their attacks.</desc>
+  </programme>
+  <programme start="20261120175500 +0300" stop="20261120185500 +0300" channel="BBCFIRST">
+    <title lang="tr">Father Brown</title>
+    <desc lang="tr">Lady Felicia&apos;s impromptu visit coincides with Father Brown helping out a friend at an exclusive gentlemen&apos;s club.</desc>
+  </programme>
+  <programme start="20261120185500 +0300" stop="20261120200000 +0300" channel="BBCFIRST">
+    <title lang="tr">Death in Paradise</title>
+    <desc lang="tr">An onstage poisoning at a Shakespeare performance stretches Mervin and the team.</desc>
+  </programme>
+  <programme start="20261120200000 +0300" stop="20261120210500 +0300" channel="BBCFIRST">
+    <title lang="tr">Death in Paradise</title>
+    <desc lang="tr">Mervin gets embroiled in a case when he goes in search of his brother on Antigua.</desc>
+  </programme>
+  <programme start="20261120210500 +0300" stop="20261120220000 +0300" channel="BBCFIRST">
+    <title lang="tr">Hudson &amp; Rex</title>
+    <desc lang="tr">Six years after his prison sentence, a dentist faces deportation to Honduras due to an assistant&apos;s murder. Later, numerous unanswered questions prompt Charlie to review the original case file.</desc>
+  </programme>
+  <programme start="20261120220000 +0300" stop="20261120230000 +0300" channel="BBCFIRST">
+    <title lang="tr">Agatha Christie&apos;s Tommy &amp; Tuppence</title>
+    <desc lang="tr">As their investigation deepens, Tommy and Tuppence uncover dangerous secrets that bring them closer to the truth - and to each other.</desc>
+  </programme>
+  <programme start="20261120230000 +0300" stop="20261121000000 +0300" channel="BBCFIRST">
+    <title lang="tr">Sherlock &amp; Daughter</title>
+    <desc lang="tr">Amelia withholds details from Holmes after encountering a charming man with a pistol, but Sherlock must step in when her investigation turns fatal.</desc>
   </programme>
   <programme start="20261114200000 +0300" stop="20261115001500 +0300" channel="KANALD">
     <title lang="tr">Güller Ve Günahlar</title>
