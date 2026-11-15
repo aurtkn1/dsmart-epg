@@ -393,6 +393,46 @@
     <title lang="tr">Yarın Ağlayacağım</title>
     <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
+  <programme start="20261120070000 +0300" stop="20261120082000 +0300" channel="MSCL">
+    <title lang="tr">Affet Sevgilim</title>
+    <desc lang="tr">Ekrem, fabrikatör Hulusi Bey&apos;in fabrikasında çalışan genç ve yakışıklı bir gençtir. Hulusi Bey&apos;in kızı Filiz ise Ekrem&apos;e âşıktır. Doktorlar, kalp hastalığı nedeniyle Filiz&apos;e bir yıllık bir ömür biçerler. Hulusi Bey, kızının son zamanlarında mutlu olmasını ister. Bunun için Ekrem&apos;e ortaklık teklif eder, karşılığında ise kızı Filiz&apos;le evlenmesini şart koşar. Ekrem önceleri para hırsıyla bu teklifi kabul eder.Ancak zamanla Filiz&apos;e âşık olacaktır</desc>
+  </programme>
+  <programme start="20261120082000 +0300" stop="20261120100000 +0300" channel="MSCL">
+    <title lang="tr">Ben de Özledim</title>
+    <desc lang="tr">Ferdi küçük bir kasabada otobüs şoförlüğü yapmaktadır. Ancak kazandığı para Ferdi&apos;yi zar zor geçindirir. Üstelik Gül ile nişanlı olan Ferdi istediği gibi bir düğün yapabilmek için yeterince para biriktiremez. Bu nedenle para kazanmak amacıyla Libya&apos;ya gitmek için başvuru yapar. Başvurusu kabul edilen Ferdi, Libya&apos;ya gitmek üzere yola çıkar. Ancak hiç hesapta olmayan bir oyun yüzünden Ferdi&apos;nin bütün planları altüst olacaktır.</desc>
+  </programme>
+  <programme start="20261120100000 +0300" stop="20261120113000 +0300" channel="MSCL">
+    <title lang="tr">Buğulu Gözler</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261120113000 +0300" stop="20261120131000 +0300" channel="MSCL">
+    <title lang="tr">Anneler ve Kızları</title>
+    <desc lang="tr">Güçlü bağların sınandığı bu klasik melodramda iki annenin kızıyla imtihanı, umut ve ayrılığın iç içe geçtiği bir hikâye izliyoruz.</desc>
+  </programme>
+  <programme start="20261120131000 +0300" stop="20261120150000 +0300" channel="MSCL">
+    <title lang="tr">Can Mustafa</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261120150000 +0300" stop="20261120162000 +0300" channel="MSCL">
+    <title lang="tr">Bir Genç Kızın Romanı</title>
+    <desc lang="tr">Ailesinden uzakta büyüyen kimsesiz Selma, aldığı beklenmedik bir mektupla köklerinin peşine düşer. Ancak geçmişin izleri, ailesine dair karanlık gerçekleri ortaya çıkarır.</desc>
+  </programme>
+  <programme start="20261120162000 +0300" stop="20261120180000 +0300" channel="MSCL">
+    <title lang="tr">Anneler Günü</title>
+    <desc lang="tr">Aile bağları, kuşak çatışmaları ve duygusal yüzleşmeleri merkezine alan sıcak bir dram filmi.</desc>
+  </programme>
+  <programme start="20261120180000 +0300" stop="20261120195000 +0300" channel="MSCL">
+    <title lang="tr">Seni Sevmek Kaderim</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261120195000 +0300" stop="20261120213000 +0300" channel="MSCL">
+    <title lang="tr">Yakılacak Kadın</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261120213000 +0300" stop="20261120230000 +0300" channel="MSCL">
+    <title lang="tr">Yayla Kızı</title>
+    <desc lang="tr">Dağların huzurlu atmosferinde geçen film, sevda, özlem ve yaşam mücadelesini etkileyici bir hikâyeyle ekrana taşıyor.</desc>
+  </programme>
   <programme start="20261114235000 +0300" stop="20261115013000 +0300" channel="MSTK">
     <title lang="tr">Kolay Para</title>
     <desc lang="tr">Program açıklaması bulunmuyor.</desc>
@@ -684,6 +724,42 @@
   <programme start="20261120052000 +0300" stop="20261120070000 +0300" channel="MSTK">
     <title lang="tr">Severek Ayrılalım</title>
     <desc lang="tr">Meral, kız kardeşinin eşi Ömer&apos;e âşık olur. Yasak aşk, herkesi derinden sarsar.</desc>
+  </programme>
+  <programme start="20261120070000 +0300" stop="20261120084000 +0300" channel="MSTK">
+    <title lang="tr">Bir Bayram Hikayesi</title>
+    <desc lang="tr">Bayram coşkusunu ekrana taşıyan bu film, aile bağları, dostluk ve sıcak anlarla dolu keyifli bir hikâyeyi izleyiciye sunuyor.</desc>
+  </programme>
+  <programme start="20261120084000 +0300" stop="20261120103000 +0300" channel="MSTK">
+    <title lang="tr">Seni Gidi Seni</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261120103000 +0300" stop="20261120124000 +0300" channel="MSTK">
+    <title lang="tr">Aykut Eni̇şte</title>
+    <desc lang="tr">Evlenip aile kurmak isterken tüm birikimini kaybeden samimi Aykut, bir anda kendisini iki ayrı ailenin damadı yapacak büyük bir kargaşada bulur.</desc>
+  </programme>
+  <programme start="20261120124000 +0300" stop="20261120141000 +0300" channel="MSTK">
+    <title lang="tr">Avanak Abdi</title>
+    <desc lang="tr">Afişçi Abdi, platonik aşık olduğu ünlü şarkıcı Nevin Şenses&apos;in kalbini kazanır. Ancak belalı bir kabadayının da Nevin&apos;e aşık olması işleri karıştırır.</desc>
+  </programme>
+  <programme start="20261120141000 +0300" stop="20261120161000 +0300" channel="MSTK">
+    <title lang="tr">Abimm</title>
+    <desc lang="tr">Abimm, İstanbul&apos;dan Marmaris&apos;e uzanan, Türkiye&apos;nin en güzel yollarında yeşeren bir kardeşlik hikayesidir...</desc>
+  </programme>
+  <programme start="20261120161000 +0300" stop="20261120175000 +0300" channel="MSTK">
+    <title lang="tr">Petrol Kralları</title>
+    <desc lang="tr">Hayatları yoksulluk içinde geçen iki genç, tesadüfen bulunan petrol sonrası bambaşka bir dünyaya sürüklenir.</desc>
+  </programme>
+  <programme start="20261120175000 +0300" stop="20261120200000 +0300" channel="MSTK">
+    <title lang="tr">Bekle Beni Sevgilim</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261120200000 +0300" stop="20261120215000 +0300" channel="MSTK">
+    <title lang="tr">G.D.O Kara Kedi</title>
+    <desc lang="tr">Şafak Sezer kendine özgü mizahıyla izleyiciyi sürükleyici bir maceraya davet ediyor. Kara mizah, sürpriz olaylar ve eğlenceli karakterlerle dolu film, seyirciye keyifli anlar vaat ediyor.</desc>
+  </programme>
+  <programme start="20261120215000 +0300" stop="20261120234000 +0300" channel="MSTK">
+    <title lang="tr">İftarlık Gazoz</title>
+    <desc lang="tr">Ege&apos;de küçük bir kasabada geçen sıcak bir hikâyeyle bir çocuğun büyüme sürecini, dostluk ve adalet duygusu eşliğinde izleyiciyle buluşturan samimi bir film sunuyor.</desc>
   </programme>
   <programme start="20261114230000 +0300" stop="20261115010000 +0300" channel="SPPR">
     <title lang="tr">Joventut - Zaragoza</title>
@@ -3249,6 +3325,118 @@
     <title lang="tr">Saklı Şehirlerin İzinde</title>
     <desc lang="tr">Modern şehirlerin altındaki gizli dünyaları keşfediyoruz. Hayatta kalma, ritüel ve hayal gücüyle şekillenen bu alanlar, her şehrin keşfedilmeyi bekleyen bir yüzü olduğunu bize gösteriyor.</desc>
   </programme>
+  <programme start="20261120000000 +0300" stop="20261120005000 +0300" channel="NGEO">
+    <title lang="tr">Uçak Kazası Raporu: Özel</title>
+    <desc lang="tr">National Geographic&apos;in en sevilen serilerinden Uçak Kazası Raporu özel sezonu ile ekranlara dönüyor. Uçak kazalarının sır perdesini aralayan, arkalarında yatan nedenleri ve hiç görülmemiş kayıtları ortaya çıkartan Uçak Kazası Raporu, havacılık tarihinin efsanevi felaketlerini araştırarak neyin neden yanlış gittiğini araştırmaya devam ediyor.</desc>
+  </programme>
+  <programme start="20261120005000 +0300" stop="20261120014000 +0300" channel="NGEO">
+    <title lang="tr">Uçak Kazası Raporu: Özel</title>
+    <desc lang="tr">National Geographic&apos;in en sevilen serilerinden Uçak Kazası Raporu özel sezonu ile ekranlara dönüyor. Uçak kazalarının sır perdesini aralayan, arkalarında yatan nedenleri ve hiç görülmemiş kayıtları ortaya çıkartan Uçak Kazası Raporu, havacılık tarihinin efsanevi felaketlerini araştırarak neyin neden yanlış gittiğini araştırmaya devam ediyor.</desc>
+  </programme>
+  <programme start="20261120014000 +0300" stop="20261120023000 +0300" channel="NGEO">
+    <title lang="tr">Sular Çekilince</title>
+    <desc lang="tr">Batı dünyasına beş yüzyıl boyunca hakim olan Roma İmparatorluğu&apos;nun denizcilik teknolojisini üst seviyelere nasıl taşıdığının olağanüstü sırlarını ortaya çıkarmak için İtalya çevresindeki suların tıpasını çekiyoruz.</desc>
+  </programme>
+  <programme start="20261120023000 +0300" stop="20261120031500 +0300" channel="NGEO">
+    <title lang="tr">Otoyol Cehennemi: Norveç</title>
+    <desc lang="tr">Zorlu bir sezon, Norveç&apos;in yollarını açık tutmak için mücadele eden buzlu yol kurtarma ekiplerini sınırlarına kadar zorluyor. Güneydeki dağlardan kuzeyin vahşi doğasına uzanan bölgede kış giderek daha öngörülemez hale gelirken kar fırtınalarını ani sıcaklık değişimleri, heyelanlar, kaya düşmeleri ve ölümcül rüzgârlar takip ediyor. Kurtarma ekiplerinin liderleri Thord, Bjoern ve Jo Roger, benzeri görülmemiş doğal afetler ve giderek artan taleple mücadele ediyor. Yeni nesil genç kurtarmacılar, komşu ekiplerle iş birlikleri ve yeni teknolojiler ise en zorlu operasyonlarda her zamankinden daha büyük önem taşıyor.</desc>
+  </programme>
+  <programme start="20261120031500 +0300" stop="20261120040000 +0300" channel="NGEO">
+    <title lang="tr">Mavi Sefer: Okyanusları Kurtarmak</title>
+    <desc lang="tr">National Geographic kaşiflerinden oluşan bir ekip, beş okyanusta bilinmeyen ekosistemleri haritalamak, yeni türler keşfetmek ve okyanus yaşamını değiştiren etkenleri araştırmak üzere yolculuğa çıkıyor. İleri teknolojiyi kıyı topluluklarının bilgisiyle buluşturan ekip, denizlerimizi korumaya yönelik çözümleri gözler önüne seriyor.</desc>
+  </programme>
+  <programme start="20261120040000 +0300" stop="20261120045000 +0300" channel="NGEO">
+    <title lang="tr">Sıra Dışı Bir Kaya</title>
+    <desc lang="tr">Astronot Chris Hadfield gezegenimizi üç kez terk etti. Gezegenimizin yüzeyindeki asteroitler tarafından bırakılan mermi deliklerini gördükten sonra, hayatta kalma şansımızın Dünya&apos;dan kaçarak, Dünya dışı bir koloni kurmak olduğuna inanıyor. Bu zorlu yolculukta hayatta kalabilir miyiz?</desc>
+  </programme>
+  <programme start="20261120045000 +0300" stop="20261120053500 +0300" channel="NGEO">
+    <title lang="tr">Gökyüzünden Avrupa</title>
+    <desc lang="tr">Perspektifimizi daha da yükselterek Avrupa&apos;nın eşsiz tarihi ile bütünleştiğimiz, ülkelerin farklı bölgelerindeki dört mevsim ile nefes kesen görsel bir yolculuğa çıktığımız ve sıradan insanların bilinmeyen hikayelerine tanık olduğumuz Gökyüzünden Avrupa&apos;nın yeni sezonuna İskoçya, Danimarka, Sırbistan, Belçika, Bulgaristan ve Romanya konuk oluyor.</desc>
+  </programme>
+  <programme start="20261120053500 +0300" stop="20261120060000 +0300" channel="NGEO">
+    <title lang="tr">Gökyüzünden Avrupa</title>
+    <desc lang="tr">Perspektifimizi daha da yükselterek Avrupa&apos;nın eşsiz tarihi ile bütünleştiğimiz, ülkelerin farklı bölgelerindeki dört mevsim ile nefes kesen görsel bir yolculuğa çıktığımız ve sıradan insanların bilinmeyen hikayelerine tanık olduğumuz Gökyüzünden Avrupa&apos;nın yeni sezonuna İskoçya, Danimarka, Sırbistan, Belçika, Bulgaristan ve Romanya konuk oluyor.</desc>
+  </programme>
+  <programme start="20261120060000 +0300" stop="20261120065000 +0300" channel="NGEO">
+    <title lang="tr">Sular Çekilince</title>
+    <desc lang="tr">Batı dünyasına beş yüzyıl boyunca hakim olan Roma İmparatorluğu&apos;nun denizcilik teknolojisini üst seviyelere nasıl taşıdığının olağanüstü sırlarını ortaya çıkarmak için İtalya çevresindeki suların tıpasını çekiyoruz.</desc>
+  </programme>
+  <programme start="20261120065000 +0300" stop="20261120073500 +0300" channel="NGEO">
+    <title lang="tr">Kuzeyin Kahramanları</title>
+    <desc lang="tr">Kuzeyin Kahramanları, Yukon&apos;un acımasız doğasında görev yapan ilk müdahale ekiplerinin zorlu mücadelesini konu alıyor. Çığlar, yangınlar, ani seller ve vahşi doğa tehditleriyle karşı karşıya kalan ekipler; sınırlı imkânlar, aşırı soğuklar ve uçsuz bucaksız mesafeler arasında hayat kurtarmak için her şeyi göze alıyor.</desc>
+  </programme>
+  <programme start="20261120073500 +0300" stop="20261120082000 +0300" channel="NGEO">
+    <title lang="tr">Gökyüzünden Avrupa</title>
+    <desc lang="tr">Perspektifimizi daha da yükselterek Avrupa&apos;nın eşsiz tarihi ile bütünleştiğimiz, ülkelerin farklı bölgelerindeki dört mevsim ile nefes kesen görsel bir yolculuğa çıktığımız ve sıradan insanların bilinmeyen hikayelerine tanık olduğumuz Gökyüzünden Avrupa&apos;nın yeni sezonuna İskoçya, Danimarka, Sırbistan, Belçika, Bulgaristan ve Romanya konuk oluyor.</desc>
+  </programme>
+  <programme start="20261120082000 +0300" stop="20261120090500 +0300" channel="NGEO">
+    <title lang="tr">Gökyüzünden Avrupa</title>
+    <desc lang="tr">Perspektifimizi daha da yükselterek Avrupa&apos;nın eşsiz tarihi ile bütünleştiğimiz, ülkelerin farklı bölgelerindeki dört mevsim ile nefes kesen görsel bir yolculuğa çıktığımız ve sıradan insanların bilinmeyen hikayelerine tanık olduğumuz Gökyüzünden Avrupa&apos;nın yeni sezonuna İskoçya, Danimarka, Sırbistan, Belçika, Bulgaristan ve Romanya konuk oluyor.</desc>
+  </programme>
+  <programme start="20261120090500 +0300" stop="20261120095000 +0300" channel="NGEO">
+    <title lang="tr">Uçak Kazası Raporu: Özel</title>
+    <desc lang="tr">National Geographic&apos;in en sevilen serilerinden Uçak Kazası Raporu özel sezonu ile ekranlara dönüyor. Uçak kazalarının sır perdesini aralayan, arkalarında yatan nedenleri ve hiç görülmemiş kayıtları ortaya çıkartan Uçak Kazası Raporu, havacılık tarihinin efsanevi felaketlerini araştırarak neyin neden yanlış gittiğini araştırmaya devam ediyor.</desc>
+  </programme>
+  <programme start="20261120095000 +0300" stop="20261120104000 +0300" channel="NGEO">
+    <title lang="tr">Uçak Kazası Raporu: Özel</title>
+    <desc lang="tr">National Geographic&apos;in en sevilen serilerinden Uçak Kazası Raporu özel sezonu ile ekranlara dönüyor. Uçak kazalarının sır perdesini aralayan, arkalarında yatan nedenleri ve hiç görülmemiş kayıtları ortaya çıkartan Uçak Kazası Raporu, havacılık tarihinin efsanevi felaketlerini araştırarak neyin neden yanlış gittiğini araştırmaya devam ediyor.</desc>
+  </programme>
+  <programme start="20261120104000 +0300" stop="20261120113500 +0300" channel="NGEO">
+    <title lang="tr">Mavi Sefer: Okyanusları Kurtarmak</title>
+    <desc lang="tr">National Geographic kaşiflerinden oluşan bir ekip, beş okyanusta bilinmeyen ekosistemleri haritalamak, yeni türler keşfetmek ve okyanus yaşamını değiştiren etkenleri araştırmak üzere yolculuğa çıkıyor. İleri teknolojiyi kıyı topluluklarının bilgisiyle buluşturan ekip, denizlerimizi korumaya yönelik çözümleri gözler önüne seriyor.</desc>
+  </programme>
+  <programme start="20261120113500 +0300" stop="20261120123000 +0300" channel="NGEO">
+    <title lang="tr">Gökyüzünden Avrupa</title>
+    <desc lang="tr">Perspektifimizi daha da yükselterek Avrupa&apos;nın eşsiz tarihi ile bütünleştiğimiz, ülkelerin farklı bölgelerindeki dört mevsim ile nefes kesen görsel bir yolculuğa çıktığımız ve sıradan insanların bilinmeyen hikayelerine tanık olduğumuz Gökyüzünden Avrupa&apos;nın yeni sezonuna İskoçya, Danimarka, Sırbistan, Belçika, Bulgaristan ve Romanya konuk oluyor.</desc>
+  </programme>
+  <programme start="20261120123000 +0300" stop="20261120132500 +0300" channel="NGEO">
+    <title lang="tr">Gökyüzünden Avrupa</title>
+    <desc lang="tr">Perspektifimizi daha da yükselterek Avrupa&apos;nın eşsiz tarihi ile bütünleştiğimiz, ülkelerin farklı bölgelerindeki dört mevsim ile nefes kesen görsel bir yolculuğa çıktığımız ve sıradan insanların bilinmeyen hikayelerine tanık olduğumuz Gökyüzünden Avrupa&apos;nın yeni sezonuna İskoçya, Danimarka, Sırbistan, Belçika, Bulgaristan ve Romanya konuk oluyor.</desc>
+  </programme>
+  <programme start="20261120132500 +0300" stop="20261120142000 +0300" channel="NGEO">
+    <title lang="tr">Sular Çekilince</title>
+    <desc lang="tr">Deniz arkeologları ve tarihçileri, Atlantik Köle Ticaretindeki önemli bir bileşen arayışına girerler: Yeni Dünya&apos;da acımasız koşullarda satılan ve çalışmaya zorlanan 12 milyondan fazla Afrikalı&apos;yı ele geçiren ve taşıyan, dört asırdan fazla kullanılmış bir köle gemisi. Suları tahliye ederek, Amerikan toprağına gelen son köle gemisi olabilecek bir enkazı araştırıyoruz.</desc>
+  </programme>
+  <programme start="20261120142000 +0300" stop="20261120151500 +0300" channel="NGEO">
+    <title lang="tr">Saklı Şehirlerin İzinde</title>
+    <desc lang="tr">Modern şehirlerin altındaki gizli dünyaları keşfediyoruz. Hayatta kalma, ritüel ve hayal gücüyle şekillenen bu alanlar, her şehrin keşfedilmeyi bekleyen bir yüzü olduğunu bize gösteriyor.</desc>
+  </programme>
+  <programme start="20261120151500 +0300" stop="20261120161000 +0300" channel="NGEO">
+    <title lang="tr">Sıra Dışı Bir Kaya</title>
+    <desc lang="tr">Yaşamın ortaya çıkmasından beri, canlılar yeryüzünü ve atmosferi en tuhaf şekillerde yontmuşlar ; balık dışkısıyla oluşan adalar, ölü hayvanların yarattığı dağlar… Ancak hayat sadece yaratmıyor, ayrıca yok edebilir.</desc>
+  </programme>
+  <programme start="20261120161000 +0300" stop="20261120170500 +0300" channel="NGEO">
+    <title lang="tr">Sıra Dışı Bir Kaya</title>
+    <desc lang="tr">Başka bir gezegende bizimki gibi bir hayat bulabilir miyiz? Dünyadaki tüm yaşam, tek hücreli bakteriyle başladı ve 2 milyar yıldır böyle kaldı. Peki bu bakteri nasıl bu kadar karmaşık, renkli ve farklı bir hale geldi? Bu, evrende başka bir yerde olabilir mi?</desc>
+  </programme>
+  <programme start="20261120170500 +0300" stop="20261120180000 +0300" channel="NGEO">
+    <title lang="tr">Uçak Kazalarının İzinde</title>
+    <desc lang="tr">Havacılık tarihinin en çarpıcı kazaları ve tehlikeli uçuşları mercek altına alınıyor. Uzman analizleri, kara kutu verileri ve kazadan kurtulanların anlatımlarıyla uçuşların son anları adım adım yeniden oluşturuluyor. Deneyimli pilotlardan oluşan bir ekip, gelişmiş uçuş simülasyonlarıyla olayları yeniden canlandırarak neyin yanlış gittiğini, nelerin farklı yapılabileceğini ve bu olaylardan çıkarılan derslerin havacılık güvenliğini nasıl değiştirdiğini ortaya koyuyor.</desc>
+  </programme>
+  <programme start="20261120180000 +0300" stop="20261120190000 +0300" channel="NGEO">
+    <title lang="tr">Uçak Kazası Raporu: Özel</title>
+    <desc lang="tr">National Geographic&apos;in en sevilen serilerinden Uçak Kazası Raporu özel sezonu ile ekranlara dönüyor. Uçak kazalarının sır perdesini aralayan, arkalarında yatan nedenleri ve hiç görülmemiş kayıtları ortaya çıkartan Uçak Kazası Raporu, havacılık tarihinin efsanevi felaketlerini araştırarak neyin neden yanlış gittiğini araştırmaya devam ediyor.</desc>
+  </programme>
+  <programme start="20261120190000 +0300" stop="20261120200000 +0300" channel="NGEO">
+    <title lang="tr">Uçak Kazası Raporu: Özel</title>
+    <desc lang="tr">National Geographic&apos;in en sevilen serilerinden Uçak Kazası Raporu özel sezonu ile ekranlara dönüyor. Uçak kazalarının sır perdesini aralayan, arkalarında yatan nedenleri ve hiç görülmemiş kayıtları ortaya çıkartan Uçak Kazası Raporu, havacılık tarihinin efsanevi felaketlerini araştırarak neyin neden yanlış gittiğini araştırmaya devam ediyor.</desc>
+  </programme>
+  <programme start="20261120200000 +0300" stop="20261120210000 +0300" channel="NGEO">
+    <title lang="tr">Aslan Kralın Doğuşu</title>
+    <desc lang="tr">Afrika&apos;nın kalbinde, tahtın tek bir varisi var: Kio. Dört bölümlük büyüleyici belgesel serisi Aslan Kralın Doğuşu, bir aslan yavrusunun liderliğe uzanan zorlu ve kanlı yolunu anlatıyor. Vahşi doğanın acımasız kuralları altında geçen yıllar; Kio&apos;yu ihanet, kayıp ve sürgünle sınayacak. Kendi bölgesini korumak ve ailesinin geleceğini güvenceye almak için Kio, bir savaşçıya ve nihayetinde bir krala dönüşmek zorundadır. Gerçekçi anlatımı yüksek bir dramatik güçle birleştiren bu yapım, vahşi doğada hayatta kalmanın ötesine geçerek gerçek bir liderin doğuşunu ilan ediyor.</desc>
+  </programme>
+  <programme start="20261120210000 +0300" stop="20261120220000 +0300" channel="NGEO">
+    <title lang="tr">Stanley Tucci&apos;nin Büyülü İtalyası</title>
+    <desc lang="tr">Stanley Tucci, bir ülkeyi anlamanın en iyi yolunun mutfağından geçtiğine inanıyor. İtalya&apos;da makarnanın şekli bile bölgesel kimliği yansıtırken, Tucci bu kez turistlerin pek bilmediği Le Marche dahil beş yeni bölgeyi keşfe çıkıyor. Napoli&apos;de unutulmuş üzümlerin, Veneto&apos;da tiramisunun kökeninin peşine düşen Tucci; Sardinya&apos;da uzun yaşamın sırlarını, Sicilya&apos;da ise çok kültürlü tarihin mutfaktaki izlerini sürüyor.</desc>
+  </programme>
+  <programme start="20261120220000 +0300" stop="20261120230000 +0300" channel="NGEO">
+    <title lang="tr">Kuzey Kore: Siber Devlet</title>
+    <desc lang="tr">Kuzey Kore&apos;nin dünya çapında kar ve karmaşa yaratmak için kullandığı 6000 güçlü siber suçlu ordusunun hikayesine tanık oluyoruz.</desc>
+  </programme>
+  <programme start="20261120230000 +0300" stop="20261121000000 +0300" channel="NGEO">
+    <title lang="tr">Hitler&apos;in Son Direnisi</title>
+    <desc lang="tr">Hitler&apos;in Son Direnişi, Müttefik kuvvetlerinin Batı Avrupa&apos;yı kurtarmak için Normandiya kıyılarına çıkmasıyla geri dönüyor. İkinci Dünya Savaşı&apos;nın bu son perdesinde, savaşı Hitler&apos;in kapısına kadar taşımak hiç de kolay olmayacak. Fanatik Naziler Fransa, Belçika, İtalya ve bizzat Almanya topraklarında son güçleriyle direniyor. İşte İkinci Dünya Savaşı&apos;nın son ve amansız mücadelelerinin hikayesi. Normandiya Çıkarması sadece bir muharebeydi; ama savaşı kazanmak için katetmeleri gereken daha çok yol var.</desc>
+  </programme>
   <programme start="20261114234500 +0300" stop="20261115003500 +0300" channel="NGWILD">
     <title lang="tr">Yetenekli Dr. Pol</title>
     <desc lang="tr">Yeni veteriner yola çıkıyor! Michele iyi bir hafta seçti. Cesur boğaların kaçmaya ihtiyacı var, isteksiz bir atın diş operasyonuna ihtiyacı var ve bir dizi hamilelik kontrolü bu hafta başlıyor. Karışıma bir acil keçi şakası ve bacak problemi olan bir kedi yavrusu ekleyin. Hepsini Michigan&apos;daki bir haftalık çalışmalarında görüyoruz.</desc>
@@ -3832,6 +4020,118 @@
   <programme start="20261119234500 +0300" stop="20261120003500 +0300" channel="NGWILD">
     <title lang="tr">Yetenekli Dr. Pol</title>
     <desc lang="tr">Hayvanlarla mucizeler yaratan, dünyanın en çok tanınan hayvan uzmanlarından olan Dr. Pol Nat Geo People ekranlarına geri dönüyor. Ona yardım için gelen herkesle ilgilenen, mucizeler yaratan Dr. Pol, bu sefer de atlardan köpeklere, bizonlara kadar pek çok hayvan dostumuzun yardımına koşuyor, aileleri hayvanları ile kavuşturuyor.</desc>
+  </programme>
+  <programme start="20261120003500 +0300" stop="20261120012500 +0300" channel="NGWILD">
+    <title lang="tr">Yetenekli Dr. Pol</title>
+    <desc lang="tr">Bu hafta Yetenekli Dr. Pol&apos;de gizemli vakalar, vahşi takipler ve küçük bir Noel büyüsünün mevsimi. Doktor hala ayak bileği ameliyatından dolayı iyileşme sürecinde ve scooterındaki ilk vakaya merhaba diyor.</desc>
+  </programme>
+  <programme start="20261120012500 +0300" stop="20261120021000 +0300" channel="NGWILD">
+    <title lang="tr">Panda Akademisi</title>
+    <desc lang="tr">Gezegenin en sevimli ve sakar ayıları dev pandalar, Çin&apos;in sisli dağlarındaki özel bir koruma merkezinde hayata hazırlanıyor! Yavru pandalar bu benzersiz okulda; ağaca tırmanmaktan bambu yeme tekniklerine kadar gelecekte hayatta kalmalarını sağlayacak her şeyi öğreniyor. Tıpkı insan çocukları gibi her birinin öğrenme hızı ve karakteri farklı. Panda Akademisi&apos;nden mezun olma yolunda, bolca pratik ve birbirinden sevimli sakarlıklarla dolu bu eğlenceli yolculuğa ortak olun!</desc>
+  </programme>
+  <programme start="20261120021000 +0300" stop="20261120025500 +0300" channel="NGWILD">
+    <title lang="tr">Ekvator&apos;un Vahşi Sırları</title>
+    <desc lang="tr">Ekvator boyunca yaşam çeşitliliği olağanüstüdür. Dünyadaki türlerin yarısından fazlası burada yaşar. Ekvator&apos;un çılgın ve çeşitli ekosistemleri olan; Amazon, And Dağları, Galapagos Adaları, Borneo ve Sumatra, Afrika ve Mercan Denizi hakkında 6 bölümden oluşan bir seri. Bu seri, buharlı yağmur ormanları ve büyük otlaklardan karlı dağlara ve büyük resiflere kadar ilginç habitatlara ve egzotik hayvanlara yakından bakıyor. Bu alanda bol yiyeceğe erişim olmasına rağmen, şiddetli rekabet hala ekvatordaki günlük yaşamın bir parçası.</desc>
+  </programme>
+  <programme start="20261120025500 +0300" stop="20261120034000 +0300" channel="NGWILD">
+    <title lang="tr">Panda Akademisi</title>
+    <desc lang="tr">Gezegenin en sevimli ve sakar ayıları dev pandalar, Çin&apos;in sisli dağlarındaki özel bir koruma merkezinde hayata hazırlanıyor! Yavru pandalar bu benzersiz okulda; ağaca tırmanmaktan bambu yeme tekniklerine kadar gelecekte hayatta kalmalarını sağlayacak her şeyi öğreniyor. Tıpkı insan çocukları gibi her birinin öğrenme hızı ve karakteri farklı. Panda Akademisi&apos;nden mezun olma yolunda, bolca pratik ve birbirinden sevimli sakarlıklarla dolu bu eğlenceli yolculuğa ortak olun!</desc>
+  </programme>
+  <programme start="20261120034000 +0300" stop="20261120043000 +0300" channel="NGWILD">
+    <title lang="tr">Vahşi Krallık</title>
+    <desc lang="tr">İçlerindem birinin öldürülmesinden sonra, Makulu Vahşi Köpekler sürüsü kurtuluş için yeni bir lider aramakta. Batı Gururu sürüsü ise, yavrularını korumak için savaşırken krallığın uzak köşelerine sürgün edilirler.</desc>
+  </programme>
+  <programme start="20261120043000 +0300" stop="20261120051500 +0300" channel="NGWILD">
+    <title lang="tr">Vahşi Krallık</title>
+    <desc lang="tr">Mmamotse&apos;nin kuralları krallığı alt üst etti. Ordusu kontrolden çıkmış ve kol gezmekte, ancak mirası tahttan atılan bir prensese bağlı.</desc>
+  </programme>
+  <programme start="20261120051500 +0300" stop="20261120060000 +0300" channel="NGWILD">
+    <title lang="tr">Vahşi Krallık</title>
+    <desc lang="tr">Pula&apos;nın anne sevgisinin sınırları, başka seçeneği olmadığı halde genç yavrusunu krallıkta yalnız bıraktığı zaman test edilir.</desc>
+  </programme>
+  <programme start="20261120060000 +0300" stop="20261120064500 +0300" channel="NGWILD">
+    <title lang="tr">Vahşi Yaşam: Diriliş Adası</title>
+    <desc lang="tr">National Geographic vahşi yaşam film yapımcısı Bertie Gregory, ikonik Güney Georgia Adası&apos;na doğru giden bir maceraya atılıyor. Bu ada, gezegendeki en güçlü vahşi yaşam konsantrasyonlarından birine sahip.</desc>
+  </programme>
+  <programme start="20261120064500 +0300" stop="20261120073000 +0300" channel="NGWILD">
+    <title lang="tr">Vahşi Krallık</title>
+    <desc lang="tr">Annesinin ölümünden sonra, Motshidi aç ve yalnız kaldı. Babasıyla yaşayabileceği korkunç bir karşılaşmada her şeyini kaybedebilir.</desc>
+  </programme>
+  <programme start="20261120073000 +0300" stop="20261120075500 +0300" channel="NGWILD">
+    <title lang="tr">Muhteşem Canlılar (Özel Bölümler)</title>
+    <desc lang="tr">Filler iki tonluk bir kamyonu itecek güçtedirler. Orangutanlar yedi kişinin gücüne sahiptir ve ikisi de süper akıllılardır.</desc>
+  </programme>
+  <programme start="20261120075500 +0300" stop="20261120084500 +0300" channel="NGWILD">
+    <title lang="tr">Amur Kaplanı: Kayıp Krallık</title>
+    <desc lang="tr">Uzaktan kameralar, uzun lens ve drone çekimlerinin bir kombinasyonunu kullanan Amur Kaplanı: Kayıp Krallık, ürkek ve ulaşılması zor bu avcılar hakkında uzun zamandır saklanan sırları açığa çıkarıyor</desc>
+  </programme>
+  <programme start="20261120084500 +0300" stop="20261120093000 +0300" channel="NGWILD">
+    <title lang="tr">Ekvator&apos;un Vahşi Sırları</title>
+    <desc lang="tr">Ekvator boyunca yaşam çeşitliliği olağanüstüdür. Dünyadaki türlerin yarısından fazlası burada yaşar. Ekvator&apos;un çılgın ve çeşitli ekosistemleri olan; Amazon, And Dağları, Galapagos Adaları, Borneo ve Sumatra, Afrika ve Mercan Denizi hakkında 6 bölümden oluşan bir seri. Bu seri, buharlı yağmur ormanları ve büyük otlaklardan karlı dağlara ve büyük resiflere kadar ilginç habitatlara ve egzotik hayvanlara yakından bakıyor. Bu alanda bol yiyeceğe erişim olmasına rağmen, şiddetli rekabet hala ekvatordaki günlük yaşamın bir parçası.</desc>
+  </programme>
+  <programme start="20261120093000 +0300" stop="20261120102000 +0300" channel="NGWILD">
+    <title lang="tr">Vahşi Filipinler</title>
+    <desc lang="tr">Pasifik Okyanusunun sıcak zümrüt yeşili sularında bulunan 7600&apos;ün üzerinde adada toplanan 100 milyondan fazla kişinin bulunduğu bir ulus olan Filipinler, parlak bir mucize ülkesidir. 20&apos;den fazla aktif yanardağ, yemyeşil ormanlar ve kilometrelerce uzanan mercan kayalıklarıyla Filipinler zıtlıkların ülkesi.</desc>
+  </programme>
+  <programme start="20261120102000 +0300" stop="20261120111000 +0300" channel="NGWILD">
+    <title lang="tr">Amur Kaplanı: Kayıp Krallık</title>
+    <desc lang="tr">Uzaktan kameralar, uzun lens ve drone çekimlerinin bir kombinasyonunu kullanan Amur Kaplanı: Kayıp Krallık, ürkek ve ulaşılması zor bu avcılar hakkında uzun zamandır saklanan sırları açığa çıkarıyor</desc>
+  </programme>
+  <programme start="20261120111000 +0300" stop="20261120120000 +0300" channel="NGWILD">
+    <title lang="tr">Ekvator&apos;un Vahşi Sırları</title>
+    <desc lang="tr">Ekvator boyunca yaşam çeşitliliği olağanüstüdür. Dünyadaki türlerin yarısından fazlası burada yaşar. Ekvator&apos;un çılgın ve çeşitli ekosistemleri olan; Amazon, And Dağları, Galapagos Adaları, Borneo ve Sumatra, Afrika ve Mercan Denizi hakkında 6 bölümden oluşan bir seri. Bu seri, buharlı yağmur ormanları ve büyük otlaklardan karlı dağlara ve büyük resiflere kadar ilginç habitatlara ve egzotik hayvanlara yakından bakıyor. Bu alanda bol yiyeceğe erişim olmasına rağmen, şiddetli rekabet hala ekvatordaki günlük yaşamın bir parçası.</desc>
+  </programme>
+  <programme start="20261120120000 +0300" stop="20261120125000 +0300" channel="NGWILD">
+    <title lang="tr">Ekvator&apos;un Vahşi Sırları</title>
+    <desc lang="tr">Ekvator boyunca yaşam çeşitliliği olağanüstüdür. Dünyadaki türlerin yarısından fazlası burada yaşar. Ekvator&apos;un çılgın ve çeşitli ekosistemleri olan; Amazon, And Dağları, Galapagos Adaları, Borneo ve Sumatra, Afrika ve Mercan Denizi hakkında 6 bölümden oluşan bir seri. Bu seri, buharlı yağmur ormanları ve büyük otlaklardan karlı dağlara ve büyük resiflere kadar ilginç habitatlara ve egzotik hayvanlara yakından bakıyor. Bu alanda bol yiyeceğe erişim olmasına rağmen, şiddetli rekabet hala ekvatordaki günlük yaşamın bir parçası.</desc>
+  </programme>
+  <programme start="20261120125000 +0300" stop="20261120134000 +0300" channel="NGWILD">
+    <title lang="tr">Ekvator&apos;un Vahşi Sırları</title>
+    <desc lang="tr">Ekvator boyunca yaşam çeşitliliği olağanüstüdür. Dünyadaki türlerin yarısından fazlası burada yaşar. Ekvator&apos;un çılgın ve çeşitli ekosistemleri olan; Amazon, And Dağları, Galapagos Adaları, Borneo ve Sumatra, Afrika ve Mercan Denizi hakkında 6 bölümden oluşan bir seri. Bu seri, buharlı yağmur ormanları ve büyük otlaklardan karlı dağlara ve büyük resiflere kadar ilginç habitatlara ve egzotik hayvanlara yakından bakıyor. Bu alanda bol yiyeceğe erişim olmasına rağmen, şiddetli rekabet hala ekvatordaki günlük yaşamın bir parçası.</desc>
+  </programme>
+  <programme start="20261120134000 +0300" stop="20261120143500 +0300" channel="NGWILD">
+    <title lang="tr">Vahşi Filipinler</title>
+    <desc lang="tr">Pasifik Okyanusunun sıcak zümrüt yeşili sularında bulunan 7600&apos;ün üzerinde adada toplanan 100 milyondan fazla kişinin bulunduğu bir ulus olan Filipinler, parlak bir mucize ülkesidir. 20&apos;den fazla aktif yanardağ, yemyeşil ormanlar ve kilometrelerce uzanan mercan kayalıklarıyla Filipinler zıtlıkların ülkesi.</desc>
+  </programme>
+  <programme start="20261120143500 +0300" stop="20261120152500 +0300" channel="NGWILD">
+    <title lang="tr">Vahşi Filipinler</title>
+    <desc lang="tr">Pasifik Okyanusunun sıcak zümrüt yeşili sularında bulunan 7600&apos;ün üzerinde adada toplanan 100 milyondan fazla kişinin bulunduğu bir ulus olan Filipinler, parlak bir mucize ülkesidir. 20&apos;den fazla aktif yanardağ, yemyeşil ormanlar ve kilometrelerce uzanan mercan kayalıklarıyla Filipinler zıtlıkların ülkesi.</desc>
+  </programme>
+  <programme start="20261120152500 +0300" stop="20261120161500 +0300" channel="NGWILD">
+    <title lang="tr">Vahşi Vietnam</title>
+    <desc lang="tr">Vietnam&apos;ın kuzey dağlarından tropik Mekong Deltası&apos;na, nesli tükenme tehlikesiyle karşı karşıya olan son endemik türlerini keşfetmek için yolculuğa çıkıyoruz.</desc>
+  </programme>
+  <programme start="20261120161500 +0300" stop="20261120171000 +0300" channel="NGWILD">
+    <title lang="tr">Vahşi Vietnam</title>
+    <desc lang="tr">Vietnam&apos;ın kuzey dağlarından tropik Mekong Deltası&apos;na, nesli tükenme tehlikesiyle karşı karşıya olan son endemik türlerini keşfetmek için yolculuğa çıkıyoruz.</desc>
+  </programme>
+  <programme start="20261120171000 +0300" stop="20261120180500 +0300" channel="NGWILD">
+    <title lang="tr">Amur Kaplanı: Kayıp Krallık</title>
+    <desc lang="tr">Uzaktan kameralar, uzun lens ve drone çekimlerinin bir kombinasyonunu kullanan Amur Kaplanı: Kayıp Krallık, ürkek ve ulaşılması zor bu avcılar hakkında uzun zamandır saklanan sırları açığa çıkarıyor</desc>
+  </programme>
+  <programme start="20261120180500 +0300" stop="20261120190000 +0300" channel="NGWILD">
+    <title lang="tr">Vahşi Avcılar</title>
+    <desc lang="tr">Avlanırlarken, yılanlar hayatı ölümden ayıran anı mükemmelleştirmek için avını zorlar ve yargılar. Zehirli yılanlar gezegendeki en ölümcül hayvanlardan biridir.</desc>
+  </programme>
+  <programme start="20261120190000 +0300" stop="20261120200000 +0300" channel="NGWILD">
+    <title lang="tr">Vahşi Avcılar</title>
+    <desc lang="tr">Kurtlar kooperatif avcılığın en büyük örnekleridir, hiyerarşiye dayanan bu düzen, sadakati de yanında gerektiren bütün bir pakettir.</desc>
+  </programme>
+  <programme start="20261120200000 +0300" stop="20261120210000 +0300" channel="NGWILD">
+    <title lang="tr">Çin&apos;in Gizli Krallıkları</title>
+    <desc lang="tr">Bu özel bölümlerde, Çin&apos;in uçsuz bucaksız el değmemiş doğasında gizlenmiş muazzam yaban hayatını keşfedin. Yavru bir dev pandanın, altın samur maymununun ve daha nice canlıların yeni dünyalarına uyum sağlarken geçirdikleri ilk yıllarına tanıklık edin. Yüksek dağ ovalarından sık bambu ormanlarına uzanan bu coğrafyada, bu zorlu çevre koşullarında hayatta kalmak için gereken olağanüstü adaptasyonlara tanık olun. İster bıyıklı kurbağa ister kızıl panda olsun, dünyanın en sıra dışı ve büyüleyici türlerinden bazıları Çin&apos;in bu gizli krallıklarında yaşıyor.</desc>
+  </programme>
+  <programme start="20261120210000 +0300" stop="20261120220000 +0300" channel="NGWILD">
+    <title lang="tr">Japonya&apos;nın Vahşi Dünyası</title>
+    <desc lang="tr">Zengin gelenekleri ve futuristik şehirleriyle tanınan Japonya, aynı zamanda büyüleyici bir yaban hayatıyla dolup taşan bir ülkedir. Takımadanın çetin kışlarından yazın gerçekleşen üreme dönemine uzanan bu yolculukta; ayılar, rakunlar, yengeçler, uçan sincaplar, tilkiler ve kartallar gibi bölgeye özgü türlerle tanışın. Japon vinçlerinin kur ritüellerinin, soyu tehlike altındaki dev Japon semenderinin yumurtlama anının, Ezo samurları arasındaki amansız mücadelelerin ve Sika geyiklerinin süzülüşünün daha önce hiç görülmemiş görüntüleriyle bu eşsiz doğaya tanıklık edin.</desc>
+  </programme>
+  <programme start="20261120220000 +0300" stop="20261120225000 +0300" channel="NGWILD">
+    <title lang="tr">Amur Kaplanı: Kayıp Krallık</title>
+    <desc lang="tr">Uzaktan kameralar, uzun lens ve drone çekimlerinin bir kombinasyonunu kullanan Amur Kaplanı: Kayıp Krallık, ürkek ve ulaşılması zor bu avcılar hakkında uzun zamandır saklanan sırları açığa çıkarıyor</desc>
+  </programme>
+  <programme start="20261120225000 +0300" stop="20261120234500 +0300" channel="NGWILD">
+    <title lang="tr">Çin&apos;in Gizli Krallıkları</title>
+    <desc lang="tr">Bu özel bölümlerde, Çin&apos;in uçsuz bucaksız el değmemiş doğasında gizlenmiş muazzam yaban hayatını keşfedin. Yavru bir dev pandanın, altın samur maymununun ve daha nice canlıların yeni dünyalarına uyum sağlarken geçirdikleri ilk yıllarına tanıklık edin. Yüksek dağ ovalarından sık bambu ormanlarına uzanan bu coğrafyada, bu zorlu çevre koşullarında hayatta kalmak için gereken olağanüstü adaptasyonlara tanık olun. İster bıyıklı kurbağa ister kızıl panda olsun, dünyanın en sıra dışı ve büyüleyici türlerinden bazıları Çin&apos;in bu gizli krallıklarında yaşıyor.</desc>
   </programme>
   <programme start="20261114233000 +0300" stop="20261115003000 +0300" channel="COSMO">
     <title lang="tr">Us</title>
@@ -24580,5 +24880,141 @@
   <programme start="20261119231500 +0300" stop="20261120001500 +0300" channel="FX">
     <title lang="tr">Criminal Minds</title>
     <desc lang="tr">Seçkin bir FBI ekibi, suçluların zihinlerini analiz ederek karmaşık vakaları çözmek için zamana karşı yarışır.</desc>
+  </programme>
+  <programme start="20261120001500 +0300" stop="20261120010000 +0300" channel="FX">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">bir beyzbol oyuncusunun ölümünü araştıran Castle ve Beckett&apos;in, sahte intiharın ardındaki gerçeği ortaya çıkardığı gerilim dolu bir bölümdür.</desc>
+  </programme>
+  <programme start="20261120010000 +0300" stop="20261120014500 +0300" channel="FX">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">bir işadamının ölümünü araştıran Castle ve Beckett&apos;in, sadakat ve ilişkiler üzerine karmaşık bir cinayeti çözdüğü gerilimli bir bölümdür.</desc>
+  </programme>
+  <programme start="20261120014500 +0300" stop="20261120023000 +0300" channel="FX">
+    <title lang="tr">High Potential</title>
+    <desc lang="tr">Gece yarısı yapılan lüks araba soygunu kanlı biter.</desc>
+  </programme>
+  <programme start="20261120023000 +0300" stop="20261120031500 +0300" channel="FX">
+    <title lang="tr">The Veil</title>
+    <desc lang="tr">Bir kadın sakladığı sırla, diğeri gerçeği ortaya çıkarma göreviyle yola çıkar. Güven, ihanet ve tehlike iç içedir.</desc>
+  </programme>
+  <programme start="20261120031500 +0300" stop="20261120040000 +0300" channel="FX">
+    <title lang="tr">The Resident</title>
+    <desc lang="tr">The Resident – No Matter the Cost, Emily VanCamp&apos;ın başrolünde olduğu dizinin 1. sezonunda, tıbbi gerilim ve etik ikilemlerle dolu bir bölüm.</desc>
+  </programme>
+  <programme start="20261120040000 +0300" stop="20261120045000 +0300" channel="FX">
+    <title lang="tr">White Collar</title>
+    <desc lang="tr">Çekici dolandırıcı Neal Caffrey hapishaneden kaçar, ancak düşmanı FBI Ajanı Peter Burke tarafından yeniden yakalanır. Birkaç seçeneğe sahip olan Caffrey, nihai özgürlüğü karşılığında büronun diğer yakalanması zor suçluları alt etmesine yardım eder. Ancak çok geçmeden Caffrey, kendini hapse ya da ölüme geri döndürmek isteyenlerle kedi fare oyunu oynarken bulur.</desc>
+  </programme>
+  <programme start="20261120045000 +0300" stop="20261120051500 +0300" channel="FX">
+    <title lang="tr">How I Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted&apos;in en yakın arkadaşı Marshall&apos;ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily&apos;ye (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted&apos;e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
+  </programme>
+  <programme start="20261120051500 +0300" stop="20261120060000 +0300" channel="FX">
+    <title lang="tr">The Resident</title>
+    <desc lang="tr">The Resident – No Matter the Cost, Emily VanCamp&apos;ın başrolünde olduğu dizinin 1. sezonunda, tıbbi gerilim ve etik ikilemlerle dolu bir bölüm.</desc>
+  </programme>
+  <programme start="20261120060000 +0300" stop="20261120064500 +0300" channel="FX">
+    <title lang="tr">White Collar</title>
+    <desc lang="tr">Çekici dolandırıcı Neal Caffrey hapishaneden kaçar, ancak düşmanı FBI Ajanı Peter Burke tarafından yeniden yakalanır. Birkaç seçeneğe sahip olan Caffrey, nihai özgürlüğü karşılığında büronun diğer yakalanması zor suçluları alt etmesine yardım eder. Ancak çok geçmeden Caffrey, kendini hapse ya da ölüme geri döndürmek isteyenlerle kedi fare oyunu oynarken bulur.</desc>
+  </programme>
+  <programme start="20261120064500 +0300" stop="20261120073000 +0300" channel="FX">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">Castle – The Fifth Bullet, Nathan Fillion&apos;un başrolünde olduğu dizinin 2. sezonunda, gizem ve gerilim dolu bir cinayet vakasını konu alan bölüm.</desc>
+  </programme>
+  <programme start="20261120073000 +0300" stop="20261120081500 +0300" channel="FX">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">Castle – A Rose for Everafter, Nathan Fillion&apos;un başrolünde olduğu dizinin 2. sezonunda, gizem ve romantizmin öne çıktığı bir bölüm.</desc>
+  </programme>
+  <programme start="20261120081500 +0300" stop="20261120083500 +0300" channel="FX">
+    <title lang="tr">How I Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted&apos;in en yakın arkadaşı Marshall&apos;ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily&apos;ye (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted&apos;e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
+  </programme>
+  <programme start="20261120083500 +0300" stop="20261120090000 +0300" channel="FX">
+    <title lang="tr">How I Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted&apos;in en yakın arkadaşı Marshall&apos;ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily&apos;ye (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted&apos;e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
+  </programme>
+  <programme start="20261120090000 +0300" stop="20261120094500 +0300" channel="FX">
+    <title lang="tr">The Resident</title>
+    <desc lang="tr">The Resident – None the Wiser, Emily VanCamp&apos;ın başrolünde olduğu dizinin 1. sezonunda, tıbbi gerilim ve etik ikilemlerle dolu bir bölüm.</desc>
+  </programme>
+  <programme start="20261120094500 +0300" stop="20261120103000 +0300" channel="FX">
+    <title lang="tr">White Collar</title>
+    <desc lang="tr">Çekici dolandırıcı Neal Caffrey hapishaneden kaçar, ancak düşmanı FBI Ajanı Peter Burke tarafından yeniden yakalanır. Birkaç seçeneğe sahip olan Caffrey, nihai özgürlüğü karşılığında büronun diğer yakalanması zor suçluları alt etmesine yardım eder. Ancak çok geçmeden Caffrey, kendini hapse ya da ölüme geri döndürmek isteyenlerle kedi fare oyunu oynarken bulur.</desc>
+  </programme>
+  <programme start="20261120103000 +0300" stop="20261120111500 +0300" channel="FX">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">Castle (S2E13 &quot;Sucker Punch&quot;), bir boks maçında gerçekleşen cinayeti çözmeye çalışan Castle ve Beckett&apos;in gerilim dolu macerasını anlatan bir bölümüdür.</desc>
+  </programme>
+  <programme start="20261120111500 +0300" stop="20261120120000 +0300" channel="FX">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">Castle (S2E14 &quot;The Third Man&quot;), kaybolan bir üçüncü şahıs ve cinayetle ilgili karmaşık bir vaka ile Castle ve Beckett&apos;i karşı karşıya getiren gerilim dolu bir bölüm.</desc>
+  </programme>
+  <programme start="20261120120000 +0300" stop="20261120122000 +0300" channel="FX">
+    <title lang="tr">How I Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted&apos;in en yakın arkadaşı Marshall&apos;ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily&apos;ye (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted&apos;e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
+  </programme>
+  <programme start="20261120122000 +0300" stop="20261120125000 +0300" channel="FX">
+    <title lang="tr">How I Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted&apos;in en yakın arkadaşı Marshall&apos;ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily&apos;ye (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted&apos;e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
+  </programme>
+  <programme start="20261120125000 +0300" stop="20261120134000 +0300" channel="FX">
+    <title lang="tr">The Resident</title>
+    <desc lang="tr">The Resident – No Matter the Cost, Emily VanCamp&apos;ın başrolünde olduğu dizinin 1. sezonunda, tıbbi gerilim ve etik ikilemlerle dolu bir bölüm.</desc>
+  </programme>
+  <programme start="20261120134000 +0300" stop="20261120143000 +0300" channel="FX">
+    <title lang="tr">White Collar</title>
+    <desc lang="tr">Çekici dolandırıcı Neal Caffrey hapishaneden kaçar, ancak düşmanı FBI Ajanı Peter Burke tarafından yeniden yakalanır. Birkaç seçeneğe sahip olan Caffrey, nihai özgürlüğü karşılığında büronun diğer yakalanması zor suçluları alt etmesine yardım eder. Ancak çok geçmeden Caffrey, kendini hapse ya da ölüme geri döndürmek isteyenlerle kedi fare oyunu oynarken bulur.</desc>
+  </programme>
+  <programme start="20261120143000 +0300" stop="20261120152000 +0300" channel="FX">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">bir beyzbol oyuncusunun ölümünü araştıran Castle ve Beckett&apos;in, sahte intiharın ardındaki gerçeği ortaya çıkardığı gerilim dolu bir bölümdür.</desc>
+  </programme>
+  <programme start="20261120152000 +0300" stop="20261120161000 +0300" channel="FX">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">bir işadamının ölümünü araştıran Castle ve Beckett&apos;in, sadakat ve ilişkiler üzerine karmaşık bir cinayeti çözdüğü gerilimli bir bölümdür.</desc>
+  </programme>
+  <programme start="20261120161000 +0300" stop="20261120163000 +0300" channel="FX">
+    <title lang="tr">How I Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted&apos;in en yakın arkadaşı Marshall&apos;ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily&apos;ye (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted&apos;e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
+  </programme>
+  <programme start="20261120163000 +0300" stop="20261120170000 +0300" channel="FX">
+    <title lang="tr">How I Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted&apos;in en yakın arkadaşı Marshall&apos;ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily&apos;ye (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted&apos;e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
+  </programme>
+  <programme start="20261120170000 +0300" stop="20261120175000 +0300" channel="FX">
+    <title lang="tr">The Resident</title>
+    <desc lang="tr">The Resident (S1E7 &quot;The Elopement&quot;), Dr. Conrad&apos;ın tıbbi ve etik bir ikilemle yüzleştiği, duygusal ve gerilim dolu bir bölümdür.</desc>
+  </programme>
+  <programme start="20261120175000 +0300" stop="20261120184500 +0300" channel="FX">
+    <title lang="tr">White Collar</title>
+    <desc lang="tr">Çekici dolandırıcı Neal Caffrey hapishaneden kaçar, ancak düşmanı FBI Ajanı Peter Burke tarafından yeniden yakalanır. Birkaç seçeneğe sahip olan Caffrey, nihai özgürlüğü karşılığında büronun diğer yakalanması zor suçluları alt etmesine yardım eder. Ancak çok geçmeden Caffrey, kendini hapse ya da ölüme geri döndürmek isteyenlerle kedi fare oyunu oynarken bulur.</desc>
+  </programme>
+  <programme start="20261120184500 +0300" stop="20261120194000 +0300" channel="FX">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">Başarılı cinayet, gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD&apos;den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
+  </programme>
+  <programme start="20261120194000 +0300" stop="20261120203000 +0300" channel="FX">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">Başarılı cinayet, gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD&apos;den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
+  </programme>
+  <programme start="20261120203000 +0300" stop="20261120205000 +0300" channel="FX">
+    <title lang="tr">How I Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted Mosby&apos;nin çocuklarına anneleriyle nasıl tanıştığını anlattığı eğlenceli, romantik ve sıcak bir komedi dizisidir.</desc>
+  </programme>
+  <programme start="20261120205000 +0300" stop="20261120213000 +0300" channel="FX">
+    <title lang="tr">How I Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted Mosby&apos;nin çocuklarına anneleriyle nasıl tanıştığını anlattığı eğlenceli, romantik ve sıcak bir komedi dizisidir.</desc>
+  </programme>
+  <programme start="20261120213000 +0300" stop="20261120222000 +0300" channel="FX">
+    <title lang="tr">Interior Chinatown</title>
+    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) Bir Çin Mahallesi garsonu kendini bir gizemin içinde bulur.</desc>
+  </programme>
+  <programme start="20261120222000 +0300" stop="20261120232000 +0300" channel="FX">
+    <title lang="tr">Criminal Minds</title>
+    <desc lang="tr">Seçkin bir FBI ekibi, suçluların zihinlerini analiz ederek karmaşık vakaları çözmek için zamana karşı yarışır.</desc>
+  </programme>
+  <programme start="20261120232000 +0300" stop="20261121000000 +0300" channel="FX">
+    <title lang="tr">Interior Chinatown</title>
+    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) Bir Çin Mahallesi garsonu kendini bir gizemin içinde bulur.</desc>
   </programme>
 </tv>
