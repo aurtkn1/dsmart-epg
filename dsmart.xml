@@ -9925,21 +9925,9 @@
     <title lang="tr">Ayşegül Çoruhlu İle Longevity</title>
     <desc lang="tr">Gündemde yaşanan en sıcak gelişmeler gün ortasında aktarılıyor.</desc>
   </programme>
-  <programme start="20261117120000 +0300" stop="20261117130000 +0300" channel="SZC">
-    <title lang="tr">Gündem Masası</title>
+  <programme start="20261117120000 +0300" stop="20261117160000 +0300" channel="SZC">
+    <title lang="tr">Haber Bülteni</title>
     <desc lang="tr">Gündemde yaşanan en sıcak gelişmeler gün ortasında aktarılıyor.</desc>
-  </programme>
-  <programme start="20261117130000 +0300" stop="20261117140000 +0300" channel="SZC">
-    <title lang="tr">Öncesi Sonrası</title>
-    <desc lang="tr">Sıcak gündem konuları canlı bağlantılarla değerlendiriliyor.</desc>
-  </programme>
-  <programme start="20261117140000 +0300" stop="20261117150000 +0300" channel="SZC">
-    <title lang="tr">Öncesi Sonrası</title>
-    <desc lang="tr">Sıcak gündem konuları canlı bağlantılarla değerlendiriliyor.</desc>
-  </programme>
-  <programme start="20261117150000 +0300" stop="20261117160000 +0300" channel="SZC">
-    <title lang="tr">Haber Saati</title>
-    <desc lang="tr">Sabah saatlerinde yaşananlar, en sıcak gelişmeler gün ortasında aktarılıyor.</desc>
   </programme>
   <programme start="20261117160000 +0300" stop="20261117170000 +0300" channel="SZC">
     <title lang="tr">Haber Saati</title>
@@ -23081,15 +23069,27 @@
     <title lang="tr">Güller Ve Günahlar</title>
     <desc lang="tr">Güller ve Günahlar, tutkulu aşklar, karanlık sırlar ve ihanetler etrafında örülen bir aile ve toplumsal dramı izleyiciyle buluşturan duygusal bir Türk dizisidir.</desc>
   </programme>
-  <programme start="20261118190000 +0300" stop="20261119020000 +0300" channel="KANALD">
+  <programme start="20261118190000 +0300" stop="20261118200000 +0300" channel="KANALD">
     <title lang="tr">Kanal D Ana Haber</title>
     <desc lang="tr">Günün öne çıkan gelişmeleri Türkiye ve dünyanın gündemiyle Kanal D Ana Haberde izleyiciyle buluşuyor. Siyaset ekonomi ve toplumdan önemli başlıklar ekrana taşınıyor.</desc>
   </programme>
-  <programme start="20261119020000 +0300" stop="20261119040000 +0300" channel="KANALD">
+  <programme start="20261118200000 +0300" stop="20261118231500 +0300" channel="KANALD">
+    <title lang="tr">Güller Ve Günahlar</title>
+    <desc lang="tr">Cihan ve Yusuf&apos;a düzenlenen saldırının ardından Zeynep, Sonay&apos;ın baskısıyla zor bir kararın eşiğine gelir. Azra, Cihan&apos;ın adamlarından kaçarak oğluyla Can&apos;a sığınır. Serhat ve Zeynep sorunlarını aşmaya çalışırken Tibet&apos;in ölümünü araştıran Kaan ortaya çıkar.</desc>
+  </programme>
+  <programme start="20261118231500 +0300" stop="20261119011500 +0300" channel="KANALD">
+    <title lang="tr">Şeytan Marka Giyer</title>
+    <desc lang="tr">Moda dünyasında güçlü bir kariyer hayali kuran genç bir kadın, zorlu bir yöneticiyle çalışmaya başlayınca hayatının en büyük sınavıyla karşılaşır.</desc>
+  </programme>
+  <programme start="20261119011500 +0300" stop="20261119030000 +0300" channel="KANALD">
+    <title lang="tr">Şeytan Marka Giyer</title>
+    <desc lang="tr">Moda dünyasında güçlü bir kariyer hayali kuran genç bir kadın, zorlu bir yöneticiyle çalışmaya başlayınca hayatının en büyük sınavıyla karşılaşır.</desc>
+  </programme>
+  <programme start="20261119030000 +0300" stop="20261119050000 +0300" channel="KANALD">
     <title lang="tr">Gelinim Mutfakta</title>
     <desc lang="tr">Gelinlerin mutfakta hazırladığı yemeklerin kayınvalideler tarafından puanlandığı eğlenceli ve rekabet dolu bir yarışmayı ekrana taşıyor.</desc>
   </programme>
-  <programme start="20261119040000 +0300" stop="20261119070000 +0300" channel="KANALD">
+  <programme start="20261119050000 +0300" stop="20261119070000 +0300" channel="KANALD">
     <title lang="tr">Üç Kız Kardeş</title>
     <desc lang="tr">Satış rekorları kıran romandan uyarlanan dizi, üç kız kardeşin hayat mücadelesini, aile bağlarını ve sırlarla dolu geçmişlerini etkileyici bir dille anlatıyor.</desc>
   </programme>
