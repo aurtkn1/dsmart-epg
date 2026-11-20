@@ -405,6 +405,46 @@
     <title lang="tr">Deli Deli Küpeli</title>
     <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
+  <programme start="20261125070000 +0300" stop="20261125090000 +0300" channel="MSCL">
+    <title lang="tr">Gençlik Rüzgarı</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261125090000 +0300" stop="20261125103000 +0300" channel="MSCL">
+    <title lang="tr">Sevdim</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261125103000 +0300" stop="20261125120000 +0300" channel="MSCL">
+    <title lang="tr">Sen Ağlama</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261125120000 +0300" stop="20261125133000 +0300" channel="MSCL">
+    <title lang="tr">Ali Baba Ve Kirk Haramiler</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261125133000 +0300" stop="20261125152000 +0300" channel="MSCL">
+    <title lang="tr">Kumarbaz</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261125152000 +0300" stop="20261125170000 +0300" channel="MSCL">
+    <title lang="tr">Btirimler Sınıfı</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261125170000 +0300" stop="20261125182000 +0300" channel="MSCL">
+    <title lang="tr">Kalleş</title>
+    <desc lang="tr">Hürrem Cideoğlu ile Ragıp Hanzade aileleri arasında kan davası vardır. Ragıp&apos;ın oğlu Davut ile Hürrem&apos;in kızı Gülistan birbirlerini severler. Ne var ki aileler evlenmelerine izin vermez. Onlar da ailelerinden gizlice kaçarlar. İki düşman aile, Davut ve Gülistan&apos;ın peşine düşecektir.</desc>
+  </programme>
+  <programme start="20261125182000 +0300" stop="20261125195000 +0300" channel="MSCL">
+    <title lang="tr">Ben Bir Garip Keloğlanım</title>
+    <desc lang="tr">Film, Karakız&apos;la evlenebilmek için bir iş bulmak üzere köyünden yola çıkan Keloğlan&apos;ın başına gelen maceraları konu alır.</desc>
+  </programme>
+  <programme start="20261125195000 +0300" stop="20261125213000 +0300" channel="MSCL">
+    <title lang="tr">Aslan Bacanak</title>
+    <desc lang="tr">Minibüs şoförü Selim, yeni taşındığı mahallede Zeynep&apos;e aşık olur. Ancak evlenebilmesi için kızın tüm mahallenin yaka silktiği kabadayı ağabeyi Halim&apos;i ikna etmesi gerekmektedir.</desc>
+  </programme>
+  <programme start="20261125213000 +0300" stop="20261125231000 +0300" channel="MSCL">
+    <title lang="tr">Sezercik Aslan Parçası</title>
+    <desc lang="tr">Zorluklara rağmen dimdik duran Sezercik&apos;in dokunaklı hikâyesi, aile bağlarının gücünü sıcak ve samimi bir dille anlatıyor.</desc>
+  </programme>
   <programme start="20261119235000 +0300" stop="20261120012000 +0300" channel="MSTK">
     <title lang="tr">Eksik Sayfalar</title>
     <desc lang="tr">Program açıklaması bulunmuyor.</desc>
@@ -1917,6 +1957,150 @@
     <title lang="tr">Cico ile Moco</title>
     <desc lang="tr">Cico ve Moco, her gün yeni şeyler keşfeden iki sevimli dosttur. Eğlenceli oyunlar, küçük sürprizler ve neşeli maceralarla öğrenmeyi keyifli hale getirirler.</desc>
   </programme>
+  <programme start="20261125060000 +0300" stop="20261125063000 +0300" channel="COCUK">
+    <title lang="tr">Homur ve Gumur</title>
+    <desc lang="tr">Homur ve Gumur, inşaat araçlarının dostluk ve iş birliği dolu maceralarını renkli ve eğlenceli bir şekilde ekranlara taşıyan animasyondur.</desc>
+  </programme>
+  <programme start="20261125063000 +0300" stop="20261125070000 +0300" channel="COCUK">
+    <title lang="tr">Canavar Avcısı Kulübü</title>
+    <desc lang="tr">Canavar Avcısı Kulübü, gizli canavarları yakalayan genç kahramanların dostluk ve cesaret dolu maceralarını anlatan animasyon serisidir.</desc>
+  </programme>
+  <programme start="20261125070000 +0300" stop="20261125073000 +0300" channel="COCUK">
+    <title lang="tr">Kukuli</title>
+    <desc lang="tr">Kukuli ve arkadaşları, eğlenceli ve öğretici şarkılarla miniklere neşeli, kahkaha dolu maceralar sunuyor.</desc>
+  </programme>
+  <programme start="20261125073000 +0300" stop="20261125080000 +0300" channel="COCUK">
+    <title lang="tr">Extreme Football</title>
+    <desc lang="tr">Extreme Football, akrobatik hareketler ve hızlı maçlarla takım ruhu ve cesareti eğlenceli bir şekilde anlatan animasyon serisidir.</desc>
+  </programme>
+  <programme start="20261125080000 +0300" stop="20261125083000 +0300" channel="COCUK">
+    <title lang="tr">Boonie Ayıları: Maceracılar</title>
+    <desc lang="tr">Boonie Ayıları: Maceracılar, cesur ayıların dostluk ve macera dolu hikâyelerini eğlenceli ve öğretici bir şekilde ekranlara taşıyan animasyondur.</desc>
+  </programme>
+  <programme start="20261125083000 +0300" stop="20261125090000 +0300" channel="COCUK">
+    <title lang="tr">Kody Kapow</title>
+    <desc lang="tr">Kung fu temalı bu animasyon, bir çocuğun eğlenceli ve öğretici maceralarını anlatır.</desc>
+  </programme>
+  <programme start="20261125090000 +0300" stop="20261125093000 +0300" channel="COCUK">
+    <title lang="tr">Boonie Ayıları: Maceracılar</title>
+    <desc lang="tr">Boonie Ayıları: Maceracılar, cesur ayıların dostluk ve macera dolu hikâyelerini eğlenceli ve öğretici bir şekilde ekranlara taşıyan animasyondur.</desc>
+  </programme>
+  <programme start="20261125093000 +0300" stop="20261125100000 +0300" channel="COCUK">
+    <title lang="tr">Mondo Yan</title>
+    <desc lang="tr">Mondo Yan, renkli dünyası ve enerjik hikâyeleriyle dostluk, paylaşma ve hayal gücünü eğlenceli maceralarla anlatan bir animasyon dizisidir.</desc>
+  </programme>
+  <programme start="20261125100000 +0300" stop="20261125103000 +0300" channel="COCUK">
+    <title lang="tr">Kody Kapow</title>
+    <desc lang="tr">Kung fu temalı bu animasyon, bir çocuğun eğlenceli ve öğretici maceralarını anlatır.</desc>
+  </programme>
+  <programme start="20261125103000 +0300" stop="20261125110000 +0300" channel="COCUK">
+    <title lang="tr">Kukuli</title>
+    <desc lang="tr">Kukuli ve arkadaşları, eğlenceli ve öğretici şarkılarla miniklere neşeli, kahkaha dolu maceralar sunuyor.</desc>
+  </programme>
+  <programme start="20261125110000 +0300" stop="20261125113000 +0300" channel="COCUK">
+    <title lang="tr">Boonie Ayıları: Maceracılar</title>
+    <desc lang="tr">Boonie Ayıları: Maceracılar, cesur ayıların dostluk ve macera dolu hikâyelerini eğlenceli ve öğretici bir şekilde ekranlara taşıyan animasyondur.</desc>
+  </programme>
+  <programme start="20261125113000 +0300" stop="20261125120000 +0300" channel="COCUK">
+    <title lang="tr">Extreme Football</title>
+    <desc lang="tr">Extreme Football, akrobatik hareketler ve hızlı maçlarla takım ruhu ve cesareti eğlenceli bir şekilde anlatan animasyon serisidir.</desc>
+  </programme>
+  <programme start="20261125120000 +0300" stop="20261125123000 +0300" channel="COCUK">
+    <title lang="tr">Homur ve Gumur</title>
+    <desc lang="tr">Homur ve Gumur, inşaat araçlarının dostluk ve iş birliği dolu maceralarını renkli ve eğlenceli bir şekilde ekranlara taşıyan animasyondur.</desc>
+  </programme>
+  <programme start="20261125123000 +0300" stop="20261125130000 +0300" channel="COCUK">
+    <title lang="tr">Canavar Avcısı Kulübü</title>
+    <desc lang="tr">Canavar Avcısı Kulübü, gizli canavarları yakalayan genç kahramanların dostluk ve cesaret dolu maceralarını anlatan animasyon serisidir.</desc>
+  </programme>
+  <programme start="20261125130000 +0300" stop="20261125133000 +0300" channel="COCUK">
+    <title lang="tr">Boonie Ayıları: Maceracılar</title>
+    <desc lang="tr">Boonie Ayıları: Maceracılar, cesur ayıların dostluk ve macera dolu hikâyelerini eğlenceli ve öğretici bir şekilde ekranlara taşıyan animasyondur.</desc>
+  </programme>
+  <programme start="20261125133000 +0300" stop="20261125140000 +0300" channel="COCUK">
+    <title lang="tr">Kody Kapow</title>
+    <desc lang="tr">Kung fu temalı bu animasyon, bir çocuğun eğlenceli ve öğretici maceralarını anlatır.</desc>
+  </programme>
+  <programme start="20261125140000 +0300" stop="20261125143000 +0300" channel="COCUK">
+    <title lang="tr">Boonie Ayıları: Maceracılar</title>
+    <desc lang="tr">Boonie Ayıları: Maceracılar, cesur ayıların dostluk ve macera dolu hikâyelerini eğlenceli ve öğretici bir şekilde ekranlara taşıyan animasyondur.</desc>
+  </programme>
+  <programme start="20261125143000 +0300" stop="20261125150000 +0300" channel="COCUK">
+    <title lang="tr">Homur ve Gumur</title>
+    <desc lang="tr">Homur ve Gumur, inşaat araçlarının dostluk ve iş birliği dolu maceralarını renkli ve eğlenceli bir şekilde ekranlara taşıyan animasyondur.</desc>
+  </programme>
+  <programme start="20261125150000 +0300" stop="20261125153000 +0300" channel="COCUK">
+    <title lang="tr">Kukuli</title>
+    <desc lang="tr">Kukuli ve arkadaşları, eğlenceli ve öğretici şarkılarla miniklere neşeli, kahkaha dolu maceralar sunuyor.</desc>
+  </programme>
+  <programme start="20261125153000 +0300" stop="20261125160000 +0300" channel="COCUK">
+    <title lang="tr">Canavar Avcısı Kulübü</title>
+    <desc lang="tr">Canavar Avcısı Kulübü, gizli canavarları yakalayan genç kahramanların dostluk ve cesaret dolu maceralarını anlatan animasyon serisidir.</desc>
+  </programme>
+  <programme start="20261125160000 +0300" stop="20261125163000 +0300" channel="COCUK">
+    <title lang="tr">Boonie Ayıları: Maceracılar</title>
+    <desc lang="tr">Boonie Ayıları: Maceracılar, cesur ayıların dostluk ve macera dolu hikâyelerini eğlenceli ve öğretici bir şekilde ekranlara taşıyan animasyondur.</desc>
+  </programme>
+  <programme start="20261125163000 +0300" stop="20261125170000 +0300" channel="COCUK">
+    <title lang="tr">Mondo Yan</title>
+    <desc lang="tr">Mondo Yan, renkli dünyası ve enerjik hikâyeleriyle dostluk, paylaşma ve hayal gücünü eğlenceli maceralarla anlatan bir animasyon dizisidir.</desc>
+  </programme>
+  <programme start="20261125170000 +0300" stop="20261125173000 +0300" channel="COCUK">
+    <title lang="tr">Extreme Football</title>
+    <desc lang="tr">Extreme Football, akrobatik hareketler ve hızlı maçlarla takım ruhu ve cesareti eğlenceli bir şekilde anlatan animasyon serisidir.</desc>
+  </programme>
+  <programme start="20261125173000 +0300" stop="20261125180000 +0300" channel="COCUK">
+    <title lang="tr">Kody Kapow</title>
+    <desc lang="tr">Kung fu temalı bu animasyon, bir çocuğun eğlenceli ve öğretici maceralarını anlatır.</desc>
+  </programme>
+  <programme start="20261125180000 +0300" stop="20261125183000 +0300" channel="COCUK">
+    <title lang="tr">Mondo Yan</title>
+    <desc lang="tr">Mondo Yan, renkli dünyası ve enerjik hikâyeleriyle dostluk, paylaşma ve hayal gücünü eğlenceli maceralarla anlatan bir animasyon dizisidir.</desc>
+  </programme>
+  <programme start="20261125183000 +0300" stop="20261125190000 +0300" channel="COCUK">
+    <title lang="tr">Boonie Ayıları: Maceracılar</title>
+    <desc lang="tr">Boonie Ayıları: Maceracılar, cesur ayıların dostluk ve macera dolu hikâyelerini eğlenceli ve öğretici bir şekilde ekranlara taşıyan animasyondur.</desc>
+  </programme>
+  <programme start="20261125190000 +0300" stop="20261125193000 +0300" channel="COCUK">
+    <title lang="tr">Extreme Football</title>
+    <desc lang="tr">Extreme Football, akrobatik hareketler ve hızlı maçlarla takım ruhu ve cesareti eğlenceli bir şekilde anlatan animasyon serisidir.</desc>
+  </programme>
+  <programme start="20261125193000 +0300" stop="20261125200000 +0300" channel="COCUK">
+    <title lang="tr">Kukuli</title>
+    <desc lang="tr">Kukuli ve arkadaşları, eğlenceli ve öğretici şarkılarla miniklere neşeli, kahkaha dolu maceralar sunuyor.</desc>
+  </programme>
+  <programme start="20261125200000 +0300" stop="20261125203000 +0300" channel="COCUK">
+    <title lang="tr">Canavar Avcısı Kulübü</title>
+    <desc lang="tr">Canavar Avcısı Kulübü, gizli canavarları yakalayan genç kahramanların dostluk ve cesaret dolu maceralarını anlatan animasyon serisidir.</desc>
+  </programme>
+  <programme start="20261125203000 +0300" stop="20261125210000 +0300" channel="COCUK">
+    <title lang="tr">Homur ve Gumur</title>
+    <desc lang="tr">Homur ve Gumur, inşaat araçlarının dostluk ve iş birliği dolu maceralarını renkli ve eğlenceli bir şekilde ekranlara taşıyan animasyondur.</desc>
+  </programme>
+  <programme start="20261125210000 +0300" stop="20261125213000 +0300" channel="COCUK">
+    <title lang="tr">Boonie Ayıları: Maceracılar</title>
+    <desc lang="tr">Boonie Ayıları: Maceracılar, cesur ayıların dostluk ve macera dolu hikâyelerini eğlenceli ve öğretici bir şekilde ekranlara taşıyan animasyondur.</desc>
+  </programme>
+  <programme start="20261125213000 +0300" stop="20261125220000 +0300" channel="COCUK">
+    <title lang="tr">Mondo Yan</title>
+    <desc lang="tr">Mondo Yan, renkli dünyası ve enerjik hikâyeleriyle dostluk, paylaşma ve hayal gücünü eğlenceli maceralarla anlatan bir animasyon dizisidir.</desc>
+  </programme>
+  <programme start="20261125220000 +0300" stop="20261125223000 +0300" channel="COCUK">
+    <title lang="tr">Origami Yapıyoruz</title>
+    <desc lang="tr">Origami Yapıyoruz, çocuklara kağıt katlamanın inceliklerini öğreten eğlenceli bir programdır. Basit adımlarla hayvanlar, nesneler ve figürler yapılırken el becerisi ve hayal gücü gelişir.</desc>
+  </programme>
+  <programme start="20261125223000 +0300" stop="20261125230000 +0300" channel="COCUK">
+    <title lang="tr">Cico ile Moco</title>
+    <desc lang="tr">Cico ve Moco, her gün yeni şeyler keşfeden iki sevimli dosttur. Eğlenceli oyunlar, küçük sürprizler ve neşeli maceralarla öğrenmeyi keyifli hale getirirler.</desc>
+  </programme>
+  <programme start="20261125230000 +0300" stop="20261125233000 +0300" channel="COCUK">
+    <title lang="tr">Origami Yapıyoruz</title>
+    <desc lang="tr">Origami Yapıyoruz, çocuklara kağıt katlamanın inceliklerini öğreten eğlenceli bir programdır. Basit adımlarla hayvanlar, nesneler ve figürler yapılırken el becerisi ve hayal gücü gelişir.</desc>
+  </programme>
+  <programme start="20261125233000 +0300" stop="20261126000000 +0300" channel="COCUK">
+    <title lang="tr">Cico ile Moco</title>
+    <desc lang="tr">Cico ve Moco, her gün yeni şeyler keşfeden iki sevimli dosttur. Eğlenceli oyunlar, küçük sürprizler ve neşeli maceralarla öğrenmeyi keyifli hale getirirler.</desc>
+  </programme>
   <programme start="20261119221500 +0300" stop="20261120003000 +0300" channel="DSMAX">
     <title lang="tr">Yaz&apos;ın Öyküsü</title>
     <desc lang="tr">Program açıklaması bulunmuyor.</desc>
@@ -2136,6 +2320,98 @@
   <programme start="20261124033000 +0300" stop="20261124054500 +0300" channel="DSMAX">
     <title lang="tr">Kuzey Güney</title>
     <desc lang="tr">İki kardeşin zıt karakterleri, aşk ve rekabetle sınanırken aile bağları büyük bir mücadeleye dönüşür.</desc>
+  </programme>
+  <programme start="20261124054500 +0300" stop="20261124065500 +0300" channel="DSMAX">
+    <title lang="tr">Aşk ve Umut</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261124065500 +0300" stop="20261124080500 +0300" channel="DSMAX">
+    <title lang="tr">Alın Yazım</title>
+    <desc lang="tr">Zorluklarla büyüyen genç bir kadın, kaderini değiştirmek için mücadele ederken aşk, ihanet ve aile sırlarıyla yüzleşir.</desc>
+  </programme>
+  <programme start="20261124080500 +0300" stop="20261124093500 +0300" channel="DSMAX">
+    <title lang="tr">Elveda Derken</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261124093500 +0300" stop="20261124104500 +0300" channel="DSMAX">
+    <title lang="tr">Mutfağım</title>
+    <desc lang="tr">Lezzetli tarifler ve pratik mutfak sırlarıyla dolu Mutfağım, izleyiciyi mutfağa davet ediyor.</desc>
+  </programme>
+  <programme start="20261124104500 +0300" stop="20261124122500 +0300" channel="DSMAX">
+    <title lang="tr">Kavak Yelleri</title>
+    <desc lang="tr">Gençliğin heyecanı, dostluğun gücü ve ilk aşkların karmaşası Kavak Yelleri&apos;nde Ege kasabasında kesişen hayatlarla ekrana taşınıyor.</desc>
+  </programme>
+  <programme start="20261124122500 +0300" stop="20261124150500 +0300" channel="DSMAX">
+    <title lang="tr">Bodrum Masalı</title>
+    <desc lang="tr">Türkiye, büyük bir ayaklanma yaşayan bir aile hakkında romantik, drama dizisi. Aşk, entrika ve hayat mücadelesi bu hikayenin ana temalarıdır.</desc>
+  </programme>
+  <programme start="20261124150500 +0300" stop="20261124173000 +0300" channel="DSMAX">
+    <title lang="tr">Kızlarım İçin</title>
+    <desc lang="tr">Bir baba, kızları için geçmişin yükü ve hayatın zorluklarıyla mücadele ederek yeniden ayağa kalkar.</desc>
+  </programme>
+  <programme start="20261124173000 +0300" stop="20261124195500 +0300" channel="DSMAX">
+    <title lang="tr">Kuzey Güney</title>
+    <desc lang="tr">İki kardeşin zıt karakterleri, aşk ve rekabetle sınanırken aile bağları büyük bir mücadeleye dönüşür.</desc>
+  </programme>
+  <programme start="20261124195500 +0300" stop="20261124201500 +0300" channel="DSMAX">
+    <title lang="tr">Oyuncu</title>
+    <desc lang="tr">Gündemdeki güncel dizi ve televizyon dünyası gelişmeleri, oyuncu röportajları ve sektörden öne çıkan haberler ekrana taşınıyor.</desc>
+  </programme>
+  <programme start="20261124201500 +0300" stop="20261124230000 +0300" channel="DSMAX">
+    <title lang="tr">Çatı Katı Aşk</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261124230000 +0300" stop="20261125013000 +0300" channel="DSMAX">
+    <title lang="tr">Gülizar</title>
+    <desc lang="tr">Güçlü bir kadın karakterin hayat mücadelesini ve duygusal yolculuğunu anlatan dramatik bir dizi.</desc>
+  </programme>
+  <programme start="20261125013000 +0300" stop="20261125041000 +0300" channel="DSMAX">
+    <title lang="tr">Bodrum Masalı</title>
+    <desc lang="tr">Türkiye, büyük bir ayaklanma yaşayan bir aile hakkında romantik, drama dizisi. Aşk, entrika ve hayat mücadelesi bu hikayenin ana temalarıdır.</desc>
+  </programme>
+  <programme start="20261125041000 +0300" stop="20261125063500 +0300" channel="DSMAX">
+    <title lang="tr">Kuzey Güney</title>
+    <desc lang="tr">İki kardeşin zıt karakterleri, aşk ve rekabetle sınanırken aile bağları büyük bir mücadeleye dönüşür.</desc>
+  </programme>
+  <programme start="20261125063500 +0300" stop="20261125074500 +0300" channel="DSMAX">
+    <title lang="tr">Aşk ve Umut</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261125074500 +0300" stop="20261125085500 +0300" channel="DSMAX">
+    <title lang="tr">Alın Yazım</title>
+    <desc lang="tr">Zorluklarla büyüyen genç bir kadın, kaderini değiştirmek için mücadele ederken aşk, ihanet ve aile sırlarıyla yüzleşir.</desc>
+  </programme>
+  <programme start="20261125085500 +0300" stop="20261125102000 +0300" channel="DSMAX">
+    <title lang="tr">Elveda Derken</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261125102000 +0300" stop="20261125113000 +0300" channel="DSMAX">
+    <title lang="tr">Mutfağım</title>
+    <desc lang="tr">Lezzetli tarifler ve pratik mutfak sırlarıyla dolu Mutfağım, izleyiciyi mutfağa davet ediyor.</desc>
+  </programme>
+  <programme start="20261125113000 +0300" stop="20261125130500 +0300" channel="DSMAX">
+    <title lang="tr">Kavak Yelleri</title>
+    <desc lang="tr">Gençliğin heyecanı, dostluğun gücü ve ilk aşkların karmaşası Kavak Yelleri&apos;nde Ege kasabasında kesişen hayatlarla ekrana taşınıyor.</desc>
+  </programme>
+  <programme start="20261125130500 +0300" stop="20261125154000 +0300" channel="DSMAX">
+    <title lang="tr">Bodrum Masalı</title>
+    <desc lang="tr">Türkiye, büyük bir ayaklanma yaşayan bir aile hakkında romantik, drama dizisi. Aşk, entrika ve hayat mücadelesi bu hikayenin ana temalarıdır.</desc>
+  </programme>
+  <programme start="20261125154000 +0300" stop="20261125173000 +0300" channel="DSMAX">
+    <title lang="tr">Kayıp</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261125173000 +0300" stop="20261125194500 +0300" channel="DSMAX">
+    <title lang="tr">Kuzey Güney</title>
+    <desc lang="tr">İki kardeşin zıt karakterleri, aşk ve rekabetle sınanırken aile bağları büyük bir mücadeleye dönüşür.</desc>
+  </programme>
+  <programme start="20261125194500 +0300" stop="20261125201500 +0300" channel="DSMAX">
+    <title lang="tr">Hakan Gence ile Sıkı Muhabbet</title>
+    <desc lang="tr">Hakan Gence, gündemin sıcak konularını ve popüler meseleleri konuklarıyla samimi bir sohbet ortamında tartışıyor.</desc>
+  </programme>
+  <programme start="20261125201500 +0300" stop="20261125224500 +0300" channel="DSMAX">
+    <title lang="tr">Veda Mektubu</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
   <programme start="20261119230000 +0300" stop="20261120000000 +0300" channel="NGEO">
     <title lang="tr">Saklı Şehirlerin İzinde</title>
@@ -8461,6 +8737,150 @@
     <title lang="tr">Lingerie</title>
     <desc lang="tr">Don&apos;t miss the latest trends in the most sensual pieces of fashion, we&apos;re talking about the latest lingerie collections presented on the world podiums! Sizzling hot looks from top lingerie designers</desc>
   </programme>
+  <programme start="20261125060000 +0300" stop="20261125063000 +0300" channel="FTV">
+    <title lang="tr">Swimwear</title>
+    <desc lang="tr">Everyone needs a great swimsuit in their wardrobe, better to have more than one. Enjoy trendsetting collections to find a reliable, well-fitted, and stylish option for your poolside excellence</desc>
+  </programme>
+  <programme start="20261125063000 +0300" stop="20261125070000 +0300" channel="FTV">
+    <title lang="tr">Swimwear</title>
+    <desc lang="tr">Everyone needs a great swimsuit in their wardrobe, better to have more than one. Enjoy trendsetting collections to find a reliable, well-fitted, and stylish option for your poolside excellence</desc>
+  </programme>
+  <programme start="20261125070000 +0300" stop="20261125073000 +0300" channel="FTV">
+    <title lang="tr">Top Photoshoots</title>
+    <desc lang="tr">Dive into the breathtaking world of the fashion photography to discover behind-the-scenes atmosphere and enjoy the most beautiful masterpieces of the iconic photographers and their muses</desc>
+  </programme>
+  <programme start="20261125073000 +0300" stop="20261125080000 +0300" channel="FTV">
+    <title lang="tr">Top Photoshoots</title>
+    <desc lang="tr">Dive into the breathtaking world of the fashion photography to discover behind-the-scenes atmosphere and enjoy the most beautiful masterpieces of the iconic photographers and their muses</desc>
+  </programme>
+  <programme start="20261125080000 +0300" stop="20261125083000 +0300" channel="FTV">
+    <title lang="tr">Fashion &amp; Sports</title>
+    <desc lang="tr">Athleisure is conquering the world! Everyone looks like having just finished a work-out in the gym, while grabbing a cappuccino. If this lifestyle is yours, be first to discover the must-haves!</desc>
+  </programme>
+  <programme start="20261125083000 +0300" stop="20261125090000 +0300" channel="FTV">
+    <title lang="tr">Fashion &amp; Sports</title>
+    <desc lang="tr">Athleisure is conquering the world! Everyone looks like having just finished a work-out in the gym, while grabbing a cappuccino. If this lifestyle is yours, be first to discover the must-haves!</desc>
+  </programme>
+  <programme start="20261125090000 +0300" stop="20261125093000 +0300" channel="FTV">
+    <title lang="tr">Beauty</title>
+    <desc lang="tr">Get inspired with the latest trends in hairstyles, enjoy the tips and tricks of the top makeup artists and get the best use of the exclusive guide in the world of skincare products!</desc>
+  </programme>
+  <programme start="20261125093000 +0300" stop="20261125100000 +0300" channel="FTV">
+    <title lang="tr">Beauty</title>
+    <desc lang="tr">Get inspired with the latest trends in hairstyles, enjoy the tips and tricks of the top makeup artists and get the best use of the exclusive guide in the world of skincare products!</desc>
+  </programme>
+  <programme start="20261125100000 +0300" stop="20261125103000 +0300" channel="FTV">
+    <title lang="tr">Fashion From Uk</title>
+    <desc lang="tr">Fashion and the UK go hand-in-hand. Keep updated about the news of the British fashion famed for its historic creativity inspired by eccentricity, diversity and age-old traditions.</desc>
+  </programme>
+  <programme start="20261125103000 +0300" stop="20261125110000 +0300" channel="FTV">
+    <title lang="tr">Fashion From Uk</title>
+    <desc lang="tr">Fashion and the UK go hand-in-hand. Keep updated about the news of the British fashion famed for its historic creativity inspired by eccentricity, diversity and age-old traditions.</desc>
+  </programme>
+  <programme start="20261125110000 +0300" stop="20261125113000 +0300" channel="FTV">
+    <title lang="tr">Irina Shayk</title>
+    <desc lang="tr">What the life of the fashion&apos;s greatest icons is all about? Get off with Irina Shayk for a bunch of fabulous ins and outs.</desc>
+  </programme>
+  <programme start="20261125113000 +0300" stop="20261125120000 +0300" channel="FTV">
+    <title lang="tr">Irina Shayk</title>
+    <desc lang="tr">What the life of the fashion&apos;s greatest icons is all about? Get off with Irina Shayk for a bunch of fabulous ins and outs.</desc>
+  </programme>
+  <programme start="20261125120000 +0300" stop="20261125123000 +0300" channel="FTV">
+    <title lang="tr">Most Watched</title>
+    <desc lang="tr">Tune in to witness a curated showcase of iconic brand highlights, unforgettable collection reveals, and the most captivating celebrity fashion moments.</desc>
+  </programme>
+  <programme start="20261125123000 +0300" stop="20261125130000 +0300" channel="FTV">
+    <title lang="tr">Most Watched</title>
+    <desc lang="tr">Tune in to witness a curated showcase of iconic brand highlights, unforgettable collection reveals, and the most captivating celebrity fashion moments.</desc>
+  </programme>
+  <programme start="20261125130000 +0300" stop="20261125133000 +0300" channel="FTV">
+    <title lang="tr">Fashion Junior</title>
+    <desc lang="tr">Follow kids fashion trends that will be huge in the recent and coming seasons, stay tuned for the best dressed celebs&apos; kids and runway highlights!</desc>
+  </programme>
+  <programme start="20261125133000 +0300" stop="20261125140000 +0300" channel="FTV">
+    <title lang="tr">Fashion Junior</title>
+    <desc lang="tr">Follow kids fashion trends that will be huge in the recent and coming seasons, stay tuned for the best dressed celebs&apos; kids and runway highlights!</desc>
+  </programme>
+  <programme start="20261125140000 +0300" stop="20261125143000 +0300" channel="FTV">
+    <title lang="tr">Milan Fashion Week</title>
+    <desc lang="tr">Welcome to one of the &quot;Big Four&quot;global fashion cities, Milan, for its major event - Fashion Week, a semi-annual gala for 70 top world brands and a meeting for the A-listers of the industry</desc>
+  </programme>
+  <programme start="20261125143000 +0300" stop="20261125150000 +0300" channel="FTV">
+    <title lang="tr">Milan Fashion Week</title>
+    <desc lang="tr">Welcome to one of the &quot;Big Four&quot;global fashion cities, Milan, for its major event - Fashion Week, a semi-annual gala for 70 top world brands and a meeting for the A-listers of the industry</desc>
+  </programme>
+  <programme start="20261125150000 +0300" stop="20261125153000 +0300" channel="FTV">
+    <title lang="tr">Designers</title>
+    <desc lang="tr">Explore stories of the top fashion designers of all time! Meet the legends, like Coco Chanel or Karl Lagerfeld and don&apos;t miss the amazingly talented young designers who shape the future of fashion now</desc>
+  </programme>
+  <programme start="20261125153000 +0300" stop="20261125160000 +0300" channel="FTV">
+    <title lang="tr">Designers</title>
+    <desc lang="tr">Explore stories of the top fashion designers of all time! Meet the legends, like Coco Chanel or Karl Lagerfeld and don&apos;t miss the amazingly talented young designers who shape the future of fashion now</desc>
+  </programme>
+  <programme start="20261125160000 +0300" stop="20261125163000 +0300" channel="FTV">
+    <title lang="tr">Bridal</title>
+    <desc lang="tr">Grab a clue on what&apos;s going on in the world of brides before you hit a salon! Enjoy a wide array of high fashion choices, undeniably romantic and decidedly feminine.</desc>
+  </programme>
+  <programme start="20261125163000 +0300" stop="20261125170000 +0300" channel="FTV">
+    <title lang="tr">Bridal</title>
+    <desc lang="tr">Grab a clue on what&apos;s going on in the world of brides before you hit a salon! Enjoy a wide array of high fashion choices, undeniably romantic and decidedly feminine.</desc>
+  </programme>
+  <programme start="20261125170000 +0300" stop="20261125173000 +0300" channel="FTV">
+    <title lang="tr">Top Models</title>
+    <desc lang="tr">Meet this season&apos;s modeling stars and those who are on their way to international fashion stardom. Most in-demand girls from around the globe and their fascinating stories!</desc>
+  </programme>
+  <programme start="20261125173000 +0300" stop="20261125180000 +0300" channel="FTV">
+    <title lang="tr">Top Models</title>
+    <desc lang="tr">Meet this season&apos;s modeling stars and those who are on their way to international fashion stardom. Most in-demand girls from around the globe and their fascinating stories!</desc>
+  </programme>
+  <programme start="20261125180000 +0300" stop="20261125183000 +0300" channel="FTV">
+    <title lang="tr">Fashion Teens</title>
+    <desc lang="tr">Explore the latest fashion trends for teens, the cutest outfits of the A-list celebrities, mix &amp; match insights, and style tips for all occasions.</desc>
+  </programme>
+  <programme start="20261125183000 +0300" stop="20261125190000 +0300" channel="FTV">
+    <title lang="tr">Fashion Teens</title>
+    <desc lang="tr">Explore the latest fashion trends for teens, the cutest outfits of the A-list celebrities, mix &amp; match insights, and style tips for all occasions.</desc>
+  </programme>
+  <programme start="20261125190000 +0300" stop="20261125193000 +0300" channel="FTV">
+    <title lang="tr">Fashion Films</title>
+    <desc lang="tr">Sit back, relax and enjoy a handful of experimental narrative fashion films with top models starring, it&apos;s one of the most artistic ways to follow the latest collections!</desc>
+  </programme>
+  <programme start="20261125193000 +0300" stop="20261125200000 +0300" channel="FTV">
+    <title lang="tr">Fashion Films</title>
+    <desc lang="tr">Sit back, relax and enjoy a handful of experimental narrative fashion films with top models starring, it&apos;s one of the most artistic ways to follow the latest collections!</desc>
+  </programme>
+  <programme start="20261125200000 +0300" stop="20261125203000 +0300" channel="FTV">
+    <title lang="tr">Fashion From France</title>
+    <desc lang="tr">Enjoy the highlights from France, the Mecca of global fashion since the 17th century, to find out the recent trends in haute couture and pret-a-porte of the style-setters with fashion in their genes.</desc>
+  </programme>
+  <programme start="20261125203000 +0300" stop="20261125210000 +0300" channel="FTV">
+    <title lang="tr">Fashion From France</title>
+    <desc lang="tr">Enjoy the highlights from France, the Mecca of global fashion since the 17th century, to find out the recent trends in haute couture and pret-a-porte of the style-setters with fashion in their genes.</desc>
+  </programme>
+  <programme start="20261125210000 +0300" stop="20261125213000 +0300" channel="FTV">
+    <title lang="tr">Most Watched</title>
+    <desc lang="tr">Tune in to witness a curated showcase of iconic brand highlights, unforgettable collection reveals, and the most captivating celebrity fashion moments.</desc>
+  </programme>
+  <programme start="20261125213000 +0300" stop="20261125220000 +0300" channel="FTV">
+    <title lang="tr">Most Watched</title>
+    <desc lang="tr">Tune in to witness a curated showcase of iconic brand highlights, unforgettable collection reveals, and the most captivating celebrity fashion moments.</desc>
+  </programme>
+  <programme start="20261125220000 +0300" stop="20261125223000 +0300" channel="FTV">
+    <title lang="tr">Fashion News</title>
+    <desc lang="tr">Check out the inside scoop on fashion news, all the daily news you need to know, including standout fashion moments, major events, current collections and trends on and off the runway.</desc>
+  </programme>
+  <programme start="20261125223000 +0300" stop="20261125230000 +0300" channel="FTV">
+    <title lang="tr">Fashion News</title>
+    <desc lang="tr">Check out the inside scoop on fashion news, all the daily news you need to know, including standout fashion moments, major events, current collections and trends on and off the runway.</desc>
+  </programme>
+  <programme start="20261125230000 +0300" stop="20261125233000 +0300" channel="FTV">
+    <title lang="tr">Irina Shayk</title>
+    <desc lang="tr">What the life of the fashion&apos;s greatest icons is all about? Get off with Irina Shayk for a bunch of fabulous ins and outs.</desc>
+  </programme>
+  <programme start="20261125233000 +0300" stop="20261126000000 +0300" channel="FTV">
+    <title lang="tr">Irina Shayk</title>
+    <desc lang="tr">What the life of the fashion&apos;s greatest icons is all about? Get off with Irina Shayk for a bunch of fabulous ins and outs.</desc>
+  </programme>
   <programme start="20261119230000 +0300" stop="20261120000000 +0300" channel="SZC">
     <title lang="tr">Gecenin Sözü</title>
     <desc lang="tr">Gündemin değerlendirilmesi, özel konuklar ve günün sonunda öne çıkan gelişmeler izleyiciyle buluşuyor.</desc>
@@ -8873,6 +9293,94 @@
     <title lang="tr">Karşı Karşıya</title>
     <desc lang="tr">Gündemin başlıkları farklı açılardan değerlendiriliyor.</desc>
   </programme>
+  <programme start="20261125000000 +0300" stop="20261125010000 +0300" channel="SZC">
+    <title lang="tr">S Raporu</title>
+    <desc lang="tr">Gün boyunca yaşanan gelişmelerin S Raporu alınıyor.</desc>
+  </programme>
+  <programme start="20261125010000 +0300" stop="20261125023000 +0300" channel="SZC">
+    <title lang="tr">Nokta Atışı</title>
+    <desc lang="tr">Siyaset gündemi uzman konuklar ile masaya yatırılıyor.</desc>
+  </programme>
+  <programme start="20261125023000 +0300" stop="20261125050000 +0300" channel="SZC">
+    <title lang="tr">Karşı Karşıya</title>
+    <desc lang="tr">Gündemin başlıkları farklı açılardan değerlendiriliyor.</desc>
+  </programme>
+  <programme start="20261125050000 +0300" stop="20261125060000 +0300" channel="SZC">
+    <title lang="tr">S Raporu</title>
+    <desc lang="tr">Gün boyunca yaşanan gelişmelerin S Raporu alınıyor.</desc>
+  </programme>
+  <programme start="20261125060000 +0300" stop="20261125070000 +0300" channel="SZC">
+    <title lang="tr">Serdar Cebe İle Ana Haber</title>
+    <desc lang="tr">Serdar Cebe&apos;nin sunumuyla günün en sıcak gelişmeleri, siyasetten ekonomiye tüm başlıklar objektif bir yorumla ekrana geliyor.</desc>
+  </programme>
+  <programme start="20261125070000 +0300" stop="20261125080000 +0300" channel="SZC">
+    <title lang="tr">Sözcü İle Uyanma Vakti</title>
+    <desc lang="tr">Güne &apos;Merhaba&apos; derken gündemin önemli olayları ekrana geliyor.</desc>
+  </programme>
+  <programme start="20261125080000 +0300" stop="20261125090000 +0300" channel="SZC">
+    <title lang="tr">Sözcü Masası</title>
+    <desc lang="tr">Gündemin öne çıkan başlıklarını ve sıcak gelişmeleri uzman konuklarla birlikte değerlendiriyor.</desc>
+  </programme>
+  <programme start="20261125090000 +0300" stop="20261125100000 +0300" channel="SZC">
+    <title lang="tr">Sözcü Masası</title>
+    <desc lang="tr">Gündemin öne çıkan başlıklarını ve sıcak gelişmeleri uzman konuklarla birlikte değerlendiriyor.</desc>
+  </programme>
+  <programme start="20261125100000 +0300" stop="20261125110000 +0300" channel="SZC">
+    <title lang="tr">Sözcü Masası</title>
+    <desc lang="tr">Gündemin öne çıkan başlıklarını ve sıcak gelişmeleri uzman konuklarla birlikte değerlendiriyor.</desc>
+  </programme>
+  <programme start="20261125110000 +0300" stop="20261125120000 +0300" channel="SZC">
+    <title lang="tr">Öğle Bülteni</title>
+    <desc lang="tr">Günün gelişmelerini öğle saatlerinde izleyiciye aktaran haber programı.</desc>
+  </programme>
+  <programme start="20261125120000 +0300" stop="20261125130000 +0300" channel="SZC">
+    <title lang="tr">Öğle Bülteni</title>
+    <desc lang="tr">Günün gelişmelerini öğle saatlerinde izleyiciye aktaran haber programı.</desc>
+  </programme>
+  <programme start="20261125130000 +0300" stop="20261125140000 +0300" channel="SZC">
+    <title lang="tr">Öğle Bülteni</title>
+    <desc lang="tr">Günün gelişmelerini öğle saatlerinde izleyiciye aktaran haber programı.</desc>
+  </programme>
+  <programme start="20261125140000 +0300" stop="20261125150000 +0300" channel="SZC">
+    <title lang="tr">Öncesi Sonrası</title>
+    <desc lang="tr">Gündemin öne çıkan haberleri ve olayları Senem Toluay Ilgaz&apos;ın sunumu ile Sözcü Televizyonu&apos;nda ekrana getiriliyor.</desc>
+  </programme>
+  <programme start="20261125150000 +0300" stop="20261125160000 +0300" channel="SZC">
+    <title lang="tr">Öncesi Sonrası</title>
+    <desc lang="tr">Gündemin öne çıkan haberleri ve olayları Senem Toluay Ilgaz&apos;ın sunumu ile Sözcü Televizyonu&apos;nda ekrana getiriliyor.</desc>
+  </programme>
+  <programme start="20261125160000 +0300" stop="20261125170000 +0300" channel="SZC">
+    <title lang="tr">Öncesi Sonrası</title>
+    <desc lang="tr">Gündemin öne çıkan haberleri ve olayları Senem Toluay Ilgaz&apos;ın sunumu ile Sözcü Televizyonu&apos;nda ekrana getiriliyor.</desc>
+  </programme>
+  <programme start="20261125170000 +0300" stop="20261125175000 +0300" channel="SZC">
+    <title lang="tr">İş Çıkışı</title>
+    <desc lang="tr">İş Çıkışı Programı Sözcü Tv&apos;de ekranlarınızda.</desc>
+  </programme>
+  <programme start="20261125175000 +0300" stop="20261125185000 +0300" channel="SZC">
+    <title lang="tr">İçinizden Biri</title>
+    <desc lang="tr">Ekrem Açıkel, hafta içi her akşam memleketin nabzını, duygusunu ve gerçeğini en yalın haliyle ortaya koyuyor.</desc>
+  </programme>
+  <programme start="20261125185000 +0300" stop="20261125200000 +0300" channel="SZC">
+    <title lang="tr">Serdar Cebe İle Ana Haber</title>
+    <desc lang="tr">Serdar Cebe&apos;nin sunumuyla günün en sıcak gelişmeleri, siyasetten ekonomiye tüm başlıklar objektif bir yorumla ekrana geliyor.</desc>
+  </programme>
+  <programme start="20261125200000 +0300" stop="20261125210000 +0300" channel="SZC">
+    <title lang="tr">Türkiye&apos;nin Sözü</title>
+    <desc lang="tr">Siyaset gündemi uzman konuklar ile masaya yatırılıyor.</desc>
+  </programme>
+  <programme start="20261125210000 +0300" stop="20261125220000 +0300" channel="SZC">
+    <title lang="tr">Türkiye&apos;nin Sözü</title>
+    <desc lang="tr">Siyaset gündemi uzman konuklar ile masaya yatırılıyor.</desc>
+  </programme>
+  <programme start="20261125220000 +0300" stop="20261125230000 +0300" channel="SZC">
+    <title lang="tr">Türkiye&apos;nin Sözü</title>
+    <desc lang="tr">Siyaset gündemi uzman konuklar ile masaya yatırılıyor.</desc>
+  </programme>
+  <programme start="20261125230000 +0300" stop="20261126000000 +0300" channel="SZC">
+    <title lang="tr">Türkiye&apos;nin Sözü</title>
+    <desc lang="tr">Siyaset gündemi uzman konuklar ile masaya yatırılıyor.</desc>
+  </programme>
   <programme start="20261119231500 +0300" stop="20261120020000 +0300" channel="SHOWMAX">
     <title lang="tr">Fatih Harbiye</title>
     <desc lang="tr">Geleneksellikle modernlik arasına sıkışmış Fatihli genç bir kız olan Neriman&apos;ın ilginç hayat hikâyesi.</desc>
@@ -9057,6 +9565,30 @@
     <title lang="tr">Yeni Gelin</title>
     <desc lang="tr">Şehirli bir kızın geleneksel bir aşirete gelin gitmesiyle başlayan, aile içi çatışmaları konu alan komik bir hikaye.</desc>
   </programme>
+  <programme start="20261125070000 +0300" stop="20261125090000 +0300" channel="SHOWMAX">
+    <title lang="tr">Gelin Evi</title>
+    <desc lang="tr">Evlilik hazırlıkları yapan gelin adaylarının heyecan ve heyecanlı anlarını, düğün planlarını ve aile ilişkilerini samimi bir anlatımla ekrana taşıyor.</desc>
+  </programme>
+  <programme start="20261125090000 +0300" stop="20261125113000 +0300" channel="SHOWMAX">
+    <title lang="tr">Siyah Kalp</title>
+    <desc lang="tr">Yıllar sonra açılan sırlar, aile içindeki dengeleri değiştirirken aşk, güç ve geçmişle hesaplaşma herkesi sınar.</desc>
+  </programme>
+  <programme start="20261125113000 +0300" stop="20261125140000 +0300" channel="SHOWMAX">
+    <title lang="tr">Aşk Laftan Anlamaz</title>
+    <desc lang="tr">Yalan bir kimlikle holdingde işe giren genç bir kız ile sert patronunun didişmeyle başlayan aşk hikayesi anlatılıyor.</desc>
+  </programme>
+  <programme start="20261125140000 +0300" stop="20261125163000 +0300" channel="SHOWMAX">
+    <title lang="tr">Fatih Harbiye</title>
+    <desc lang="tr">Geleneksellikle modernlik arasına sıkışmış Fatihli genç bir kız olan Neriman&apos;ın ilginç hayat hikâyesi.</desc>
+  </programme>
+  <programme start="20261125163000 +0300" stop="20261125194500 +0300" channel="SHOWMAX">
+    <title lang="tr">Yeni Gelin</title>
+    <desc lang="tr">Şehirli bir kızın geleneksel bir aşirete gelin gitmesiyle başlayan, aile içi çatışmaları konu alan komik bir hikaye.</desc>
+  </programme>
+  <programme start="20261125194500 +0300" stop="20261125231500 +0300" channel="SHOWMAX">
+    <title lang="tr">Siyah Kalp</title>
+    <desc lang="tr">Yıllar sonra açılan sırlar, aile içindeki dengeleri değiştirirken aşk, güç ve geçmişle hesaplaşma herkesi sınar.</desc>
+  </programme>
   <programme start="20261119210000 +0300" stop="20261120000000 +0300" channel="DREAM">
     <title lang="tr">Dream TV</title>
     <desc lang="tr">Program açıklaması bulunmuyor.</desc>
@@ -9222,6 +9754,34 @@
     <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
   <programme start="20261125000000 +0300" stop="20261125030000 +0300" channel="DREAM">
+    <title lang="tr">Dream TV</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261125030000 +0300" stop="20261125060000 +0300" channel="DREAM">
+    <title lang="tr">Dream TV</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261125060000 +0300" stop="20261125090000 +0300" channel="DREAM">
+    <title lang="tr">Dream TV</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261125090000 +0300" stop="20261125120000 +0300" channel="DREAM">
+    <title lang="tr">Dream TV</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261125120000 +0300" stop="20261125150000 +0300" channel="DREAM">
+    <title lang="tr">Dream TV</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261125150000 +0300" stop="20261125180000 +0300" channel="DREAM">
+    <title lang="tr">Dream TV</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261125180000 +0300" stop="20261125210000 +0300" channel="DREAM">
+    <title lang="tr">Dream TV</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261125210000 +0300" stop="20261126000000 +0300" channel="DREAM">
     <title lang="tr">Dream TV</title>
     <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
