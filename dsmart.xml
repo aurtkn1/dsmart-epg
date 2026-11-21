@@ -693,6 +693,38 @@
     <title lang="tr">Doğulu</title>
     <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
+  <programme start="20261126070000 +0300" stop="20261126091000 +0300" channel="MSTK">
+    <title lang="tr">Arif V 216</title>
+    <desc lang="tr">Komedi ve bilim kurgu öğeleriyle, eski dost robot 216&apos;nın dünyayı ziyaret edip insan olma hayaliyle başlayan zaman yolculuğu macerası izleyiciyle buluşuyor.</desc>
+  </programme>
+  <programme start="20261126091000 +0300" stop="20261126105000 +0300" channel="MSTK">
+    <title lang="tr">Peri: Ağzı Olmayan Kız</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261126105000 +0300" stop="20261126124000 +0300" channel="MSTK">
+    <title lang="tr">Köroğlu</title>
+    <desc lang="tr">Dağları mesken tutan namlı yiğit Köroğlu&apos;nun destansı aşk ve kahramanlık öyküsü...</desc>
+  </programme>
+  <programme start="20261126124000 +0300" stop="20261126143000 +0300" channel="MSTK">
+    <title lang="tr">Aşk Bu Mu?</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261126143000 +0300" stop="20261126161000 +0300" channel="MSTK">
+    <title lang="tr">Vesikalı Yarim</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261126161000 +0300" stop="20261126181000 +0300" channel="MSTK">
+    <title lang="tr">Karınca Kapanı</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261126181000 +0300" stop="20261126200000 +0300" channel="MSTK">
+    <title lang="tr">Aşk Tutulması</title>
+    <desc lang="tr">Fanatik Fenerbahçeli Uğur ile ailesinin evlilik baskısından bunalan Pınar&apos;ın, bir trafik kazası sonucu kesişen köklü değişikliklerle dolu eğlenceli ve romantik hikayesi anlatılıyor.</desc>
+  </programme>
+  <programme start="20261126200000 +0300" stop="20261126220000 +0300" channel="MSTK">
+    <title lang="tr">Kardeşim Benim 2</title>
+    <desc lang="tr">Üvey kardeşler Ömer ve Ahmet&apos;in miras ve aşk maceralarını, komik ve eğlenceli olaylarla anlatan Türk komedi filmidir.</desc>
+  </programme>
   <programme start="20261120223000 +0300" stop="20261121000000 +0300" channel="SPPR">
     <title lang="tr">Joventut - Zaragoza</title>
     <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
@@ -2113,6 +2145,150 @@
     <title lang="tr">Cico ile Moco</title>
     <desc lang="tr">Cico ve Moco, her gün yeni şeyler keşfeden iki sevimli dosttur. Eğlenceli oyunlar, küçük sürprizler ve neşeli maceralarla öğrenmeyi keyifli hale getirirler.</desc>
   </programme>
+  <programme start="20261126060000 +0300" stop="20261126063000 +0300" channel="COCUK">
+    <title lang="tr">Homur ve Gumur</title>
+    <desc lang="tr">Homur ve Gumur, inşaat araçlarının dostluk ve iş birliği dolu maceralarını renkli ve eğlenceli bir şekilde ekranlara taşıyan animasyondur.</desc>
+  </programme>
+  <programme start="20261126063000 +0300" stop="20261126070000 +0300" channel="COCUK">
+    <title lang="tr">Canavar Avcısı Kulübü</title>
+    <desc lang="tr">Canavar Avcısı Kulübü, gizli canavarları yakalayan genç kahramanların dostluk ve cesaret dolu maceralarını anlatan animasyon serisidir.</desc>
+  </programme>
+  <programme start="20261126070000 +0300" stop="20261126073000 +0300" channel="COCUK">
+    <title lang="tr">Kukuli</title>
+    <desc lang="tr">Kukuli ve arkadaşları, eğlenceli ve öğretici şarkılarla miniklere neşeli, kahkaha dolu maceralar sunuyor.</desc>
+  </programme>
+  <programme start="20261126073000 +0300" stop="20261126080000 +0300" channel="COCUK">
+    <title lang="tr">Extreme Football</title>
+    <desc lang="tr">Extreme Football, akrobatik hareketler ve hızlı maçlarla takım ruhu ve cesareti eğlenceli bir şekilde anlatan animasyon serisidir.</desc>
+  </programme>
+  <programme start="20261126080000 +0300" stop="20261126083000 +0300" channel="COCUK">
+    <title lang="tr">Boonie Ayıları: Maceracılar</title>
+    <desc lang="tr">Boonie Ayıları: Maceracılar, cesur ayıların dostluk ve macera dolu hikâyelerini eğlenceli ve öğretici bir şekilde ekranlara taşıyan animasyondur.</desc>
+  </programme>
+  <programme start="20261126083000 +0300" stop="20261126090000 +0300" channel="COCUK">
+    <title lang="tr">Kody Kapow</title>
+    <desc lang="tr">Kung fu temalı bu animasyon, bir çocuğun eğlenceli ve öğretici maceralarını anlatır.</desc>
+  </programme>
+  <programme start="20261126090000 +0300" stop="20261126093000 +0300" channel="COCUK">
+    <title lang="tr">Boonie Ayıları: Maceracılar</title>
+    <desc lang="tr">Boonie Ayıları: Maceracılar, cesur ayıların dostluk ve macera dolu hikâyelerini eğlenceli ve öğretici bir şekilde ekranlara taşıyan animasyondur.</desc>
+  </programme>
+  <programme start="20261126093000 +0300" stop="20261126100000 +0300" channel="COCUK">
+    <title lang="tr">Mondo Yan</title>
+    <desc lang="tr">Mondo Yan, renkli dünyası ve enerjik hikâyeleriyle dostluk, paylaşma ve hayal gücünü eğlenceli maceralarla anlatan bir animasyon dizisidir.</desc>
+  </programme>
+  <programme start="20261126100000 +0300" stop="20261126103000 +0300" channel="COCUK">
+    <title lang="tr">Kody Kapow</title>
+    <desc lang="tr">Kung fu temalı bu animasyon, bir çocuğun eğlenceli ve öğretici maceralarını anlatır.</desc>
+  </programme>
+  <programme start="20261126103000 +0300" stop="20261126110000 +0300" channel="COCUK">
+    <title lang="tr">Kukuli</title>
+    <desc lang="tr">Kukuli ve arkadaşları, eğlenceli ve öğretici şarkılarla miniklere neşeli, kahkaha dolu maceralar sunuyor.</desc>
+  </programme>
+  <programme start="20261126110000 +0300" stop="20261126113000 +0300" channel="COCUK">
+    <title lang="tr">Boonie Ayıları: Maceracılar</title>
+    <desc lang="tr">Boonie Ayıları: Maceracılar, cesur ayıların dostluk ve macera dolu hikâyelerini eğlenceli ve öğretici bir şekilde ekranlara taşıyan animasyondur.</desc>
+  </programme>
+  <programme start="20261126113000 +0300" stop="20261126120000 +0300" channel="COCUK">
+    <title lang="tr">Extreme Football</title>
+    <desc lang="tr">Extreme Football, akrobatik hareketler ve hızlı maçlarla takım ruhu ve cesareti eğlenceli bir şekilde anlatan animasyon serisidir.</desc>
+  </programme>
+  <programme start="20261126120000 +0300" stop="20261126123000 +0300" channel="COCUK">
+    <title lang="tr">Homur ve Gumur</title>
+    <desc lang="tr">Homur ve Gumur, inşaat araçlarının dostluk ve iş birliği dolu maceralarını renkli ve eğlenceli bir şekilde ekranlara taşıyan animasyondur.</desc>
+  </programme>
+  <programme start="20261126123000 +0300" stop="20261126130000 +0300" channel="COCUK">
+    <title lang="tr">Canavar Avcısı Kulübü</title>
+    <desc lang="tr">Canavar Avcısı Kulübü, gizli canavarları yakalayan genç kahramanların dostluk ve cesaret dolu maceralarını anlatan animasyon serisidir.</desc>
+  </programme>
+  <programme start="20261126130000 +0300" stop="20261126133000 +0300" channel="COCUK">
+    <title lang="tr">Boonie Ayıları: Maceracılar</title>
+    <desc lang="tr">Boonie Ayıları: Maceracılar, cesur ayıların dostluk ve macera dolu hikâyelerini eğlenceli ve öğretici bir şekilde ekranlara taşıyan animasyondur.</desc>
+  </programme>
+  <programme start="20261126133000 +0300" stop="20261126140000 +0300" channel="COCUK">
+    <title lang="tr">Kody Kapow</title>
+    <desc lang="tr">Kung fu temalı bu animasyon, bir çocuğun eğlenceli ve öğretici maceralarını anlatır.</desc>
+  </programme>
+  <programme start="20261126140000 +0300" stop="20261126143000 +0300" channel="COCUK">
+    <title lang="tr">Boonie Ayıları: Maceracılar</title>
+    <desc lang="tr">Boonie Ayıları: Maceracılar, cesur ayıların dostluk ve macera dolu hikâyelerini eğlenceli ve öğretici bir şekilde ekranlara taşıyan animasyondur.</desc>
+  </programme>
+  <programme start="20261126143000 +0300" stop="20261126150000 +0300" channel="COCUK">
+    <title lang="tr">Homur ve Gumur</title>
+    <desc lang="tr">Homur ve Gumur, inşaat araçlarının dostluk ve iş birliği dolu maceralarını renkli ve eğlenceli bir şekilde ekranlara taşıyan animasyondur.</desc>
+  </programme>
+  <programme start="20261126150000 +0300" stop="20261126153000 +0300" channel="COCUK">
+    <title lang="tr">Kukuli</title>
+    <desc lang="tr">Kukuli ve arkadaşları, eğlenceli ve öğretici şarkılarla miniklere neşeli, kahkaha dolu maceralar sunuyor.</desc>
+  </programme>
+  <programme start="20261126153000 +0300" stop="20261126160000 +0300" channel="COCUK">
+    <title lang="tr">Canavar Avcısı Kulübü</title>
+    <desc lang="tr">Canavar Avcısı Kulübü, gizli canavarları yakalayan genç kahramanların dostluk ve cesaret dolu maceralarını anlatan animasyon serisidir.</desc>
+  </programme>
+  <programme start="20261126160000 +0300" stop="20261126163000 +0300" channel="COCUK">
+    <title lang="tr">Boonie Ayıları: Maceracılar</title>
+    <desc lang="tr">Boonie Ayıları: Maceracılar, cesur ayıların dostluk ve macera dolu hikâyelerini eğlenceli ve öğretici bir şekilde ekranlara taşıyan animasyondur.</desc>
+  </programme>
+  <programme start="20261126163000 +0300" stop="20261126170000 +0300" channel="COCUK">
+    <title lang="tr">Mondo Yan</title>
+    <desc lang="tr">Mondo Yan, renkli dünyası ve enerjik hikâyeleriyle dostluk, paylaşma ve hayal gücünü eğlenceli maceralarla anlatan bir animasyon dizisidir.</desc>
+  </programme>
+  <programme start="20261126170000 +0300" stop="20261126173000 +0300" channel="COCUK">
+    <title lang="tr">Extreme Football</title>
+    <desc lang="tr">Extreme Football, akrobatik hareketler ve hızlı maçlarla takım ruhu ve cesareti eğlenceli bir şekilde anlatan animasyon serisidir.</desc>
+  </programme>
+  <programme start="20261126173000 +0300" stop="20261126180000 +0300" channel="COCUK">
+    <title lang="tr">Kody Kapow</title>
+    <desc lang="tr">Kung fu temalı bu animasyon, bir çocuğun eğlenceli ve öğretici maceralarını anlatır.</desc>
+  </programme>
+  <programme start="20261126180000 +0300" stop="20261126183000 +0300" channel="COCUK">
+    <title lang="tr">Mondo Yan</title>
+    <desc lang="tr">Mondo Yan, renkli dünyası ve enerjik hikâyeleriyle dostluk, paylaşma ve hayal gücünü eğlenceli maceralarla anlatan bir animasyon dizisidir.</desc>
+  </programme>
+  <programme start="20261126183000 +0300" stop="20261126190000 +0300" channel="COCUK">
+    <title lang="tr">Boonie Ayıları: Maceracılar</title>
+    <desc lang="tr">Boonie Ayıları: Maceracılar, cesur ayıların dostluk ve macera dolu hikâyelerini eğlenceli ve öğretici bir şekilde ekranlara taşıyan animasyondur.</desc>
+  </programme>
+  <programme start="20261126190000 +0300" stop="20261126193000 +0300" channel="COCUK">
+    <title lang="tr">Extreme Football</title>
+    <desc lang="tr">Extreme Football, akrobatik hareketler ve hızlı maçlarla takım ruhu ve cesareti eğlenceli bir şekilde anlatan animasyon serisidir.</desc>
+  </programme>
+  <programme start="20261126193000 +0300" stop="20261126200000 +0300" channel="COCUK">
+    <title lang="tr">Kukuli</title>
+    <desc lang="tr">Kukuli ve arkadaşları, eğlenceli ve öğretici şarkılarla miniklere neşeli, kahkaha dolu maceralar sunuyor.</desc>
+  </programme>
+  <programme start="20261126200000 +0300" stop="20261126203000 +0300" channel="COCUK">
+    <title lang="tr">Canavar Avcısı Kulübü</title>
+    <desc lang="tr">Canavar Avcısı Kulübü, gizli canavarları yakalayan genç kahramanların dostluk ve cesaret dolu maceralarını anlatan animasyon serisidir.</desc>
+  </programme>
+  <programme start="20261126203000 +0300" stop="20261126210000 +0300" channel="COCUK">
+    <title lang="tr">Homur ve Gumur</title>
+    <desc lang="tr">Homur ve Gumur, inşaat araçlarının dostluk ve iş birliği dolu maceralarını renkli ve eğlenceli bir şekilde ekranlara taşıyan animasyondur.</desc>
+  </programme>
+  <programme start="20261126210000 +0300" stop="20261126213000 +0300" channel="COCUK">
+    <title lang="tr">Boonie Ayıları: Maceracılar</title>
+    <desc lang="tr">Boonie Ayıları: Maceracılar, cesur ayıların dostluk ve macera dolu hikâyelerini eğlenceli ve öğretici bir şekilde ekranlara taşıyan animasyondur.</desc>
+  </programme>
+  <programme start="20261126213000 +0300" stop="20261126220000 +0300" channel="COCUK">
+    <title lang="tr">Mondo Yan</title>
+    <desc lang="tr">Mondo Yan, renkli dünyası ve enerjik hikâyeleriyle dostluk, paylaşma ve hayal gücünü eğlenceli maceralarla anlatan bir animasyon dizisidir.</desc>
+  </programme>
+  <programme start="20261126220000 +0300" stop="20261126223000 +0300" channel="COCUK">
+    <title lang="tr">Origami Yapıyoruz</title>
+    <desc lang="tr">Origami Yapıyoruz, çocuklara kağıt katlamanın inceliklerini öğreten eğlenceli bir programdır. Basit adımlarla hayvanlar, nesneler ve figürler yapılırken el becerisi ve hayal gücü gelişir.</desc>
+  </programme>
+  <programme start="20261126223000 +0300" stop="20261126230000 +0300" channel="COCUK">
+    <title lang="tr">Cico ile Moco</title>
+    <desc lang="tr">Cico ve Moco, her gün yeni şeyler keşfeden iki sevimli dosttur. Eğlenceli oyunlar, küçük sürprizler ve neşeli maceralarla öğrenmeyi keyifli hale getirirler.</desc>
+  </programme>
+  <programme start="20261126230000 +0300" stop="20261126233000 +0300" channel="COCUK">
+    <title lang="tr">Origami Yapıyoruz</title>
+    <desc lang="tr">Origami Yapıyoruz, çocuklara kağıt katlamanın inceliklerini öğreten eğlenceli bir programdır. Basit adımlarla hayvanlar, nesneler ve figürler yapılırken el becerisi ve hayal gücü gelişir.</desc>
+  </programme>
+  <programme start="20261126233000 +0300" stop="20261127000000 +0300" channel="COCUK">
+    <title lang="tr">Cico ile Moco</title>
+    <desc lang="tr">Cico ve Moco, her gün yeni şeyler keşfeden iki sevimli dosttur. Eğlenceli oyunlar, küçük sürprizler ve neşeli maceralarla öğrenmeyi keyifli hale getirirler.</desc>
+  </programme>
   <programme start="20261120224500 +0300" stop="20261121011000 +0300" channel="DSMAX">
     <title lang="tr">Meryem</title>
     <desc lang="tr">Program açıklaması bulunmuyor.</desc>
@@ -2945,6 +3121,118 @@
     <title lang="tr">Kuzeyin Kahramanları</title>
     <desc lang="tr">Kuzeyin Kahramanları, Yukon&apos;un acımasız doğasında görev yapan ilk müdahale ekiplerinin zorlu mücadelesini konu alıyor. Çığlar, yangınlar, ani seller ve vahşi doğa tehditleriyle karşı karşıya kalan ekipler; sınırlı imkânlar, aşırı soğuklar ve uçsuz bucaksız mesafeler arasında hayat kurtarmak için her şeyi göze alıyor.</desc>
   </programme>
+  <programme start="20261126000000 +0300" stop="20261126005000 +0300" channel="NGEO">
+    <title lang="tr">Uçak Kazası Raporu: Özel</title>
+    <desc lang="tr">Uçak Kazası Raporu: Özel&apos;in her bölümü, ortak bir nedenden kaynaklanan üç önemli havacılık felaketini inceliyor; bunlar arasında felakete yol açan teknik kusurlar, zorlukları yenen kahraman pilotlar ve uçak ile pilot arasında ölümcül yanlış anlamalara yol açabilen hatalı veriler yer alıyor.</desc>
+  </programme>
+  <programme start="20261126005000 +0300" stop="20261126014000 +0300" channel="NGEO">
+    <title lang="tr">Uçak Kazası Raporu: Özel</title>
+    <desc lang="tr">Uçak Kazası Raporu: Özel&apos;in her bölümü, ortak bir nedenden kaynaklanan üç önemli havacılık felaketini inceliyor; bunlar arasında felakete yol açan teknik kusurlar, zorlukları yenen kahraman pilotlar ve uçak ile pilot arasında ölümcül yanlış anlamalara yol açabilen hatalı veriler yer alıyor.</desc>
+  </programme>
+  <programme start="20261126014000 +0300" stop="20261126023000 +0300" channel="NGEO">
+    <title lang="tr">Sular Çekilince</title>
+    <desc lang="tr">Modern Amerika Birleşik Devletleri&apos;nin göllerinde ve nehirlerinde, Amerikan Devrimi&apos;nden kalma unutulmuş gemi enkazlarını suları çekerek keşfediyoruz.</desc>
+  </programme>
+  <programme start="20261126023000 +0300" stop="20261126031500 +0300" channel="NGEO">
+    <title lang="tr">Mısır Mezarlarının Peşinde</title>
+    <desc lang="tr">Mısır&apos;da arkeologlar, antik uygarlığın hâlâ çözülemeyen gizemlerini ortaya çıkarmak için çalışmalarını sürdürüyor. Ekipler, Tutankhamun&apos;un mezarının kayıp parçalarının izini sürüyor, 4.500 yıllık çökmüş bir piramidin içinde kazı yapıyor ve Kleopatra döneminden kalma mezarlarla tapınakları araştırıyor. Çarpıcı yeni keşifler, antik firavunların gücüne ve yaşadıkları dünyanın sırlarına ışık tutuyor.</desc>
+  </programme>
+  <programme start="20261126031500 +0300" stop="20261126040000 +0300" channel="NGEO">
+    <title lang="tr">Otoyol Cehennemi: Norveç</title>
+    <desc lang="tr">Otoyol Cehennemi: Norveç, Norveç&apos;teki kamyon ve römorkları buzlu dağ yollarında kurtaran çekici ekiplerini takip eden bir belgesel. Norveç dağlar bölgesi, özellikle kış aylarında, araba probleminiz olursa affetmeyecek bir yer. Kar, sıfırın altındaki dereceler ve soğuk rüzgarların birleşimi, kendi başınıza uzun süre dayanmanızı engelliyor. Thord Paulsen ve Odda&apos;daki ekibi, ve komşu yerleşim bölgesi Eidfjord&apos;da yalnız çalışan Bjørn Lægreid Otoyol Cehennemi&apos;nin baş karakterleri.</desc>
+  </programme>
+  <programme start="20261126040000 +0300" stop="20261126044500 +0300" channel="NGEO">
+    <title lang="tr">Otoyol Cehennemi: Norveç</title>
+    <desc lang="tr">Otoyol Cehennemi: Norveç, Norveç&apos;teki kamyon ve römorkları buzlu dağ yollarında kurtaran çekici ekiplerini takip eden bir belgesel. Norveç dağlar bölgesi, özellikle kış aylarında, araba probleminiz olursa affetmeyecek bir yer. Kar, sıfırın altındaki dereceler ve soğuk rüzgarların birleşimi, kendi başınıza uzun süre dayanmanızı engelliyor. Thord Paulsen ve Odda&apos;daki ekibi, ve komşu yerleşim bölgesi Eidfjord&apos;da yalnız çalışan Bjørn Lægreid Otoyol Cehennemi&apos;nin baş karakterleri.</desc>
+  </programme>
+  <programme start="20261126044500 +0300" stop="20261126053000 +0300" channel="NGEO">
+    <title lang="tr">Gökyüzünden Avrupa</title>
+    <desc lang="tr">Bu muhteşem hava yolculukları dizisi, Avrupa&apos;nın en dikkat çekici bölgelerini daha önce hiç görülmemiş halleriyle gözler önüne seriyor.</desc>
+  </programme>
+  <programme start="20261126053000 +0300" stop="20261126060000 +0300" channel="NGEO">
+    <title lang="tr">Gökyüzünden Avrupa</title>
+    <desc lang="tr">Bu muhteşem hava yolculukları dizisi, Avrupa&apos;nın en dikkat çekici bölgelerini daha önce hiç görülmemiş halleriyle gözler önüne seriyor.</desc>
+  </programme>
+  <programme start="20261126060000 +0300" stop="20261126065000 +0300" channel="NGEO">
+    <title lang="tr">Sular Çekilince</title>
+    <desc lang="tr">Modern Amerika Birleşik Devletleri&apos;nin göllerinde ve nehirlerinde, Amerikan Devrimi&apos;nden kalma unutulmuş gemi enkazlarını suları çekerek keşfediyoruz.</desc>
+  </programme>
+  <programme start="20261126065000 +0300" stop="20261126073500 +0300" channel="NGEO">
+    <title lang="tr">Mısır Mezarlarının Peşinde</title>
+    <desc lang="tr">Mısır&apos;da arkeologlar, antik uygarlığın hâlâ çözülemeyen gizemlerini ortaya çıkarmak için çalışmalarını sürdürüyor. Ekipler, Tutankhamun&apos;un mezarının kayıp parçalarının izini sürüyor, 4.500 yıllık çökmüş bir piramidin içinde kazı yapıyor ve Kleopatra döneminden kalma mezarlarla tapınakları araştırıyor. Çarpıcı yeni keşifler, antik firavunların gücüne ve yaşadıkları dünyanın sırlarına ışık tutuyor.</desc>
+  </programme>
+  <programme start="20261126073500 +0300" stop="20261126082000 +0300" channel="NGEO">
+    <title lang="tr">Gökyüzünden Avrupa</title>
+    <desc lang="tr">Bu muhteşem hava yolculukları dizisi, Avrupa&apos;nın en dikkat çekici bölgelerini daha önce hiç görülmemiş halleriyle gözler önüne seriyor.</desc>
+  </programme>
+  <programme start="20261126082000 +0300" stop="20261126090500 +0300" channel="NGEO">
+    <title lang="tr">Gökyüzünden Avrupa</title>
+    <desc lang="tr">Bu muhteşem hava yolculukları dizisi, Avrupa&apos;nın en dikkat çekici bölgelerini daha önce hiç görülmemiş halleriyle gözler önüne seriyor.</desc>
+  </programme>
+  <programme start="20261126090500 +0300" stop="20261126095000 +0300" channel="NGEO">
+    <title lang="tr">Uçak Kazası Raporu: Özel</title>
+    <desc lang="tr">Uçak Kazası Raporu: Özel&apos;in her bölümü, ortak bir nedenden kaynaklanan üç önemli havacılık felaketini inceliyor; bunlar arasında felakete yol açan teknik kusurlar, zorlukları yenen kahraman pilotlar ve uçak ile pilot arasında ölümcül yanlış anlamalara yol açabilen hatalı veriler yer alıyor.</desc>
+  </programme>
+  <programme start="20261126095000 +0300" stop="20261126104000 +0300" channel="NGEO">
+    <title lang="tr">Uçak Kazası Raporu: Özel</title>
+    <desc lang="tr">Uçak Kazası Raporu: Özel&apos;in her bölümü, ortak bir nedenden kaynaklanan üç önemli havacılık felaketini inceliyor; bunlar arasında felakete yol açan teknik kusurlar, zorlukları yenen kahraman pilotlar ve uçak ile pilot arasında ölümcül yanlış anlamalara yol açabilen hatalı veriler yer alıyor.</desc>
+  </programme>
+  <programme start="20261126104000 +0300" stop="20261126113500 +0300" channel="NGEO">
+    <title lang="tr">Mısır Mezarlarının Peşinde</title>
+    <desc lang="tr">Mısır&apos;da arkeologlar, antik uygarlığın hâlâ çözülemeyen gizemlerini ortaya çıkarmak için çalışmalarını sürdürüyor. Ekipler, Tutankhamun&apos;un mezarının kayıp parçalarının izini sürüyor, 4.500 yıllık çökmüş bir piramidin içinde kazı yapıyor ve Kleopatra döneminden kalma mezarlarla tapınakları araştırıyor. Çarpıcı yeni keşifler, antik firavunların gücüne ve yaşadıkları dünyanın sırlarına ışık tutuyor.</desc>
+  </programme>
+  <programme start="20261126113500 +0300" stop="20261126123000 +0300" channel="NGEO">
+    <title lang="tr">Gökyüzünden Avrupa</title>
+    <desc lang="tr">Bu muhteşem hava yolculukları dizisi, Avrupa&apos;nın en dikkat çekici bölgelerini daha önce hiç görülmemiş halleriyle gözler önüne seriyor.</desc>
+  </programme>
+  <programme start="20261126123000 +0300" stop="20261126132500 +0300" channel="NGEO">
+    <title lang="tr">Gökyüzünden Avrupa</title>
+    <desc lang="tr">Bu muhteşem hava yolculukları dizisi, Avrupa&apos;nın en dikkat çekici bölgelerini daha önce hiç görülmemiş halleriyle gözler önüne seriyor.</desc>
+  </programme>
+  <programme start="20261126132500 +0300" stop="20261126142000 +0300" channel="NGEO">
+    <title lang="tr">Sular Çekilince</title>
+    <desc lang="tr">Baltık denizinin derinliklerinde yüz bin kadar gemi yatıyor olabilir. Ancak bunların en göze çarpanı, 450 yıl önce ortadan kaybolan Mars savaş gemisidir. Efsanelerle örtülmüş olan bu gemi, yakın zamanda İsveç kıyılarında keşfedilir ve onu çevreleyen pek çok efsaneden fazlasını yaşadığını kanıtlar.</desc>
+  </programme>
+  <programme start="20261126142000 +0300" stop="20261126151500 +0300" channel="NGEO">
+    <title lang="tr">Kuzeyin Kahramanları</title>
+    <desc lang="tr">Kuzeyin Kahramanları, Yukon&apos;un acımasız doğasında görev yapan ilk müdahale ekiplerinin zorlu mücadelesini konu alıyor. Çığlar, yangınlar, ani seller ve vahşi doğa tehditleriyle karşı karşıya kalan ekipler; sınırlı imkânlar, aşırı soğuklar ve uçsuz bucaksız mesafeler arasında hayat kurtarmak için her şeyi göze alıyor.</desc>
+  </programme>
+  <programme start="20261126151500 +0300" stop="20261126161000 +0300" channel="NGEO">
+    <title lang="tr">Otoyol Cehennemi: Norveç</title>
+    <desc lang="tr">Otoyol Cehennemi: Norveç, Norveç&apos;teki kamyon ve römorkları buzlu dağ yollarında kurtaran çekici ekiplerini takip eden bir belgesel. Norveç dağlar bölgesi, özellikle kış aylarında, araba probleminiz olursa affetmeyecek bir yer. Kar, sıfırın altındaki dereceler ve soğuk rüzgarların birleşimi, kendi başınıza uzun süre dayanmanızı engelliyor. Thord Paulsen ve Odda&apos;daki ekibi, ve komşu yerleşim bölgesi Eidfjord&apos;da yalnız çalışan Bjørn Lægreid Otoyol Cehennemi&apos;nin baş karakterleri.</desc>
+  </programme>
+  <programme start="20261126161000 +0300" stop="20261126170500 +0300" channel="NGEO">
+    <title lang="tr">Otoyol Cehennemi: Norveç</title>
+    <desc lang="tr">Otoyol Cehennemi: Norveç, Norveç&apos;teki kamyon ve römorkları buzlu dağ yollarında kurtaran çekici ekiplerini takip eden bir belgesel. Norveç dağlar bölgesi, özellikle kış aylarında, araba probleminiz olursa affetmeyecek bir yer. Kar, sıfırın altındaki dereceler ve soğuk rüzgarların birleşimi, kendi başınıza uzun süre dayanmanızı engelliyor. Thord Paulsen ve Odda&apos;daki ekibi, ve komşu yerleşim bölgesi Eidfjord&apos;da yalnız çalışan Bjørn Lægreid Otoyol Cehennemi&apos;nin baş karakterleri.</desc>
+  </programme>
+  <programme start="20261126170500 +0300" stop="20261126180000 +0300" channel="NGEO">
+    <title lang="tr">Otoyol Cehennemi: Norveç</title>
+    <desc lang="tr">Zorlu bir sezon, Norveç&apos;in yollarını açık tutmak için mücadele eden buzlu yol kurtarma ekiplerini sınırlarına kadar zorluyor. Güneydeki dağlardan kuzeyin vahşi doğasına uzanan bölgede kış giderek daha öngörülemez hale gelirken kar fırtınalarını ani sıcaklık değişimleri, heyelanlar, kaya düşmeleri ve ölümcül rüzgârlar takip ediyor. Kurtarma ekiplerinin liderleri Thord, Bjoern ve Jo Roger, benzeri görülmemiş doğal afetler ve giderek artan taleple mücadele ediyor. Yeni nesil genç kurtarmacılar, komşu ekiplerle iş birlikleri ve yeni teknolojiler ise en zorlu operasyonlarda her zamankinden daha büyük önem taşıyor.</desc>
+  </programme>
+  <programme start="20261126180000 +0300" stop="20261126190000 +0300" channel="NGEO">
+    <title lang="tr">Uçak Kazası Raporu</title>
+    <desc lang="tr">National Geographic&apos;in en sevilen serilerinden Uçak Kazası Raporu yeni sezonu ile ekranlara dönüyor. Uçak kazalarının sır perdesini aralayan, arkalarında yatan nedenleri ve hiç görülmemiş kayıtları ortaya çıkartan Uçak Kazası Raporu, 16. sezonuyla havacılık tarihinin efsanevi felaketlerini araştırarak neyin neden yanlış gittiğini araştırmaya devam ediyor.</desc>
+  </programme>
+  <programme start="20261126190000 +0300" stop="20261126200000 +0300" channel="NGEO">
+    <title lang="tr">Uçak Kazası Raporu</title>
+    <desc lang="tr">National Geographic&apos;in en sevilen serilerinden Uçak Kazası Raporu yeni sezonu ile ekranlara dönüyor. Uçak kazalarının sır perdesini aralayan, arkalarında yatan nedenleri ve hiç görülmemiş kayıtları ortaya çıkartan Uçak Kazası Raporu, 16. sezonuyla havacılık tarihinin efsanevi felaketlerini araştırarak neyin neden yanlış gittiğini araştırmaya devam ediyor.</desc>
+  </programme>
+  <programme start="20261126200000 +0300" stop="20261126210000 +0300" channel="NGEO">
+    <title lang="tr">Uçak Kazalarının İzinde</title>
+    <desc lang="tr">Havacılık tarihinin en çarpıcı kazaları ve tehlikeli uçuşları mercek altına alınıyor. Uzman analizleri, kara kutu verileri ve kazadan kurtulanların anlatımlarıyla uçuşların son anları adım adım yeniden oluşturuluyor. Deneyimli pilotlardan oluşan bir ekip, gelişmiş uçuş simülasyonlarıyla olayları yeniden canlandırarak neyin yanlış gittiğini, nelerin farklı yapılabileceğini ve bu olaylardan çıkarılan derslerin havacılık güvenliğini nasıl değiştirdiğini ortaya koyuyor.</desc>
+  </programme>
+  <programme start="20261126210000 +0300" stop="20261126220000 +0300" channel="NGEO">
+    <title lang="tr">Kuzeyin Kahramanları</title>
+    <desc lang="tr">Kuzeyin Kahramanları, Yukon&apos;un acımasız doğasında görev yapan ilk müdahale ekiplerinin zorlu mücadelesini konu alıyor. Çığlar, yangınlar, ani seller ve vahşi doğa tehditleriyle karşı karşıya kalan ekipler; sınırlı imkânlar, aşırı soğuklar ve uçsuz bucaksız mesafeler arasında hayat kurtarmak için her şeyi göze alıyor.</desc>
+  </programme>
+  <programme start="20261126220000 +0300" stop="20261126230000 +0300" channel="NGEO">
+    <title lang="tr">Kaçakçıların Peşinde: Büyük Baskın</title>
+    <desc lang="tr">Memurlar ve ajanlar; uyuşturucu, ateşli silah ve yasa dışı malların ABD&apos;ye girişini durdurmak için yoğun bir çaba sarf ediyor. Porto Riko&apos;nun güneşli kıyılarındaki yüksek riskli operasyonlardan, Doğu Yakası&apos;ndaki büyük hava ve deniz limanlarında gerçekleştirilen el koyma işlemlerine kadar bu seri; tehlikeli kaçak malları Amerikan kıyılarından uzak tutma mücadelesine daha önce hiç görülmemiş, içeriden bir bakış sunuyor.</desc>
+  </programme>
+  <programme start="20261126230000 +0300" stop="20261127000000 +0300" channel="NGEO">
+    <title lang="tr">Saklı Şehirlerin İzinde</title>
+    <desc lang="tr">Modern şehirlerin altındaki gizli dünyaları keşfediyoruz. Hayatta kalma, ritüel ve hayal gücüyle şekillenen bu alanlar, her şehrin keşfedilmeyi bekleyen bir yüzü olduğunu bize gösteriyor.</desc>
+  </programme>
   <programme start="20261120234500 +0300" stop="20261121003500 +0300" channel="NGWILD">
     <title lang="tr">Yetenekli Dr. Pol</title>
     <desc lang="tr">Hayvanlarla mucizeler yaratan, dünyanın en çok tanınan hayvan uzmanlarından olan Dr. Pol Nat Geo People ekranlarına geri dönüyor. Ona yardım için gelen herkesle ilgilenen, mucizeler yaratan Dr. Pol, bu sefer de atlardan köpeklere, bizonlara kadar pek çok hayvan dostumuzun yardımına koşuyor, aileleri hayvanları ile kavuşturuyor.</desc>
@@ -3528,6 +3816,118 @@
   <programme start="20261125234500 +0300" stop="20261126003500 +0300" channel="NGWILD">
     <title lang="tr">Yetenekli Dr. Pol</title>
     <desc lang="tr">Hayvanlarla mucizeler yaratan, dünyanın en çok tanınan hayvan uzmanlarından olan Dr. Pol Nat Geo People ekranlarına geri dönüyor. Ona yardım için gelen herkesle ilgilenen, mucizeler yaratan Dr. Pol, bu sefer de atlardan köpeklere, bizonlara kadar pek çok hayvan dostumuzun yardımına koşuyor, aileleri hayvanları ile kavuşturuyor.</desc>
+  </programme>
+  <programme start="20261126003500 +0300" stop="20261126012500 +0300" channel="NGWILD">
+    <title lang="tr">Yetenekli Dr. Pol</title>
+    <desc lang="tr">Hayvanlarla mucizeler yaratan, dünyanın en çok tanınan hayvan uzmanlarından olan Dr. Pol Nat Geo People ekranlarına geri dönüyor. Ona yardım için gelen herkesle ilgilenen, mucizeler yaratan Dr. Pol, bu sefer de atlardan köpeklere, bizonlara kadar pek çok hayvan dostumuzun yardımına koşuyor, aileleri hayvanları ile kavuşturuyor.</desc>
+  </programme>
+  <programme start="20261126012500 +0300" stop="20261126021000 +0300" channel="NGWILD">
+    <title lang="tr">Arıların Gizemli Dünyası</title>
+    <desc lang="tr">Bertie Gregory, gezegenin en önemli canlılarından arıların sıra dışı yaşamını keşfeder. Özel kameralar bir kovandaki gizli dünyayı ortaya çıkarırken seri, arıların zekâsını ve etkileyici yapılarını gözler önüne serer.</desc>
+  </programme>
+  <programme start="20261126021000 +0300" stop="20261126025500 +0300" channel="NGWILD">
+    <title lang="tr">Bir Sürünün Doğuşu</title>
+    <desc lang="tr">Hikaye, Namibya boyunca nehirden ilerleyerek Selinda&apos;ya ulaşan ve 2 dişi aslan ile birleşen iki erkek aslanı takip ediyor. Bu birliktelik, hikayemizin özü olan 6 yavruyla sonuçlanıyor.</desc>
+  </programme>
+  <programme start="20261126025500 +0300" stop="20261126034500 +0300" channel="NGWILD">
+    <title lang="tr">Arıların Gizemli Dünyası</title>
+    <desc lang="tr">Bertie Gregory, gezegenin en önemli canlılarından arıların sıra dışı yaşamını keşfeder. Özel kameralar bir kovandaki gizli dünyayı ortaya çıkarırken seri, arıların zekâsını ve etkileyici yapılarını gözler önüne serer.</desc>
+  </programme>
+  <programme start="20261126034500 +0300" stop="20261126043000 +0300" channel="NGWILD">
+    <title lang="tr">Fillerin Gizemli Dünyası</title>
+    <desc lang="tr">Emmy ödüllü doğa tarihi serisinin ikinci bölümü Fillerin Gizemli Dünyası&apos;nda fillerin biz insanlara ne kadar benzediklerini ortaya çıkarmak için dünyayı dolaşıp farklı fil aileleriyle tanışıyoruz.</desc>
+  </programme>
+  <programme start="20261126043000 +0300" stop="20261126051500 +0300" channel="NGWILD">
+    <title lang="tr">Fillerin Gizemli Dünyası</title>
+    <desc lang="tr">Emmy ödüllü doğa tarihi serisinin ikinci bölümü Fillerin Gizemli Dünyası&apos;nda fillerin biz insanlara ne kadar benzediklerini ortaya çıkarmak için dünyayı dolaşıp farklı fil aileleriyle tanışıyoruz.</desc>
+  </programme>
+  <programme start="20261126051500 +0300" stop="20261126060000 +0300" channel="NGWILD">
+    <title lang="tr">Fillerin Gizemli Dünyası</title>
+    <desc lang="tr">Emmy ödüllü doğa tarihi serisinin ikinci bölümü Fillerin Gizemli Dünyası&apos;nda fillerin biz insanlara ne kadar benzediklerini ortaya çıkarmak için dünyayı dolaşıp farklı fil aileleriyle tanışıyoruz.</desc>
+  </programme>
+  <programme start="20261126060000 +0300" stop="20261126064500 +0300" channel="NGWILD">
+    <title lang="tr">Penguenlerin Gizemli Dünyası</title>
+    <desc lang="tr">İki yıl süren keşifte, Bertie Gregory, görülmemiş penguenlerin gizli geleneklerini, zekâlarını ve güçlü dostluklarını keşfederek hayatta kalma stratejilerini ortaya koyuyor.</desc>
+  </programme>
+  <programme start="20261126064500 +0300" stop="20261126073000 +0300" channel="NGWILD">
+    <title lang="tr">Fillerin Gizemli Dünyası</title>
+    <desc lang="tr">Emmy ödüllü doğa tarihi serisinin ikinci bölümü Fillerin Gizemli Dünyası&apos;nda fillerin biz insanlara ne kadar benzediklerini ortaya çıkarmak için dünyayı dolaşıp farklı fil aileleriyle tanışıyoruz.</desc>
+  </programme>
+  <programme start="20261126073000 +0300" stop="20261126075500 +0300" channel="NGWILD">
+    <title lang="tr">Muhteşem Canlılar (Özel Bölümler)</title>
+    <desc lang="tr">Baykuşlar kulaklarıyla mı görüyor? Fareler hamile olduklarını duyabiliyor mu? Ve gergedanlar terlediklerinde vücutlarından kan mı çıkıyor? Bu belgeselde bu sorulara yanıt bulacağız.</desc>
+  </programme>
+  <programme start="20261126075500 +0300" stop="20261126084500 +0300" channel="NGWILD">
+    <title lang="tr">Güneyin Minik Yavruları</title>
+    <desc lang="tr">Avustralya&apos;nın en dikkat çekici yavru hayvanlarıyla tanışmak için unutulmaz bir yolculuğa çıkın. Ormanlardaki koala yavrularından sulardaki timsah yavrularına, taşradaki kanguru yavrularından kıyılardaki kambur balina yavrularına uzanan bu yolculukta her bölüm, vahşi doğada büyümenin zorluklarını, maceralarını ve önemli dönüm noktalarını takip ediyor.</desc>
+  </programme>
+  <programme start="20261126084500 +0300" stop="20261126093000 +0300" channel="NGWILD">
+    <title lang="tr">Panda Akademisi</title>
+    <desc lang="tr">Gezegenin en sevimli ve sakar ayıları dev pandalar, Çin&apos;in sisli dağlarındaki özel bir koruma merkezinde hayata hazırlanıyor! Yavru pandalar bu benzersiz okulda; ağaca tırmanmaktan bambu yeme tekniklerine kadar gelecekte hayatta kalmalarını sağlayacak her şeyi öğreniyor. Tıpkı insan çocukları gibi her birinin öğrenme hızı ve karakteri farklı. Panda Akademisi&apos;nden mezun olma yolunda, bolca pratik ve birbirinden sevimli sakarlıklarla dolu bu eğlenceli yolculuğa ortak olun!</desc>
+  </programme>
+  <programme start="20261126093000 +0300" stop="20261126102000 +0300" channel="NGWILD">
+    <title lang="tr">Güneyin Minik Yavruları</title>
+    <desc lang="tr">Avustralya&apos;nın en dikkat çekici yavru hayvanlarıyla tanışmak için unutulmaz bir yolculuğa çıkın. Ormanlardaki koala yavrularından sulardaki timsah yavrularına, taşradaki kanguru yavrularından kıyılardaki kambur balina yavrularına uzanan bu yolculukta her bölüm, vahşi doğada büyümenin zorluklarını, maceralarını ve önemli dönüm noktalarını takip ediyor.</desc>
+  </programme>
+  <programme start="20261126102000 +0300" stop="20261126111000 +0300" channel="NGWILD">
+    <title lang="tr">Güneyin Minik Yavruları</title>
+    <desc lang="tr">Avustralya&apos;nın en dikkat çekici yavru hayvanlarıyla tanışmak için unutulmaz bir yolculuğa çıkın. Ormanlardaki koala yavrularından sulardaki timsah yavrularına, taşradaki kanguru yavrularından kıyılardaki kambur balina yavrularına uzanan bu yolculukta her bölüm, vahşi doğada büyümenin zorluklarını, maceralarını ve önemli dönüm noktalarını takip ediyor.</desc>
+  </programme>
+  <programme start="20261126111000 +0300" stop="20261126120000 +0300" channel="NGWILD">
+    <title lang="tr">Panda Akademisi</title>
+    <desc lang="tr">Gezegenin en sevimli ve sakar ayıları dev pandalar, Çin&apos;in sisli dağlarındaki özel bir koruma merkezinde hayata hazırlanıyor! Yavru pandalar bu benzersiz okulda; ağaca tırmanmaktan bambu yeme tekniklerine kadar gelecekte hayatta kalmalarını sağlayacak her şeyi öğreniyor. Tıpkı insan çocukları gibi her birinin öğrenme hızı ve karakteri farklı. Panda Akademisi&apos;nden mezun olma yolunda, bolca pratik ve birbirinden sevimli sakarlıklarla dolu bu eğlenceli yolculuğa ortak olun!</desc>
+  </programme>
+  <programme start="20261126120000 +0300" stop="20261126125000 +0300" channel="NGWILD">
+    <title lang="tr">Panda Akademisi</title>
+    <desc lang="tr">Gezegenin en sevimli ve sakar ayıları dev pandalar, Çin&apos;in sisli dağlarındaki özel bir koruma merkezinde hayata hazırlanıyor! Yavru pandalar bu benzersiz okulda; ağaca tırmanmaktan bambu yeme tekniklerine kadar gelecekte hayatta kalmalarını sağlayacak her şeyi öğreniyor. Tıpkı insan çocukları gibi her birinin öğrenme hızı ve karakteri farklı. Panda Akademisi&apos;nden mezun olma yolunda, bolca pratik ve birbirinden sevimli sakarlıklarla dolu bu eğlenceli yolculuğa ortak olun!</desc>
+  </programme>
+  <programme start="20261126125000 +0300" stop="20261126134000 +0300" channel="NGWILD">
+    <title lang="tr">Zürafaları Kurtarmak: Uzun Yolculuk</title>
+    <desc lang="tr">Selde kalmış zürafalar için Kenyalı veterinerlerden oluşan bir ekip, zor bir çözüm bulur: açlıktan ölmeden önce onları anakaraya götürmek için bir gemi inşa etmek ve onları gemiye binmeye ikna etmek.</desc>
+  </programme>
+  <programme start="20261126134000 +0300" stop="20261126143500 +0300" channel="NGWILD">
+    <title lang="tr">Güneyin Minik Yavruları</title>
+    <desc lang="tr">Avustralya&apos;nın en dikkat çekici yavru hayvanlarıyla tanışmak için unutulmaz bir yolculuğa çıkın. Ormanlardaki koala yavrularından sulardaki timsah yavrularına, taşradaki kanguru yavrularından kıyılardaki kambur balina yavrularına uzanan bu yolculukta her bölüm, vahşi doğada büyümenin zorluklarını, maceralarını ve önemli dönüm noktalarını takip ediyor.</desc>
+  </programme>
+  <programme start="20261126143500 +0300" stop="20261126152500 +0300" channel="NGWILD">
+    <title lang="tr">Güneyin Minik Yavruları</title>
+    <desc lang="tr">Avustralya&apos;nın en dikkat çekici yavru hayvanlarıyla tanışmak için unutulmaz bir yolculuğa çıkın. Ormanlardaki koala yavrularından sulardaki timsah yavrularına, taşradaki kanguru yavrularından kıyılardaki kambur balina yavrularına uzanan bu yolculukta her bölüm, vahşi doğada büyümenin zorluklarını, maceralarını ve önemli dönüm noktalarını takip ediyor.</desc>
+  </programme>
+  <programme start="20261126152500 +0300" stop="20261126161500 +0300" channel="NGWILD">
+    <title lang="tr">Güneyin Minik Yavruları</title>
+    <desc lang="tr">Avustralya&apos;nın en dikkat çekici yavru hayvanlarıyla tanışmak için unutulmaz bir yolculuğa çıkın. Ormanlardaki koala yavrularından sulardaki timsah yavrularına, taşradaki kanguru yavrularından kıyılardaki kambur balina yavrularına uzanan bu yolculukta her bölüm, vahşi doğada büyümenin zorluklarını, maceralarını ve önemli dönüm noktalarını takip ediyor.</desc>
+  </programme>
+  <programme start="20261126161500 +0300" stop="20261126171000 +0300" channel="NGWILD">
+    <title lang="tr">Güneyin Minik Yavruları</title>
+    <desc lang="tr">Avustralya&apos;nın en dikkat çekici yavru hayvanlarıyla tanışmak için unutulmaz bir yolculuğa çıkın. Ormanlardaki koala yavrularından sulardaki timsah yavrularına, taşradaki kanguru yavrularından kıyılardaki kambur balina yavrularına uzanan bu yolculukta her bölüm, vahşi doğada büyümenin zorluklarını, maceralarını ve önemli dönüm noktalarını takip ediyor.</desc>
+  </programme>
+  <programme start="20261126171000 +0300" stop="20261126180500 +0300" channel="NGWILD">
+    <title lang="tr">Güneyin Minik Yavruları</title>
+    <desc lang="tr">Avustralya&apos;nın en dikkat çekici yavru hayvanlarıyla tanışmak için unutulmaz bir yolculuğa çıkın. Ormanlardaki koala yavrularından sulardaki timsah yavrularına, taşradaki kanguru yavrularından kıyılardaki kambur balina yavrularına uzanan bu yolculukta her bölüm, vahşi doğada büyümenin zorluklarını, maceralarını ve önemli dönüm noktalarını takip ediyor.</desc>
+  </programme>
+  <programme start="20261126180500 +0300" stop="20261126190000 +0300" channel="NGWILD">
+    <title lang="tr">Muhteşem Yırtıcılar</title>
+    <desc lang="tr">Hayvanlar aleminde yer alan bazı yırtıcıların geliştirdikleri iletişim teknikleri ve stratejiler üzerine bir inceleme...</desc>
+  </programme>
+  <programme start="20261126190000 +0300" stop="20261126200000 +0300" channel="NGWILD">
+    <title lang="tr">Muhteşem Yırtıcılar</title>
+    <desc lang="tr">Hayvanlar aleminde yer alan bazı yırtıcıların geliştirdikleri iletişim teknikleri ve stratejiler üzerine bir inceleme...</desc>
+  </programme>
+  <programme start="20261126200000 +0300" stop="20261126210000 +0300" channel="NGWILD">
+    <title lang="tr">Vahşi Karpatlar</title>
+    <desc lang="tr">Avrupa&apos;daki yaban hayatı daha önce hiç olmadığı kadar tehdit altında; ancak Karpat Dağları bu canlılar için son büyük sığınak olmuş durumda. Avrupa&apos;nın en geniş bakir ormanlarına ve kıtanın en büyük ayı, kurt ve vaşak nüfusuna ev sahipliği yapan Karpatlar, biyoçeşitliliğin en güçlü kalesidir. Bir yıl boyunca bu olağanüstü canlıların yaşamlarını takip ederek her bir türün geniş ekosisteme nasıl bağlı olduğunu keşfedin. Birlikte biyoçeşitliliği koruyan, karbon depolayan ve yaşam kaynağı olan suyu muhafaza eden bir coğrafyayı ayakta tutan bu türler; Karpatlar&apos;ı Avrupa&apos;nın en hayati doğal hazinelerinden biri haline getiriyor.</desc>
+  </programme>
+  <programme start="20261126210000 +0300" stop="20261126220000 +0300" channel="NGWILD">
+    <title lang="tr">Vahşi Doğanın Tozu</title>
+    <desc lang="tr">Botsvana&apos;da, Okavango Deltası&apos;nın Kalahari&apos;ye karıştığı topraklarda su ve çöl; bolluk ile yokluğun yıllık döngüsünde karşı karşıya geliyor. Afrika&apos;nın en uzun zebra göçü boyunca sürüler ve yırtıcılar, Boteti Nehir&apos;inin geçici can damarına sığınıyor. Kuraklık tehlikeli karşılaşmaları tetiklerken binlerce zebra, açlık ile Makgadikgadi tuz tavalarına uzanan zorlu bir yolculuk arasında seçim yapmak zorunda kalıyor. Yağmurlarla birlikte kısa süreliğine canlanan çöl, sıcakların dönmesiyle yeniden sessizliğe bürünüyor. Sinematik görselliğiyle Vahşi Doğanın Tozu, hızla değişen bir dünyada hayatta kalma mücadelesini anlatıyor.</desc>
+  </programme>
+  <programme start="20261126220000 +0300" stop="20261126225000 +0300" channel="NGWILD">
+    <title lang="tr">Güneyin Minik Yavruları</title>
+    <desc lang="tr">Avustralya&apos;nın en dikkat çekici yavru hayvanlarıyla tanışmak için unutulmaz bir yolculuğa çıkın. Ormanlardaki koala yavrularından sulardaki timsah yavrularına, taşradaki kanguru yavrularından kıyılardaki kambur balina yavrularına uzanan bu yolculukta her bölüm, vahşi doğada büyümenin zorluklarını, maceralarını ve önemli dönüm noktalarını takip ediyor.</desc>
+  </programme>
+  <programme start="20261126225000 +0300" stop="20261126234500 +0300" channel="NGWILD">
+    <title lang="tr">Vahşi Karpatlar</title>
+    <desc lang="tr">Avrupa&apos;daki yaban hayatı daha önce hiç olmadığı kadar tehdit altında; ancak Karpat Dağları bu canlılar için son büyük sığınak olmuş durumda. Avrupa&apos;nın en geniş bakir ormanlarına ve kıtanın en büyük ayı, kurt ve vaşak nüfusuna ev sahipliği yapan Karpatlar, biyoçeşitliliğin en güçlü kalesidir. Bir yıl boyunca bu olağanüstü canlıların yaşamlarını takip ederek her bir türün geniş ekosisteme nasıl bağlı olduğunu keşfedin. Birlikte biyoçeşitliliği koruyan, karbon depolayan ve yaşam kaynağı olan suyu muhafaza eden bir coğrafyayı ayakta tutan bu türler; Karpatlar&apos;ı Avrupa&apos;nın en hayati doğal hazinelerinden biri haline getiriyor.</desc>
   </programme>
   <programme start="20261120233000 +0300" stop="20261121003000 +0300" channel="COSMO">
     <title lang="tr">Sessiz Tanık</title>
@@ -7185,6 +7585,114 @@
     <title lang="tr">Gizli Hazineler</title>
     <desc lang="tr">Henry ve Sam, Oxfordshire&apos;da bir garaj dolusu motosiklet, traktör ve çeşitli parçaları olan üç kardeşle buluşuyor. Bu garajda aradıkları motosikletten fazlasını bulabilecekler mi?</desc>
   </programme>
+  <programme start="20261126060000 +0300" stop="20261126065000 +0300" channel="DISC">
+    <title lang="tr">Alaska: Son Sınır</title>
+    <desc lang="tr">Doğa şartları, başka etmenler ve aile sorunları nedeniyle güçlerinin sınırında yaşayan Kilcherler ailenin zengin kırsal yaşam geleneğini sürdürebilmek için birlikte çalışıyorlar.</desc>
+  </programme>
+  <programme start="20261126065000 +0300" stop="20261126074000 +0300" channel="DISC">
+    <title lang="tr">Alaska: Son Sınır</title>
+    <desc lang="tr">Doğa şartları, başka etmenler ve aile sorunları nedeniyle güçlerinin sınırında yaşayan Kilcherler ailenin zengin kırsal yaşam geleneğini sürdürebilmek için birlikte çalışıyorlar.</desc>
+  </programme>
+  <programme start="20261126074000 +0300" stop="20261126083000 +0300" channel="DISC">
+    <title lang="tr">Alaska: Son Sınır</title>
+    <desc lang="tr">Doğa şartları, başka etmenler ve aile sorunları nedeniyle güçlerinin sınırında yaşayan Kilcherler ailenin zengin kırsal yaşam geleneğini sürdürebilmek için birlikte çalışıyorlar.</desc>
+  </programme>
+  <programme start="20261126083000 +0300" stop="20261126092000 +0300" channel="DISC">
+    <title lang="tr">Alaska: Son Sınır</title>
+    <desc lang="tr">Doğa şartları, başka etmenler ve aile sorunları nedeniyle güçlerinin sınırında yaşayan Kilcher&apos;ler ailenin zengin kırsal yaşam geleneğini sürdürebilmek için birlikte çalışıyorlar.</desc>
+  </programme>
+  <programme start="20261126092000 +0300" stop="20261126100500 +0300" channel="DISC">
+    <title lang="tr">Hurda Avcıları: Klasik Arabalar</title>
+    <desc lang="tr">Tamir tutkunu Drew Pritchard, Paul Cowland ile birlikte bir otomobil serüvenine çıkıyor. Birleşik Krallık&apos;ı gezerek klasik araçları alarak restore edip satarlar.</desc>
+  </programme>
+  <programme start="20261126100500 +0300" stop="20261126102800 +0300" channel="DISC">
+    <title lang="tr">Tamirat Tadilat</title>
+    <desc lang="tr">Harika bir 1976 Porsche 911 Targa satın alan Mike, arabayı yenilenerek eski şaşaalı günlerine döndürmek üzere Edd China&apos;nın usta ellerine emanet ediyor.</desc>
+  </programme>
+  <programme start="20261126102800 +0300" stop="20261126105000 +0300" channel="DISC">
+    <title lang="tr">Tamirat Tadilat</title>
+    <desc lang="tr">Mike, 5000 Sterlin ödeyerek aldığı Porsche Targa&apos;yı şanzımanı yenilenmiş ve siyah boyası vurulmuş olarak bir an önce geri almak istiyor.</desc>
+  </programme>
+  <programme start="20261126105000 +0300" stop="20261126111300 +0300" channel="DISC">
+    <title lang="tr">Nasıl Yapılmış?</title>
+    <desc lang="tr">Her gün kullandığımız eşyaları mercek altına almaya devam ediyoruz. Kağıt yelpazeler, ceviz boyası ve bakır ele alınıyor.</desc>
+  </programme>
+  <programme start="20261126111300 +0300" stop="20261126113500 +0300" channel="DISC">
+    <title lang="tr">Nasil Yapilmiş: Rüya Arabalar</title>
+    <desc lang="tr">Bir Zenvo ST 1&apos;in nasıl üretildiğini hiç merak ettiniz mi? &quot;Nasıl Yapılmış&quot; ekibi ile birlikte bu arabanın doğum yerine gidiyor ve muhteşem dış görünüşünü inceliyoruz.</desc>
+  </programme>
+  <programme start="20261126113500 +0300" stop="20261126122000 +0300" channel="DISC">
+    <title lang="tr">Hurda Avcıları</title>
+    <desc lang="tr">Drew yeni açılan galerisinde daha büyük bir stoka ihtiyaç duyuyor. Malvern&apos;de 1960&apos;lardan bir Danimarka divanı ile Welshpool&apos;da bir çift duvar halısı buluyor.</desc>
+  </programme>
+  <programme start="20261126122000 +0300" stop="20261126130500 +0300" channel="DISC">
+    <title lang="tr">Hurda Avcıları: Tamirat</title>
+    <desc lang="tr">Döşemeci Craig, Robert Daws katlanan okuma sandalyesini onarmaya çalışıyor. Alex 18.yy&apos;dan kalma Hollanda işi bir çift işlemeli ahşap masayla çalışacağı büyük bir projeye başlıyor.</desc>
+  </programme>
+  <programme start="20261126130500 +0300" stop="20261126132800 +0300" channel="DISC">
+    <title lang="tr">Kumsal Evi Avcıları</title>
+    <desc lang="tr">Bir aile, Boston&apos;da bir sahil evine taşınmaya hazırdır. Şehre uygun ama yine de küçük kasaba hissi veren bir ev arıyorlar.</desc>
+  </programme>
+  <programme start="20261126132800 +0300" stop="20261126135000 +0300" channel="DISC">
+    <title lang="tr">Kumsal Evi Avcıları</title>
+    <desc lang="tr">Bir çift, New York, Long Island&apos;da şehrin gürültüsünden ve hızlı temposundan kaçabilecekleri, deniz kıyısında bir mülk arar.</desc>
+  </programme>
+  <programme start="20261126135000 +0300" stop="20261126143500 +0300" channel="DISC">
+    <title lang="tr">Özel Akvaryumlar</title>
+    <desc lang="tr">Çocuklar Vegas Ticaret Fuarı için eşsiz bir masa akvaryum inşa etmek üzere bir şirketle birlikte çalışıyor. Daha sonra, yengeç avlama teknesi şeklinde bir akvaryum tasarlıyorlar.</desc>
+  </programme>
+  <programme start="20261126143500 +0300" stop="20261126152000 +0300" channel="DISC">
+    <title lang="tr">Özel Akvaryumlar</title>
+    <desc lang="tr">Wayde ve Brett, St. Pete Sahili&apos;ndeki Trade Winds Resort için bugüne kadar yaptıkları en büyük akvaryumu inşa etmek üzere ünlü deniz yaşamı ressamı Guy Harvey ile görüşüyor.</desc>
+  </programme>
+  <programme start="20261126152000 +0300" stop="20261126160500 +0300" channel="DISC">
+    <title lang="tr">Kırsalda Yaşamak Zor</title>
+    <desc lang="tr">Tamamen uygarlıktan uzak yaşayan aileler pek çok şey öğrenmek zorunda. Çiftliklerini kurtarmak amacıyla en kötü durumlara hazırlanmak için hayatta kalma uzmanlarına başvuruyorlar.</desc>
+  </programme>
+  <programme start="20261126160500 +0300" stop="20261126165000 +0300" channel="DISC">
+    <title lang="tr">Kırsalda Yaşamak Zor</title>
+    <desc lang="tr">Raney ailesi, arizali elektrik tesisatini elden geçirmek için zorlu bir göreve atiliyor ve little susitna nehri&apos;ndeki ilk hidroelektrik çarkini inşa ediyorlar.</desc>
+  </programme>
+  <programme start="20261126165000 +0300" stop="20261126174000 +0300" channel="DISC">
+    <title lang="tr">Dizel Kardeşler</title>
+    <desc lang="tr">Dizel Biraderler bir Prius&apos;u dizele çevirmeye girişiyorlar, boğaya binmeyi deniyorlar, bir yarışta neredeyse Chet&apos;i kaybetme noktasına geliyorlar.</desc>
+  </programme>
+  <programme start="20261126174000 +0300" stop="20261126182500 +0300" channel="DISC">
+    <title lang="tr">İşte Sürat İşte Ses</title>
+    <desc lang="tr">Garajda yeni bir dönem başlıyor. richard, ekibini, aaron&apos;suz ilk büyük iş olarak &apos;73 chevy p30 step van&apos;ın montajını yapmakla görevlendiriyor.</desc>
+  </programme>
+  <programme start="20261126182500 +0300" stop="20261126185000 +0300" channel="DISC">
+    <title lang="tr">Nasıl Yapılır?</title>
+    <desc lang="tr">İtalya&apos;yı uyandıran kahve nasıl öğütülür, Amerika&apos;yı inşa eden tuğlalar nasıl pişirilir, lav lambaların yağı nasıl ısıtılır ve donmuş bir yanardağdan nasıl elmas elde edilir?</desc>
+  </programme>
+  <programme start="20261126185000 +0300" stop="20261126191500 +0300" channel="DISC">
+    <title lang="tr">Nasıl Yapılmış?</title>
+    <desc lang="tr">Gündelik eşyaların mercek altına alınıp üretimlerinin açıklanması devam ediyor. Vakumlu çöp toplayıcılar, konserve et ürünleri ve fileto bıçakları bu bölümün konuları arasında.</desc>
+  </programme>
+  <programme start="20261126191500 +0300" stop="20261126200000 +0300" channel="DISC">
+    <title lang="tr">Alaska&apos;yı Mesken Tuttuk</title>
+    <desc lang="tr">Alaska&apos;nın derinliklerinde doğuştan vahşi bir aile yaşıyor. Billy ve Amy Brown, yedi çocuklarıyla birlikte medeniyetten uzakta aile dayanışması sayesinde hayatta kalıyor.</desc>
+  </programme>
+  <programme start="20261126200000 +0300" stop="20261126210000 +0300" channel="DISC">
+    <title lang="tr">Alaska&apos;yı Mesken Tuttuk</title>
+    <desc lang="tr">Alaska&apos;nın derinliklerinde doğuştan vahşi bir aile yaşıyor. Billy ve Amy Brown, yedi çocuklarıyla birlikte medeniyetten uzakta aile dayanışması sayesinde hayatta kalıyor.</desc>
+  </programme>
+  <programme start="20261126210000 +0300" stop="20261126225000 +0300" channel="DISC">
+    <title lang="tr">Kırsalda Yaşamak Zor: Son Çare</title>
+    <desc lang="tr">Sabrı taşan Arizonalı bir eş Raneylerden hayalperest kocasını harekete geçirmesini ve yerleşkelerini ve ailelerini kurtarmasını ister.</desc>
+  </programme>
+  <programme start="20261126225000 +0300" stop="20261126231300 +0300" channel="DISC">
+    <title lang="tr">Gümrük Kontrol: İspanya</title>
+    <desc lang="tr">Bu programda kaçakçılığın engellenmesi amacıyla gümrük kontrol ekiplerinin verdiği mücadeleleri izliyoruz.</desc>
+  </programme>
+  <programme start="20261126231300 +0300" stop="20261126233500 +0300" channel="DISC">
+    <title lang="tr">Gümrük Kontrol: İspanya</title>
+    <desc lang="tr">Bu programda kaçakçılığın engellenmesi amacıyla gümrük kontrol ekiplerinin verdiği mücadeleleri izliyoruz.</desc>
+  </programme>
+  <programme start="20261126233500 +0300" stop="20261126235800 +0300" channel="DISC">
+    <title lang="tr">Gümrük Kontrol: İspanya</title>
+    <desc lang="tr">Bu programda kaçakçılığın engellenmesi amacıyla gümrük kontrol ekiplerinin verdiği mücadeleleri izliyoruz.</desc>
+  </programme>
   <programme start="20261120230000 +0300" stop="20261121000000 +0300" channel="ID">
     <title lang="tr">Toksik</title>
     <desc lang="tr">Elizabeth Chambers, bir lakros oyuncusu ile erkek arkadaşının trajik ilişkilerindeki tehlike sinyallerini mercek altına alır.</desc>
@@ -7692,6 +8200,70 @@
   <programme start="20261126070000 +0300" stop="20261126080000 +0300" channel="ID">
     <title lang="tr">Ölümcül İlişkiler</title>
     <desc lang="tr">Michiganlı çift, açtıkları çizgi roman dükkânına evliliklerini tamamen değiştirecek birini alıyor. Teksas&apos;ta yeni bir iş arkadaşı kutsal bir Hıristiyan evliliğini tehlikeye atıyor.</desc>
+  </programme>
+  <programme start="20261126080000 +0300" stop="20261126090000 +0300" channel="ID">
+    <title lang="tr">Tamron Hall İle Cinayet</title>
+    <desc lang="tr">Michiganlı bir anne ailesinin evinin dışında ortadan kayboluyor. Kocası Doug&apos;un olay anında başka bir yerde olduğuna dair sağlam kanıtları var ama çok geçmeden hepsi buharlaşıyor.</desc>
+  </programme>
+  <programme start="20261126090000 +0300" stop="20261126100000 +0300" channel="ID">
+    <title lang="tr">Tamron Hall İle Cinayet</title>
+    <desc lang="tr">Ohiolu bir kadının adı cinayete karışıyor, ancak o aslında bir kukla ustası ya da sadece masum bir görgü tanığı mıydı? Savcıların bile bu konuda şüpheleri var.</desc>
+  </programme>
+  <programme start="20261126100000 +0300" stop="20261126110000 +0300" channel="ID">
+    <title lang="tr">Gerçek Mahkumiyet</title>
+    <desc lang="tr">Büyükanne Irene Kennedy bir parkta ölü bulunduğunda uzak bir akrabası onu öldürmekle suçlanır, bu durum ailesini böler.</desc>
+  </programme>
+  <programme start="20261126110000 +0300" stop="20261126120000 +0300" channel="ID">
+    <title lang="tr">Gerçek Mahkumiyet</title>
+    <desc lang="tr">Popüler İspanyolca öğretmeni ve büyükanne olan Patricia Mery zalimce dövülerek ve bıçaklanarak öldürülür. Aile içinde yaşanan bir kan davası mı bu cinayete neden olmuştur?</desc>
+  </programme>
+  <programme start="20261126120000 +0300" stop="20261126130000 +0300" channel="ID">
+    <title lang="tr">Tam Paçayı Kurtarıyordum Ki...</title>
+    <desc lang="tr">Emekli asker rolü oynayarak, para, araba, hatta ev peşinde kadın avcılığı yapan Jerrod Durr, kendini polislerle eyaletler arası kedi-fare oyunu oynarken buluyor.</desc>
+  </programme>
+  <programme start="20261126130000 +0300" stop="20261126140000 +0300" channel="ID">
+    <title lang="tr">Tam Paçayı Kurtarıyordum Ki...</title>
+    <desc lang="tr">Kendisine tacizde bulunan üvey babasını boğarak öldürüp, ömür boyu hapis cezasına çarptırılan 17 yaşındaki Randy Baggett, yıllar içinde iki kez hapisten kaçıyor.</desc>
+  </programme>
+  <programme start="20261126140000 +0300" stop="20261126150000 +0300" channel="ID">
+    <title lang="tr">Amerikan Dedektif</title>
+    <desc lang="tr">Jersey sahilinden yaklaşık üç mil uzakta, kayıkçılar 16 yaşında bir kızın kalıntılarını keşfederler. Beklenmedik bir ipucu, dedektifleri katilin soğukkanlı komplosuna götürür.</desc>
+  </programme>
+  <programme start="20261126150000 +0300" stop="20261126160000 +0300" channel="ID">
+    <title lang="tr">Amerikan Dedektif</title>
+    <desc lang="tr">Genç bir kadın, kötü şöhretli bir evsiz kampından sadece birkaç adım ötede vahşice öldürülür. Dedektifler ahlaksız bir seri katilin peşine düşer.</desc>
+  </programme>
+  <programme start="20261126160000 +0300" stop="20261126170000 +0300" channel="ID">
+    <title lang="tr">Keşfedilen Cinayet</title>
+    <desc lang="tr">2013&apos;te 22 yaşındaki Amber, bir gece dışarı çıkmasının ardından, evinin önünde vurularak öldürülür. Bu, sıradan bir şiddet olayı mıdır yoksa kıskanç bir sevgili mi söz konusudur?</desc>
+  </programme>
+  <programme start="20261126170000 +0300" stop="20261126180000 +0300" channel="ID">
+    <title lang="tr">Keşfedilen Cinayet</title>
+    <desc lang="tr">Sharon&apos;ın cansız bedeni New Orleans dışında bulununca, onun istismarcı polis memuru sevgilisinden şüphelenilir. Acaba daha büyük bir suç olayına mı karışmıştır?</desc>
+  </programme>
+  <programme start="20261126180000 +0300" stop="20261126190000 +0300" channel="ID">
+    <title lang="tr">Kasabada Cinayet</title>
+    <desc lang="tr">2017&apos;de yerel bölgede öğretmen olan Theresa Lockhart kaybolur. Polis onun terkedilmiş arabasını bulduğunda yavaş yavaş garip ve ölümcül bir hikayeyi ortaya çıkarmaya başlar.</desc>
+  </programme>
+  <programme start="20261126190000 +0300" stop="20261126200000 +0300" channel="ID">
+    <title lang="tr">Kasabada Cinayet</title>
+    <desc lang="tr">Mükemmel öğrenci Danielle Locklear ortadan kaybolduğunda, polis onun kaçtığını düşünür. Ancak ailesi araştırmaya karar verir ve gerçek onları şok eder.</desc>
+  </programme>
+  <programme start="20261126200000 +0300" stop="20261126210000 +0300" channel="ID">
+    <title lang="tr">People Dergisi Soruşturuyor</title>
+    <desc lang="tr">Rodney Alcala 1960&apos;larda Morgan Rowan&apos;a saldırır. Morgan olaydan 50 yıl sonra saldırganın elinden kurtulan tek kurban olmadığını öğrenir.</desc>
+  </programme>
+  <programme start="20261126210000 +0300" stop="20261126220000 +0300" channel="ID">
+    <title lang="tr">People Dergisi Soruşturuyor</title>
+    <desc lang="tr">1981&apos;de iki adam, nişanlısının gözü önünde genç bir anneye tecavüz edip onu öldürür. Adaletin yerini bulması için yirmi yıl geçmesi gerekecektir.</desc>
+  </programme>
+  <programme start="20261126220000 +0300" stop="20261126230000 +0300" channel="ID">
+    <title lang="tr">Cinayet Kayıtları</title>
+    <desc lang="tr">Büyükanne Connie Goodwin&apos;in cesedi Arkansas&apos;taki bir otoparka park edilen kamyonette başı kesilmiş hâlde bulunur. Polis katilin peşine düşer.</desc>
+  </programme>
+  <programme start="20261126230000 +0300" stop="20261127000000 +0300" channel="ID">
+    <title lang="tr">Korku Evi: Kaçırılma</title>
+    <desc lang="tr">Bir adam zor kullanarak Karen&apos;ın evine giriyor ve onu zorla götürüyor. Öte yandan, Ana, Meksika yakınlarında, babasının borçlu olduğu kişiler tarafından kaçırılıp tutsak ediliyor.</desc>
   </programme>
   <programme start="20261120233000 +0300" stop="20261121000000 +0300" channel="FTV">
     <title lang="tr">Elle Magazine Story</title>
@@ -8705,6 +9277,150 @@
     <title lang="tr">Lingerie</title>
     <desc lang="tr">Don&apos;t miss the latest trends in the most sensual pieces of fashion, we&apos;re talking about the latest lingerie collections presented on the world podiums! Sizzling hot looks from top lingerie designers</desc>
   </programme>
+  <programme start="20261126060000 +0300" stop="20261126063000 +0300" channel="FTV">
+    <title lang="tr">Swimwear</title>
+    <desc lang="tr">Everyone needs a great swimsuit in their wardrobe, better to have more than one. Enjoy trendsetting collections to find a reliable, well-fitted, and stylish option for your poolside excellence</desc>
+  </programme>
+  <programme start="20261126063000 +0300" stop="20261126070000 +0300" channel="FTV">
+    <title lang="tr">Swimwear</title>
+    <desc lang="tr">Everyone needs a great swimsuit in their wardrobe, better to have more than one. Enjoy trendsetting collections to find a reliable, well-fitted, and stylish option for your poolside excellence</desc>
+  </programme>
+  <programme start="20261126070000 +0300" stop="20261126073000 +0300" channel="FTV">
+    <title lang="tr">Top Photoshoots</title>
+    <desc lang="tr">Dive into the breathtaking world of the fashion photography to discover behind-the-scenes atmosphere and enjoy the most beautiful masterpieces of the iconic photographers and their muses</desc>
+  </programme>
+  <programme start="20261126073000 +0300" stop="20261126080000 +0300" channel="FTV">
+    <title lang="tr">Top Photoshoots</title>
+    <desc lang="tr">Dive into the breathtaking world of the fashion photography to discover behind-the-scenes atmosphere and enjoy the most beautiful masterpieces of the iconic photographers and their muses</desc>
+  </programme>
+  <programme start="20261126080000 +0300" stop="20261126083000 +0300" channel="FTV">
+    <title lang="tr">Fashion &amp; Sports</title>
+    <desc lang="tr">Athleisure is conquering the world! Everyone looks like having just finished a work-out in the gym, while grabbing a cappuccino. If this lifestyle is yours, be first to discover the must-haves!</desc>
+  </programme>
+  <programme start="20261126083000 +0300" stop="20261126090000 +0300" channel="FTV">
+    <title lang="tr">Fashion &amp; Sports</title>
+    <desc lang="tr">Athleisure is conquering the world! Everyone looks like having just finished a work-out in the gym, while grabbing a cappuccino. If this lifestyle is yours, be first to discover the must-haves!</desc>
+  </programme>
+  <programme start="20261126090000 +0300" stop="20261126093000 +0300" channel="FTV">
+    <title lang="tr">Beauty</title>
+    <desc lang="tr">Get inspired with the latest trends in hairstyles, enjoy the tips and tricks of the top makeup artists and get the best use of the exclusive guide in the world of skincare products!</desc>
+  </programme>
+  <programme start="20261126093000 +0300" stop="20261126100000 +0300" channel="FTV">
+    <title lang="tr">Beauty</title>
+    <desc lang="tr">Get inspired with the latest trends in hairstyles, enjoy the tips and tricks of the top makeup artists and get the best use of the exclusive guide in the world of skincare products!</desc>
+  </programme>
+  <programme start="20261126100000 +0300" stop="20261126103000 +0300" channel="FTV">
+    <title lang="tr">Fashion From Japan</title>
+    <desc lang="tr">Get your impression about the Japanese fashion heavyweighters and emerging designers which are pushing the envelope of style and creating amazing, high-quality products.</desc>
+  </programme>
+  <programme start="20261126103000 +0300" stop="20261126110000 +0300" channel="FTV">
+    <title lang="tr">Fashion From Japan</title>
+    <desc lang="tr">Get your impression about the Japanese fashion heavyweighters and emerging designers which are pushing the envelope of style and creating amazing, high-quality products.</desc>
+  </programme>
+  <programme start="20261126110000 +0300" stop="20261126113000 +0300" channel="FTV">
+    <title lang="tr">Miu Miu</title>
+    <desc lang="tr">Join us in Miu Miu&apos;s world of unrestrained creativity which rests between naif spirit and iridescent subversion. Inspired by Miuccia Prada&apos;s personal wardrobe it became a prominent high fashion brand.</desc>
+  </programme>
+  <programme start="20261126113000 +0300" stop="20261126120000 +0300" channel="FTV">
+    <title lang="tr">Miu Miu</title>
+    <desc lang="tr">Join us in Miu Miu&apos;s world of unrestrained creativity which rests between naif spirit and iridescent subversion. Inspired by Miuccia Prada&apos;s personal wardrobe it became a prominent high fashion brand.</desc>
+  </programme>
+  <programme start="20261126120000 +0300" stop="20261126123000 +0300" channel="FTV">
+    <title lang="tr">Most Watched</title>
+    <desc lang="tr">Tune in to witness a curated showcase of iconic brand highlights, unforgettable collection reveals, and the most captivating celebrity fashion moments.</desc>
+  </programme>
+  <programme start="20261126123000 +0300" stop="20261126130000 +0300" channel="FTV">
+    <title lang="tr">Most Watched</title>
+    <desc lang="tr">Tune in to witness a curated showcase of iconic brand highlights, unforgettable collection reveals, and the most captivating celebrity fashion moments.</desc>
+  </programme>
+  <programme start="20261126130000 +0300" stop="20261126133000 +0300" channel="FTV">
+    <title lang="tr">Fashion Junior</title>
+    <desc lang="tr">Follow kids fashion trends that will be huge in the recent and coming seasons, stay tuned for the best dressed celebs&apos; kids and runway highlights!</desc>
+  </programme>
+  <programme start="20261126133000 +0300" stop="20261126140000 +0300" channel="FTV">
+    <title lang="tr">Fashion Junior</title>
+    <desc lang="tr">Follow kids fashion trends that will be huge in the recent and coming seasons, stay tuned for the best dressed celebs&apos; kids and runway highlights!</desc>
+  </programme>
+  <programme start="20261126140000 +0300" stop="20261126143000 +0300" channel="FTV">
+    <title lang="tr">Men&apos;s Fashion Week</title>
+    <desc lang="tr">Enjoy the highlights of the men&apos;s fashion weeks and learn about the newest collections from the top runways to pick up the must-haves for your wardrobe and look trendy in any occasion.</desc>
+  </programme>
+  <programme start="20261126143000 +0300" stop="20261126150000 +0300" channel="FTV">
+    <title lang="tr">Men&apos;s Fashion Week</title>
+    <desc lang="tr">Enjoy the highlights of the men&apos;s fashion weeks and learn about the newest collections from the top runways to pick up the must-haves for your wardrobe and look trendy in any occasion.</desc>
+  </programme>
+  <programme start="20261126150000 +0300" stop="20261126153000 +0300" channel="FTV">
+    <title lang="tr">Top Models</title>
+    <desc lang="tr">Meet this season&apos;s modeling stars and those who are on their way to international fashion stardom. Most in-demand girls from around the globe and their fascinating stories!</desc>
+  </programme>
+  <programme start="20261126153000 +0300" stop="20261126160000 +0300" channel="FTV">
+    <title lang="tr">Top Models</title>
+    <desc lang="tr">Meet this season&apos;s modeling stars and those who are on their way to international fashion stardom. Most in-demand girls from around the globe and their fascinating stories!</desc>
+  </programme>
+  <programme start="20261126160000 +0300" stop="20261126163000 +0300" channel="FTV">
+    <title lang="tr">Bridal</title>
+    <desc lang="tr">Grab a clue on what&apos;s going on in the world of brides before you hit a salon! Enjoy a wide array of high fashion choices, undeniably romantic and decidedly feminine.</desc>
+  </programme>
+  <programme start="20261126163000 +0300" stop="20261126170000 +0300" channel="FTV">
+    <title lang="tr">Bridal</title>
+    <desc lang="tr">Grab a clue on what&apos;s going on in the world of brides before you hit a salon! Enjoy a wide array of high fashion choices, undeniably romantic and decidedly feminine.</desc>
+  </programme>
+  <programme start="20261126170000 +0300" stop="20261126173000 +0300" channel="FTV">
+    <title lang="tr">Fashion Films</title>
+    <desc lang="tr">Sit back, relax and enjoy a handful of experimental narrative fashion films with top models starring, it&apos;s one of the most artistic ways to follow the latest collections!</desc>
+  </programme>
+  <programme start="20261126173000 +0300" stop="20261126180000 +0300" channel="FTV">
+    <title lang="tr">Fashion Films</title>
+    <desc lang="tr">Sit back, relax and enjoy a handful of experimental narrative fashion films with top models starring, it&apos;s one of the most artistic ways to follow the latest collections!</desc>
+  </programme>
+  <programme start="20261126180000 +0300" stop="20261126183000 +0300" channel="FTV">
+    <title lang="tr">Fashion Teens</title>
+    <desc lang="tr">Explore the latest fashion trends for teens, the cutest outfits of the A-list celebrities, mix &amp; match insights, and style tips for all occasions.</desc>
+  </programme>
+  <programme start="20261126183000 +0300" stop="20261126190000 +0300" channel="FTV">
+    <title lang="tr">Fashion Teens</title>
+    <desc lang="tr">Explore the latest fashion trends for teens, the cutest outfits of the A-list celebrities, mix &amp; match insights, and style tips for all occasions.</desc>
+  </programme>
+  <programme start="20261126190000 +0300" stop="20261126193000 +0300" channel="FTV">
+    <title lang="tr">Top Photoshoots</title>
+    <desc lang="tr">Dive into the breathtaking world of the fashion photography to discover behind-the-scenes atmosphere and enjoy the most beautiful masterpieces of the iconic photographers and their muses</desc>
+  </programme>
+  <programme start="20261126193000 +0300" stop="20261126200000 +0300" channel="FTV">
+    <title lang="tr">Top Photoshoots</title>
+    <desc lang="tr">Dive into the breathtaking world of the fashion photography to discover behind-the-scenes atmosphere and enjoy the most beautiful masterpieces of the iconic photographers and their muses</desc>
+  </programme>
+  <programme start="20261126200000 +0300" stop="20261126203000 +0300" channel="FTV">
+    <title lang="tr">Fashion From China</title>
+    <desc lang="tr">Discover the trends and designers of China, the country with rich traditional arts and culture and passion for innovation which helps to be on the edge of contemporary fashion.</desc>
+  </programme>
+  <programme start="20261126203000 +0300" stop="20261126210000 +0300" channel="FTV">
+    <title lang="tr">Fashion From China</title>
+    <desc lang="tr">Discover the trends and designers of China, the country with rich traditional arts and culture and passion for innovation which helps to be on the edge of contemporary fashion.</desc>
+  </programme>
+  <programme start="20261126210000 +0300" stop="20261126213000 +0300" channel="FTV">
+    <title lang="tr">Most Watched</title>
+    <desc lang="tr">Tune in to witness a curated showcase of iconic brand highlights, unforgettable collection reveals, and the most captivating celebrity fashion moments.</desc>
+  </programme>
+  <programme start="20261126213000 +0300" stop="20261126220000 +0300" channel="FTV">
+    <title lang="tr">Most Watched</title>
+    <desc lang="tr">Tune in to witness a curated showcase of iconic brand highlights, unforgettable collection reveals, and the most captivating celebrity fashion moments.</desc>
+  </programme>
+  <programme start="20261126220000 +0300" stop="20261126223000 +0300" channel="FTV">
+    <title lang="tr">Fashion News</title>
+    <desc lang="tr">Check out the inside scoop on fashion news, all the daily news you need to know, including standout fashion moments, major events, current collections and trends on and off the runway.</desc>
+  </programme>
+  <programme start="20261126223000 +0300" stop="20261126230000 +0300" channel="FTV">
+    <title lang="tr">Fashion News</title>
+    <desc lang="tr">Check out the inside scoop on fashion news, all the daily news you need to know, including standout fashion moments, major events, current collections and trends on and off the runway.</desc>
+  </programme>
+  <programme start="20261126230000 +0300" stop="20261126233000 +0300" channel="FTV">
+    <title lang="tr">Miu Miu</title>
+    <desc lang="tr">Join us in Miu Miu&apos;s world of unrestrained creativity which rests between naif spirit and iridescent subversion. Inspired by Miuccia Prada&apos;s personal wardrobe it became a prominent high fashion brand.</desc>
+  </programme>
+  <programme start="20261126233000 +0300" stop="20261127000000 +0300" channel="FTV">
+    <title lang="tr">Miu Miu</title>
+    <desc lang="tr">Join us in Miu Miu&apos;s world of unrestrained creativity which rests between naif spirit and iridescent subversion. Inspired by Miuccia Prada&apos;s personal wardrobe it became a prominent high fashion brand.</desc>
+  </programme>
   <programme start="20261121030000 +0300" stop="20261121060000 +0300" channel="SZC">
     <title lang="tr">Sözcü Tv Yayını</title>
     <desc lang="tr">Sözcü TV Tekrar Yayını.</desc>
@@ -9234,6 +9950,34 @@
     <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
   <programme start="20261126000000 +0300" stop="20261126030000 +0300" channel="DREAM">
+    <title lang="tr">Dream TV</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261126030000 +0300" stop="20261126060000 +0300" channel="DREAM">
+    <title lang="tr">Dream TV</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261126060000 +0300" stop="20261126090000 +0300" channel="DREAM">
+    <title lang="tr">Dream TV</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261126090000 +0300" stop="20261126120000 +0300" channel="DREAM">
+    <title lang="tr">Dream TV</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261126120000 +0300" stop="20261126150000 +0300" channel="DREAM">
+    <title lang="tr">Dream TV</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261126150000 +0300" stop="20261126180000 +0300" channel="DREAM">
+    <title lang="tr">Dream TV</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261126180000 +0300" stop="20261126210000 +0300" channel="DREAM">
+    <title lang="tr">Dream TV</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261126210000 +0300" stop="20261127000000 +0300" channel="DREAM">
     <title lang="tr">Dream TV</title>
     <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
@@ -20529,6 +21273,74 @@
     <title lang="tr">Ghosts</title>
     <desc lang="tr">Sitcom about a couple who inherit a haunted country house.</desc>
   </programme>
+  <programme start="20261126070000 +0300" stop="20261126073500 +0300" channel="BBCFIRST">
+    <title lang="tr">Ghosts</title>
+    <desc lang="tr">The ghostly visions return to haunt Alison, but Mike insists on a rational explanation.</desc>
+  </programme>
+  <programme start="20261126073500 +0300" stop="20261126084000 +0300" channel="BBCFIRST">
+    <title lang="tr">Call the Midwife</title>
+    <desc lang="tr">A disabled baby is delivered at the maternity home, and a gas explosion shocks all.</desc>
+  </programme>
+  <programme start="20261126084000 +0300" stop="20261126094500 +0300" channel="BBCFIRST">
+    <title lang="tr">Midsomer Murders</title>
+    <desc lang="tr">The fizz goes out of Midsomer Vinae Winery&apos;s sparkling wine launch when the glasses are laced with poison - but how is it linked to the death of a child in a hit-and-run accident?</desc>
+  </programme>
+  <programme start="20261126094500 +0300" stop="20261126104500 +0300" channel="BBCFIRST">
+    <title lang="tr">Midsomer Murders</title>
+    <desc lang="tr">William and Diana face losing the vineyard but Matilda wants to give her cash to Ryan instead - on one condition...What will William and Diana do about Louis&apos; tempting offer?</desc>
+  </programme>
+  <programme start="20261126104500 +0300" stop="20261126115500 +0300" channel="BBCFIRST">
+    <title lang="tr">Death in Paradise</title>
+    <desc lang="tr">When a bird-watcher is discovered murdered in the Saint-Marie jungle, the team have a particularly puzzling conundrum to solve.</desc>
+  </programme>
+  <programme start="20261126115500 +0300" stop="20261126125500 +0300" channel="BBCFIRST">
+    <title lang="tr">Murdoch Mysteries</title>
+    <desc lang="tr">Murdoch sets out to prove that a manor isn&apos;t haunted when two of the Beaton heirs die under mysterious circumstances.</desc>
+  </programme>
+  <programme start="20261126125500 +0300" stop="20261126135500 +0300" channel="BBCFIRST">
+    <title lang="tr">Tommy &amp; Tuppence</title>
+    <desc lang="tr">As their investigation deepens, Tommy and Tuppence uncover dangerous secrets that bring them closer to the truth - and to each other.</desc>
+  </programme>
+  <programme start="20261126135500 +0300" stop="20261126145000 +0300" channel="BBCFIRST">
+    <title lang="tr">Hudson &amp; Rex</title>
+    <desc lang="tr">Charlie and Rex&apos;s home turns into a crime scene when they find a stranger dying in their kitchen.</desc>
+  </programme>
+  <programme start="20261126145000 +0300" stop="20261126155000 +0300" channel="BBCFIRST">
+    <title lang="tr">My Life is Murder</title>
+    <desc lang="tr">After a fitness influencer live streams his own murder, Alexa enters the world of professional cheerleading to find out - is murder a team sport?</desc>
+  </programme>
+  <programme start="20261126155000 +0300" stop="20261126165000 +0300" channel="BBCFIRST">
+    <title lang="tr">My Life is Murder</title>
+    <desc lang="tr">Death by deadly jellyfish leads Alexa to a popular aquarium on Auckland&apos;s waterfront, where she meets a handsome marine biologist, a scheming mermaid, and a watchful octopus.</desc>
+  </programme>
+  <programme start="20261126165000 +0300" stop="20261126175000 +0300" channel="BBCFIRST">
+    <title lang="tr">Father Brown</title>
+    <desc lang="tr">Rock &apos;n&apos; roll reaches Kembleford when a group of bikers cause outrage and excitement.</desc>
+  </programme>
+  <programme start="20261126175000 +0300" stop="20261126184500 +0300" channel="BBCFIRST">
+    <title lang="tr">Father Brown</title>
+    <desc lang="tr">Sullivan&apos;s dream of leaving Kembleford is scuppered when he is arrested.</desc>
+  </programme>
+  <programme start="20261126184500 +0300" stop="20261126195500 +0300" channel="BBCFIRST">
+    <title lang="tr">Death in Paradise</title>
+    <desc lang="tr">A murder investigation becomes more than personal for Richard when the victim is murdered while handcuffed to him!</desc>
+  </programme>
+  <programme start="20261126195500 +0300" stop="20261126210000 +0300" channel="BBCFIRST">
+    <title lang="tr">Death in Paradise</title>
+    <desc lang="tr">When Richard is struck down by a tropical disease and Camille is in Paris, it&apos;s left to Dwayne and Fidel to solve an apparently impossible murder.</desc>
+  </programme>
+  <programme start="20261126210000 +0300" stop="20261126220000 +0300" channel="BBCFIRST">
+    <title lang="tr">Hudson &amp; Rex</title>
+    <desc lang="tr">When a so-called time traveler warns Major Crimes about a bomb threat, Charlie and Rex are enlisted to protect a prominent political figure at risk of assassination.</desc>
+  </programme>
+  <programme start="20261126220000 +0300" stop="20261126230000 +0300" channel="BBCFIRST">
+    <title lang="tr">The Madame Blanc Mysteries</title>
+    <desc lang="tr">When a valuable bronze vanishes from Brodeur &amp;amp; White and Simone is attacked, Jean follows a trail through the antiques world where nothing is quite what it seems.</desc>
+  </programme>
+  <programme start="20261126230000 +0300" stop="20261126235000 +0300" channel="BBCFIRST">
+    <title lang="tr">Harry Wild</title>
+    <desc lang="tr">When Malky has no memory of killing Happy, Harry, Fergus and Charlie investigate who benefits from the former criminal&apos;s death.</desc>
+  </programme>
   <programme start="20261120231500 +0300" stop="20261121011500 +0300" channel="KANALD">
     <title lang="tr">Düşüş</title>
     <desc lang="tr">Issız bir bölgede, yüzlerce metre yükseklikte mahsur kalan iki genç kadın, hayatta kalabilmek için korkularıyla yüzleşmek ve zorlu bir mücadele vermek zorundadır.</desc>
@@ -20756,6 +21568,34 @@
   <programme start="20261126040000 +0300" stop="20261126070000 +0300" channel="KANALD">
     <title lang="tr">Üç Kız Kardeş</title>
     <desc lang="tr">Satış rekorları kıran romandan uyarlanan dizi, üç kız kardeşin hayat mücadelesini, aile bağlarını ve sırlarla dolu geçmişlerini etkileyici bir dille anlatıyor.</desc>
+  </programme>
+  <programme start="20261126070000 +0300" stop="20261126090000 +0300" channel="KANALD">
+    <title lang="tr">Öyle Bir Geçer Zaman Ki</title>
+    <desc lang="tr">Aile bağları ve yaşam mücadelelerini ekrana taşıyan film, Ayça Bingöl&apos;ın güçlü performansıyla izleyiciye duygusal bir yolculuk sunuyor.</desc>
+  </programme>
+  <programme start="20261126090000 +0300" stop="20261126110000 +0300" channel="KANALD">
+    <title lang="tr">Neler Oluyor Hayatta?</title>
+    <desc lang="tr">Kanal D&apos;nin sevilen sabah programı &quot;Neler Oluyor Hayatta&quot; hafta içi her gün canlı yayınla ekrana gelmeye devam ediyor.</desc>
+  </programme>
+  <programme start="20261126110000 +0300" stop="20261126140000 +0300" channel="KANALD">
+    <title lang="tr">Yaprak Dökümü</title>
+    <desc lang="tr">Yaprak Dökümü Ali Rıza Bey ve ailesinin İstanbul&apos;a taşınmasıyla başlayan, ahlaki değerlerin zamanla sınandığı dramatik bir aile hikayesini konu alır.</desc>
+  </programme>
+  <programme start="20261126140000 +0300" stop="20261126164500 +0300" channel="KANALD">
+    <title lang="tr">Gelinim Mutfakta</title>
+    <desc lang="tr">Gelinlerin mutfakta hazırladığı yemeklerin kayınvalideler tarafından puanlandığı eğlenceli ve rekabet dolu bir yarışmayı ekrana taşıyor.</desc>
+  </programme>
+  <programme start="20261126164500 +0300" stop="20261126190000 +0300" channel="KANALD">
+    <title lang="tr">Uzak Şehir</title>
+    <desc lang="tr">Uzak Şehir, geçmişlerinden kaçmaya çalışan insanların yeni bir şehirde tutunma mücadelesini konu alıyor. Aşk, sırlar ve yüzleşmeler iç içe geçiyor.</desc>
+  </programme>
+  <programme start="20261126190000 +0300" stop="20261126200000 +0300" channel="KANALD">
+    <title lang="tr">Kanal D Ana Haber</title>
+    <desc lang="tr">Günün öne çıkan gelişmeleri Türkiye ve dünyanın gündemiyle Kanal D Ana Haberde izleyiciyle buluşuyor. Siyaset ekonomi ve toplumdan önemli başlıklar ekrana taşınıyor.</desc>
+  </programme>
+  <programme start="20261126200000 +0300" stop="20261126231500 +0300" channel="KANALD">
+    <title lang="tr">Uzak Şehir</title>
+    <desc lang="tr">Uzak Şehir, geçmişlerinden kaçmaya çalışan insanların yeni bir şehirde tutunma mücadelesini konu alıyor. Aşk, sırlar ve yüzleşmeler iç içe geçiyor.</desc>
   </programme>
   <programme start="20261120232000 +0300" stop="20261121000000 +0300" channel="FX">
     <title lang="tr">Interior Chinatown</title>
@@ -21456,5 +22296,141 @@
   <programme start="20261125231000 +0300" stop="20261126000000 +0300" channel="FX">
     <title lang="tr">The Veil</title>
     <desc lang="tr">Bir kadın sakladığı sırla, diğeri gerçeği ortaya çıkarma göreviyle yola çıkar. Güven, ihanet ve tehlike iç içedir.</desc>
+  </programme>
+  <programme start="20261126000000 +0300" stop="20261126004500 +0300" channel="FX">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">Başarılı cinayet, gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD&apos;den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
+  </programme>
+  <programme start="20261126004500 +0300" stop="20261126013000 +0300" channel="FX">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">Başarılı cinayet, gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD&apos;den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
+  </programme>
+  <programme start="20261126013000 +0300" stop="20261126020500 +0300" channel="FX">
+    <title lang="tr">Interior Chinatown</title>
+    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) Bir Çin Mahallesi garsonu kendini bir gizemin içinde bulur.</desc>
+  </programme>
+  <programme start="20261126020500 +0300" stop="20261126030500 +0300" channel="FX">
+    <title lang="tr">Criminal Minds</title>
+    <desc lang="tr">Seçkin bir FBI ekibi, suçluların zihinlerini analiz ederek karmaşık vakaları çözmek için zamana karşı yarışır.</desc>
+  </programme>
+  <programme start="20261126030500 +0300" stop="20261126035000 +0300" channel="FX">
+    <title lang="tr">The Resident</title>
+    <desc lang="tr">The Resident, ülkenin dört bir yanındaki hastanelerde hem iyi hem kötü olmak üzere gerçekte olanları açığa çıkarmak için olayların perdesini aralar. Chastain Hastanesi&apos;nde her gün kişisel ve mesleki zorluklarla karşı karşıya kalan bir grup doktorun başından geçenleri anlatır.</desc>
+  </programme>
+  <programme start="20261126035000 +0300" stop="20261126043500 +0300" channel="FX">
+    <title lang="tr">White Collar</title>
+    <desc lang="tr">Çekici dolandırıcı Neal Caffrey hapishaneden kaçar, ancak düşmanı FBI Ajanı Peter Burke tarafından yeniden yakalanır. Birkaç seçeneğe sahip olan Caffrey, nihai özgürlüğü karşılığında büronun diğer yakalanması zor suçluları alt etmesine yardım eder. Ancak çok geçmeden Caffrey, kendini hapse ya da ölüme geri döndürmek isteyenlerle kedi fare oyunu oynarken bulur.</desc>
+  </programme>
+  <programme start="20261126043500 +0300" stop="20261126045000 +0300" channel="FX">
+    <title lang="tr">How I Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted Mosby&apos;nin çocuklarına anneleriyle nasıl tanıştığını anlattığı eğlenceli, romantik ve sıcak bir komedi dizisidir.</desc>
+  </programme>
+  <programme start="20261126045000 +0300" stop="20261126051500 +0300" channel="FX">
+    <title lang="tr">How I Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted Mosby&apos;nin çocuklarına anneleriyle nasıl tanıştığını anlattığı eğlenceli, romantik ve sıcak bir komedi dizisidir.</desc>
+  </programme>
+  <programme start="20261126051500 +0300" stop="20261126060000 +0300" channel="FX">
+    <title lang="tr">The Resident</title>
+    <desc lang="tr">The Resident, ülkenin dört bir yanındaki hastanelerde hem iyi hem kötü olmak üzere gerçekte olanları açığa çıkarmak için olayların perdesini aralar. Chastain Hastanesi&apos;nde her gün kişisel ve mesleki zorluklarla karşı karşıya kalan bir grup doktorun başından geçenleri anlatır.</desc>
+  </programme>
+  <programme start="20261126060000 +0300" stop="20261126064500 +0300" channel="FX">
+    <title lang="tr">White Collar</title>
+    <desc lang="tr">Çekici dolandırıcı Neal Caffrey hapishaneden kaçar, ancak düşmanı FBI Ajanı Peter Burke tarafından yeniden yakalanır. Birkaç seçeneğe sahip olan Caffrey, nihai özgürlüğü karşılığında büronun diğer yakalanması zor suçluları alt etmesine yardım eder. Ancak çok geçmeden Caffrey, kendini hapse ya da ölüme geri döndürmek isteyenlerle kedi fare oyunu oynarken bulur.</desc>
+  </programme>
+  <programme start="20261126064500 +0300" stop="20261126073000 +0300" channel="FX">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">Başarılı cinayet, gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD&apos;den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
+  </programme>
+  <programme start="20261126073000 +0300" stop="20261126081500 +0300" channel="FX">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">Başarılı cinayet, gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD&apos;den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
+  </programme>
+  <programme start="20261126081500 +0300" stop="20261126083500 +0300" channel="FX">
+    <title lang="tr">How I Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted Mosby&apos;nin çocuklarına anneleriyle nasıl tanıştığını anlattığı eğlenceli, romantik ve sıcak bir komedi dizisidir.</desc>
+  </programme>
+  <programme start="20261126083500 +0300" stop="20261126090000 +0300" channel="FX">
+    <title lang="tr">How I Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted Mosby&apos;nin çocuklarına anneleriyle nasıl tanıştığını anlattığı eğlenceli, romantik ve sıcak bir komedi dizisidir.</desc>
+  </programme>
+  <programme start="20261126090000 +0300" stop="20261126094500 +0300" channel="FX">
+    <title lang="tr">The Resident</title>
+    <desc lang="tr">The Resident, ülkenin dört bir yanındaki hastanelerde hem iyi hem kötü olmak üzere gerçekte olanları açığa çıkarmak için olayların perdesini aralar. Chastain Hastanesi&apos;nde her gün kişisel ve mesleki zorluklarla karşı karşıya kalan bir grup doktorun başından geçenleri anlatır.</desc>
+  </programme>
+  <programme start="20261126094500 +0300" stop="20261126103000 +0300" channel="FX">
+    <title lang="tr">White Collar</title>
+    <desc lang="tr">Çekici dolandırıcı Neal Caffrey hapishaneden kaçar, ancak düşmanı FBI Ajanı Peter Burke tarafından yeniden yakalanır. Birkaç seçeneğe sahip olan Caffrey, nihai özgürlüğü karşılığında büronun diğer yakalanması zor suçluları alt etmesine yardım eder. Ancak çok geçmeden Caffrey, kendini hapse ya da ölüme geri döndürmek isteyenlerle kedi fare oyunu oynarken bulur.</desc>
+  </programme>
+  <programme start="20261126103000 +0300" stop="20261126111500 +0300" channel="FX">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">Başarılı cinayet, gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD&apos;den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
+  </programme>
+  <programme start="20261126111500 +0300" stop="20261126120000 +0300" channel="FX">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">Başarılı cinayet, gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD&apos;den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
+  </programme>
+  <programme start="20261126120000 +0300" stop="20261126122000 +0300" channel="FX">
+    <title lang="tr">How I Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted Mosby&apos;nin çocuklarına anneleriyle nasıl tanıştığını anlattığı eğlenceli, romantik ve sıcak bir komedi dizisidir.</desc>
+  </programme>
+  <programme start="20261126122000 +0300" stop="20261126125000 +0300" channel="FX">
+    <title lang="tr">How I Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted Mosby&apos;nin çocuklarına anneleriyle nasıl tanıştığını anlattığı eğlenceli, romantik ve sıcak bir komedi dizisidir.</desc>
+  </programme>
+  <programme start="20261126125000 +0300" stop="20261126134000 +0300" channel="FX">
+    <title lang="tr">The Resident</title>
+    <desc lang="tr">The Resident, ülkenin dört bir yanındaki hastanelerde hem iyi hem kötü olmak üzere gerçekte olanları açığa çıkarmak için olayların perdesini aralar. Chastain Hastanesi&apos;nde her gün kişisel ve mesleki zorluklarla karşı karşıya kalan bir grup doktorun başından geçenleri anlatır.</desc>
+  </programme>
+  <programme start="20261126134000 +0300" stop="20261126143000 +0300" channel="FX">
+    <title lang="tr">White Collar</title>
+    <desc lang="tr">Çekici dolandırıcı Neal Caffrey hapishaneden kaçar, ancak düşmanı FBI Ajanı Peter Burke tarafından yeniden yakalanır. Birkaç seçeneğe sahip olan Caffrey, nihai özgürlüğü karşılığında büronun diğer yakalanması zor suçluları alt etmesine yardım eder. Ancak çok geçmeden Caffrey, kendini hapse ya da ölüme geri döndürmek isteyenlerle kedi fare oyunu oynarken bulur.</desc>
+  </programme>
+  <programme start="20261126143000 +0300" stop="20261126152000 +0300" channel="FX">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">Başarılı cinayet, gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD&apos;den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
+  </programme>
+  <programme start="20261126152000 +0300" stop="20261126161000 +0300" channel="FX">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">Başarılı cinayet, gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD&apos;den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
+  </programme>
+  <programme start="20261126161000 +0300" stop="20261126163000 +0300" channel="FX">
+    <title lang="tr">How I Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted Mosby&apos;nin çocuklarına anneleriyle nasıl tanıştığını anlattığı eğlenceli, romantik ve sıcak bir komedi dizisidir.</desc>
+  </programme>
+  <programme start="20261126163000 +0300" stop="20261126170000 +0300" channel="FX">
+    <title lang="tr">How I Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted Mosby&apos;nin çocuklarına anneleriyle nasıl tanıştığını anlattığı eğlenceli, romantik ve sıcak bir komedi dizisidir.</desc>
+  </programme>
+  <programme start="20261126170000 +0300" stop="20261126175000 +0300" channel="FX">
+    <title lang="tr">The Resident</title>
+    <desc lang="tr">The Resident, ülkenin dört bir yanındaki hastanelerde hem iyi hem kötü olmak üzere gerçekte olanları açığa çıkarmak için olayların perdesini aralar. Chastain Hastanesi&apos;nde her gün kişisel ve mesleki zorluklarla karşı karşıya kalan bir grup doktorun başından geçenleri anlatır.</desc>
+  </programme>
+  <programme start="20261126175000 +0300" stop="20261126184500 +0300" channel="FX">
+    <title lang="tr">White Collar</title>
+    <desc lang="tr">Çekici dolandırıcı Neal Caffrey hapishaneden kaçar, ancak düşmanı FBI Ajanı Peter Burke tarafından yeniden yakalanır. Birkaç seçeneğe sahip olan Caffrey, nihai özgürlüğü karşılığında büronun diğer yakalanması zor suçluları alt etmesine yardım eder. Ancak çok geçmeden Caffrey, kendini hapse ya da ölüme geri döndürmek isteyenlerle kedi fare oyunu oynarken bulur.</desc>
+  </programme>
+  <programme start="20261126184500 +0300" stop="20261126194000 +0300" channel="FX">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD&apos;den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
+  </programme>
+  <programme start="20261126194000 +0300" stop="20261126203000 +0300" channel="FX">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD&apos;den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
+  </programme>
+  <programme start="20261126203000 +0300" stop="20261126205000 +0300" channel="FX">
+    <title lang="tr">How I Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted Mosby&apos;nin çocuklarına anneleriyle nasıl tanıştığını anlattığı eğlenceli, romantik ve sıcak bir komedi dizisidir.</desc>
+  </programme>
+  <programme start="20261126205000 +0300" stop="20261126213000 +0300" channel="FX">
+    <title lang="tr">How I Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted Mosby&apos;nin çocuklarına anneleriyle nasıl tanıştığını anlattığı eğlenceli, romantik ve sıcak bir komedi dizisidir.</desc>
+  </programme>
+  <programme start="20261126213000 +0300" stop="20261126222500 +0300" channel="FX">
+    <title lang="tr">Criminal Minds</title>
+    <desc lang="tr">Seçkin bir FBI ekibi, suçluların zihinlerini analiz ederek karmaşık vakaları çözmek için zamana karşı yarışır.</desc>
+  </programme>
+  <programme start="20261126222500 +0300" stop="20261126233000 +0300" channel="FX">
+    <title lang="tr">Tracker</title>
+    <desc lang="tr">Genç bir çocuğun kayıp babasını arayan Colter&apos;ın yolu tehlikeli bir suç operasyonuyla kesişir.</desc>
   </programme>
 </tv>
