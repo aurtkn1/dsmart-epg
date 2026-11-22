@@ -337,6 +337,66 @@
     <title lang="tr">Aptal Aşıklar</title>
     <desc lang="tr">Bir gerdanlığın peşine düşen üç gencin öyküsü.</desc>
   </programme>
+  <programme start="20261126070000 +0300" stop="20261126085000 +0300" channel="MSCL">
+    <title lang="tr">Kart Horoz</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261126085000 +0300" stop="20261126102000 +0300" channel="MSCL">
+    <title lang="tr">Ben Bir Garip Keloğlanım</title>
+    <desc lang="tr">Film, Karakız&apos;la evlenebilmek için bir iş bulmak üzere köyünden yola çıkan Keloğlan&apos;ın başına gelen maceraları konu alır.</desc>
+  </programme>
+  <programme start="20261126102000 +0300" stop="20261126114000 +0300" channel="MSCL">
+    <title lang="tr">Kalleş</title>
+    <desc lang="tr">Hürrem Cideoğlu ile Ragıp Hanzade aileleri arasında kan davası vardır. Ragıp&apos;ın oğlu Davut ile Hürrem&apos;in kızı Gülistan birbirlerini severler. Ne var ki aileler evlenmelerine izin vermez. Onlar da ailelerinden gizlice kaçarlar. İki düşman aile, Davut ve Gülistan&apos;ın peşine düşecektir.</desc>
+  </programme>
+  <programme start="20261126114000 +0300" stop="20261126132000 +0300" channel="MSCL">
+    <title lang="tr">Aslan Bacanak</title>
+    <desc lang="tr">Minibüs şoförü Selim, yeni taşındığı mahallede Zeynep&apos;e aşık olur. Ancak evlenebilmesi için kızın tüm mahallenin yaka silktiği kabadayı ağabeyi Halim&apos;i ikna etmesi gerekmektedir.</desc>
+  </programme>
+  <programme start="20261126132000 +0300" stop="20261126145000 +0300" channel="MSCL">
+    <title lang="tr">Keşanlı Ali Destanı</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261126145000 +0300" stop="20261126163000 +0300" channel="MSCL">
+    <title lang="tr">Bir Teselli Ver</title>
+    <desc lang="tr">Bir Teselli Ver, yoksul bir fabrika işçisi ile zengin fabrika sahibinin kızının imkânsız aşkını ve sınıf ayrımlarını konu eden dramatik bir Yeşilçam filmidir.</desc>
+  </programme>
+  <programme start="20261126163000 +0300" stop="20261126181000 +0300" channel="MSCL">
+    <title lang="tr">Ayşem</title>
+    <desc lang="tr">İbrahim Tatlıses ve Hülya Avşar&apos;ın başrollerini paylaştığı Ayşem, aşk, dram ve fedakârlıkla örülü duygusal bir hikâye sunuyor.</desc>
+  </programme>
+  <programme start="20261126181000 +0300" stop="20261126195000 +0300" channel="MSCL">
+    <title lang="tr">Herkesin Sevgilisi</title>
+    <desc lang="tr">Yaşlı bir konservatuar öğretmeni şımarık bir öğrencisi yüzünden işini bırakır ve besteler yapmak için evine kapanır.</desc>
+  </programme>
+  <programme start="20261126195000 +0300" stop="20261126213000 +0300" channel="MSCL">
+    <title lang="tr">Yakışıklı</title>
+    <desc lang="tr">Selim, saf ve iyi niyetli bir gençtir. Hayatın sürprizleri ve komik olaylar onu beklerken, saf davranışları çevresindekilerin başını belaya sokar.</desc>
+  </programme>
+  <programme start="20261126213000 +0300" stop="20261126231000 +0300" channel="MSCL">
+    <title lang="tr">Düğün</title>
+    <desc lang="tr">Urfa&apos;dan İstanbul&apos;a göç eden beş kardeş yoksullukla mücadele eder. Geçim sıkıntısı büyürken aile içinde alınan zor kararlar hayatlarını değiştirir.</desc>
+  </programme>
+  <programme start="20261126231000 +0300" stop="20261127004000 +0300" channel="MSCL">
+    <title lang="tr">Analar Ölmez</title>
+    <desc lang="tr">Annesinin hayatta olduğunu öğrenen küçük bir çocuk, evdeki emektarların yardımıyla gizli bir plan yapar. Annesini eve sokarak, babasının ona yeniden aşık olması için çabalar.</desc>
+  </programme>
+  <programme start="20261127004000 +0300" stop="20261127022000 +0300" channel="MSCL">
+    <title lang="tr">Kart Horoz</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261127022000 +0300" stop="20261127035000 +0300" channel="MSCL">
+    <title lang="tr">Bülbül Yuvası</title>
+    <desc lang="tr">&quot;Bülbül Yuvası&quot;, Türkan Şoray&apos;ın başrolünde olduğu, Nejat Saydam&apos;ın yönettiği duygusal ve unutulmaz bir Türk filmi.</desc>
+  </programme>
+  <programme start="20261127035000 +0300" stop="20261127052000 +0300" channel="MSCL">
+    <title lang="tr">Keşanlı Ali Destanı</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261127052000 +0300" stop="20261127070000 +0300" channel="MSCL">
+    <title lang="tr">Sezercik Aslan Parçası</title>
+    <desc lang="tr">Zorluklara rağmen dimdik duran Sezercik&apos;in dokunaklı hikâyesi, aile bağlarının gücünü sıcak ve samimi bir dille anlatıyor.</desc>
+  </programme>
   <programme start="20261121232000 +0300" stop="20261122010000 +0300" channel="MSTK">
     <title lang="tr">Bir Varmış Bir Yokmuş</title>
     <desc lang="tr">Üniversitede öğretmenlik yapan Nehir, öğrencileriyle kurduğu bağ sayesinde hayatını sorgulamaya başlar. Geçmişiyle yüzleşirken kendini yeniden keşfedeceği bir sürece girer.</desc>
@@ -869,6 +929,98 @@
     <title lang="tr">Dubai open golf turnuvasi part of the dp world tour 2026</title>
     <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
   </programme>
+  <programme start="20261126080000 +0300" stop="20261126100000 +0300" channel="SPPR">
+    <title lang="tr">Real madrid - Joventut</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261126100000 +0300" stop="20261126130000 +0300" channel="SPPR">
+    <title lang="tr">Dubai open golf turnuvasi part of the dp world tour 2026</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261126130000 +0300" stop="20261126153000 +0300" channel="SPPR">
+    <title lang="tr">Tampiners - Shanghai greenland</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261126153000 +0300" stop="20261126173000 +0300" channel="SPPR">
+    <title lang="tr">Pathum - Lion city</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261126173000 +0300" stop="20261126193000 +0300" channel="SPPR">
+    <title lang="tr">Santos - Gremio</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261126193000 +0300" stop="20261126200000 +0300" channel="SPPR">
+    <title lang="tr">Monster jam</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261126200000 +0300" stop="20261126213000 +0300" channel="SPPR">
+    <title lang="tr">Arjantin Clasura</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261126213000 +0300" stop="20261126233000 +0300" channel="SPPR">
+    <title lang="tr">Surne bilbao - Baskonia</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261126233000 +0300" stop="20261127013000 +0300" channel="SPPR">
+    <title lang="tr">Valencia - Breogan</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261127013000 +0300" stop="20261127033000 +0300" channel="SPPR">
+    <title lang="tr">Chapecoense - Palmeiras</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261127033000 +0300" stop="20261127053000 +0300" channel="SPPR">
+    <title lang="tr">Fluminense - Mirassol</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261127053000 +0300" stop="20261127080000 +0300" channel="SPPR">
+    <title lang="tr">Ispanya open golf turnuvasi part of the dp world tour 2026</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261127080000 +0300" stop="20261127103000 +0300" channel="SPPR">
+    <title lang="tr">Rosario central - Gimnasia</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261127103000 +0300" stop="20261127140000 +0300" channel="SPPR">
+    <title lang="tr">Dubai open golf turnuvasi part of the dp world tour 2026</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261127140000 +0300" stop="20261127143000 +0300" channel="SPPR">
+    <title lang="tr">Haber 14</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261127143000 +0300" stop="20261127150000 +0300" channel="SPPR">
+    <title lang="tr">Program foodball</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261127150000 +0300" stop="20261127170000 +0300" channel="SPPR">
+    <title lang="tr">Santos - Gremio</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261127170000 +0300" stop="20261127173000 +0300" channel="SPPR">
+    <title lang="tr">Haber 17</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261127173000 +0300" stop="20261127193000 +0300" channel="SPPR">
+    <title lang="tr">Chapecoense - Palmeiras</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261127193000 +0300" stop="20261127200000 +0300" channel="SPPR">
+    <title lang="tr">Monster jam</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261127200000 +0300" stop="20261127203000 +0300" channel="SPPR">
+    <title lang="tr">Yabanci at yarişlari 2026</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261127203000 +0300" stop="20261127223000 +0300" channel="SPPR">
+    <title lang="tr">Program çifte şans</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261127223000 +0300" stop="20261128000000 +0300" channel="SPPR">
+    <title lang="tr">San pablo burgos - Unicaja</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
   <programme start="20261121230000 +0300" stop="20261122010000 +0300" channel="SPS2">
     <title lang="tr">Argentinos - Independiente</title>
     <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
@@ -1080,6 +1232,98 @@
   <programme start="20261126060000 +0300" stop="20261126080000 +0300" channel="SPS2">
     <title lang="tr">Al ittihad - Pakhtakor</title>
     <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
+  </programme>
+  <programme start="20261126080000 +0300" stop="20261126090000 +0300" channel="SPS2">
+    <title lang="tr">2026</title>
+    <desc lang="tr">Adrenalini dorukta yaşayın! Yabancı at yarışlarının en heyecanlı anları Spor Smart ekranında</desc>
+  </programme>
+  <programme start="20261126090000 +0300" stop="20261126110000 +0300" channel="SPS2">
+    <title lang="tr">Chapecoense - Palmeiras</title>
+    <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
+  </programme>
+  <programme start="20261126110000 +0300" stop="20261126130000 +0300" channel="SPS2">
+    <title lang="tr">River plate - Lanus</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261126130000 +0300" stop="20261126153000 +0300" channel="SPS2">
+    <title lang="tr">Gangwon - Kitchee</title>
+    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261126153000 +0300" stop="20261126173000 +0300" channel="SPS2">
+    <title lang="tr">Svay rieng - Machida</title>
+    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261126173000 +0300" stop="20261126193000 +0300" channel="SPS2">
+    <title lang="tr">Plaj Futbolu: Dünya Kupası</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261126193000 +0300" stop="20261126213000 +0300" channel="SPS2">
+    <title lang="tr">Boca juniors - I. rivadavia</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261126213000 +0300" stop="20261126233000 +0300" channel="SPS2">
+    <title lang="tr">Defensa - Barracas</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261126233000 +0300" stop="20261127003000 +0300" channel="SPS2">
+    <title lang="tr">Spor Ajansı</title>
+    <desc lang="tr">Günün öne çıkan spor gelişmeleri, kritik maç analizleri ve takım performansları Spor Ajansı&apos;nda izleyiciye hızlı ve heyecanlı şekilde aktarılıyor.</desc>
+  </programme>
+  <programme start="20261127003000 +0300" stop="20261127013000 +0300" channel="SPS2">
+    <title lang="tr">Plaj Futbolu: Dünya Kupası</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261127013000 +0300" stop="20261127033000 +0300" channel="SPS2">
+    <title lang="tr">East bengal - Al hussein</title>
+    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261127033000 +0300" stop="20261127040000 +0300" channel="SPS2">
+    <title lang="tr">Arjantin Clasura Özetler</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261127040000 +0300" stop="20261127060000 +0300" channel="SPS2">
+    <title lang="tr">Tractor - Al wasl</title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
+  </programme>
+  <programme start="20261127060000 +0300" stop="20261127080000 +0300" channel="SPS2">
+    <title lang="tr">Ratchaburi - Johor darul</title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
+  </programme>
+  <programme start="20261127080000 +0300" stop="20261127093000 +0300" channel="SPS2">
+    <title lang="tr">Foodball</title>
+    <desc lang="tr">Futbol dünyasındaki güncel gelişmeler, analizler ve öne çıkan olaylar spor programında izleyiciyle buluşuyor.</desc>
+  </programme>
+  <programme start="20261127093000 +0300" stop="20261127113000 +0300" channel="SPS2">
+    <title lang="tr">Fluminense - Mirassol</title>
+    <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
+  </programme>
+  <programme start="20261127113000 +0300" stop="20261127133000 +0300" channel="SPS2">
+    <title lang="tr">Chapecoense - Palmeiras</title>
+    <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
+  </programme>
+  <programme start="20261127133000 +0300" stop="20261127150000 +0300" channel="SPS2">
+    <title lang="tr">Smart Sahne</title>
+    <desc lang="tr">Spor dünyasından öne çıkan gelişmeler, dikkat çeken başarılar ve gündemin merak edilen başlıkları ekranlara geliyor.</desc>
+  </programme>
+  <programme start="20261127150000 +0300" stop="20261127153000 +0300" channel="SPS2">
+    <title lang="tr">Haber 15</title>
+    <desc lang="tr">Güncel haberlerin aktarıldığı bültende gündemdeki gelişmeler hızlı ve anlaşılır şekilde izleyiciye sunuluyor.</desc>
+  </programme>
+  <programme start="20261127153000 +0300" stop="20261127170000 +0300" channel="SPS2">
+    <title lang="tr">Valencia - Breogan</title>
+    <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
+  </programme>
+  <programme start="20261127170000 +0300" stop="20261127190000 +0300" channel="SPS2">
+    <title lang="tr">Kuwait - Al wahda</title>
+    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261127190000 +0300" stop="20261127213000 +0300" channel="SPS2">
+    <title lang="tr">Al nassr - Al wasl</title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
+  </programme>
+  <programme start="20261127213000 +0300" stop="20261127233000 +0300" channel="SPS2">
+    <title lang="tr">Boca juniors - I. rivadavia</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
   </programme>
   <programme start="20261121233000 +0300" stop="20261122000000 +0300" channel="COCUK">
     <title lang="tr">Cico ile Moco</title>
@@ -8697,6 +8941,74 @@
     <title lang="tr">Sözcü Tv Yayını</title>
     <desc lang="tr">Sözcü TV Tekrar Yayını.</desc>
   </programme>
+  <programme start="20261126030000 +0300" stop="20261126060000 +0300" channel="SZC">
+    <title lang="tr">Sözcü Tv Yayını</title>
+    <desc lang="tr">Sözcü TV Tekrar Yayını.</desc>
+  </programme>
+  <programme start="20261126060000 +0300" stop="20261126090000 +0300" channel="SZC">
+    <title lang="tr">Sözcü Tv Yayını</title>
+    <desc lang="tr">Sözcü TV Tekrar Yayını.</desc>
+  </programme>
+  <programme start="20261126090000 +0300" stop="20261126100000 +0300" channel="SZC">
+    <title lang="tr">Sözcü Tv Yayını</title>
+    <desc lang="tr">Sözcü TV Tekrar Yayını.</desc>
+  </programme>
+  <programme start="20261126100000 +0300" stop="20261126120000 +0300" channel="SZC">
+    <title lang="tr">Sözcü Tv Yayını</title>
+    <desc lang="tr">Sözcü TV Tekrar Yayını.</desc>
+  </programme>
+  <programme start="20261126120000 +0300" stop="20261126150000 +0300" channel="SZC">
+    <title lang="tr">Sözcü Tv Yayını</title>
+    <desc lang="tr">Sözcü TV Tekrar Yayını.</desc>
+  </programme>
+  <programme start="20261126150000 +0300" stop="20261126180000 +0300" channel="SZC">
+    <title lang="tr">Sözcü Tv Yayını</title>
+    <desc lang="tr">Sözcü TV Tekrar Yayını.</desc>
+  </programme>
+  <programme start="20261126180000 +0300" stop="20261126210000 +0300" channel="SZC">
+    <title lang="tr">Sözcü Tv Yayını</title>
+    <desc lang="tr">Sözcü TV Tekrar Yayını.</desc>
+  </programme>
+  <programme start="20261126210000 +0300" stop="20261127000000 +0300" channel="SZC">
+    <title lang="tr">Sözcü Tv Yayını</title>
+    <desc lang="tr">Sözcü TV Tekrar Yayını.</desc>
+  </programme>
+  <programme start="20261127000000 +0300" stop="20261127030000 +0300" channel="SZC">
+    <title lang="tr">Sözcü Tv Yayını</title>
+    <desc lang="tr">Sözcü TV Tekrar Yayını.</desc>
+  </programme>
+  <programme start="20261127030000 +0300" stop="20261127060000 +0300" channel="SZC">
+    <title lang="tr">Sözcü Tv Yayını</title>
+    <desc lang="tr">Sözcü TV Tekrar Yayını.</desc>
+  </programme>
+  <programme start="20261127060000 +0300" stop="20261127090000 +0300" channel="SZC">
+    <title lang="tr">Sözcü Tv Yayını</title>
+    <desc lang="tr">Sözcü TV Tekrar Yayını.</desc>
+  </programme>
+  <programme start="20261127090000 +0300" stop="20261127100000 +0300" channel="SZC">
+    <title lang="tr">Sözcü Tv Yayını</title>
+    <desc lang="tr">Sözcü TV Tekrar Yayını.</desc>
+  </programme>
+  <programme start="20261127100000 +0300" stop="20261127120000 +0300" channel="SZC">
+    <title lang="tr">Sözcü Tv Yayını</title>
+    <desc lang="tr">Sözcü TV Tekrar Yayını.</desc>
+  </programme>
+  <programme start="20261127120000 +0300" stop="20261127150000 +0300" channel="SZC">
+    <title lang="tr">Sözcü Tv Yayını</title>
+    <desc lang="tr">Sözcü TV Tekrar Yayını.</desc>
+  </programme>
+  <programme start="20261127150000 +0300" stop="20261127180000 +0300" channel="SZC">
+    <title lang="tr">Sözcü Tv Yayını</title>
+    <desc lang="tr">Sözcü TV Tekrar Yayını.</desc>
+  </programme>
+  <programme start="20261127180000 +0300" stop="20261127210000 +0300" channel="SZC">
+    <title lang="tr">Sözcü Tv Yayını</title>
+    <desc lang="tr">Sözcü TV Tekrar Yayını.</desc>
+  </programme>
+  <programme start="20261127210000 +0300" stop="20261128000000 +0300" channel="SZC">
+    <title lang="tr">Sözcü Tv Yayını</title>
+    <desc lang="tr">Sözcü TV Tekrar Yayını.</desc>
+  </programme>
   <programme start="20261121231500 +0300" stop="20261122020000 +0300" channel="SHOWMAX">
     <title lang="tr">Fatih Harbiye</title>
     <desc lang="tr">Geleneksellikle modernlik arasına sıkışmış Fatihli genç bir kız olan Neriman&apos;ın ilginç hayat hikâyesi.</desc>
@@ -8846,6 +9158,42 @@
     <desc lang="tr">Köy yaşamında geçen bu dramatik hikâye, aşk, ihanet ve adalet arayışını etkileyici bir dille anlatıyor.</desc>
   </programme>
   <programme start="20261126041500 +0300" stop="20261126070000 +0300" channel="SHOWMAX">
+    <title lang="tr">Yeni Gelin</title>
+    <desc lang="tr">Şehirli bir kızın geleneksel bir aşirete gelin gitmesiyle başlayan, aile içi çatışmaları konu alan komik bir hikaye.</desc>
+  </programme>
+  <programme start="20261126070000 +0300" stop="20261126090000 +0300" channel="SHOWMAX">
+    <title lang="tr">Gelin Evi</title>
+    <desc lang="tr">Evlilik hazırlıkları yapan gelin adaylarının heyecan ve heyecanlı anlarını, düğün planlarını ve aile ilişkilerini samimi bir anlatımla ekrana taşıyor.</desc>
+  </programme>
+  <programme start="20261126090000 +0300" stop="20261126113000 +0300" channel="SHOWMAX">
+    <title lang="tr">Siyah Kalp</title>
+    <desc lang="tr">Yıllar sonra açılan sırlar, aile içindeki dengeleri değiştirirken aşk, güç ve geçmişle hesaplaşma herkesi sınar.</desc>
+  </programme>
+  <programme start="20261126113000 +0300" stop="20261126140000 +0300" channel="SHOWMAX">
+    <title lang="tr">Yılanların Öcü</title>
+    <desc lang="tr">Köy yaşamında geçen bu dramatik hikâye, aşk, ihanet ve adalet arayışını etkileyici bir dille anlatıyor.</desc>
+  </programme>
+  <programme start="20261126140000 +0300" stop="20261126163000 +0300" channel="SHOWMAX">
+    <title lang="tr">Dila Hanım</title>
+    <desc lang="tr">İntikam ve aşkın kesiştiği bir yolda, geçmişin yaralarıyla yüzleşen bir kadın kaderini yeniden yazar.</desc>
+  </programme>
+  <programme start="20261126163000 +0300" stop="20261126194500 +0300" channel="SHOWMAX">
+    <title lang="tr">Yeni Gelin</title>
+    <desc lang="tr">Şehirli bir kızın geleneksel bir aşirete gelin gitmesiyle başlayan, aile içi çatışmaları konu alan komik bir hikaye.</desc>
+  </programme>
+  <programme start="20261126194500 +0300" stop="20261126231500 +0300" channel="SHOWMAX">
+    <title lang="tr">Siyah Kalp</title>
+    <desc lang="tr">Yıllar sonra açılan sırlar, aile içindeki dengeleri değiştirirken aşk, güç ve geçmişle hesaplaşma herkesi sınar.</desc>
+  </programme>
+  <programme start="20261126231500 +0300" stop="20261127020000 +0300" channel="SHOWMAX">
+    <title lang="tr">Dila Hanım</title>
+    <desc lang="tr">İntikam ve aşkın kesiştiği bir yolda, geçmişin yaralarıyla yüzleşen bir kadın kaderini yeniden yazar.</desc>
+  </programme>
+  <programme start="20261127020000 +0300" stop="20261127041500 +0300" channel="SHOWMAX">
+    <title lang="tr">Yılanların Öcü</title>
+    <desc lang="tr">Köy yaşamında geçen bu dramatik hikâye, aşk, ihanet ve adalet arayışını etkileyici bir dille anlatıyor.</desc>
+  </programme>
+  <programme start="20261127041500 +0300" stop="20261127070000 +0300" channel="SHOWMAX">
     <title lang="tr">Yeni Gelin</title>
     <desc lang="tr">Şehirli bir kızın geleneksel bir aşirete gelin gitmesiyle başlayan, aile içi çatışmaları konu alan komik bir hikaye.</desc>
   </programme>
@@ -14870,6 +15218,1462 @@
     <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
   </programme>
   <programme start="20261125235800 +0300" stop="20261126000100 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126000100 +0300" stop="20261126000500 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126000500 +0300" stop="20261126000900 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126000900 +0300" stop="20261126001200 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126001200 +0300" stop="20261126001500 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126001500 +0300" stop="20261126001900 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126001900 +0300" stop="20261126002200 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126002200 +0300" stop="20261126002500 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126002500 +0300" stop="20261126002900 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126002900 +0300" stop="20261126003300 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126003300 +0300" stop="20261126003600 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126003600 +0300" stop="20261126003900 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126003900 +0300" stop="20261126004300 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126004300 +0300" stop="20261126004600 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126004600 +0300" stop="20261126005000 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126005000 +0300" stop="20261126005400 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126005400 +0300" stop="20261126005700 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126005700 +0300" stop="20261126010200 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126010200 +0300" stop="20261126010500 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126010500 +0300" stop="20261126010900 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126010900 +0300" stop="20261126011300 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126011300 +0300" stop="20261126011600 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126011600 +0300" stop="20261126011900 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126011900 +0300" stop="20261126012300 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126012300 +0300" stop="20261126012600 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126012600 +0300" stop="20261126013000 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126013000 +0300" stop="20261126013400 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126013400 +0300" stop="20261126013700 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126013700 +0300" stop="20261126014000 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126014000 +0300" stop="20261126014400 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126014400 +0300" stop="20261126014800 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126014800 +0300" stop="20261126015100 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126015100 +0300" stop="20261126015500 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126015500 +0300" stop="20261126015900 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126015900 +0300" stop="20261126020300 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126020300 +0300" stop="20261126020700 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126020700 +0300" stop="20261126021000 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126021000 +0300" stop="20261126021500 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126021500 +0300" stop="20261126021900 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126021900 +0300" stop="20261126022200 +0300" channel="BABY">
+    <title lang="tr">Kiku Evde</title>
+    <desc lang="tr">Rahatlama, yavaşlama ve gevşeme zamanı. Sakinleştirici bir müzik eşliğindeki rahatlatıcı görüntüler uykuya hazırlanmak için çok iyi bir yoldur.</desc>
+  </programme>
+  <programme start="20261126022200 +0300" stop="20261126022500 +0300" channel="BABY">
+    <title lang="tr">Kiku Evde</title>
+    <desc lang="tr">Rahatlama, yavaşlama ve gevşeme zamanı. Sakinleştirici bir müzik eşliğindeki rahatlatıcı görüntüler uykuya hazırlanmak için çok iyi bir yoldur.</desc>
+  </programme>
+  <programme start="20261126022500 +0300" stop="20261126022800 +0300" channel="BABY">
+    <title lang="tr">Kiku Evde</title>
+    <desc lang="tr">Rahatlama, yavaşlama ve gevşeme zamanı. Sakinleştirici bir müzik eşliğindeki rahatlatıcı görüntüler uykuya hazırlanmak için çok iyi bir yoldur.</desc>
+  </programme>
+  <programme start="20261126022800 +0300" stop="20261126023100 +0300" channel="BABY">
+    <title lang="tr">Kiku Evde</title>
+    <desc lang="tr">Rahatlama, yavaşlama ve gevşeme zamanı. Sakinleştirici bir müzik eşliğindeki rahatlatıcı görüntüler uykuya hazırlanmak için çok iyi bir yoldur.</desc>
+  </programme>
+  <programme start="20261126023100 +0300" stop="20261126023400 +0300" channel="BABY">
+    <title lang="tr">Kiku Evde</title>
+    <desc lang="tr">Rahatlama, yavaşlama ve gevşeme zamanı. Sakinleştirici bir müzik eşliğindeki rahatlatıcı görüntüler uykuya hazırlanmak için çok iyi bir yoldur.</desc>
+  </programme>
+  <programme start="20261126023400 +0300" stop="20261126023700 +0300" channel="BABY">
+    <title lang="tr">Kiku Evde</title>
+    <desc lang="tr">Rahatlama, yavaşlama ve gevşeme zamanı. Sakinleştirici bir müzik eşliğindeki rahatlatıcı görüntüler uykuya hazırlanmak için çok iyi bir yoldur.</desc>
+  </programme>
+  <programme start="20261126023700 +0300" stop="20261126024000 +0300" channel="BABY">
+    <title lang="tr">Kiku Evde</title>
+    <desc lang="tr">Rahatlama, yavaşlama ve gevşeme zamanı. Sakinleştirici bir müzik eşliğindeki rahatlatıcı görüntüler uykuya hazırlanmak için çok iyi bir yoldur.</desc>
+  </programme>
+  <programme start="20261126024000 +0300" stop="20261126024300 +0300" channel="BABY">
+    <title lang="tr">Kiku Evde</title>
+    <desc lang="tr">Rahatlama, yavaşlama ve gevşeme zamanı. Sakinleştirici bir müzik eşliğindeki rahatlatıcı görüntüler uykuya hazırlanmak için çok iyi bir yoldur.</desc>
+  </programme>
+  <programme start="20261126024300 +0300" stop="20261126024600 +0300" channel="BABY">
+    <title lang="tr">Kiku Evde</title>
+    <desc lang="tr">Rahatlama, yavaşlama ve gevşeme zamanı. Sakinleştirici bir müzik eşliğindeki rahatlatıcı görüntüler uykuya hazırlanmak için çok iyi bir yoldur.</desc>
+  </programme>
+  <programme start="20261126024600 +0300" stop="20261126024900 +0300" channel="BABY">
+    <title lang="tr">Kiku Evde</title>
+    <desc lang="tr">Rahatlama, yavaşlama ve gevşeme zamanı. Sakinleştirici bir müzik eşliğindeki rahatlatıcı görüntüler uykuya hazırlanmak için çok iyi bir yoldur.</desc>
+  </programme>
+  <programme start="20261126024900 +0300" stop="20261126025200 +0300" channel="BABY">
+    <title lang="tr">Kiku Evde</title>
+    <desc lang="tr">Rahatlama, yavaşlama ve gevşeme zamanı. Sakinleştirici bir müzik eşliğindeki rahatlatıcı görüntüler uykuya hazırlanmak için çok iyi bir yoldur.</desc>
+  </programme>
+  <programme start="20261126025200 +0300" stop="20261126025500 +0300" channel="BABY">
+    <title lang="tr">Kiku Evde</title>
+    <desc lang="tr">Rahatlama, yavaşlama ve gevşeme zamanı. Sakinleştirici bir müzik eşliğindeki rahatlatıcı görüntüler uykuya hazırlanmak için çok iyi bir yoldur.</desc>
+  </programme>
+  <programme start="20261126025500 +0300" stop="20261126025800 +0300" channel="BABY">
+    <title lang="tr">Kiku Evde</title>
+    <desc lang="tr">Rahatlama, yavaşlama ve gevşeme zamanı. Sakinleştirici bir müzik eşliğindeki rahatlatıcı görüntüler uykuya hazırlanmak için çok iyi bir yoldur.</desc>
+  </programme>
+  <programme start="20261126025800 +0300" stop="20261126030100 +0300" channel="BABY">
+    <title lang="tr">Kiku Evde</title>
+    <desc lang="tr">Rahatlama, yavaşlama ve gevşeme zamanı. Sakinleştirici bir müzik eşliğindeki rahatlatıcı görüntüler uykuya hazırlanmak için çok iyi bir yoldur.</desc>
+  </programme>
+  <programme start="20261126030100 +0300" stop="20261126030400 +0300" channel="BABY">
+    <title lang="tr">Kiku Evde</title>
+    <desc lang="tr">Rahatlama, yavaşlama ve gevşeme zamanı. Sakinleştirici bir müzik eşliğindeki rahatlatıcı görüntüler uykuya hazırlanmak için çok iyi bir yoldur.</desc>
+  </programme>
+  <programme start="20261126030400 +0300" stop="20261126030800 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126030800 +0300" stop="20261126031100 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126031100 +0300" stop="20261126031500 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126031500 +0300" stop="20261126031800 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126031800 +0300" stop="20261126032200 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126032200 +0300" stop="20261126032500 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126032500 +0300" stop="20261126032800 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126032800 +0300" stop="20261126033200 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126033200 +0300" stop="20261126033500 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126033500 +0300" stop="20261126033900 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126033900 +0300" stop="20261126034300 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126034300 +0300" stop="20261126034600 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126034600 +0300" stop="20261126034900 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126034900 +0300" stop="20261126035200 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126035200 +0300" stop="20261126035600 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126035600 +0300" stop="20261126040000 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126040000 +0300" stop="20261126040400 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126040400 +0300" stop="20261126040700 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126040700 +0300" stop="20261126041100 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126041100 +0300" stop="20261126041500 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126041500 +0300" stop="20261126041800 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126041800 +0300" stop="20261126042200 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126042200 +0300" stop="20261126042600 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126042600 +0300" stop="20261126042900 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126042900 +0300" stop="20261126043300 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126043300 +0300" stop="20261126043600 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126043600 +0300" stop="20261126044000 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126044000 +0300" stop="20261126044400 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126044400 +0300" stop="20261126044700 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126044700 +0300" stop="20261126045000 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126045000 +0300" stop="20261126045400 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126045400 +0300" stop="20261126045700 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126045700 +0300" stop="20261126050100 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126050100 +0300" stop="20261126050500 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126050500 +0300" stop="20261126050900 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126050900 +0300" stop="20261126051300 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126051300 +0300" stop="20261126051700 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126051700 +0300" stop="20261126052000 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126052000 +0300" stop="20261126052500 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126052500 +0300" stop="20261126052800 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126052800 +0300" stop="20261126053100 +0300" channel="BABY">
+    <title lang="tr">Kiku Evde</title>
+    <desc lang="tr">Rahatlama, yavaşlama ve gevşeme zamanı. Sakinleştirici bir müzik eşliğindeki rahatlatıcı görüntüler uykuya hazırlanmak için çok iyi bir yoldur.</desc>
+  </programme>
+  <programme start="20261126053100 +0300" stop="20261126053400 +0300" channel="BABY">
+    <title lang="tr">Kiku Evde</title>
+    <desc lang="tr">Rahatlama, yavaşlama ve gevşeme zamanı. Sakinleştirici bir müzik eşliğindeki rahatlatıcı görüntüler uykuya hazırlanmak için çok iyi bir yoldur.</desc>
+  </programme>
+  <programme start="20261126053400 +0300" stop="20261126053700 +0300" channel="BABY">
+    <title lang="tr">Kiku Evde</title>
+    <desc lang="tr">Rahatlama, yavaşlama ve gevşeme zamanı. Sakinleştirici bir müzik eşliğindeki rahatlatıcı görüntüler uykuya hazırlanmak için çok iyi bir yoldur.</desc>
+  </programme>
+  <programme start="20261126053700 +0300" stop="20261126054000 +0300" channel="BABY">
+    <title lang="tr">Kiku Evde</title>
+    <desc lang="tr">Rahatlama, yavaşlama ve gevşeme zamanı. Sakinleştirici bir müzik eşliğindeki rahatlatıcı görüntüler uykuya hazırlanmak için çok iyi bir yoldur.</desc>
+  </programme>
+  <programme start="20261126054000 +0300" stop="20261126054300 +0300" channel="BABY">
+    <title lang="tr">Kiku Evde</title>
+    <desc lang="tr">Rahatlama, yavaşlama ve gevşeme zamanı. Sakinleştirici bir müzik eşliğindeki rahatlatıcı görüntüler uykuya hazırlanmak için çok iyi bir yoldur.</desc>
+  </programme>
+  <programme start="20261126054300 +0300" stop="20261126054600 +0300" channel="BABY">
+    <title lang="tr">Kiku Evde</title>
+    <desc lang="tr">Rahatlama, yavaşlama ve gevşeme zamanı. Sakinleştirici bir müzik eşliğindeki rahatlatıcı görüntüler uykuya hazırlanmak için çok iyi bir yoldur.</desc>
+  </programme>
+  <programme start="20261126054600 +0300" stop="20261126054900 +0300" channel="BABY">
+    <title lang="tr">Kiku Evde</title>
+    <desc lang="tr">Rahatlama, yavaşlama ve gevşeme zamanı. Sakinleştirici bir müzik eşliğindeki rahatlatıcı görüntüler uykuya hazırlanmak için çok iyi bir yoldur.</desc>
+  </programme>
+  <programme start="20261126054900 +0300" stop="20261126055200 +0300" channel="BABY">
+    <title lang="tr">Kiku Evde</title>
+    <desc lang="tr">Rahatlama, yavaşlama ve gevşeme zamanı. Sakinleştirici bir müzik eşliğindeki rahatlatıcı görüntüler uykuya hazırlanmak için çok iyi bir yoldur.</desc>
+  </programme>
+  <programme start="20261126055200 +0300" stop="20261126055500 +0300" channel="BABY">
+    <title lang="tr">Kiku Evde</title>
+    <desc lang="tr">Rahatlama, yavaşlama ve gevşeme zamanı. Sakinleştirici bir müzik eşliğindeki rahatlatıcı görüntüler uykuya hazırlanmak için çok iyi bir yoldur.</desc>
+  </programme>
+  <programme start="20261126055500 +0300" stop="20261126055800 +0300" channel="BABY">
+    <title lang="tr">Kiku Evde</title>
+    <desc lang="tr">Rahatlama, yavaşlama ve gevşeme zamanı. Sakinleştirici bir müzik eşliğindeki rahatlatıcı görüntüler uykuya hazırlanmak için çok iyi bir yoldur.</desc>
+  </programme>
+  <programme start="20261126055800 +0300" stop="20261126060100 +0300" channel="BABY">
+    <title lang="tr">Kiku Evde</title>
+    <desc lang="tr">Rahatlama, yavaşlama ve gevşeme zamanı. Sakinleştirici bir müzik eşliğindeki rahatlatıcı görüntüler uykuya hazırlanmak için çok iyi bir yoldur.</desc>
+  </programme>
+  <programme start="20261126060100 +0300" stop="20261126060400 +0300" channel="BABY">
+    <title lang="tr">Kiku Evde</title>
+    <desc lang="tr">Rahatlama, yavaşlama ve gevşeme zamanı. Sakinleştirici bir müzik eşliğindeki rahatlatıcı görüntüler uykuya hazırlanmak için çok iyi bir yoldur.</desc>
+  </programme>
+  <programme start="20261126060400 +0300" stop="20261126060700 +0300" channel="BABY">
+    <title lang="tr">Kiku Evde</title>
+    <desc lang="tr">Rahatlama, yavaşlama ve gevşeme zamanı. Sakinleştirici bir müzik eşliğindeki rahatlatıcı görüntüler uykuya hazırlanmak için çok iyi bir yoldur.</desc>
+  </programme>
+  <programme start="20261126060700 +0300" stop="20261126061000 +0300" channel="BABY">
+    <title lang="tr">Kiku Evde</title>
+    <desc lang="tr">Rahatlama, yavaşlama ve gevşeme zamanı. Sakinleştirici bir müzik eşliğindeki rahatlatıcı görüntüler uykuya hazırlanmak için çok iyi bir yoldur.</desc>
+  </programme>
+  <programme start="20261126061000 +0300" stop="20261126061300 +0300" channel="BABY">
+    <title lang="tr">Kiku Evde</title>
+    <desc lang="tr">Rahatlama, yavaşlama ve gevşeme zamanı. Sakinleştirici bir müzik eşliğindeki rahatlatıcı görüntüler uykuya hazırlanmak için çok iyi bir yoldur.</desc>
+  </programme>
+  <programme start="20261126061300 +0300" stop="20261126061800 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126061800 +0300" stop="20261126062100 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126062100 +0300" stop="20261126062400 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126062400 +0300" stop="20261126062800 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126062800 +0300" stop="20261126063200 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126063200 +0300" stop="20261126063500 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126063500 +0300" stop="20261126063800 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126063800 +0300" stop="20261126064200 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126064200 +0300" stop="20261126064500 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126064500 +0300" stop="20261126064900 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126064900 +0300" stop="20261126065200 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126065200 +0300" stop="20261126065600 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126065600 +0300" stop="20261126065900 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126065900 +0300" stop="20261126070200 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126070200 +0300" stop="20261126070600 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126070600 +0300" stop="20261126071000 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126071000 +0300" stop="20261126071300 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126071300 +0300" stop="20261126071700 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126071700 +0300" stop="20261126072100 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126072100 +0300" stop="20261126072500 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126072500 +0300" stop="20261126072800 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126072800 +0300" stop="20261126073200 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126073200 +0300" stop="20261126073600 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126073600 +0300" stop="20261126073900 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126073900 +0300" stop="20261126074300 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126074300 +0300" stop="20261126074600 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126074600 +0300" stop="20261126074900 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126074900 +0300" stop="20261126075300 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126075300 +0300" stop="20261126075700 +0300" channel="BABY">
+    <title lang="tr">Gözlerini Kapat</title>
+    <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
+  </programme>
+  <programme start="20261126075700 +0300" stop="20261126080200 +0300" channel="BABY">
+    <title lang="tr">Neşeli Hayvanlar</title>
+    <desc lang="tr">Bebek kelebek ve hayvan arkadaşları birlikte yaşadıkları eğlenceli günleri anıyorlar, örneğin kumsala gittikleri günü, birlikte sihir numaraları yaptıkları veya bir müzik grubunda çaldıkları zamanları! Karşılaştıkları problemleri çözüyorlar, çünkü en önemli şeyin arkadaş kalmak olduğunu biliyorlar!</desc>
+  </programme>
+  <programme start="20261126080200 +0300" stop="20261126080600 +0300" channel="BABY">
+    <title lang="tr">Neşeli Hayvanlar</title>
+    <desc lang="tr">Bebek kelebek ve hayvan arkadaşları birlikte yaşadıkları eğlenceli günleri anıyorlar, örneğin kumsala gittikleri günü, birlikte sihir numaraları yaptıkları veya bir müzik grubunda çaldıkları zamanları! Karşılaştıkları problemleri çözüyorlar, çünkü en önemli şeyin arkadaş kalmak olduğunu biliyorlar!</desc>
+  </programme>
+  <programme start="20261126080600 +0300" stop="20261126081000 +0300" channel="BABY">
+    <title lang="tr">Neşeli Hayvanlar</title>
+    <desc lang="tr">Bebek kelebek ve hayvan arkadaşları birlikte yaşadıkları eğlenceli günleri anıyorlar, örneğin kumsala gittikleri günü, birlikte sihir numaraları yaptıkları veya bir müzik grubunda çaldıkları zamanları! Karşılaştıkları problemleri çözüyorlar, çünkü en önemli şeyin arkadaş kalmak olduğunu biliyorlar!</desc>
+  </programme>
+  <programme start="20261126081000 +0300" stop="20261126081600 +0300" channel="BABY">
+    <title lang="tr">Billy BamBam</title>
+    <desc lang="tr">Billy ve Bam Bam, evde ve parkta buldukları günlük nesnelerle, bir kağıt rulosu bir çuf çuf tren, tencere kapakları müzik aleti olabilir, kardeşler gibi birlikte oynayarak, şarkı söyleyerek ve eğlenerek yaratıcı ve ilham verici aktivitelerin sonsuz fikirlerini keşfetmeyi seven, sevimli küçük çılgın kardeşlerin yer aldığı enerjik ve heyecan verici bir programdır.</desc>
+  </programme>
+  <programme start="20261126081600 +0300" stop="20261126082200 +0300" channel="BABY">
+    <title lang="tr">Billy BamBam</title>
+    <desc lang="tr">Billy ve Bam Bam, evde ve parkta buldukları günlük nesnelerle, bir kağıt rulosu bir çuf çuf tren, tencere kapakları müzik aleti olabilir, kardeşler gibi birlikte oynayarak, şarkı söyleyerek ve eğlenerek yaratıcı ve ilham verici aktivitelerin sonsuz fikirlerini keşfetmeyi seven, sevimli küçük çılgın kardeşlerin yer aldığı enerjik ve heyecan verici bir programdır.</desc>
+  </programme>
+  <programme start="20261126082200 +0300" stop="20261126082800 +0300" channel="BABY">
+    <title lang="tr">Billy BamBam</title>
+    <desc lang="tr">Billy ve Bam Bam, evde ve parkta buldukları günlük nesnelerle, bir kağıt rulosu bir çuf çuf tren, tencere kapakları müzik aleti olabilir, kardeşler gibi birlikte oynayarak, şarkı söyleyerek ve eğlenerek yaratıcı ve ilham verici aktivitelerin sonsuz fikirlerini keşfetmeyi seven, sevimli küçük çılgın kardeşlerin yer aldığı enerjik ve heyecan verici bir programdır.</desc>
+  </programme>
+  <programme start="20261126082800 +0300" stop="20261126083400 +0300" channel="BABY">
+    <title lang="tr">Mona &amp; Sketch</title>
+    <desc lang="tr">Mona ile tanışın; Sketch isminde çok özel bir arkadaşı olan, meraklı ve maceracı bir kız. Her bölümde Mona&apos;nın istediğini düşünmek için hayal gücünü kullandığı yeni bir macera var. Sketch maceracı Mona ile dalga geçmekten hoşlanıyor, ama eninde sonunda Mona&apos;nın isteklerini gerçekleştiriyor.</desc>
+  </programme>
+  <programme start="20261126083400 +0300" stop="20261126083900 +0300" channel="BABY">
+    <title lang="tr">Mona &amp; Sketch</title>
+    <desc lang="tr">Mona ile tanışın; Sketch isminde çok özel bir arkadaşı olan, meraklı ve maceracı bir kız. Her bölümde Mona&apos;nın istediğini düşünmek için hayal gücünü kullandığı yeni bir macera var. Sketch maceracı Mona ile dalga geçmekten hoşlanıyor, ama eninde sonunda Mona&apos;nın isteklerini gerçekleştiriyor.</desc>
+  </programme>
+  <programme start="20261126083900 +0300" stop="20261126084400 +0300" channel="BABY">
+    <title lang="tr">Mona &amp; Sketch</title>
+    <desc lang="tr">Mona ile tanışın; Sketch isminde çok özel bir arkadaşı olan, meraklı ve maceracı bir kız. Her bölümde Mona&apos;nın istediğini düşünmek için hayal gücünü kullandığı yeni bir macera var. Sketch maceracı Mona ile dalga geçmekten hoşlanıyor, ama eninde sonunda Mona&apos;nın isteklerini gerçekleştiriyor.</desc>
+  </programme>
+  <programme start="20261126084400 +0300" stop="20261126084900 +0300" channel="BABY">
+    <title lang="tr">Salyangoz İzi</title>
+    <desc lang="tr">Bay Salyangoz vahşi doğayı incelemek için dışarıya çıkıp, maceralara atılan bir kaşif. Seyahatlerinde Bay Salyangoz farklı hayvanlarla tanışıyor ve onlara bazı komik sorular sorarak, hayat tarzları ve alışkanlıkları ile ilgili önemli keşifler yapıyor.</desc>
+  </programme>
+  <programme start="20261126084900 +0300" stop="20261126090000 +0300" channel="BABY">
+    <title lang="tr">Salyangoz İzi</title>
+    <desc lang="tr">Bay Salyangoz vahşi doğayı incelemek için dışarıya çıkıp, maceralara atılan bir kaşif. Seyahatlerinde Bay Salyangoz farklı hayvanlarla tanışıyor ve onlara bazı komik sorular sorarak, hayat tarzları ve alışkanlıkları ile ilgili önemli keşifler yapıyor.</desc>
+  </programme>
+  <programme start="20261126090000 +0300" stop="20261126090600 +0300" channel="BABY">
+    <title lang="tr">Merhaba Korsanlar</title>
+    <desc lang="tr">Korsancılık oynamak her zaman eğlencelidir. Hem kim değerli bir hazine bulmak istemez ki? Bir korsan gemisindeki üç kız korsan, değerli hazine arayışında yeni topraklar keşfediyor, çeşitli bulmacalar ve bilmeceler çözüyor. Değerli hazineler her zaman muhteşem bir parti için ihtiyaç duyulan tüm eğlenceli öğeleri içeriyor!</desc>
+  </programme>
+  <programme start="20261126090600 +0300" stop="20261126091300 +0300" channel="BABY">
+    <title lang="tr">Merhaba Korsanlar</title>
+    <desc lang="tr">Korsancılık oynamak her zaman eğlencelidir. Hem kim değerli bir hazine bulmak istemez ki? Bir korsan gemisindeki üç kız korsan, değerli hazine arayışında yeni topraklar keşfediyor, çeşitli bulmacalar ve bilmeceler çözüyor. Değerli hazineler her zaman muhteşem bir parti için ihtiyaç duyulan tüm eğlenceli öğeleri içeriyor!</desc>
+  </programme>
+  <programme start="20261126091300 +0300" stop="20261126091800 +0300" channel="BABY">
+    <title lang="tr">Salyangoz İzi</title>
+    <desc lang="tr">Bay Salyangoz vahşi doğayı incelemek için dışarıya çıkıp, maceralara atılan bir kaşif. Seyahatlerinde Bay Salyangoz farklı hayvanlarla tanışıyor ve onlara bazı komik sorular sorarak, hayat tarzları ve alışkanlıkları ile ilgili önemli keşifler yapıyor.</desc>
+  </programme>
+  <programme start="20261126091800 +0300" stop="20261126092400 +0300" channel="BABY">
+    <title lang="tr">Salyangoz İzi</title>
+    <desc lang="tr">Bay Salyangoz vahşi doğayı incelemek için dışarıya çıkıp, maceralara atılan bir kaşif. Seyahatlerinde Bay Salyangoz farklı hayvanlarla tanışıyor ve onlara bazı komik sorular sorarak, hayat tarzları ve alışkanlıkları ile ilgili önemli keşifler yapıyor.</desc>
+  </programme>
+  <programme start="20261126092400 +0300" stop="20261126092800 +0300" channel="BABY">
+    <title lang="tr">Ahoy Lolipoplar</title>
+    <desc lang="tr">Katie, Jon Jon ve Beth, korsan gibi giyinip cesur oyun randevularına çıkarlar. Cesur üçlü, bilmeceleri çözer ve korkunç maceraların üstesinden gelir. Ama karşılaştıkları zorluklar ne olursa olsun, keşfettikleri en büyük hazine arkadaşlıklarının gücüdür!</desc>
+  </programme>
+  <programme start="20261126092800 +0300" stop="20261126093300 +0300" channel="BABY">
+    <title lang="tr">Lale Ki Lolu</title>
+    <desc lang="tr">Lale ve Lolu onlar için özel olarak yaratılmış bir perinin büyülü oyun dünyasında birçok maceraya atılıyorlar. Antik Mısır&apos;dan, uzak doğuya, bu iki sevimli yaratık birbirleriyle sesler kullanarak iletişime geçiyorlar, böylece çocukların hayal gücünü kullanmasına ve hikayeyi kendi kendilerine devam ettirmelerine olanak sağlıyorlar.</desc>
+  </programme>
+  <programme start="20261126093300 +0300" stop="20261126093900 +0300" channel="BABY">
+    <title lang="tr">Lale Ki Lolu</title>
+    <desc lang="tr">Lale ve Lolu onlar için özel olarak yaratılmış bir perinin büyülü oyun dünyasında birçok maceraya atılıyorlar. Antik Mısır&apos;dan, uzak doğuya, bu iki sevimli yaratık birbirleriyle sesler kullanarak iletişime geçiyorlar, böylece çocukların hayal gücünü kullanmasına ve hikayeyi kendi kendilerine devam ettirmelerine olanak sağlıyorlar.</desc>
+  </programme>
+  <programme start="20261126093900 +0300" stop="20261126094100 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126094100 +0300" stop="20261126094200 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126094200 +0300" stop="20261126094500 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126094500 +0300" stop="20261126094900 +0300" channel="BABY">
+    <title lang="tr">Gezginler</title>
+    <desc lang="tr">Birbirinden oldukça farklı ve komik iki gezgin olan aklı başında Perry ve ele avuca sığmayan Harley, bir sorunu çözmenin birden fazla yolu olduğunu keşfederler.</desc>
+  </programme>
+  <programme start="20261126094900 +0300" stop="20261126095400 +0300" channel="BABY">
+    <title lang="tr">Pix ve Leo</title>
+    <desc lang="tr">Hareketli ve oynamayı seven küçük Tilki Pix ve onun en iyi arkadaşı uykucu ve meraklı Aslan Leo ile tanışın. Onlar gülüp oynarken ve etraflarındaki dünya hakkında bilgi edinirken ormandaki komik maceralarını takip edin. Hayvan komşuları ile tanışacaklar, farklı ortamları keşfedecekler ve sorun ne olursa olsun birbirlerinin her zaman sahip çıkmayı öğrenecekler. Bu yaratıcı dizi, küçük çocukları arkadaşlığın (iniş) çıkışlarıyla tanıştırıyor.</desc>
+  </programme>
+  <programme start="20261126095400 +0300" stop="20261126095700 +0300" channel="BABY">
+    <title lang="tr">Mowgli: Ormana Hoş Geldin</title>
+    <desc lang="tr">Mowgli Ormana Hoş Geldin, vahşi ormanda yalnız kalan cesur ve minik bir vahşi çocuk hakkında yapılmış şarkılardan oluşan eğlenceli bir seri. Tuhaf sesler, yeni yerler ve beklenmedik zorluklarla çevrili Mowgli cesur, meraklı ve nazik olmayı öğreniyor. İki sadık kurdun ve arkadaş canlısı koca bir ayının yardımıyla en vahşi ormanın bile bir yuvaya dönüşebildiğini yavaşça öğrenir.</desc>
+  </programme>
+  <programme start="20261126095700 +0300" stop="20261126100200 +0300" channel="BABY">
+    <title lang="tr">Adaya Hoş Geldin</title>
+    <desc lang="tr">Uzaklarda, küçük bir adada dört arkadaş yaşarmış. Bilge hindistan cevizi ağacı Coco, meraklı kaya Bucky, küçük çiçek Lily ve mutlu Papaya ağacı Blossom. Böyle küçük, uzak bir adada pek bir şeyler olmadığını düşünebilirsiniz fakat adada hayat, okyanusu temizlemeye gelen dost ahtapotlar, yumurtalarını bırakmaya gelen kaplumbağa veya polen aramaya gelen arı gibi adaya bazen gelen ziyaretçileri sayesinde neşe ve heyecan doludur.</desc>
+  </programme>
+  <programme start="20261126100200 +0300" stop="20261126100800 +0300" channel="BABY">
+    <title lang="tr">Adaya Hoş Geldin</title>
+    <desc lang="tr">Uzaklarda, küçük bir adada dört arkadaş yaşarmış. Bilge hindistan cevizi ağacı Coco, meraklı kaya Bucky, küçük çiçek Lily ve mutlu Papaya ağacı Blossom. Böyle küçük, uzak bir adada pek bir şeyler olmadığını düşünebilirsiniz fakat adada hayat, okyanusu temizlemeye gelen dost ahtapotlar, yumurtalarını bırakmaya gelen kaplumbağa veya polen aramaya gelen arı gibi adaya bazen gelen ziyaretçileri sayesinde neşe ve heyecan doludur.</desc>
+  </programme>
+  <programme start="20261126100800 +0300" stop="20261126101000 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126101000 +0300" stop="20261126101200 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126101200 +0300" stop="20261126101400 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126101400 +0300" stop="20261126102000 +0300" channel="BABY">
+    <title lang="tr">Mini Matinee</title>
+    <desc lang="tr">Büyüleyici dört hayvan arkadaş, sihirli tiyatro dünyasında muhteşem oyunlar sergiliyorlar. Her bölümde, dünyanın farklı bir yerini ziyaret eden arkadaşlar çok uzaklardaki kültürlere ait gelenek ve adetler ile ilgili ilgi çekici hikayeler ve eğlenceli gerçekler anlatıyorlar.</desc>
+  </programme>
+  <programme start="20261126102000 +0300" stop="20261126102600 +0300" channel="BABY">
+    <title lang="tr">Mini Matinee</title>
+    <desc lang="tr">Büyüleyici dört hayvan arkadaş, sihirli tiyatro dünyasında muhteşem oyunlar sergiliyorlar. Her bölümde, dünyanın farklı bir yerini ziyaret eden arkadaşlar çok uzaklardaki kültürlere ait gelenek ve adetler ile ilgili ilgi çekici hikayeler ve eğlenceli gerçekler anlatıyorlar.</desc>
+  </programme>
+  <programme start="20261126102600 +0300" stop="20261126103200 +0300" channel="BABY">
+    <title lang="tr">Mini Matinee</title>
+    <desc lang="tr">Büyüleyici dört hayvan arkadaş, sihirli tiyatro dünyasında muhteşem oyunlar sergiliyorlar. Her bölümde, dünyanın farklı bir yerini ziyaret eden arkadaşlar çok uzaklardaki kültürlere ait gelenek ve adetler ile ilgili ilgi çekici hikayeler ve eğlenceli gerçekler anlatıyorlar.</desc>
+  </programme>
+  <programme start="20261126103200 +0300" stop="20261126103700 +0300" channel="BABY">
+    <title lang="tr">Mona &amp; Sketch</title>
+    <desc lang="tr">Mona ile tanışın; Sketch isminde çok özel bir arkadaşı olan, meraklı ve maceracı bir kız. Her bölümde Mona&apos;nın istediğini düşünmek için hayal gücünü kullandığı yeni bir macera var. Sketch maceracı Mona ile dalga geçmekten hoşlanıyor, ama eninde sonunda Mona&apos;nın isteklerini gerçekleştiriyor.</desc>
+  </programme>
+  <programme start="20261126103700 +0300" stop="20261126104200 +0300" channel="BABY">
+    <title lang="tr">Mona &amp; Sketch</title>
+    <desc lang="tr">Mona ile tanışın; Sketch isminde çok özel bir arkadaşı olan, meraklı ve maceracı bir kız. Her bölümde Mona&apos;nın istediğini düşünmek için hayal gücünü kullandığı yeni bir macera var. Sketch maceracı Mona ile dalga geçmekten hoşlanıyor, ama eninde sonunda Mona&apos;nın isteklerini gerçekleştiriyor.</desc>
+  </programme>
+  <programme start="20261126104200 +0300" stop="20261126104700 +0300" channel="BABY">
+    <title lang="tr">İnşaatçı Fareler</title>
+    <desc lang="tr">İnşaatçı Fareler yeni evlerini inşa etmeye hevesle bağlılar. Bir ulak bir paketle geldiğinde, aletlerini bırakıyorlar ve paketin içinde ne olduğunu tahmin etmeye çalışıyorlar. Gizem çözüldüğünde ve nesne ait olduğu yere konulduğunda, İnşaatçı farelerin evi yavaşça birleştirilirken, hep beraber kutluyoruz.</desc>
+  </programme>
+  <programme start="20261126104700 +0300" stop="20261126105300 +0300" channel="BABY">
+    <title lang="tr">Billy BamBam</title>
+    <desc lang="tr">Billy ve Bam Bam, evde ve parkta buldukları günlük nesnelerle, bir kağıt rulosu bir çuf çuf tren, tencere kapakları müzik aleti olabilir, kardeşler gibi birlikte oynayarak, şarkı söyleyerek ve eğlenerek yaratıcı ve ilham verici aktivitelerin sonsuz fikirlerini keşfetmeyi seven, sevimli küçük çılgın kardeşlerin yer aldığı enerjik ve heyecan verici bir programdır.</desc>
+  </programme>
+  <programme start="20261126105300 +0300" stop="20261126105900 +0300" channel="BABY">
+    <title lang="tr">Billy BamBam</title>
+    <desc lang="tr">Billy ve Bam Bam, evde ve parkta buldukları günlük nesnelerle, bir kağıt rulosu bir çuf çuf tren, tencere kapakları müzik aleti olabilir, kardeşler gibi birlikte oynayarak, şarkı söyleyerek ve eğlenerek yaratıcı ve ilham verici aktivitelerin sonsuz fikirlerini keşfetmeyi seven, sevimli küçük çılgın kardeşlerin yer aldığı enerjik ve heyecan verici bir programdır.</desc>
+  </programme>
+  <programme start="20261126105900 +0300" stop="20261126110000 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126110000 +0300" stop="20261126110200 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126110200 +0300" stop="20261126110700 +0300" channel="BABY">
+    <title lang="tr">Bug&apos;n&apos;Play Kurtarmaya Geliyor</title>
+    <desc lang="tr">Bahçede bırakılan bir oyuncakla oynayan üç küçük böcek Laz, Hop ve Butterson için işler kontrolden çıkar. Her bölümde böceklerden birinin başı belaya girer ve iki arkadaş sonunda cesur bir kurtarma göreviyle günü kurtarır.</desc>
+  </programme>
+  <programme start="20261126110700 +0300" stop="20261126111400 +0300" channel="BABY">
+    <title lang="tr">Olly</title>
+    <desc lang="tr">3 yaşında oyuncu bir maymun olan Olly, iki yakın arkadaşı Kedicik, Dolly ve Salyangoz ile giyinme oyunu oynamayı çok seviyor. Olly bugün ne olacak? Otobüs şoförü mü? Doktor mu? Yoksa bir dansçı mı?</desc>
+  </programme>
+  <programme start="20261126111400 +0300" stop="20261126111900 +0300" channel="BABY">
+    <title lang="tr">Stitches</title>
+    <desc lang="tr">Minik kız, keçe oyuncakları ile beraber evcilik oynuyor. Kızın kahramanı ise kim önüne gelirse onu etkileyen küçük bir kaktüs. Her bölümde, kaktüsün karşısına çıkan zorluklar ve komik olaylarlar ile beraber bambaşka bir dünya tanıtılıyor.</desc>
+  </programme>
+  <programme start="20261126111900 +0300" stop="20261126112200 +0300" channel="BABY">
+    <title lang="tr">Lolipoplar</title>
+    <desc lang="tr">Lolipoplarla tanışın: Beth, Katie ve Jon John, mahallenin en havalı kız grubu! Grup, bir gitar, bateri ve klavyeyle her gün yaşadıkları iniş ve çıkışları eğlence, arkadaşlık ve hiddet dolu, akılda kalan pop şarkılarına dönüştürür. Kavga ve barışmalardan yıldızlık hayallerine birçok şeyden etkilenen şarkıları cesur bağlarını, yaşadıkları yoğun hisleri ve birbirlerine olan sadakatlerini konu alır. Çocukların eşlik edeceği, onları dans ettirecek ve arkadaşlığın gücüne inandıracak yepyeni bir sürü mutluluk veren şarkıya hazırlanın!</desc>
+  </programme>
+  <programme start="20261126112200 +0300" stop="20261126112400 +0300" channel="BABY">
+    <title lang="tr">Lolipoplar</title>
+    <desc lang="tr">Lolipoplarla tanışın: Beth, Katie ve Jon John, mahallenin en havalı kız grubu! Grup, bir gitar, bateri ve klavyeyle her gün yaşadıkları iniş ve çıkışları eğlence, arkadaşlık ve hiddet dolu, akılda kalan pop şarkılarına dönüştürür. Kavga ve barışmalardan yıldızlık hayallerine birçok şeyden etkilenen şarkıları cesur bağlarını, yaşadıkları yoğun hisleri ve birbirlerine olan sadakatlerini konu alır. Çocukların eşlik edeceği, onları dans ettirecek ve arkadaşlığın gücüne inandıracak yepyeni bir sürü mutluluk veren şarkıya hazırlanın!</desc>
+  </programme>
+  <programme start="20261126112400 +0300" stop="20261126112700 +0300" channel="BABY">
+    <title lang="tr">Giggle Wiggle</title>
+    <desc lang="tr">BabyTV ile hareket ve dans edin! Bu dizi, çocukları ekranda gördükleri dans hareketlerini taklit ederek eğlenceye katılmaya teşvik ediyor. Neşeli şarkılar ve tekerlemeler ile küçük çocuğunuz yerinde duramayacak!</desc>
+  </programme>
+  <programme start="20261126112700 +0300" stop="20261126113000 +0300" channel="BABY">
+    <title lang="tr">Giggle Wiggle</title>
+    <desc lang="tr">BabyTV ile hareket ve dans edin! Bu dizi, çocukları ekranda gördükleri dans hareketlerini taklit ederek eğlenceye katılmaya teşvik ediyor. Neşeli şarkılar ve tekerlemeler ile küçük çocuğunuz yerinde duramayacak!</desc>
+  </programme>
+  <programme start="20261126113000 +0300" stop="20261126113200 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126113200 +0300" stop="20261126113400 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126113400 +0300" stop="20261126113500 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126113500 +0300" stop="20261126113700 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126113700 +0300" stop="20261126113900 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126113900 +0300" stop="20261126114100 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126114100 +0300" stop="20261126114300 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126114300 +0300" stop="20261126115000 +0300" channel="BABY">
+    <title lang="tr">Charlie &amp; Sayılar</title>
+    <desc lang="tr">Sayılar ve hesaplama, Charlie, sayıların hüküm sürdüğü sihirli bir dünya olan Sayılar Krallığı&apos;nı ziyaret ettiğinde eğlenceli bir maceraya dönüşüyor. Charlie her bir büyüleyici sayıyla tanışırken ona katılın ve şarkıların, dansın ve tabii ki bu çekici diziyle hayat bulan sayma ve hesaplama işlemlerinin tadını çıkarın.</desc>
+  </programme>
+  <programme start="20261126115000 +0300" stop="20261126115700 +0300" channel="BABY">
+    <title lang="tr">Charlie &amp; Sayılar</title>
+    <desc lang="tr">Sayılar ve hesaplama, Charlie, sayıların hüküm sürdüğü sihirli bir dünya olan Sayılar Krallığı&apos;nı ziyaret ettiğinde eğlenceli bir maceraya dönüşüyor. Charlie her bir büyüleyici sayıyla tanışırken ona katılın ve şarkıların, dansın ve tabii ki bu çekici diziyle hayat bulan sayma ve hesaplama işlemlerinin tadını çıkarın.</desc>
+  </programme>
+  <programme start="20261126115700 +0300" stop="20261126120200 +0300" channel="BABY">
+    <title lang="tr">Charlie &amp; Şekiller</title>
+    <desc lang="tr">BabyTV&apos;nin çok başarılı yeni kavramları öğrenme formatı üçüncü serisi ile karşınızda. -Charlie &amp; Şekiller, Charlie şekil arkadaşlarına sorunları çözmede yardımcı olmaya devam ediyor ve şekil arkadaşlarından gerçek hayatta bulunan nesneler yaratarak maceralara atılıyor.</desc>
+  </programme>
+  <programme start="20261126120200 +0300" stop="20261126120800 +0300" channel="BABY">
+    <title lang="tr">Charlie &amp; Şekiller</title>
+    <desc lang="tr">BabyTV&apos;nin çok başarılı yeni kavramları öğrenme formatı üçüncü serisi ile karşınızda. -Charlie &amp; Şekiller, Charlie şekil arkadaşlarına sorunları çözmede yardımcı olmaya devam ediyor ve şekil arkadaşlarından gerçek hayatta bulunan nesneler yaratarak maceralara atılıyor.</desc>
+  </programme>
+  <programme start="20261126120800 +0300" stop="20261126121300 +0300" channel="BABY">
+    <title lang="tr">Charlie &amp; Şekiller</title>
+    <desc lang="tr">BabyTV&apos;nin çok başarılı yeni kavramları öğrenme formatı üçüncü serisi ile karşınızda. -Charlie &amp; Şekiller, Charlie şekil arkadaşlarına sorunları çözmede yardımcı olmaya devam ediyor ve şekil arkadaşlarından gerçek hayatta bulunan nesneler yaratarak maceralara atılıyor.</desc>
+  </programme>
+  <programme start="20261126121300 +0300" stop="20261126121800 +0300" channel="BABY">
+    <title lang="tr">Teeny &amp; Tiny&apos;nin Sınıfı</title>
+    <desc lang="tr">Teeny ve Tiny, farklı farklı bilmecelerini ve oyunlarını bizlerle paylaşan çok mutlu ve bir o kadar da haylaz iki arkadaştır. Program, yaratıcı düşünmeyi geliştiren ve zenginleştiren, hayal gücünü ve rol yapmayı destekleyen eğlenceli oyunlardan oluşuyor. Tiny ve arkadaşlarının maskaralıklarına tanık olurken birbirinden farklı şekiller, renkler ve sayılar göreceğiz.</desc>
+  </programme>
+  <programme start="20261126121800 +0300" stop="20261126122100 +0300" channel="BABY">
+    <title lang="tr">Teeny &amp; Tiny&apos;nin Sınıfı</title>
+    <desc lang="tr">Teeny ve Tiny, farklı farklı bilmecelerini ve oyunlarını bizlerle paylaşan çok mutlu ve bir o kadar da haylaz iki arkadaştır. Program, yaratıcı düşünmeyi geliştiren ve zenginleştiren, hayal gücünü ve rol yapmayı destekleyen eğlenceli oyunlardan oluşuyor. Tiny ve arkadaşlarının maskaralıklarına tanık olurken birbirinden farklı şekiller, renkler ve sayılar göreceğiz.</desc>
+  </programme>
+  <programme start="20261126122100 +0300" stop="20261126122600 +0300" channel="BABY">
+    <title lang="tr">Teeny &amp; Tiny&apos;nin Sınıfı</title>
+    <desc lang="tr">Teeny ve Tiny, farklı farklı bilmecelerini ve oyunlarını bizlerle paylaşan çok mutlu ve bir o kadar da haylaz iki arkadaştır. Program, yaratıcı düşünmeyi geliştiren ve zenginleştiren, hayal gücünü ve rol yapmayı destekleyen eğlenceli oyunlardan oluşuyor. Tiny ve arkadaşlarının maskaralıklarına tanık olurken birbirinden farklı şekiller, renkler ve sayılar göreceğiz.</desc>
+  </programme>
+  <programme start="20261126122600 +0300" stop="20261126122700 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126122700 +0300" stop="20261126122900 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126122900 +0300" stop="20261126123600 +0300" channel="BABY">
+    <title lang="tr">Hippa Hippa Hey</title>
+    <desc lang="tr">Oyuncak Bebek Sophie, Hipopotam Hippa ve Köpek Hav Hav adında üç oyuncağın, bilemece çözme, eşleştirme ve sıralama oyunları içeren, heyecan verici maceralara çıktıkları bir seri.</desc>
+  </programme>
+  <programme start="20261126123600 +0300" stop="20261126124400 +0300" channel="BABY">
+    <title lang="tr">Hippa Hippa Hey</title>
+    <desc lang="tr">Oyuncak Bebek Sophie, Hipopotam Hippa ve Köpek Hav Hav adında üç oyuncağın, bilemece çözme, eşleştirme ve sıralama oyunları içeren, heyecan verici maceralara çıktıkları bir seri.</desc>
+  </programme>
+  <programme start="20261126124400 +0300" stop="20261126124900 +0300" channel="BABY">
+    <title lang="tr">Choopies</title>
+    <desc lang="tr">Maceracı birer izci olan Choopies, her bölüm çeşitli nesneleri bulmak için farklı görevlere çıkıyorlar. İhtiyaçları olan tüm nesneleri bulduktan sonra, onları birleştiriyor, görevi tamamlıyor ve ortaya çıkanın keyfini çıkartıyorlar.</desc>
+  </programme>
+  <programme start="20261126124900 +0300" stop="20261126125500 +0300" channel="BABY">
+    <title lang="tr">Choopies</title>
+    <desc lang="tr">Maceracı birer izci olan Choopies, her bölüm çeşitli nesneleri bulmak için farklı görevlere çıkıyorlar. İhtiyaçları olan tüm nesneleri bulduktan sonra, onları birleştiriyor, görevi tamamlıyor ve ortaya çıkanın keyfini çıkartıyorlar.</desc>
+  </programme>
+  <programme start="20261126125500 +0300" stop="20261126125700 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126125700 +0300" stop="20261126125800 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126125800 +0300" stop="20261126130000 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126130000 +0300" stop="20261126130500 +0300" channel="BABY">
+    <title lang="tr">Küçük Lola Şehirde</title>
+    <desc lang="tr">Şehirde kaykayları, itfaiye araçlarını, karşıdan karşıya geçmeyi, taksiye binmeyi ve daha fazlasını keşfetme macerasında Lola&apos;nın eğlencesine katılın! Bu dizi, Lola ve arkadaşları ile şehir ortamını ve aktivitelerini güvenli ve keyifli bir şekilde tanıtıyor.</desc>
+  </programme>
+  <programme start="20261126130500 +0300" stop="20261126131100 +0300" channel="BABY">
+    <title lang="tr">Küçük Lola Şehirde</title>
+    <desc lang="tr">Şehirde kaykayları, itfaiye araçlarını, karşıdan karşıya geçmeyi, taksiye binmeyi ve daha fazlasını keşfetme macerasında Lola&apos;nın eğlencesine katılın! Bu dizi, Lola ve arkadaşları ile şehir ortamını ve aktivitelerini güvenli ve keyifli bir şekilde tanıtıyor.</desc>
+  </programme>
+  <programme start="20261126131100 +0300" stop="20261126131600 +0300" channel="BABY">
+    <title lang="tr">Küçük Lola Şehirde</title>
+    <desc lang="tr">Şehirde kaykayları, itfaiye araçlarını, karşıdan karşıya geçmeyi, taksiye binmeyi ve daha fazlasını keşfetme macerasında Lola&apos;nın eğlencesine katılın! Bu dizi, Lola ve arkadaşları ile şehir ortamını ve aktivitelerini güvenli ve keyifli bir şekilde tanıtıyor.</desc>
+  </programme>
+  <programme start="20261126131600 +0300" stop="20261126132100 +0300" channel="BABY">
+    <title lang="tr">Küçük Lola Çiftlikte</title>
+    <desc lang="tr">Çiftlikte eğlenceli ve çılgın bir gün için, hayvanlarla tanışıp, çiftlikteki hayat hakkında bilgi edinirken Lola&apos;ya katılın. Neşeli hayvanlar her zaman mutlu olmaya, eğlenmeye ve Lola meyveleri, sebzeleri, araçları, yiyecekleri ve daha fazlasını keşfederken ona yardım etmeye hazırlar.</desc>
+  </programme>
+  <programme start="20261126132100 +0300" stop="20261126132600 +0300" channel="BABY">
+    <title lang="tr">Küçük Lola Çiftlikte</title>
+    <desc lang="tr">Çiftlikte eğlenceli ve çılgın bir gün için, hayvanlarla tanışıp, çiftlikteki hayat hakkında bilgi edinirken Lola&apos;ya katılın. Neşeli hayvanlar her zaman mutlu olmaya, eğlenmeye ve Lola meyveleri, sebzeleri, araçları, yiyecekleri ve daha fazlasını keşfederken ona yardım etmeye hazırlar.</desc>
+  </programme>
+  <programme start="20261126132600 +0300" stop="20261126133000 +0300" channel="BABY">
+    <title lang="tr">Ahoy Lolipoplar</title>
+    <desc lang="tr">Katie, Jon Jon ve Beth, korsan gibi giyinip cesur oyun randevularına çıkarlar. Cesur üçlü, bilmeceleri çözer ve korkunç maceraların üstesinden gelir. Ama karşılaştıkları zorluklar ne olursa olsun, keşfettikleri en büyük hazine arkadaşlıklarının gücüdür!</desc>
+  </programme>
+  <programme start="20261126133000 +0300" stop="20261126133600 +0300" channel="BABY">
+    <title lang="tr">Salyangoz İzi</title>
+    <desc lang="tr">Bay Salyangoz vahşi doğayı incelemek için dışarıya çıkıp, maceralara atılan bir kaşif. Seyahatlerinde Bay Salyangoz farklı hayvanlarla tanışıyor ve onlara bazı komik sorular sorarak, hayat tarzları ve alışkanlıkları ile ilgili önemli keşifler yapıyor.</desc>
+  </programme>
+  <programme start="20261126133600 +0300" stop="20261126134100 +0300" channel="BABY">
+    <title lang="tr">Salyangoz İzi</title>
+    <desc lang="tr">Bay Salyangoz vahşi doğayı incelemek için dışarıya çıkıp, maceralara atılan bir kaşif. Seyahatlerinde Bay Salyangoz farklı hayvanlarla tanışıyor ve onlara bazı komik sorular sorarak, hayat tarzları ve alışkanlıkları ile ilgili önemli keşifler yapıyor.</desc>
+  </programme>
+  <programme start="20261126134100 +0300" stop="20261126134300 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126134300 +0300" stop="20261126134500 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126134500 +0300" stop="20261126135000 +0300" channel="BABY">
+    <title lang="tr">Gezginler</title>
+    <desc lang="tr">Birbirinden oldukça farklı ve komik iki gezgin olan aklı başında Perry ve ele avuca sığmayan Harley, bir sorunu çözmenin birden fazla yolu olduğunu keşfederler.</desc>
+  </programme>
+  <programme start="20261126135000 +0300" stop="20261126135500 +0300" channel="BABY">
+    <title lang="tr">Pix ve Leo</title>
+    <desc lang="tr">Hareketli ve oynamayı seven küçük Tilki Pix ve onun en iyi arkadaşı uykucu ve meraklı Aslan Leo ile tanışın. Onlar gülüp oynarken ve etraflarındaki dünya hakkında bilgi edinirken ormandaki komik maceralarını takip edin. Hayvan komşuları ile tanışacaklar, farklı ortamları keşfedecekler ve sorun ne olursa olsun birbirlerinin her zaman sahip çıkmayı öğrenecekler. Bu yaratıcı dizi, küçük çocukları arkadaşlığın (iniş) çıkışlarıyla tanıştırıyor.</desc>
+  </programme>
+  <programme start="20261126135500 +0300" stop="20261126135700 +0300" channel="BABY">
+    <title lang="tr">Mowgli: Ormana Hoş Geldin</title>
+    <desc lang="tr">Mowgli Ormana Hoş Geldin, vahşi ormanda yalnız kalan cesur ve minik bir vahşi çocuk hakkında yapılmış şarkılardan oluşan eğlenceli bir seri. Tuhaf sesler, yeni yerler ve beklenmedik zorluklarla çevrili Mowgli cesur, meraklı ve nazik olmayı öğreniyor. İki sadık kurdun ve arkadaş canlısı koca bir ayının yardımıyla en vahşi ormanın bile bir yuvaya dönüşebildiğini yavaşça öğrenir.</desc>
+  </programme>
+  <programme start="20261126135700 +0300" stop="20261126140400 +0300" channel="BABY">
+    <title lang="tr">Zeina&apos;nın Dedektiflik Bürosu</title>
+    <desc lang="tr">Gündelik hayatta çok sık kullanılan bir nesne, ne işe yaradığını unutan Zeina&apos;nın kapısına geliyor. Yanıt arayan Zeina ve en iyi arkadaşı Roy, sürpriz nesne için yeni ve eğlenceli kullanım tahminlerinde bulunuyor. Bu yeni kullanımla harika bir zaman geçirirken, nesnenin gerçek kullanımını da öğreniyorlar.</desc>
+  </programme>
+  <programme start="20261126140400 +0300" stop="20261126141000 +0300" channel="BABY">
+    <title lang="tr">Zeina&apos;nın Dedektiflik Bürosu</title>
+    <desc lang="tr">Gündelik hayatta çok sık kullanılan bir nesne, ne işe yaradığını unutan Zeina&apos;nın kapısına geliyor. Yanıt arayan Zeina ve en iyi arkadaşı Roy, sürpriz nesne için yeni ve eğlenceli kullanım tahminlerinde bulunuyor. Bu yeni kullanımla harika bir zaman geçirirken, nesnenin gerçek kullanımını da öğreniyorlar.</desc>
+  </programme>
+  <programme start="20261126141000 +0300" stop="20261126141200 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126141200 +0300" stop="20261126141400 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126141400 +0300" stop="20261126142100 +0300" channel="BABY">
+    <title lang="tr">Mike&apos;ın Bisikleti</title>
+    <desc lang="tr">Mike&apos;ın bisiklet dükkânı, herkesin çözmesi gereken bir sorunu olduğunda gittiği bir yerdir. İster büyük olsun ister küçük, Mike herkesin yüzünü güldüren eşsiz, acayip ve eğlenceli icatlarıyla arkadaşlarına yardım etmek için her zaman oradadır. Dizi, &quot;ilk başta başaramazsan, tekrar tekrar dene&quot; (defalarca) ifadesine yeni bir bakış açısı getiriyor.</desc>
+  </programme>
+  <programme start="20261126142100 +0300" stop="20261126142600 +0300" channel="BABY">
+    <title lang="tr">Mike&apos;ın Bisikleti</title>
+    <desc lang="tr">Mike&apos;ın bisiklet dükkânı, herkesin çözmesi gereken bir sorunu olduğunda gittiği bir yerdir. İster büyük olsun ister küçük, Mike herkesin yüzünü güldüren eşsiz, acayip ve eğlenceli icatlarıyla arkadaşlarına yardım etmek için her zaman oradadır. Dizi, &quot;ilk başta başaramazsan, tekrar tekrar dene&quot; (defalarca) ifadesine yeni bir bakış açısı getiriyor.</desc>
+  </programme>
+  <programme start="20261126142600 +0300" stop="20261126143200 +0300" channel="BABY">
+    <title lang="tr">Mike&apos;ın Bisikleti</title>
+    <desc lang="tr">Mike&apos;ın bisiklet dükkânı, herkesin çözmesi gereken bir sorunu olduğunda gittiği bir yerdir. İster büyük olsun ister küçük, Mike herkesin yüzünü güldüren eşsiz, acayip ve eğlenceli icatlarıyla arkadaşlarına yardım etmek için her zaman oradadır. Dizi, &quot;ilk başta başaramazsan, tekrar tekrar dene&quot; (defalarca) ifadesine yeni bir bakış açısı getiriyor.</desc>
+  </programme>
+  <programme start="20261126143200 +0300" stop="20261126143700 +0300" channel="BABY">
+    <title lang="tr">Mona &amp; Sketch</title>
+    <desc lang="tr">Mona ile tanışın; Sketch isminde çok özel bir arkadaşı olan, meraklı ve maceracı bir kız. Her bölümde Mona&apos;nın istediğini düşünmek için hayal gücünü kullandığı yeni bir macera var. Sketch maceracı Mona ile dalga geçmekten hoşlanıyor, ama eninde sonunda Mona&apos;nın isteklerini gerçekleştiriyor.</desc>
+  </programme>
+  <programme start="20261126143700 +0300" stop="20261126144200 +0300" channel="BABY">
+    <title lang="tr">Mona &amp; Sketch</title>
+    <desc lang="tr">Mona ile tanışın; Sketch isminde çok özel bir arkadaşı olan, meraklı ve maceracı bir kız. Her bölümde Mona&apos;nın istediğini düşünmek için hayal gücünü kullandığı yeni bir macera var. Sketch maceracı Mona ile dalga geçmekten hoşlanıyor, ama eninde sonunda Mona&apos;nın isteklerini gerçekleştiriyor.</desc>
+  </programme>
+  <programme start="20261126144200 +0300" stop="20261126144700 +0300" channel="BABY">
+    <title lang="tr">İnşaatçı Fareler</title>
+    <desc lang="tr">İnşaatçı Fareler yeni evlerini inşa etmeye hevesle bağlılar. Bir ulak bir paketle geldiğinde, aletlerini bırakıyorlar ve paketin içinde ne olduğunu tahmin etmeye çalışıyorlar. Gizem çözüldüğünde ve nesne ait olduğu yere konulduğunda, İnşaatçı farelerin evi yavaşça birleştirilirken, hep beraber kutluyoruz.</desc>
+  </programme>
+  <programme start="20261126144700 +0300" stop="20261126145300 +0300" channel="BABY">
+    <title lang="tr">Billy BamBam</title>
+    <desc lang="tr">Billy ve Bam Bam, evde ve parkta buldukları günlük nesnelerle, bir kağıt rulosu bir çuf çuf tren, tencere kapakları müzik aleti olabilir, kardeşler gibi birlikte oynayarak, şarkı söyleyerek ve eğlenerek yaratıcı ve ilham verici aktivitelerin sonsuz fikirlerini keşfetmeyi seven, sevimli küçük çılgın kardeşlerin yer aldığı enerjik ve heyecan verici bir programdır.</desc>
+  </programme>
+  <programme start="20261126145300 +0300" stop="20261126145900 +0300" channel="BABY">
+    <title lang="tr">Billy BamBam</title>
+    <desc lang="tr">Billy ve Bam Bam, evde ve parkta buldukları günlük nesnelerle, bir kağıt rulosu bir çuf çuf tren, tencere kapakları müzik aleti olabilir, kardeşler gibi birlikte oynayarak, şarkı söyleyerek ve eğlenerek yaratıcı ve ilham verici aktivitelerin sonsuz fikirlerini keşfetmeyi seven, sevimli küçük çılgın kardeşlerin yer aldığı enerjik ve heyecan verici bir programdır.</desc>
+  </programme>
+  <programme start="20261126145900 +0300" stop="20261126150000 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126150000 +0300" stop="20261126150200 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126150200 +0300" stop="20261126150700 +0300" channel="BABY">
+    <title lang="tr">Bug&apos;n&apos;Play Kurtarmaya Geliyor</title>
+    <desc lang="tr">Bahçede bırakılan bir oyuncakla oynayan üç küçük böcek Laz, Hop ve Butterson için işler kontrolden çıkar. Her bölümde böceklerden birinin başı belaya girer ve iki arkadaş sonunda cesur bir kurtarma göreviyle günü kurtarır.</desc>
+  </programme>
+  <programme start="20261126150700 +0300" stop="20261126151400 +0300" channel="BABY">
+    <title lang="tr">Olly</title>
+    <desc lang="tr">3 yaşında oyuncu bir maymun olan Olly, iki yakın arkadaşı Kedicik, Dolly ve Salyangoz ile giyinme oyunu oynamayı çok seviyor. Olly bugün ne olacak? Otobüs şoförü mü? Doktor mu? Yoksa bir dansçı mı?</desc>
+  </programme>
+  <programme start="20261126151400 +0300" stop="20261126151900 +0300" channel="BABY">
+    <title lang="tr">Stitches</title>
+    <desc lang="tr">Minik kız, keçe oyuncakları ile beraber evcilik oynuyor. Kızın kahramanı ise kim önüne gelirse onu etkileyen küçük bir kaktüs. Her bölümde, kaktüsün karşısına çıkan zorluklar ve komik olaylarlar ile beraber bambaşka bir dünya tanıtılıyor.</desc>
+  </programme>
+  <programme start="20261126151900 +0300" stop="20261126152200 +0300" channel="BABY">
+    <title lang="tr">Lolipoplar</title>
+    <desc lang="tr">Lolipoplarla tanışın: Beth, Katie ve Jon John, mahallenin en havalı kız grubu! Grup, bir gitar, bateri ve klavyeyle her gün yaşadıkları iniş ve çıkışları eğlence, arkadaşlık ve hiddet dolu, akılda kalan pop şarkılarına dönüştürür. Kavga ve barışmalardan yıldızlık hayallerine birçok şeyden etkilenen şarkıları cesur bağlarını, yaşadıkları yoğun hisleri ve birbirlerine olan sadakatlerini konu alır. Çocukların eşlik edeceği, onları dans ettirecek ve arkadaşlığın gücüne inandıracak yepyeni bir sürü mutluluk veren şarkıya hazırlanın!</desc>
+  </programme>
+  <programme start="20261126152200 +0300" stop="20261126152400 +0300" channel="BABY">
+    <title lang="tr">Lolipoplar</title>
+    <desc lang="tr">Lolipoplarla tanışın: Beth, Katie ve Jon John, mahallenin en havalı kız grubu! Grup, bir gitar, bateri ve klavyeyle her gün yaşadıkları iniş ve çıkışları eğlence, arkadaşlık ve hiddet dolu, akılda kalan pop şarkılarına dönüştürür. Kavga ve barışmalardan yıldızlık hayallerine birçok şeyden etkilenen şarkıları cesur bağlarını, yaşadıkları yoğun hisleri ve birbirlerine olan sadakatlerini konu alır. Çocukların eşlik edeceği, onları dans ettirecek ve arkadaşlığın gücüne inandıracak yepyeni bir sürü mutluluk veren şarkıya hazırlanın!</desc>
+  </programme>
+  <programme start="20261126152400 +0300" stop="20261126152700 +0300" channel="BABY">
+    <title lang="tr">Giggle Wiggle</title>
+    <desc lang="tr">BabyTV ile hareket ve dans edin! Bu dizi, çocukları ekranda gördükleri dans hareketlerini taklit ederek eğlenceye katılmaya teşvik ediyor. Neşeli şarkılar ve tekerlemeler ile küçük çocuğunuz yerinde duramayacak!</desc>
+  </programme>
+  <programme start="20261126152700 +0300" stop="20261126153000 +0300" channel="BABY">
+    <title lang="tr">Giggle Wiggle</title>
+    <desc lang="tr">BabyTV ile hareket ve dans edin! Bu dizi, çocukları ekranda gördükleri dans hareketlerini taklit ederek eğlenceye katılmaya teşvik ediyor. Neşeli şarkılar ve tekerlemeler ile küçük çocuğunuz yerinde duramayacak!</desc>
+  </programme>
+  <programme start="20261126153000 +0300" stop="20261126153300 +0300" channel="BABY">
+    <title lang="tr">Giggle Wiggle</title>
+    <desc lang="tr">BabyTV ile hareket ve dans edin! Bu dizi, çocukları ekranda gördükleri dans hareketlerini taklit ederek eğlenceye katılmaya teşvik ediyor. Neşeli şarkılar ve tekerlemeler ile küçük çocuğunuz yerinde duramayacak!</desc>
+  </programme>
+  <programme start="20261126153300 +0300" stop="20261126153500 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126153500 +0300" stop="20261126153700 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126153700 +0300" stop="20261126153900 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126153900 +0300" stop="20261126154200 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126154200 +0300" stop="20261126154700 +0300" channel="BABY">
+    <title lang="tr">Charlie &amp; İngilizce Alfabe</title>
+    <desc lang="tr">Charlie her bölümde alfabe arkadaşlarından biri ile tanışıyor. Birlikte bir maceraya atılıyorlar ve birbirlerine yardım ediyorlar. Bu seri, çocukları alfabenin harfleri ve harflerin sesleri ile tanıştırıyor ve onlara bu harflerle başlayan kelimeleri tanıtıyor.</desc>
+  </programme>
+  <programme start="20261126154700 +0300" stop="20261126155300 +0300" channel="BABY">
+    <title lang="tr">Charlie &amp; İngilizce Alfabe</title>
+    <desc lang="tr">Charlie her bölümde alfabe arkadaşlarından biri ile tanışıyor. Birlikte bir maceraya atılıyorlar ve birbirlerine yardım ediyorlar. Bu seri, çocukları alfabenin harfleri ve harflerin sesleri ile tanıştırıyor ve onlara bu harflerle başlayan kelimeleri tanıtıyor.</desc>
+  </programme>
+  <programme start="20261126155300 +0300" stop="20261126155800 +0300" channel="BABY">
+    <title lang="tr">Charlie &amp; İngilizce Alfabe</title>
+    <desc lang="tr">Charlie her bölümde alfabe arkadaşlarından biri ile tanışıyor. Birlikte bir maceraya atılıyorlar ve birbirlerine yardım ediyorlar. Bu seri, çocukları alfabenin harfleri ve harflerin sesleri ile tanıştırıyor ve onlara bu harflerle başlayan kelimeleri tanıtıyor.</desc>
+  </programme>
+  <programme start="20261126155800 +0300" stop="20261126160100 +0300" channel="BABY">
+    <title lang="tr">Charlie&apos;nin Dünyası</title>
+    <desc lang="tr">Charlie&apos;nin Dünyası genç izleyicilere bir eğlence ve öğrenme dünyası yaratmak için tasarlanmış büyüleyici bir şarkı dizisidir. Canlı, enerjik bir fon müziği içeren bu şarkı dizisi, Charlie&apos;nin ve yol boyunca tanıştığı pek çok arkadaşının fillerden atlara, konuşan toplardan sayılara uzanan neşeli maceralarına odaklanıyor!</desc>
+  </programme>
+  <programme start="20261126160100 +0300" stop="20261126160300 +0300" channel="BABY">
+    <title lang="tr">Charlie&apos;nin Dünyası</title>
+    <desc lang="tr">Charlie&apos;nin Dünyası genç izleyicilere bir eğlence ve öğrenme dünyası yaratmak için tasarlanmış büyüleyici bir şarkı dizisidir. Canlı, enerjik bir fon müziği içeren bu şarkı dizisi, Charlie&apos;nin ve yol boyunca tanıştığı pek çok arkadaşının fillerden atlara, konuşan toplardan sayılara uzanan neşeli maceralarına odaklanıyor!</desc>
+  </programme>
+  <programme start="20261126160300 +0300" stop="20261126160600 +0300" channel="BABY">
+    <title lang="tr">Charlie&apos;nin Dünyası</title>
+    <desc lang="tr">Charlie&apos;nin Dünyası genç izleyicilere bir eğlence ve öğrenme dünyası yaratmak için tasarlanmış büyüleyici bir şarkı dizisidir. Canlı, enerjik bir fon müziği içeren bu şarkı dizisi, Charlie&apos;nin ve yol boyunca tanıştığı pek çok arkadaşının fillerden atlara, konuşan toplardan sayılara uzanan neşeli maceralarına odaklanıyor!</desc>
+  </programme>
+  <programme start="20261126160600 +0300" stop="20261126161100 +0300" channel="BABY">
+    <title lang="tr">Ressam Pierre</title>
+    <desc lang="tr">Tutkulu ressam Pierre çocuklarla tanışıyor ve onlara bir resim çiziyor. Resme başladığında, çocuklar ne resmi yaptığını tahmin etmeye çalışıyorlar. Çocuk tahmin etmeyi başarana kadar Pierre resme ipuçları eklemeye devam ediyor.</desc>
+  </programme>
+  <programme start="20261126161100 +0300" stop="20261126161600 +0300" channel="BABY">
+    <title lang="tr">Ressam Pierre</title>
+    <desc lang="tr">Tutkulu ressam Pierre çocuklarla tanışıyor ve onlara bir resim çiziyor. Resme başladığında, çocuklar ne resmi yaptığını tahmin etmeye çalışıyorlar. Çocuk tahmin etmeyi başarana kadar Pierre resme ipuçları eklemeye devam ediyor.</desc>
+  </programme>
+  <programme start="20261126161600 +0300" stop="20261126162100 +0300" channel="BABY">
+    <title lang="tr">Ressam Pierre</title>
+    <desc lang="tr">Tutkulu ressam Pierre çocuklarla tanışıyor ve onlara bir resim çiziyor. Resme başladığında, çocuklar ne resmi yaptığını tahmin etmeye çalışıyorlar. Çocuk tahmin etmeyi başarana kadar Pierre resme ipuçları eklemeye devam ediyor.</desc>
+  </programme>
+  <programme start="20261126162100 +0300" stop="20261126162200 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126162200 +0300" stop="20261126162500 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126162500 +0300" stop="20261126162600 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126162600 +0300" stop="20261126163200 +0300" channel="BABY">
+    <title lang="tr">Robotum ve Ben</title>
+    <desc lang="tr">Kuralları bilmeden saklambaç oynamak zordur! Kit&apos;e nasıl oynanacağını öğreten Kim&apos;e katılın. Öğrenmesi birkaç deneme gerektirebilir ama sonunda onu bulmak çok zor olacak.</desc>
+  </programme>
+  <programme start="20261126163200 +0300" stop="20261126163700 +0300" channel="BABY">
+    <title lang="tr">Gee-Raffa</title>
+    <desc lang="tr">Gee-Raffa ile tanışın, o her zaman yardıma hazır, iyi yürekli bir zürafa. Tam da bu sebeple, arkadaşları ne zaman bir problemleri olsa Gee-Raffa&apos;ya danışıyorlar; bir şey kaybettiklerinde, üzgün olduklarında, dans etmeyi öğrenmek istedikleri ve hatta bir türlü uykuya dalamadıklarında. Dostları, onların problemlerini büyük bir hevesle ve komik bir şekilde çözmesi için Gee-Raffa&apos;ya güvenebilirler.</desc>
+  </programme>
+  <programme start="20261126163700 +0300" stop="20261126164200 +0300" channel="BABY">
+    <title lang="tr">Walter &amp; Dude</title>
+    <desc lang="tr">Dude ne aradığını hatırlamıyor. İyi ki, arkadaşı Walter her zaman yardıma hazır. Çift her öğeyi açıklarken dinle ve ne olduğunu tahmin edip edemeyeceğine bak.</desc>
+  </programme>
+  <programme start="20261126164200 +0300" stop="20261126164700 +0300" channel="BABY">
+    <title lang="tr">Choopies</title>
+    <desc lang="tr">Maceracı birer izci olan Choopies, her bölüm çeşitli nesneleri bulmak için farklı görevlere çıkıyorlar. İhtiyaçları olan tüm nesneleri bulduktan sonra, onları birleştiriyor, görevi tamamlıyor ve ortaya çıkanın keyfini çıkartıyorlar.</desc>
+  </programme>
+  <programme start="20261126164700 +0300" stop="20261126165300 +0300" channel="BABY">
+    <title lang="tr">Choopies</title>
+    <desc lang="tr">Maceracı birer izci olan Choopies, her bölüm çeşitli nesneleri bulmak için farklı görevlere çıkıyorlar. İhtiyaçları olan tüm nesneleri bulduktan sonra, onları birleştiriyor, görevi tamamlıyor ve ortaya çıkanın keyfini çıkartıyorlar.</desc>
+  </programme>
+  <programme start="20261126165300 +0300" stop="20261126165500 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126165500 +0300" stop="20261126165600 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126165600 +0300" stop="20261126165800 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126165800 +0300" stop="20261126170400 +0300" channel="BABY">
+    <title lang="tr">Merhaba Korsanlar</title>
+    <desc lang="tr">Korsancılık oynamak her zaman eğlencelidir. Hem kim değerli bir hazine bulmak istemez ki? Bir korsan gemisindeki üç kız korsan, değerli hazine arayışında yeni topraklar keşfediyor, çeşitli bulmacalar ve bilmeceler çözüyor. Değerli hazineler her zaman muhteşem bir parti için ihtiyaç duyulan tüm eğlenceli öğeleri içeriyor!</desc>
+  </programme>
+  <programme start="20261126170400 +0300" stop="20261126171100 +0300" channel="BABY">
+    <title lang="tr">Merhaba Korsanlar</title>
+    <desc lang="tr">Korsancılık oynamak her zaman eğlencelidir. Hem kim değerli bir hazine bulmak istemez ki? Bir korsan gemisindeki üç kız korsan, değerli hazine arayışında yeni topraklar keşfediyor, çeşitli bulmacalar ve bilmeceler çözüyor. Değerli hazineler her zaman muhteşem bir parti için ihtiyaç duyulan tüm eğlenceli öğeleri içeriyor!</desc>
+  </programme>
+  <programme start="20261126171100 +0300" stop="20261126171700 +0300" channel="BABY">
+    <title lang="tr">Salyangoz İzi</title>
+    <desc lang="tr">Bay Salyangoz vahşi doğayı incelemek için dışarıya çıkıp, maceralara atılan bir kaşif. Seyahatlerinde Bay Salyangoz farklı hayvanlarla tanışıyor ve onlara bazı komik sorular sorarak, hayat tarzları ve alışkanlıkları ile ilgili önemli keşifler yapıyor.</desc>
+  </programme>
+  <programme start="20261126171700 +0300" stop="20261126172200 +0300" channel="BABY">
+    <title lang="tr">Salyangoz İzi</title>
+    <desc lang="tr">Bay Salyangoz vahşi doğayı incelemek için dışarıya çıkıp, maceralara atılan bir kaşif. Seyahatlerinde Bay Salyangoz farklı hayvanlarla tanışıyor ve onlara bazı komik sorular sorarak, hayat tarzları ve alışkanlıkları ile ilgili önemli keşifler yapıyor.</desc>
+  </programme>
+  <programme start="20261126172200 +0300" stop="20261126172600 +0300" channel="BABY">
+    <title lang="tr">Ahoy Lolipoplar</title>
+    <desc lang="tr">Katie, Jon Jon ve Beth, korsan gibi giyinip cesur oyun randevularına çıkarlar. Cesur üçlü, bilmeceleri çözer ve korkunç maceraların üstesinden gelir. Ama karşılaştıkları zorluklar ne olursa olsun, keşfettikleri en büyük hazine arkadaşlıklarının gücüdür!</desc>
+  </programme>
+  <programme start="20261126172600 +0300" stop="20261126173200 +0300" channel="BABY">
+    <title lang="tr">Lale Ki Lolu</title>
+    <desc lang="tr">Lale ve Lolu onlar için özel olarak yaratılmış bir perinin büyülü oyun dünyasında birçok maceraya atılıyorlar. Antik Mısır&apos;dan, uzak doğuya, bu iki sevimli yaratık birbirleriyle sesler kullanarak iletişime geçiyorlar, böylece çocukların hayal gücünü kullanmasına ve hikayeyi kendi kendilerine devam ettirmelerine olanak sağlıyorlar.</desc>
+  </programme>
+  <programme start="20261126173200 +0300" stop="20261126173800 +0300" channel="BABY">
+    <title lang="tr">Lale Ki Lolu</title>
+    <desc lang="tr">Lale ve Lolu onlar için özel olarak yaratılmış bir perinin büyülü oyun dünyasında birçok maceraya atılıyorlar. Antik Mısır&apos;dan, uzak doğuya, bu iki sevimli yaratık birbirleriyle sesler kullanarak iletişime geçiyorlar, böylece çocukların hayal gücünü kullanmasına ve hikayeyi kendi kendilerine devam ettirmelerine olanak sağlıyorlar.</desc>
+  </programme>
+  <programme start="20261126173800 +0300" stop="20261126174000 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126174000 +0300" stop="20261126174100 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126174100 +0300" stop="20261126174300 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126174300 +0300" stop="20261126174800 +0300" channel="BABY">
+    <title lang="tr">Gezginler</title>
+    <desc lang="tr">Birbirinden oldukça farklı ve komik iki gezgin olan aklı başında Perry ve ele avuca sığmayan Harley, bir sorunu çözmenin birden fazla yolu olduğunu keşfederler.</desc>
+  </programme>
+  <programme start="20261126174800 +0300" stop="20261126175300 +0300" channel="BABY">
+    <title lang="tr">Pix ve Leo</title>
+    <desc lang="tr">Hareketli ve oynamayı seven küçük Tilki Pix ve onun en iyi arkadaşı uykucu ve meraklı Aslan Leo ile tanışın. Onlar gülüp oynarken ve etraflarındaki dünya hakkında bilgi edinirken ormandaki komik maceralarını takip edin. Hayvan komşuları ile tanışacaklar, farklı ortamları keşfedecekler ve sorun ne olursa olsun birbirlerinin her zaman sahip çıkmayı öğrenecekler. Bu yaratıcı dizi, küçük çocukları arkadaşlığın (iniş) çıkışlarıyla tanıştırıyor.</desc>
+  </programme>
+  <programme start="20261126175300 +0300" stop="20261126175500 +0300" channel="BABY">
+    <title lang="tr">Mowgli: Ormana Hoş Geldin</title>
+    <desc lang="tr">Mowgli Ormana Hoş Geldin, vahşi ormanda yalnız kalan cesur ve minik bir vahşi çocuk hakkında yapılmış şarkılardan oluşan eğlenceli bir seri. Tuhaf sesler, yeni yerler ve beklenmedik zorluklarla çevrili Mowgli cesur, meraklı ve nazik olmayı öğreniyor. İki sadık kurdun ve arkadaş canlısı koca bir ayının yardımıyla en vahşi ormanın bile bir yuvaya dönüşebildiğini yavaşça öğrenir.</desc>
+  </programme>
+  <programme start="20261126175500 +0300" stop="20261126180000 +0300" channel="BABY">
+    <title lang="tr">Adaya Hoş Geldin</title>
+    <desc lang="tr">Uzaklarda, küçük bir adada dört arkadaş yaşarmış. Bilge hindistan cevizi ağacı Coco, meraklı kaya Bucky, küçük çiçek Lily ve mutlu Papaya ağacı Blossom. Böyle küçük, uzak bir adada pek bir şeyler olmadığını düşünebilirsiniz fakat adada hayat, okyanusu temizlemeye gelen dost ahtapotlar, yumurtalarını bırakmaya gelen kaplumbağa veya polen aramaya gelen arı gibi adaya bazen gelen ziyaretçileri sayesinde neşe ve heyecan doludur.</desc>
+  </programme>
+  <programme start="20261126180000 +0300" stop="20261126180700 +0300" channel="BABY">
+    <title lang="tr">Adaya Hoş Geldin</title>
+    <desc lang="tr">Uzaklarda, küçük bir adada dört arkadaş yaşarmış. Bilge hindistan cevizi ağacı Coco, meraklı kaya Bucky, küçük çiçek Lily ve mutlu Papaya ağacı Blossom. Böyle küçük, uzak bir adada pek bir şeyler olmadığını düşünebilirsiniz fakat adada hayat, okyanusu temizlemeye gelen dost ahtapotlar, yumurtalarını bırakmaya gelen kaplumbağa veya polen aramaya gelen arı gibi adaya bazen gelen ziyaretçileri sayesinde neşe ve heyecan doludur.</desc>
+  </programme>
+  <programme start="20261126180700 +0300" stop="20261126180900 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126180900 +0300" stop="20261126181100 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126181100 +0300" stop="20261126181200 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126181200 +0300" stop="20261126181800 +0300" channel="BABY">
+    <title lang="tr">Mini Matinee</title>
+    <desc lang="tr">Büyüleyici dört hayvan arkadaş, sihirli tiyatro dünyasında muhteşem oyunlar sergiliyorlar. Her bölümde, dünyanın farklı bir yerini ziyaret eden arkadaşlar çok uzaklardaki kültürlere ait gelenek ve adetler ile ilgili ilgi çekici hikayeler ve eğlenceli gerçekler anlatıyorlar.</desc>
+  </programme>
+  <programme start="20261126181800 +0300" stop="20261126182400 +0300" channel="BABY">
+    <title lang="tr">Mini Matinee</title>
+    <desc lang="tr">Büyüleyici dört hayvan arkadaş, sihirli tiyatro dünyasında muhteşem oyunlar sergiliyorlar. Her bölümde, dünyanın farklı bir yerini ziyaret eden arkadaşlar çok uzaklardaki kültürlere ait gelenek ve adetler ile ilgili ilgi çekici hikayeler ve eğlenceli gerçekler anlatıyorlar.</desc>
+  </programme>
+  <programme start="20261126182400 +0300" stop="20261126183000 +0300" channel="BABY">
+    <title lang="tr">Mini Matinee</title>
+    <desc lang="tr">Büyüleyici dört hayvan arkadaş, sihirli tiyatro dünyasında muhteşem oyunlar sergiliyorlar. Her bölümde, dünyanın farklı bir yerini ziyaret eden arkadaşlar çok uzaklardaki kültürlere ait gelenek ve adetler ile ilgili ilgi çekici hikayeler ve eğlenceli gerçekler anlatıyorlar.</desc>
+  </programme>
+  <programme start="20261126183000 +0300" stop="20261126183600 +0300" channel="BABY">
+    <title lang="tr">Mona &amp; Sketch</title>
+    <desc lang="tr">Mona ile tanışın; Sketch isminde çok özel bir arkadaşı olan, meraklı ve maceracı bir kız. Her bölümde Mona&apos;nın istediğini düşünmek için hayal gücünü kullandığı yeni bir macera var. Sketch maceracı Mona ile dalga geçmekten hoşlanıyor, ama eninde sonunda Mona&apos;nın isteklerini gerçekleştiriyor.</desc>
+  </programme>
+  <programme start="20261126183600 +0300" stop="20261126184100 +0300" channel="BABY">
+    <title lang="tr">Mona &amp; Sketch</title>
+    <desc lang="tr">Mona ile tanışın; Sketch isminde çok özel bir arkadaşı olan, meraklı ve maceracı bir kız. Her bölümde Mona&apos;nın istediğini düşünmek için hayal gücünü kullandığı yeni bir macera var. Sketch maceracı Mona ile dalga geçmekten hoşlanıyor, ama eninde sonunda Mona&apos;nın isteklerini gerçekleştiriyor.</desc>
+  </programme>
+  <programme start="20261126184100 +0300" stop="20261126184500 +0300" channel="BABY">
+    <title lang="tr">İnşaatçı Fareler</title>
+    <desc lang="tr">İnşaatçı Fareler yeni evlerini inşa etmeye hevesle bağlılar. Bir ulak bir paketle geldiğinde, aletlerini bırakıyorlar ve paketin içinde ne olduğunu tahmin etmeye çalışıyorlar. Gizem çözüldüğünde ve nesne ait olduğu yere konulduğunda, İnşaatçı farelerin evi yavaşça birleştirilirken, hep beraber kutluyoruz.</desc>
+  </programme>
+  <programme start="20261126184500 +0300" stop="20261126185100 +0300" channel="BABY">
+    <title lang="tr">Billy BamBam</title>
+    <desc lang="tr">Billy ve Bam Bam, evde ve parkta buldukları günlük nesnelerle, bir kağıt rulosu bir çuf çuf tren, tencere kapakları müzik aleti olabilir, kardeşler gibi birlikte oynayarak, şarkı söyleyerek ve eğlenerek yaratıcı ve ilham verici aktivitelerin sonsuz fikirlerini keşfetmeyi seven, sevimli küçük çılgın kardeşlerin yer aldığı enerjik ve heyecan verici bir programdır.</desc>
+  </programme>
+  <programme start="20261126185100 +0300" stop="20261126185700 +0300" channel="BABY">
+    <title lang="tr">Billy BamBam</title>
+    <desc lang="tr">Billy ve Bam Bam, evde ve parkta buldukları günlük nesnelerle, bir kağıt rulosu bir çuf çuf tren, tencere kapakları müzik aleti olabilir, kardeşler gibi birlikte oynayarak, şarkı söyleyerek ve eğlenerek yaratıcı ve ilham verici aktivitelerin sonsuz fikirlerini keşfetmeyi seven, sevimli küçük çılgın kardeşlerin yer aldığı enerjik ve heyecan verici bir programdır.</desc>
+  </programme>
+  <programme start="20261126185700 +0300" stop="20261126185900 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126185900 +0300" stop="20261126190100 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126190100 +0300" stop="20261126190600 +0300" channel="BABY">
+    <title lang="tr">Bug&apos;n&apos;Play Kurtarmaya Geliyor</title>
+    <desc lang="tr">Bahçede bırakılan bir oyuncakla oynayan üç küçük böcek Laz, Hop ve Butterson için işler kontrolden çıkar. Her bölümde böceklerden birinin başı belaya girer ve iki arkadaş sonunda cesur bir kurtarma göreviyle günü kurtarır.</desc>
+  </programme>
+  <programme start="20261126190600 +0300" stop="20261126191200 +0300" channel="BABY">
+    <title lang="tr">Olly</title>
+    <desc lang="tr">3 yaşında oyuncu bir maymun olan Olly, iki yakın arkadaşı Kedicik, Dolly ve Salyangoz ile giyinme oyunu oynamayı çok seviyor. Olly bugün ne olacak? Otobüs şoförü mü? Doktor mu? Yoksa bir dansçı mı?</desc>
+  </programme>
+  <programme start="20261126191200 +0300" stop="20261126191700 +0300" channel="BABY">
+    <title lang="tr">Stitches</title>
+    <desc lang="tr">Minik kız, keçe oyuncakları ile beraber evcilik oynuyor. Kızın kahramanı ise kim önüne gelirse onu etkileyen küçük bir kaktüs. Her bölümde, kaktüsün karşısına çıkan zorluklar ve komik olaylarlar ile beraber bambaşka bir dünya tanıtılıyor.</desc>
+  </programme>
+  <programme start="20261126191700 +0300" stop="20261126192000 +0300" channel="BABY">
+    <title lang="tr">Billy Bam Bam&apos;in Kendin Yap Kulübü</title>
+    <desc lang="tr">Sevilen karakterler Billy ve Bambam, evde kendiniz yapabileceğiniz çeşitli oyun ve yaratıcı projeleri sizlere tanıtıyor. Anne, baba ve çocukları yaratıcılık, oyunlar ve macera eşliğinde kaliteli zaman geçirmeye teşvik eden neşeli ve keyifli bir şarkı serisi.</desc>
+  </programme>
+  <programme start="20261126192000 +0300" stop="20261126192300 +0300" channel="BABY">
+    <title lang="tr">Giggle Wiggle</title>
+    <desc lang="tr">BabyTV ile hareket ve dans edin! Bu dizi, çocukları ekranda gördükleri dans hareketlerini taklit ederek eğlenceye katılmaya teşvik ediyor. Neşeli şarkılar ve tekerlemeler ile küçük çocuğunuz yerinde duramayacak!</desc>
+  </programme>
+  <programme start="20261126192300 +0300" stop="20261126192600 +0300" channel="BABY">
+    <title lang="tr">Giggle Wiggle</title>
+    <desc lang="tr">BabyTV ile hareket ve dans edin! Bu dizi, çocukları ekranda gördükleri dans hareketlerini taklit ederek eğlenceye katılmaya teşvik ediyor. Neşeli şarkılar ve tekerlemeler ile küçük çocuğunuz yerinde duramayacak!</desc>
+  </programme>
+  <programme start="20261126192600 +0300" stop="20261126192900 +0300" channel="BABY">
+    <title lang="tr">Giggle Wiggle</title>
+    <desc lang="tr">BabyTV ile hareket ve dans edin! Bu dizi, çocukları ekranda gördükleri dans hareketlerini taklit ederek eğlenceye katılmaya teşvik ediyor. Neşeli şarkılar ve tekerlemeler ile küçük çocuğunuz yerinde duramayacak!</desc>
+  </programme>
+  <programme start="20261126192900 +0300" stop="20261126193100 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126193100 +0300" stop="20261126193200 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126193200 +0300" stop="20261126193400 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126193400 +0300" stop="20261126193600 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126193600 +0300" stop="20261126193800 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126193800 +0300" stop="20261126193900 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126193900 +0300" stop="20261126194100 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126194100 +0300" stop="20261126194900 +0300" channel="BABY">
+    <title lang="tr">Charlie &amp; Sayılar</title>
+    <desc lang="tr">Sayılar ve hesaplama, Charlie, sayıların hüküm sürdüğü sihirli bir dünya olan Sayılar Krallığı&apos;nı ziyaret ettiğinde eğlenceli bir maceraya dönüşüyor. Charlie her bir büyüleyici sayıyla tanışırken ona katılın ve şarkıların, dansın ve tabii ki bu çekici diziyle hayat bulan sayma ve hesaplama işlemlerinin tadını çıkarın.</desc>
+  </programme>
+  <programme start="20261126194900 +0300" stop="20261126195600 +0300" channel="BABY">
+    <title lang="tr">Charlie &amp; Sayılar</title>
+    <desc lang="tr">Sayılar ve hesaplama, Charlie, sayıların hüküm sürdüğü sihirli bir dünya olan Sayılar Krallığı&apos;nı ziyaret ettiğinde eğlenceli bir maceraya dönüşüyor. Charlie her bir büyüleyici sayıyla tanışırken ona katılın ve şarkıların, dansın ve tabii ki bu çekici diziyle hayat bulan sayma ve hesaplama işlemlerinin tadını çıkarın.</desc>
+  </programme>
+  <programme start="20261126195600 +0300" stop="20261126200100 +0300" channel="BABY">
+    <title lang="tr">Charlie &amp; Şekiller</title>
+    <desc lang="tr">BabyTV&apos;nin çok başarılı yeni kavramları öğrenme formatı üçüncü serisi ile karşınızda. -Charlie &amp; Şekiller, Charlie şekil arkadaşlarına sorunları çözmede yardımcı olmaya devam ediyor ve şekil arkadaşlarından gerçek hayatta bulunan nesneler yaratarak maceralara atılıyor.</desc>
+  </programme>
+  <programme start="20261126200100 +0300" stop="20261126200700 +0300" channel="BABY">
+    <title lang="tr">Charlie &amp; Şekiller</title>
+    <desc lang="tr">BabyTV&apos;nin çok başarılı yeni kavramları öğrenme formatı üçüncü serisi ile karşınızda. -Charlie &amp; Şekiller, Charlie şekil arkadaşlarına sorunları çözmede yardımcı olmaya devam ediyor ve şekil arkadaşlarından gerçek hayatta bulunan nesneler yaratarak maceralara atılıyor.</desc>
+  </programme>
+  <programme start="20261126200700 +0300" stop="20261126201200 +0300" channel="BABY">
+    <title lang="tr">Charlie &amp; Şekiller</title>
+    <desc lang="tr">BabyTV&apos;nin çok başarılı yeni kavramları öğrenme formatı üçüncü serisi ile karşınızda. -Charlie &amp; Şekiller, Charlie şekil arkadaşlarına sorunları çözmede yardımcı olmaya devam ediyor ve şekil arkadaşlarından gerçek hayatta bulunan nesneler yaratarak maceralara atılıyor.</desc>
+  </programme>
+  <programme start="20261126201200 +0300" stop="20261126201700 +0300" channel="BABY">
+    <title lang="tr">Teeny &amp; Tiny&apos;nin Sınıfı</title>
+    <desc lang="tr">Teeny ve Tiny, farklı farklı bilmecelerini ve oyunlarını bizlerle paylaşan çok mutlu ve bir o kadar da haylaz iki arkadaştır. Program, yaratıcı düşünmeyi geliştiren ve zenginleştiren, hayal gücünü ve rol yapmayı destekleyen eğlenceli oyunlardan oluşuyor. Tiny ve arkadaşlarının maskaralıklarına tanık olurken birbirinden farklı şekiller, renkler ve sayılar göreceğiz.</desc>
+  </programme>
+  <programme start="20261126201700 +0300" stop="20261126202000 +0300" channel="BABY">
+    <title lang="tr">Teeny &amp; Tiny&apos;nin Sınıfı</title>
+    <desc lang="tr">Teeny ve Tiny, farklı farklı bilmecelerini ve oyunlarını bizlerle paylaşan çok mutlu ve bir o kadar da haylaz iki arkadaştır. Program, yaratıcı düşünmeyi geliştiren ve zenginleştiren, hayal gücünü ve rol yapmayı destekleyen eğlenceli oyunlardan oluşuyor. Tiny ve arkadaşlarının maskaralıklarına tanık olurken birbirinden farklı şekiller, renkler ve sayılar göreceğiz.</desc>
+  </programme>
+  <programme start="20261126202000 +0300" stop="20261126202400 +0300" channel="BABY">
+    <title lang="tr">Teeny &amp; Tiny&apos;nin Sınıfı</title>
+    <desc lang="tr">Teeny ve Tiny, farklı farklı bilmecelerini ve oyunlarını bizlerle paylaşan çok mutlu ve bir o kadar da haylaz iki arkadaştır. Program, yaratıcı düşünmeyi geliştiren ve zenginleştiren, hayal gücünü ve rol yapmayı destekleyen eğlenceli oyunlardan oluşuyor. Tiny ve arkadaşlarının maskaralıklarına tanık olurken birbirinden farklı şekiller, renkler ve sayılar göreceğiz.</desc>
+  </programme>
+  <programme start="20261126202400 +0300" stop="20261126202600 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126202600 +0300" stop="20261126202800 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126202800 +0300" stop="20261126203500 +0300" channel="BABY">
+    <title lang="tr">Hippa Hippa Hey</title>
+    <desc lang="tr">Oyuncak Bebek Sophie, Hipopotam Hippa ve Köpek Hav Hav adında üç oyuncağın, bilemece çözme, eşleştirme ve sıralama oyunları içeren, heyecan verici maceralara çıktıkları bir seri.</desc>
+  </programme>
+  <programme start="20261126203500 +0300" stop="20261126204300 +0300" channel="BABY">
+    <title lang="tr">Hippa Hippa Hey</title>
+    <desc lang="tr">Oyuncak Bebek Sophie, Hipopotam Hippa ve Köpek Hav Hav adında üç oyuncağın, bilemece çözme, eşleştirme ve sıralama oyunları içeren, heyecan verici maceralara çıktıkları bir seri.</desc>
+  </programme>
+  <programme start="20261126204300 +0300" stop="20261126204800 +0300" channel="BABY">
+    <title lang="tr">Choopies</title>
+    <desc lang="tr">Maceracı birer izci olan Choopies, her bölüm çeşitli nesneleri bulmak için farklı görevlere çıkıyorlar. İhtiyaçları olan tüm nesneleri bulduktan sonra, onları birleştiriyor, görevi tamamlıyor ve ortaya çıkanın keyfini çıkartıyorlar.</desc>
+  </programme>
+  <programme start="20261126204800 +0300" stop="20261126205400 +0300" channel="BABY">
+    <title lang="tr">Choopies</title>
+    <desc lang="tr">Maceracı birer izci olan Choopies, her bölüm çeşitli nesneleri bulmak için farklı görevlere çıkıyorlar. İhtiyaçları olan tüm nesneleri bulduktan sonra, onları birleştiriyor, görevi tamamlıyor ve ortaya çıkanın keyfini çıkartıyorlar.</desc>
+  </programme>
+  <programme start="20261126205400 +0300" stop="20261126205600 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126205600 +0300" stop="20261126205700 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126205700 +0300" stop="20261126205900 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126205900 +0300" stop="20261126210400 +0300" channel="BABY">
+    <title lang="tr">Küçük Lola Şehirde</title>
+    <desc lang="tr">Şehirde kaykayları, itfaiye araçlarını, karşıdan karşıya geçmeyi, taksiye binmeyi ve daha fazlasını keşfetme macerasında Lola&apos;nın eğlencesine katılın! Bu dizi, Lola ve arkadaşları ile şehir ortamını ve aktivitelerini güvenli ve keyifli bir şekilde tanıtıyor.</desc>
+  </programme>
+  <programme start="20261126210400 +0300" stop="20261126211000 +0300" channel="BABY">
+    <title lang="tr">Küçük Lola Şehirde</title>
+    <desc lang="tr">Şehirde kaykayları, itfaiye araçlarını, karşıdan karşıya geçmeyi, taksiye binmeyi ve daha fazlasını keşfetme macerasında Lola&apos;nın eğlencesine katılın! Bu dizi, Lola ve arkadaşları ile şehir ortamını ve aktivitelerini güvenli ve keyifli bir şekilde tanıtıyor.</desc>
+  </programme>
+  <programme start="20261126211000 +0300" stop="20261126211500 +0300" channel="BABY">
+    <title lang="tr">Küçük Lola Şehirde</title>
+    <desc lang="tr">Şehirde kaykayları, itfaiye araçlarını, karşıdan karşıya geçmeyi, taksiye binmeyi ve daha fazlasını keşfetme macerasında Lola&apos;nın eğlencesine katılın! Bu dizi, Lola ve arkadaşları ile şehir ortamını ve aktivitelerini güvenli ve keyifli bir şekilde tanıtıyor.</desc>
+  </programme>
+  <programme start="20261126211500 +0300" stop="20261126212000 +0300" channel="BABY">
+    <title lang="tr">Küçük Lola Çiftlikte</title>
+    <desc lang="tr">Çiftlikte eğlenceli ve çılgın bir gün için, hayvanlarla tanışıp, çiftlikteki hayat hakkında bilgi edinirken Lola&apos;ya katılın. Neşeli hayvanlar her zaman mutlu olmaya, eğlenmeye ve Lola meyveleri, sebzeleri, araçları, yiyecekleri ve daha fazlasını keşfederken ona yardım etmeye hazırlar.</desc>
+  </programme>
+  <programme start="20261126212000 +0300" stop="20261126212500 +0300" channel="BABY">
+    <title lang="tr">Küçük Lola Çiftlikte</title>
+    <desc lang="tr">Çiftlikte eğlenceli ve çılgın bir gün için, hayvanlarla tanışıp, çiftlikteki hayat hakkında bilgi edinirken Lola&apos;ya katılın. Neşeli hayvanlar her zaman mutlu olmaya, eğlenmeye ve Lola meyveleri, sebzeleri, araçları, yiyecekleri ve daha fazlasını keşfederken ona yardım etmeye hazırlar.</desc>
+  </programme>
+  <programme start="20261126212500 +0300" stop="20261126212900 +0300" channel="BABY">
+    <title lang="tr">Ahoy Lolipoplar</title>
+    <desc lang="tr">Katie, Jon Jon ve Beth, korsan gibi giyinip cesur oyun randevularına çıkarlar. Cesur üçlü, bilmeceleri çözer ve korkunç maceraların üstesinden gelir. Ama karşılaştıkları zorluklar ne olursa olsun, keşfettikleri en büyük hazine arkadaşlıklarının gücüdür!</desc>
+  </programme>
+  <programme start="20261126212900 +0300" stop="20261126213500 +0300" channel="BABY">
+    <title lang="tr">Salyangoz İzi</title>
+    <desc lang="tr">Bay Salyangoz vahşi doğayı incelemek için dışarıya çıkıp, maceralara atılan bir kaşif. Seyahatlerinde Bay Salyangoz farklı hayvanlarla tanışıyor ve onlara bazı komik sorular sorarak, hayat tarzları ve alışkanlıkları ile ilgili önemli keşifler yapıyor.</desc>
+  </programme>
+  <programme start="20261126213500 +0300" stop="20261126214000 +0300" channel="BABY">
+    <title lang="tr">Salyangoz İzi</title>
+    <desc lang="tr">Bay Salyangoz vahşi doğayı incelemek için dışarıya çıkıp, maceralara atılan bir kaşif. Seyahatlerinde Bay Salyangoz farklı hayvanlarla tanışıyor ve onlara bazı komik sorular sorarak, hayat tarzları ve alışkanlıkları ile ilgili önemli keşifler yapıyor.</desc>
+  </programme>
+  <programme start="20261126214000 +0300" stop="20261126214200 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126214200 +0300" stop="20261126214400 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126214400 +0300" stop="20261126214800 +0300" channel="BABY">
+    <title lang="tr">Gezginler</title>
+    <desc lang="tr">Birbirinden oldukça farklı ve komik iki gezgin olan aklı başında Perry ve ele avuca sığmayan Harley, bir sorunu çözmenin birden fazla yolu olduğunu keşfederler.</desc>
+  </programme>
+  <programme start="20261126214800 +0300" stop="20261126215400 +0300" channel="BABY">
+    <title lang="tr">Pix ve Leo</title>
+    <desc lang="tr">Hareketli ve oynamayı seven küçük Tilki Pix ve onun en iyi arkadaşı uykucu ve meraklı Aslan Leo ile tanışın. Onlar gülüp oynarken ve etraflarındaki dünya hakkında bilgi edinirken ormandaki komik maceralarını takip edin. Hayvan komşuları ile tanışacaklar, farklı ortamları keşfedecekler ve sorun ne olursa olsun birbirlerinin her zaman sahip çıkmayı öğrenecekler. Bu yaratıcı dizi, küçük çocukları arkadaşlığın (iniş) çıkışlarıyla tanıştırıyor.</desc>
+  </programme>
+  <programme start="20261126215400 +0300" stop="20261126215600 +0300" channel="BABY">
+    <title lang="tr">Mowgli: Ormana Hoş Geldin</title>
+    <desc lang="tr">Mowgli Ormana Hoş Geldin, vahşi ormanda yalnız kalan cesur ve minik bir vahşi çocuk hakkında yapılmış şarkılardan oluşan eğlenceli bir seri. Tuhaf sesler, yeni yerler ve beklenmedik zorluklarla çevrili Mowgli cesur, meraklı ve nazik olmayı öğreniyor. İki sadık kurdun ve arkadaş canlısı koca bir ayının yardımıyla en vahşi ormanın bile bir yuvaya dönüşebildiğini yavaşça öğrenir.</desc>
+  </programme>
+  <programme start="20261126215600 +0300" stop="20261126220300 +0300" channel="BABY">
+    <title lang="tr">Zeina&apos;nın Dedektiflik Bürosu</title>
+    <desc lang="tr">Gündelik hayatta çok sık kullanılan bir nesne, ne işe yaradığını unutan Zeina&apos;nın kapısına geliyor. Yanıt arayan Zeina ve en iyi arkadaşı Roy, sürpriz nesne için yeni ve eğlenceli kullanım tahminlerinde bulunuyor. Bu yeni kullanımla harika bir zaman geçirirken, nesnenin gerçek kullanımını da öğreniyorlar.</desc>
+  </programme>
+  <programme start="20261126220300 +0300" stop="20261126220900 +0300" channel="BABY">
+    <title lang="tr">Zeina&apos;nın Dedektiflik Bürosu</title>
+    <desc lang="tr">Gündelik hayatta çok sık kullanılan bir nesne, ne işe yaradığını unutan Zeina&apos;nın kapısına geliyor. Yanıt arayan Zeina ve en iyi arkadaşı Roy, sürpriz nesne için yeni ve eğlenceli kullanım tahminlerinde bulunuyor. Bu yeni kullanımla harika bir zaman geçirirken, nesnenin gerçek kullanımını da öğreniyorlar.</desc>
+  </programme>
+  <programme start="20261126220900 +0300" stop="20261126221100 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126221100 +0300" stop="20261126221300 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126221300 +0300" stop="20261126222000 +0300" channel="BABY">
+    <title lang="tr">Mike&apos;ın Bisikleti</title>
+    <desc lang="tr">Mike&apos;ın bisiklet dükkânı, herkesin çözmesi gereken bir sorunu olduğunda gittiği bir yerdir. İster büyük olsun ister küçük, Mike herkesin yüzünü güldüren eşsiz, acayip ve eğlenceli icatlarıyla arkadaşlarına yardım etmek için her zaman oradadır. Dizi, &quot;ilk başta başaramazsan, tekrar tekrar dene&quot; (defalarca) ifadesine yeni bir bakış açısı getiriyor.</desc>
+  </programme>
+  <programme start="20261126222000 +0300" stop="20261126222500 +0300" channel="BABY">
+    <title lang="tr">Mike&apos;ın Bisikleti</title>
+    <desc lang="tr">Mike&apos;ın bisiklet dükkânı, herkesin çözmesi gereken bir sorunu olduğunda gittiği bir yerdir. İster büyük olsun ister küçük, Mike herkesin yüzünü güldüren eşsiz, acayip ve eğlenceli icatlarıyla arkadaşlarına yardım etmek için her zaman oradadır. Dizi, &quot;ilk başta başaramazsan, tekrar tekrar dene&quot; (defalarca) ifadesine yeni bir bakış açısı getiriyor.</desc>
+  </programme>
+  <programme start="20261126222500 +0300" stop="20261126223100 +0300" channel="BABY">
+    <title lang="tr">Mike&apos;ın Bisikleti</title>
+    <desc lang="tr">Mike&apos;ın bisiklet dükkânı, herkesin çözmesi gereken bir sorunu olduğunda gittiği bir yerdir. İster büyük olsun ister küçük, Mike herkesin yüzünü güldüren eşsiz, acayip ve eğlenceli icatlarıyla arkadaşlarına yardım etmek için her zaman oradadır. Dizi, &quot;ilk başta başaramazsan, tekrar tekrar dene&quot; (defalarca) ifadesine yeni bir bakış açısı getiriyor.</desc>
+  </programme>
+  <programme start="20261126223100 +0300" stop="20261126223600 +0300" channel="BABY">
+    <title lang="tr">Mona &amp; Sketch</title>
+    <desc lang="tr">Mona ile tanışın; Sketch isminde çok özel bir arkadaşı olan, meraklı ve maceracı bir kız. Her bölümde Mona&apos;nın istediğini düşünmek için hayal gücünü kullandığı yeni bir macera var. Sketch maceracı Mona ile dalga geçmekten hoşlanıyor, ama eninde sonunda Mona&apos;nın isteklerini gerçekleştiriyor.</desc>
+  </programme>
+  <programme start="20261126223600 +0300" stop="20261126224100 +0300" channel="BABY">
+    <title lang="tr">Mona &amp; Sketch</title>
+    <desc lang="tr">Mona ile tanışın; Sketch isminde çok özel bir arkadaşı olan, meraklı ve maceracı bir kız. Her bölümde Mona&apos;nın istediğini düşünmek için hayal gücünü kullandığı yeni bir macera var. Sketch maceracı Mona ile dalga geçmekten hoşlanıyor, ama eninde sonunda Mona&apos;nın isteklerini gerçekleştiriyor.</desc>
+  </programme>
+  <programme start="20261126224100 +0300" stop="20261126224600 +0300" channel="BABY">
+    <title lang="tr">İnşaatçı Fareler</title>
+    <desc lang="tr">İnşaatçı Fareler yeni evlerini inşa etmeye hevesle bağlılar. Bir ulak bir paketle geldiğinde, aletlerini bırakıyorlar ve paketin içinde ne olduğunu tahmin etmeye çalışıyorlar. Gizem çözüldüğünde ve nesne ait olduğu yere konulduğunda, İnşaatçı farelerin evi yavaşça birleştirilirken, hep beraber kutluyoruz.</desc>
+  </programme>
+  <programme start="20261126224600 +0300" stop="20261126225200 +0300" channel="BABY">
+    <title lang="tr">Billy BamBam</title>
+    <desc lang="tr">Billy ve Bam Bam, evde ve parkta buldukları günlük nesnelerle, bir kağıt rulosu bir çuf çuf tren, tencere kapakları müzik aleti olabilir, kardeşler gibi birlikte oynayarak, şarkı söyleyerek ve eğlenerek yaratıcı ve ilham verici aktivitelerin sonsuz fikirlerini keşfetmeyi seven, sevimli küçük çılgın kardeşlerin yer aldığı enerjik ve heyecan verici bir programdır.</desc>
+  </programme>
+  <programme start="20261126225200 +0300" stop="20261126225700 +0300" channel="BABY">
+    <title lang="tr">Billy BamBam</title>
+    <desc lang="tr">Billy ve Bam Bam, evde ve parkta buldukları günlük nesnelerle, bir kağıt rulosu bir çuf çuf tren, tencere kapakları müzik aleti olabilir, kardeşler gibi birlikte oynayarak, şarkı söyleyerek ve eğlenerek yaratıcı ve ilham verici aktivitelerin sonsuz fikirlerini keşfetmeyi seven, sevimli küçük çılgın kardeşlerin yer aldığı enerjik ve heyecan verici bir programdır.</desc>
+  </programme>
+  <programme start="20261126225700 +0300" stop="20261126230000 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126230000 +0300" stop="20261126230100 +0300" channel="BABY">
+    <title lang="tr">Şarkılar &amp; Kafiyeler</title>
+    <desc lang="tr">BabyTV&apos;nin dünya şarkıları ve kafiyeleri koleksiyonunun tadını çıkar! Merhaba Şarkısı ile beraber 10 farklı dilde merhaba demeyi öğren, aynı zamanda &quot;Ben küçük bir çaydanlığım&quot; ve &quot;Mee Mee Kara Koyun&quot; gibi klasik şarkılarımıza eşlik et.</desc>
+  </programme>
+  <programme start="20261126230100 +0300" stop="20261126230500 +0300" channel="BABY">
+    <title lang="tr">Neşeli Hayvanlar</title>
+    <desc lang="tr">Bebek kelebek ve hayvan arkadaşları birlikte yaşadıkları eğlenceli günleri anıyorlar, örneğin kumsala gittikleri günü, birlikte sihir numaraları yaptıkları veya bir müzik grubunda çaldıkları zamanları! Karşılaştıkları problemleri çözüyorlar, çünkü en önemli şeyin arkadaş kalmak olduğunu biliyorlar!</desc>
+  </programme>
+  <programme start="20261126230500 +0300" stop="20261126231000 +0300" channel="BABY">
+    <title lang="tr">Neşeli Hayvanlar</title>
+    <desc lang="tr">Bebek kelebek ve hayvan arkadaşları birlikte yaşadıkları eğlenceli günleri anıyorlar, örneğin kumsala gittikleri günü, birlikte sihir numaraları yaptıkları veya bir müzik grubunda çaldıkları zamanları! Karşılaştıkları problemleri çözüyorlar, çünkü en önemli şeyin arkadaş kalmak olduğunu biliyorlar!</desc>
+  </programme>
+  <programme start="20261126231000 +0300" stop="20261126231500 +0300" channel="BABY">
+    <title lang="tr">Neşeli Hayvanlar</title>
+    <desc lang="tr">Bebek kelebek ve hayvan arkadaşları birlikte yaşadıkları eğlenceli günleri anıyorlar, örneğin kumsala gittikleri günü, birlikte sihir numaraları yaptıkları veya bir müzik grubunda çaldıkları zamanları! Karşılaştıkları problemleri çözüyorlar, çünkü en önemli şeyin arkadaş kalmak olduğunu biliyorlar!</desc>
+  </programme>
+  <programme start="20261126231500 +0300" stop="20261126232000 +0300" channel="BABY">
+    <title lang="tr">Küvet Hayvancıkları</title>
+    <desc lang="tr">Yeni favori banyo oyuncaklarınız Ellie, Kurbağacık &amp; Ördekçik ile suları sıçratın, sıçratın ve banyo zamanı macerasına hazır olun! Yüzerken onlara katılın, uçuşan baloncuklarla oynayın ve eğlenceli banyoda sabun ve şampuan şişeleriyle yeni oyunlar icat edin!</desc>
+  </programme>
+  <programme start="20261126232000 +0300" stop="20261126232500 +0300" channel="BABY">
+    <title lang="tr">Küvet Hayvancıkları</title>
+    <desc lang="tr">Yeni favori banyo oyuncaklarınız Ellie, Kurbağacık &amp; Ördekçik ile suları sıçratın, sıçratın ve banyo zamanı macerasına hazır olun! Yüzerken onlara katılın, uçuşan baloncuklarla oynayın ve eğlenceli banyoda sabun ve şampuan şişeleriyle yeni oyunlar icat edin!</desc>
+  </programme>
+  <programme start="20261126232500 +0300" stop="20261126233000 +0300" channel="BABY">
+    <title lang="tr">Küvet Hayvancıkları</title>
+    <desc lang="tr">Ducky, Ellie ve Froggy banyo yapmak istiyor ama küvetin içi boş! Bulut, yağmurla doldurmak için gelir ama su akar gider! Gel ve suyu küvette tutmak için tıpayı bulmaya yardım et!</desc>
+  </programme>
+  <programme start="20261126233000 +0300" stop="20261126233500 +0300" channel="BABY">
+    <title lang="tr">Bak Ne Buldum</title>
+    <desc lang="tr">Küçük bir çocuk bir odaya girer ve evdeki bir nesneyi keşfeder. Hikaye hem odanın içinde, hem de her nesnenin şaşırtıcı ve eğlenceli bir şeye dönüştüğü oğlan çocuğunun hayal gücünde gerçekleşiyor. Örneğin bir ayakkabı arabaya, bir kağıt parçası bir uçağa dönüşüyor! Bu seri bize bir çocuğun hayal gücü de işin içine girdiğinde, basit şeylerle etkileşime girmenin gündelik nesneleri aklımızın alamayacağı şeylere dönüştürebileceğini gösteriyor!</desc>
+  </programme>
+  <programme start="20261126233500 +0300" stop="20261126234000 +0300" channel="BABY">
+    <title lang="tr">Bak Ne Buldum</title>
+    <desc lang="tr">Küçük bir çocuk bir odaya girer ve evdeki bir nesneyi keşfeder. Hikaye hem odanın içinde, hem de her nesnenin şaşırtıcı ve eğlenceli bir şeye dönüştüğü oğlan çocuğunun hayal gücünde gerçekleşiyor. Örneğin bir ayakkabı arabaya, bir kağıt parçası bir uçağa dönüşüyor! Bu seri bize bir çocuğun hayal gücü de işin içine girdiğinde, basit şeylerle etkileşime girmenin gündelik nesneleri aklımızın alamayacağı şeylere dönüştürebileceğini gösteriyor!</desc>
+  </programme>
+  <programme start="20261126234000 +0300" stop="20261126234500 +0300" channel="BABY">
+    <title lang="tr">Bak Ne Buldum</title>
+    <desc lang="tr">Küçük bir çocuk bir odaya girer ve evdeki bir nesneyi keşfeder. Hikaye hem odanın içinde, hem de her nesnenin şaşırtıcı ve eğlenceli bir şeye dönüştüğü oğlan çocuğunun hayal gücünde gerçekleşiyor. Örneğin bir ayakkabı arabaya, bir kağıt parçası bir uçağa dönüşüyor! Bu seri bize bir çocuğun hayal gücü de işin içine girdiğinde, basit şeylerle etkileşime girmenin gündelik nesneleri aklımızın alamayacağı şeylere dönüştürebileceğini gösteriyor!</desc>
+  </programme>
+  <programme start="20261126234500 +0300" stop="20261126235200 +0300" channel="BABY">
+    <title lang="tr">Sevimliler</title>
+    <desc lang="tr">BabyTV&apos;nin en sevdiği dörtlüsü &quot;Sevimliler&quot;, çocuk dünyasından bir dizi eğlenceli hikaye sunuyor. Bu dörtlü basit ikilemleri keyifli ve iş birlikçi bir şekilde çözme konusunda birbirlerine yardımcı olurken büyüleyici arkadaşlarımıza katılın ve iş birliğini, paylaşımı ve ilgiyi öğrenin.</desc>
+  </programme>
+  <programme start="20261126235200 +0300" stop="20261126235700 +0300" channel="BABY">
+    <title lang="tr">Sevimliler</title>
+    <desc lang="tr">BabyTV&apos;nin en sevdiği dörtlüsü &quot;Sevimliler&quot;, çocuk dünyasından bir dizi eğlenceli hikaye sunuyor. Bu dörtlü basit ikilemleri keyifli ve iş birlikçi bir şekilde çözme konusunda birbirlerine yardımcı olurken büyüleyici arkadaşlarımıza katılın ve iş birliğini, paylaşımı ve ilgiyi öğrenin.</desc>
+  </programme>
+  <programme start="20261126235700 +0300" stop="20261127000100 +0300" channel="BABY">
     <title lang="tr">Gözlerini Kapat</title>
     <desc lang="tr">Gözlerini kapat, arkana yaslan ve rahatla. Yatağa gitme vakti.</desc>
   </programme>
