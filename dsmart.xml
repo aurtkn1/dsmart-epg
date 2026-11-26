@@ -829,8 +829,12 @@
     <title lang="tr">Bmw avustralya championship open golf turnuvasi open golf turnuvasi 2026</title>
     <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
   </programme>
-  <programme start="20261128090000 +0300" stop="20261128120000 +0300" channel="SPPR">
-    <title lang="tr">Motosurf çin</title>
+  <programme start="20261128090000 +0300" stop="20261128110000 +0300" channel="SPPR">
+    <title lang="tr">Kashima antlers - Jeonbuk</title>
+    <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
+  </programme>
+  <programme start="20261128110000 +0300" stop="20261128120000 +0300" channel="SPPR">
+    <title lang="tr">Yabanci at yarişlari 2026</title>
     <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
   </programme>
   <programme start="20261128120000 +0300" stop="20261128163000 +0300" channel="SPPR">
@@ -861,20 +865,20 @@
     <title lang="tr">Real madrid - Joventut</title>
     <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
   </programme>
-  <programme start="20261129030000 +0300" stop="20261129050000 +0300" channel="SPPR">
-    <title lang="tr">Santos - Gremio</title>
+  <programme start="20261129030000 +0300" stop="20261129040000 +0300" channel="SPPR">
+    <title lang="tr">Yabanci at yarişlari 2026</title>
     <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
   </programme>
-  <programme start="20261129050000 +0300" stop="20261129080000 +0300" channel="SPPR">
+  <programme start="20261129040000 +0300" stop="20261129080000 +0300" channel="SPPR">
     <title lang="tr">Bmw avustralya championship open golf turnuvasi part of the dp world tour 2026</title>
     <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
   </programme>
-  <programme start="20261129080000 +0300" stop="20261129083000 +0300" channel="SPPR">
-    <title lang="tr">Monster jam</title>
+  <programme start="20261129080000 +0300" stop="20261129090000 +0300" channel="SPPR">
+    <title lang="tr">Bmw avustralya championship open golf turnuvasi open golf turnuvasi 2026</title>
     <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
   </programme>
-  <programme start="20261129083000 +0300" stop="20261129110000 +0300" channel="SPPR">
-    <title lang="tr">Motosurf çin</title>
+  <programme start="20261129090000 +0300" stop="20261129110000 +0300" channel="SPPR">
+    <title lang="tr">Al jazira - Gol gohar</title>
     <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
   </programme>
   <programme start="20261129110000 +0300" stop="20261129140000 +0300" channel="SPPR">
@@ -1037,35 +1041,31 @@
     <title lang="tr">Tai port - Adelaide</title>
     <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
   </programme>
-  <programme start="20261128033000 +0300" stop="20261128053000 +0300" channel="SPS2">
-    <title lang="tr">Al nassr - Al sadd</title>
-    <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
+  <programme start="20261128033000 +0300" stop="20261128070000 +0300" channel="SPS2">
+    <title lang="tr">Motosurf Çin</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
-  <programme start="20261128053000 +0300" stop="20261128060000 +0300" channel="SPS2">
-    <title lang="tr">2026</title>
-    <desc lang="tr">Adrenalini dorukta yaşayın! Yabancı at yarışlarının en heyecanlı anları Spor Smart ekranında</desc>
+  <programme start="20261128070000 +0300" stop="20261128080000 +0300" channel="SPS2">
+    <title lang="tr">Motosurf Çin</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
-  <programme start="20261128060000 +0300" stop="20261128080000 +0300" channel="SPS2">
-    <title lang="tr">Santos - Gremio</title>
-    <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
-  </programme>
-  <programme start="20261128080000 +0300" stop="20261128093000 +0300" channel="SPS2">
-    <title lang="tr">Smart Sahne</title>
-    <desc lang="tr">Spor dünyasından öne çıkan gelişmeler, dikkat çeken başarılar ve gündemin merak edilen başlıkları ekranlara geliyor.</desc>
-  </programme>
-  <programme start="20261128093000 +0300" stop="20261128100000 +0300" channel="SPS2">
+  <programme start="20261128080000 +0300" stop="20261128083000 +0300" channel="SPS2">
     <title lang="tr">Monster Jam</title>
     <desc lang="tr">Dev kamyonların nefes kesen gösterilerini, akrobasi hareketlerini ve heyecan dolu yarışlarını ekrana taşıyan aksiyon dolu bir motorsporları etkinliğidir.</desc>
   </programme>
-  <programme start="20261128100000 +0300" stop="20261128120000 +0300" channel="SPS2">
-    <title lang="tr">Kutching - Phnom penh</title>
-    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
+  <programme start="20261128083000 +0300" stop="20261128100000 +0300" channel="SPS2">
+    <title lang="tr">Motosurf Çin</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
-  <programme start="20261128120000 +0300" stop="20261128140000 +0300" channel="SPS2">
-    <title lang="tr">Nasaf - Al hilal</title>
+  <programme start="20261128100000 +0300" stop="20261128123000 +0300" channel="SPS2">
+    <title lang="tr">Motosurf Çin</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261128123000 +0300" stop="20261128143000 +0300" channel="SPS2">
+    <title lang="tr">Neftçi - Al hilal</title>
     <desc lang="tr">Asya Şampiyonlar Ligi Elite&apos;de kıyasıya mücadele, kritik goller ve öne çıkan maçlar futbolseverlere ekran başı heyecanı yaşatıyor.</desc>
   </programme>
-  <programme start="20261128140000 +0300" stop="20261128163000 +0300" channel="SPS2">
+  <programme start="20261128143000 +0300" stop="20261128163000 +0300" channel="SPS2">
     <title lang="tr">rize</title>
     <desc lang="tr">Hız, heyecan ve adrenalin bir arada! Enduro ve ATV tutkunları zorlu parkurlarda kıyasıya mücadele ediyor.</desc>
   </programme>
@@ -1085,39 +1085,39 @@
     <title lang="tr">Argentinos - Independiente</title>
     <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
   </programme>
-  <programme start="20261129010000 +0300" stop="20261129030000 +0300" channel="SPS2">
+  <programme start="20261129010000 +0300" stop="20261129040000 +0300" channel="SPS2">
     <title lang="tr">Plaj Futbolu: Dünya Kupası</title>
     <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
-  <programme start="20261129030000 +0300" stop="20261129050000 +0300" channel="SPS2">
-    <title lang="tr">Al taawona - Al nahda</title>
-    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
+  <programme start="20261129040000 +0300" stop="20261129053000 +0300" channel="SPS2">
+    <title lang="tr">Motosurf Çin</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
-  <programme start="20261129050000 +0300" stop="20261129070000 +0300" channel="SPS2">
-    <title lang="tr">Al jazira - Gol gohar</title>
-    <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
+  <programme start="20261129053000 +0300" stop="20261129063000 +0300" channel="SPS2">
+    <title lang="tr">Motosurf Çin</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
-  <programme start="20261129070000 +0300" stop="20261129080000 +0300" channel="SPS2">
+  <programme start="20261129063000 +0300" stop="20261129080000 +0300" channel="SPS2">
     <title lang="tr">2026</title>
     <desc lang="tr">Adrenalini dorukta yaşayın! Yabancı at yarışlarının en heyecanlı anları Spor Smart ekranında</desc>
   </programme>
-  <programme start="20261129080000 +0300" stop="20261129100000 +0300" channel="SPS2">
-    <title lang="tr">Tenerife - Barcelona</title>
-    <desc lang="tr">Liga Endesa&apos;da nefes kesen mücadele! Valencia ve Girona karşı karşıya, tüm kritik anlar Spor Smart&apos;ta.</desc>
+  <programme start="20261129080000 +0300" stop="20261129103000 +0300" channel="SPS2">
+    <title lang="tr">(07.45 - 10.20)</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
-  <programme start="20261129100000 +0300" stop="20261129120000 +0300" channel="SPS2">
+  <programme start="20261129103000 +0300" stop="20261129123000 +0300" channel="SPS2">
     <title lang="tr">Santos - Gremio</title>
     <desc lang="tr">Brezilya&apos;nın en üst düzey futbol ligi, güçlü takımların mücadele ettiği yüksek tempolu ve rekabetçi bir yapıya sahiptir.</desc>
   </programme>
-  <programme start="20261129120000 +0300" stop="20261129140000 +0300" channel="SPS2">
+  <programme start="20261129123000 +0300" stop="20261129143000 +0300" channel="SPS2">
     <title lang="tr">Boca juniors - I. rivadavia</title>
     <desc lang="tr">Arjantin futbolunda heyecan Clausura etabıyla sürüyor. Liga Profesional de Fútbol&apos;de takımlar zirve yarışı ve kritik puanlar için sahaya çıkıyor.</desc>
   </programme>
-  <programme start="20261129140000 +0300" stop="20261129160000 +0300" channel="SPS2">
+  <programme start="20261129143000 +0300" stop="20261129163000 +0300" channel="SPS2">
     <title lang="tr">Pathum - Lion city</title>
     <desc lang="tr">Asya futbolunda heyecan sürüyor. AFC Champions League Two mücadelesinde takımlar uluslararası arenada avantaj elde etmek için sahaya çıkıyor.</desc>
   </programme>
-  <programme start="20261129160000 +0300" stop="20261129173000 +0300" channel="SPS2">
+  <programme start="20261129163000 +0300" stop="20261129173000 +0300" channel="SPS2">
     <title lang="tr">2026</title>
     <desc lang="tr">Adrenalini dorukta yaşayın! Yabancı at yarışlarının en heyecanlı anları Spor Smart ekranında</desc>
   </programme>
@@ -5919,6 +5919,130 @@ Kendi sınıfındaki en korkulan hayvanların en iyi avcı olabilmek için fizik
     <title lang="tr">Seyahat Macerası</title>
     <desc lang="tr">Bill Ball, yedi kıtada sıradışı deneyimlerin peşinde. Alışılmış seyahatin ötesinde bir macera.</desc>
   </programme>
+  <programme start="20261201052000 +0300" stop="20261201061500 +0300" channel="DOCU">
+    <title lang="tr">Göçebeler</title>
+    <desc lang="tr">Kar motosikletinin en büyük yıldızları destansı bir macera için Rocky Dağları&apos;na gidiyor.</desc>
+  </programme>
+  <programme start="20261201061500 +0300" stop="20261201064500 +0300" channel="DOCU">
+    <title lang="tr">Müzik Gezgini</title>
+    <desc lang="tr">Dünyanın dört bir yanındaki ritimleri, kültürleri ve müzikal hikâyeleri keşfeden renkli bir yolculuk.</desc>
+  </programme>
+  <programme start="20261201064500 +0300" stop="20261201071000 +0300" channel="DOCU">
+    <title lang="tr">Afrika&apos;da Gezinti</title>
+    <desc lang="tr">Tanzanya&apos;nın büyük şehirlerinde tarih, kültür ve modern yaşamın iç içe geçtiği çarpıcı bir gezi.</desc>
+  </programme>
+  <programme start="20261201071000 +0300" stop="20261201073500 +0300" channel="DOCU">
+    <title lang="tr">Mavi Dünya</title>
+    <desc lang="tr">Dünya&apos;nın okyanuslarını ve sualtı yaşamını keşfeden görsel açıdan zengin bir belgesel serisi.</desc>
+  </programme>
+  <programme start="20261201073500 +0300" stop="20261201080500 +0300" channel="DOCU">
+    <title lang="tr">Müzik Gezgini</title>
+    <desc lang="tr">Dünyanın dört bir yanındaki ritimleri, kültürleri ve müzikal hikâyeleri keşfeden renkli bir yolculuk.</desc>
+  </programme>
+  <programme start="20261201080500 +0300" stop="20261201085000 +0300" channel="DOCU">
+    <title lang="tr">Denizaltı Kolonileri</title>
+    <desc lang="tr">Film, dört benzersiz dalgıcın Bahamalar takımadalarının kalbindeki gemi enkazlarını keşfederek barındırdıkları beklenmedik yaşamı keşfetmelerini konu alıyor.</desc>
+  </programme>
+  <programme start="20261201085000 +0300" stop="20261201092000 +0300" channel="DOCU">
+    <title lang="tr">Dünyada Ne Var</title>
+    <desc lang="tr">Küresel değişimleri toplumsal, ekonomik ve çevresel boyutlarıyla inceleyen güncel ve çok katmanlı bir belgesel.</desc>
+  </programme>
+  <programme start="20261201092000 +0300" stop="20261201094500 +0300" channel="DOCU">
+    <title lang="tr">Nerede Yaşadığını Göster</title>
+    <desc lang="tr">Belgesel, insanların güvenle yaşayabilecekleri ve bir toplum olarak işlev görebilecekleri mekânları nasıl kurduklarını araştırıyor.</desc>
+  </programme>
+  <programme start="20261201094500 +0300" stop="20261201101500 +0300" channel="DOCU">
+    <title lang="tr">Nerede Yaşadığını Göster</title>
+    <desc lang="tr">Belgesel, insanların güvenle yaşayabilecekleri ve bir toplum olarak işlev görebilecekleri mekânları nasıl kurduklarını araştırıyor.</desc>
+  </programme>
+  <programme start="20261201101500 +0300" stop="20261201104000 +0300" channel="DOCU">
+    <title lang="tr">Dünyada Ne Var</title>
+    <desc lang="tr">Küresel değişimleri toplumsal, ekonomik ve çevresel boyutlarıyla inceleyen güncel ve çok katmanlı bir belgesel.</desc>
+  </programme>
+  <programme start="20261201104000 +0300" stop="20261201111000 +0300" channel="DOCU">
+    <title lang="tr">Dünyada Ne Var</title>
+    <desc lang="tr">Küresel değişimleri toplumsal, ekonomik ve çevresel boyutlarıyla inceleyen güncel ve çok katmanlı bir belgesel.</desc>
+  </programme>
+  <programme start="20261201111000 +0300" stop="20261201120000 +0300" channel="DOCU">
+    <title lang="tr">Çita: Hızın Bedeli</title>
+    <desc lang="tr">Bir anne çitanın mücadelesi üzerinden, savananın en hızlı avcısının güçlü ve zayıf yönleri inceleniyor.</desc>
+  </programme>
+  <programme start="20261201120000 +0300" stop="20261201123000 +0300" channel="DOCU">
+    <title lang="tr">Nerede Yaşadığını Göster</title>
+    <desc lang="tr">Belgesel, insanların güvenle yaşayabilecekleri ve bir toplum olarak işlev görebilecekleri mekânları nasıl kurduklarını araştırıyor.</desc>
+  </programme>
+  <programme start="20261201123000 +0300" stop="20261201132000 +0300" channel="DOCU">
+    <title lang="tr">Şehirlerin Çatılarında</title>
+    <desc lang="tr">Burada çalışanlar, burada yaşayanlar ve dinlenmeye gelenler var. Dünya çatıları sürekli bir faaliyet yuvasıdır.</desc>
+  </programme>
+  <programme start="20261201132000 +0300" stop="20261201135000 +0300" channel="DOCU">
+    <title lang="tr">Müzik Gezgini</title>
+    <desc lang="tr">Dünyanın dört bir yanındaki ritimleri, kültürleri ve müzikal hikâyeleri keşfeden renkli bir yolculuk.</desc>
+  </programme>
+  <programme start="20261201135000 +0300" stop="20261201141500 +0300" channel="DOCU">
+    <title lang="tr">Nerede Yaşadığını Göster</title>
+    <desc lang="tr">Belgesel, insanların güvenle yaşayabilecekleri ve bir toplum olarak işlev görebilecekleri mekânları nasıl kurduklarını araştırıyor.</desc>
+  </programme>
+  <programme start="20261201141500 +0300" stop="20261201144500 +0300" channel="DOCU">
+    <title lang="tr">Hindistanda Gezinti</title>
+    <desc lang="tr">Bangalore ve Ooty&apos;nin büyüleyici kültürünü, renklerini ve doğasını keşfeden etkileyici bir Hindistan yolculuğu.</desc>
+  </programme>
+  <programme start="20261201144500 +0300" stop="20261201154500 +0300" channel="DOCU">
+    <title lang="tr">Karanlıkta</title>
+    <desc lang="tr">Batı Afrika&apos;daki aşırı kalabalık bir cezaevinde mahkûmlar, kendi düzenlerini kurarak hayatta kalıyor.</desc>
+  </programme>
+  <programme start="20261201154500 +0300" stop="20261201161500 +0300" channel="DOCU">
+    <title lang="tr">Seyahat Macerası</title>
+    <desc lang="tr">Bill Ball, yedi kıtada sıradışı deneyimlerin peşinde. Alışılmış seyahatin ötesinde bir macera.</desc>
+  </programme>
+  <programme start="20261201161500 +0300" stop="20261201170500 +0300" channel="DOCU">
+    <title lang="tr">Göçebeler</title>
+    <desc lang="tr">Profesyonel dağ bisikletçileri hayatlarının sürüşü için Meksika&apos;nın Bakır Kanyonu&apos;nun kayalık dağ arazisine çıkıyor.</desc>
+  </programme>
+  <programme start="20261201170500 +0300" stop="20261201173500 +0300" channel="DOCU">
+    <title lang="tr">Müzik Gezgini</title>
+    <desc lang="tr">Dünyanın dört bir yanındaki ritimleri, kültürleri ve müzikal hikâyeleri keşfeden renkli bir yolculuk.</desc>
+  </programme>
+  <programme start="20261201173500 +0300" stop="20261201180500 +0300" channel="DOCU">
+    <title lang="tr">Dubai&apos;m</title>
+    <desc lang="tr">Kültür - Zengin kültürleri hakkında bilgi veren bir Bedevi büyüğüyle birlikte yeniden yaratılmış bir Bedevi kampı, Şeyh Muhammed Kültürel Anlayış Merkezi, altın ve baharat çarşıları, kaligrafi sanatı ve Emirlik giyim tarzı.</desc>
+  </programme>
+  <programme start="20261201180500 +0300" stop="20261201183000 +0300" channel="DOCU">
+    <title lang="tr">Afrika&apos;da Gezinti</title>
+    <desc lang="tr">Tanzanya&apos;nın büyük şehirlerinde tarih, kültür ve modern yaşamın iç içe geçtiği çarpıcı bir gezi.</desc>
+  </programme>
+  <programme start="20261201183000 +0300" stop="20261201192500 +0300" channel="DOCU">
+    <title lang="tr">Evcil Hayvanlarınıza Deli Olmak</title>
+    <desc lang="tr">Bu belgesel, bir insan ile evcil hayvanı arasındaki tuhaf ve büyüleyici bağı mizah dolu bir dille ele alıyor. Kendilerine eşlik etmesi için çok özel bir hayvan seçen 4 hayvan sahibini takip edeceğiz, alışılmışın oldukça dışında bir hayvan. İzleyicileriniz bu karakterlerin ve muhteşem evcil hayvanlarının günlük yaşamlarını takip ederken çok eğlenecekler: Atletik bir köpek, kiloluk bir domuz, bir kobra ve hatta bir Timsah! Karakter odaklı ve özgün bir belgesel olan bu film, sadece sahipleriyle hayvanları arasında geçen güzel hikâyelerle büyülemekle kalmıyor, aynı zamanda günümüzde hayvanların hayatımızdaki yeri konusunu çok eğlenceli bir şekilde ele alıyor.</desc>
+  </programme>
+  <programme start="20261201192500 +0300" stop="20261201202000 +0300" channel="DOCU">
+    <title lang="tr">Şehirlerin Çatılarında</title>
+    <desc lang="tr">Burada çalışanlar, burada yaşayanlar ve dinlenmeye gelenler var. Dünya çatıları sürekli bir faaliyet yuvasıdır.</desc>
+  </programme>
+  <programme start="20261201202000 +0300" stop="20261201204500 +0300" channel="DOCU">
+    <title lang="tr">İlginç Bilim</title>
+    <desc lang="tr">Tarihte çok az madde insanlık üzerinde barut kadar derin bir etkiye sahip olmuştur ve yine de keşfi muhtemelen bir kazaydı!</desc>
+  </programme>
+  <programme start="20261201204500 +0300" stop="20261201211500 +0300" channel="DOCU">
+    <title lang="tr">Nerede Yaşadığını Göster</title>
+    <desc lang="tr">Bana nerede yaşadığını göster, şu soruya yanıt vermeyi amaçlayan bir belgesel dizisidir: İnsanlar, içinde güvenle yaşayabilecekleri, bir toplum olarak işlev görebilecekleri ve hepsinden önemlisi çevreleriyle uyum içinde olabilecekleri bir mekânı nasıl sahiplenebilirler?</desc>
+  </programme>
+  <programme start="20261201211500 +0300" stop="20261201220500 +0300" channel="DOCU">
+    <title lang="tr">Şehirlerin Çatılarında</title>
+    <desc lang="tr">Burada çalışanlar, burada yaşayanlar ve dinlenmeye gelenler var. Dünya çatıları sürekli bir faaliyet yuvasıdır.</desc>
+  </programme>
+  <programme start="20261201220500 +0300" stop="20261201223500 +0300" channel="DOCU">
+    <title lang="tr">Nerede Yaşadığını Göster</title>
+    <desc lang="tr">Belgesel, insanların güvenle yaşayabilecekleri ve bir toplum olarak işlev görebilecekleri mekânları nasıl kurduklarını araştırıyor.</desc>
+  </programme>
+  <programme start="20261201223500 +0300" stop="20261201233000 +0300" channel="DOCU">
+    <title lang="tr">Avrupalı Kişilikler</title>
+    <desc lang="tr">Avrupa&apos;nın kültürel çeşitliliğini ve ortak değerlerini bireylerin hikâyeleri üzerinden keşfe çıkıyor.</desc>
+  </programme>
+  <programme start="20261201233000 +0300" stop="20261201235500 +0300" channel="DOCU">
+    <title lang="tr">Hindistanda Gezinti</title>
+    <desc lang="tr">Bangalore ve Ooty&apos;nin büyüleyici kültürünü, renklerini ve doğasını keşfeden etkileyici bir Hindistan yolculuğu.</desc>
+  </programme>
   <programme start="20261125235000 +0300" stop="20261126004500 +0300" channel="LOVE">
     <title lang="tr">Tuhaf Gezegen</title>
     <desc lang="tr">İhtiyaçları için şiddet kullanan doğanın kavgacılarıyla ringe çıkın. Yamyam Portia örümceğinin rakiplerini yiyip bitirmesini izleyin, sevimli koalaların kana susamış yönlerini ortaya çıkarın ve boyun eğdiren destansı bir zürafa savaşını yakalayın.</desc>
@@ -9764,6 +9888,34 @@ Kendi sınıfındaki en korkulan hayvanların en iyi avcı olabilmek için fizik
     <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
   <programme start="20261201000000 +0300" stop="20261201030000 +0300" channel="DREAM">
+    <title lang="tr">Dream TV</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261201030000 +0300" stop="20261201060000 +0300" channel="DREAM">
+    <title lang="tr">Dream TV</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261201060000 +0300" stop="20261201090000 +0300" channel="DREAM">
+    <title lang="tr">Dream TV</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261201090000 +0300" stop="20261201120000 +0300" channel="DREAM">
+    <title lang="tr">Dream TV</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261201120000 +0300" stop="20261201150000 +0300" channel="DREAM">
+    <title lang="tr">Dream TV</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261201150000 +0300" stop="20261201180000 +0300" channel="DREAM">
+    <title lang="tr">Dream TV</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261201180000 +0300" stop="20261201210000 +0300" channel="DREAM">
+    <title lang="tr">Dream TV</title>
+    <desc lang="tr">Program açıklaması bulunmuyor.</desc>
+  </programme>
+  <programme start="20261201210000 +0300" stop="20261202000000 +0300" channel="DREAM">
     <title lang="tr">Dream TV</title>
     <desc lang="tr">Program açıklaması bulunmuyor.</desc>
   </programme>
@@ -23378,6 +23530,30 @@ Kendi sınıfındaki en korkulan hayvanların en iyi avcı olabilmek için fizik
   <programme start="20261201050000 +0300" stop="20261201070000 +0300" channel="KANALD">
     <title lang="tr">Üç Kız Kardeş</title>
     <desc lang="tr">Satış rekorları kıran romandan uyarlanan dizi, üç kız kardeşin hayat mücadelesini, aile bağlarını ve sırlarla dolu geçmişlerini etkileyici bir dille anlatıyor.</desc>
+  </programme>
+  <programme start="20261201070000 +0300" stop="20261201090000 +0300" channel="KANALD">
+    <title lang="tr">Küçük Ağa</title>
+    <desc lang="tr">Boşanma kararı alan anne ve babasını yeniden bir araya getirmeye çalışan 6 yaşındaki Mehmet Can&apos;ın hikâyesini konu alıyor.</desc>
+  </programme>
+  <programme start="20261201090000 +0300" stop="20261201113000 +0300" channel="KANALD">
+    <title lang="tr">Neler Oluyor Hayatta?</title>
+    <desc lang="tr">Kanal D&apos;nin sevilen sabah programı &quot;Neler Oluyor Hayatta&quot; hafta içi her gün canlı yayınla ekrana gelmeye devam ediyor.</desc>
+  </programme>
+  <programme start="20261201113000 +0300" stop="20261201134500 +0300" channel="KANALD">
+    <title lang="tr">Yaprak Dökümü</title>
+    <desc lang="tr">Yaprak Dökümü Ali Rıza Bey ve ailesinin İstanbul&apos;a taşınmasıyla başlayan, ahlaki değerlerin zamanla sınandığı dramatik bir aile hikayesini konu alır.</desc>
+  </programme>
+  <programme start="20261201134500 +0300" stop="20261201164500 +0300" channel="KANALD">
+    <title lang="tr">Gelinim Mutfakta</title>
+    <desc lang="tr">Gelinlerin mutfakta hazırladığı yemeklerin kayınvalideler tarafından puanlandığı eğlenceli ve rekabet dolu bir yarışmayı ekrana taşıyor.</desc>
+  </programme>
+  <programme start="20261201164500 +0300" stop="20261201190000 +0300" channel="KANALD">
+    <title lang="tr">Uzak Şehir</title>
+    <desc lang="tr">Uzak Şehir, geçmişlerinden kaçmaya çalışan insanların yeni bir şehirde tutunma mücadelesini konu alıyor. Aşk, sırlar ve yüzleşmeler iç içe geçiyor.</desc>
+  </programme>
+  <programme start="20261201190000 +0300" stop="20261201200000 +0300" channel="KANALD">
+    <title lang="tr">Kanal D Ana Haber</title>
+    <desc lang="tr">Günün öne çıkan gelişmeleri Türkiye ve dünyanın gündemiyle Kanal D Ana Haberde izleyiciyle buluşuyor. Siyaset ekonomi ve toplumdan önemli başlıklar ekrana taşınıyor.</desc>
   </programme>
   <programme start="20261125231000 +0300" stop="20261126000000 +0300" channel="FX">
     <title lang="tr">The Veil</title>
